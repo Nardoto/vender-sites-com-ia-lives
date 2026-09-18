@@ -5,3 +5,6 @@ dia-*-transcricao.txt
 
 # Configuração local da Vercel
 .vercel
+
+.vercel
+.env*
