@@ -1,0 +1,377 @@
+{
+  "dia": 12,
+  "slug": "dia-12",
+  "srt": "../../../../midias/youtube/Dia 12 Vibe Coding R$1.093 de R$1.621 +/legendas.srt",
+  "titulo": "Dia 12 | Vibe Coding: R$1.093 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "data": "2026-09-16",
+  "duracao": "3:42:32",
+  "youtube": "https://www.youtube.com/watch?v=pyRz5ZODG1Y",
+  "faturamento": "R$ 1.093",
+  "mrr": "R$ 99,80",
+  "resumo": "No décimo segundo dia, o saldo atinge R$ 1.093,80 com a entrada da primeira receita recorrente, restando pouco mais de R$ 500 para a meta do salário mínimo. Junior consolida o funil de cinco empresas abordadas e duas vendas concluídas, reforçando a virada de chave para prospectar com mockups e portfólio próprio. Ele defende o princípio de que quem vende sites precisa ter o seu próprio no ar e inicia a construção do portal da marca JR Lima no VS Code com o Antigravity. Ao longo da live, cria a identidade visual, seleciona referências no Pinterest, desenvolve as dobras principais e sobe o repositório privado no GitHub.",
+  "destaques": [
+    "Com a entrada do primeiro ciclo de MRR, o saldo acumulado foi a R$ 1.093,80, deixando o desafio a apenas R$ 527,20 da meta de um salário mínimo.",
+    "Casa de ferreiro precisa ser espeto de ferro: ter um site próprio publicado com domínio próprio é indispensável para transmitir autoridade e vender presença digital.",
+    "Apresentar-se com autenticidade, alinhando foto, identidade e realidade de atendimento, gera muito mais confiança no empresário local do que criar uma falsa agência de luxo."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:04:47",
+      "texto": "Verifica mensagens no WhatsApp e planeja o follow-up da Alumi Arte e da oficina mecânica."
+    },
+    {
+      "t": "00:09:58",
+      "texto": "Apresenta o balanço comercial com cinco empresas abordadas, três propostas e duas vendas fechadas."
+    },
+    {
+      "t": "00:11:01",
+      "texto": "Anuncia a nova esteira para a segunda quinzena, prospectando com mockups em imagem e portfólio."
+    },
+    {
+      "t": "00:12:02",
+      "texto": "Gera no ChatGPT a logo monograma da marca pessoal JR Lima."
+    },
+    {
+      "t": "00:13:03",
+      "texto": "Busca no Pinterest referências visuais para a primeira dobra e estilo da página."
+    },
+    {
+      "t": "00:15:05",
+      "texto": "Explica o conceito de congruência: quem vende presença digital precisa do próprio site no ar."
+    },
+    {
+      "t": "00:18:07",
+      "texto": "Alerta sobre a importância de fotos autênticas e alinhadas à realidade em vez de encenações."
+    },
+    {
+      "t": "00:22:10",
+      "texto": "Atualiza os números do desafio para R$ 1.093 em caixa e apenas R$ 527 restantes para a meta."
+    },
+    {
+      "t": "00:25:11",
+      "texto": "Planeja prospectar em dois canais: contatos frios no Nexar Hunter e amigos no WhatsApp particular."
+    },
+    {
+      "t": "00:35:37",
+      "texto": "Detalha para Demétrio os três critérios de qualificação de um cliente em potencial."
+    },
+    {
+      "t": "01:21:37",
+      "texto": "Explica a liquidação imediata no Mercado Pago mesmo oferecendo parcelamento em dez vezes."
+    },
+    {
+      "t": "02:45:38",
+      "texto": "Orienta Gabriel a se posicionar com a própria marca pessoal quando estiver trabalhando sozinho."
+    },
+    {
+      "t": "02:51:05",
+      "texto": "Gera e adiciona o Favicon com a logo JR Lima na raiz da landing page."
+    },
+    {
+      "t": "02:56:25",
+      "texto": "Cria o repositório privado Junior Lima no GitHub e ativa a sincronização com o VS Code."
+    },
+    {
+      "t": "03:29:43",
+      "texto": "Mostra o portal de obras de R$ 7.600 como exemplo de projeto com área administrativa e ticket alto."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:15:05",
+      "titulo": "Casa de ferreiro, espeto de ferro",
+      "texto": "Para vender presença digital e sites profissionais, o desenvolvedor precisa ter o seu próprio site no ar com domínio próprio."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:18:07",
+      "titulo": "Autenticidade visual",
+      "texto": "Fuja de fotos artificiais com terno se essa não for sua realidade; os clientes locais compram de pessoas autênticas."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:22:10",
+      "titulo": "A IA é apenas um meio",
+      "texto": "A inteligência artificial acelera a programação, mas o fechamento depende do contato humano no WhatsApp."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:11:01",
+      "titulo": "Transição para mockups em imagem",
+      "texto": "Abordar com mockups conceituais em vez de sites prontos reduz o tempo por empresa e permite escalar o volume diário."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:25:11",
+      "titulo": "Prospecção em canal duplo",
+      "texto": "Combine contatos frios minerados no Nexar Hunter com mensagens personalizadas para amigos e comerciantes conhecidos."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:35:37",
+      "titulo": "Os três critérios de qualificação",
+      "texto": "Priorize empresas com estrutura física consolidada, alto potencial de busca no Google e redes sociais ativas."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:13:03",
+      "titulo": "Centralize o portfólio em link único",
+      "texto": "Em vez de mandar vários links soltos de demonstrações no WhatsApp, envie a página do seu próprio portfólio organizado."
+    },
+    {
+      "momento": "analise",
+      "t": "00:36:37",
+      "titulo": "Presença no Google Meu Negócio",
+      "texto": "Avalie se a empresa possui ficha no mapa e boas avaliações; quem cuida da reputação dá mais valor a ter um site."
+    },
+    {
+      "momento": "analise",
+      "t": "00:55:18",
+      "titulo": "Identificação do decisor",
+      "texto": "Ao contatar empresas pelo WhatsApp, filtre com quem você está falando para garantir que o material chegue ao dono."
+    },
+    {
+      "momento": "analise",
+      "t": "00:26:11",
+      "titulo": "Nicho com demanda de busca",
+      "texto": "Empresas de serviços essenciais como mecânica e climatização convertem melhor porque dependem de clientes novos pesquisando no Google."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:12:02",
+      "titulo": "Criação de logotipo no ChatGPT",
+      "texto": "Gere propostas conceituais de logos minimalistas com monograma no ChatGPT antes de passar para o código."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:13:03",
+      "titulo": "Referências visuais no Pinterest",
+      "texto": "Use o Pinterest para pesquisar fotos corporativas autênticas e paletas de cores sofisticadas fora do padrão clichê."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:51:05",
+      "titulo": "Favicon com a identidade da marca",
+      "texto": "Exporte a logo sem fundo em formato quadrado e configure como Favicon para dar acabamento profissional à aba do navegador."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:54:24",
+      "titulo": "Ajuste fino da versão mobile",
+      "texto": "Inspecione cada dobra no modo de tela de celular, pois o primeiro contato do cliente com a página será sempre no smartphone."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:56:25",
+      "titulo": "Repositório privado no GitHub",
+      "texto": "Mantenha o repositório de clientes privado no GitHub para resguardar códigos e evitar cópias indevidas de imagens."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:57:26",
+      "titulo": "Commit automático no Antigravity",
+      "texto": "Instrua o assistente a sincronizar as alterações com o repositório a cada modificação concluída."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:04:47",
+      "titulo": "Follow-up no dia seguinte",
+      "texto": "Se a empresa não responder à abordagem inicial, faça um novo contato cordial no dia seguinte com o link da demonstração."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:20:25",
+      "titulo": "Texto curto antes de ligação",
+      "texto": "Mantenha a abordagem inicial por mensagem de texto no WhatsApp; ligações só devem ser feitas após o cliente demonstrar abertura."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:25:11",
+      "titulo": "Ativação da rede de contatos",
+      "texto": "Use seu WhatsApp particular para oferecer condições especiais de abertura de portfólio a empresários conhecidos."
+    },
+    {
+      "momento": "preco",
+      "t": "01:21:37",
+      "titulo": "Antecipação imediata no cartão",
+      "texto": "O parcelamento em dez vezes no Mercado Pago libera o valor líquido na hora para o desenvolvedor e facilita a compra para o cliente."
+    },
+    {
+      "momento": "preco",
+      "t": "02:44:02",
+      "titulo": "MRR como garantia operacional",
+      "texto": "A mensalidade recorrente de R$ 49,90 cobre todos os custos de ferramentas e cria renda previsível."
+    },
+    {
+      "momento": "preco",
+      "t": "03:29:43",
+      "titulo": "Escalada de ticket em projetos complexos",
+      "texto": "Sistemas com painel de gerenciamento de obras ou agendas permitem cobrar tickets superiores a R$ 7.000."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:09:58",
+      "titulo": "Fechamento direto no cartão",
+      "texto": "Assim que o cliente aprova o projeto, envie o link de pagamento do Mercado Pago para assegurar a compensação imediata."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:37:07",
+      "titulo": "Revisão antes da entrega",
+      "texto": "Antes de enviar o link definitivo, teste todos os botões e garanta que o direcionamento para o WhatsApp esteja com DDD e número corretos."
+    },
+    {
+      "momento": "erros",
+      "t": "00:14:03",
+      "titulo": "Vender sem ter o próprio site",
+      "texto": "O maior erro do desenvolvedor é tentar vender presença digital para empresas locais sem ter o próprio portfólio no ar."
+    },
+    {
+      "momento": "erros",
+      "t": "02:45:38",
+      "titulo": "Criar falsa fachada de agência",
+      "texto": "Operando sozinho, assuma sua marca pessoal; tentar parecer uma multinacional afasta o pequeno comerciante que prefere atendimento direto."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "01:10:01",
+      "titulo": "Refinar mockup e remover aspecto de IA",
+      "texto": "Melhore o design deste mockup usando a logo selecionada. Não mexa na estrutura, pois gostei. Aplique melhorias minimalistas para melhorarmos o design e remover o máximo de site com cara de IA."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:22:38",
+      "titulo": "Ajustar seção conforme mockup anexo",
+      "texto": "Ficou muito próximo do que busco, mas preciso ter exatamente esse resultado da imagem MG2 em anexo. Agora com o FAQ, vamos chegar ao mesmo resultado fiel do mockup em anexo MG2."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "00:04:47",
+      "titulo": "Envio do link da demonstração no WhatsApp",
+      "texto": "Esse é o modelo que preparei para vocês: [link]. Montei pensando principalmente em deixar a empresa mais profissional e apresentar melhor os produtos/serviços da empresa. Dá uma olhada no celular também. Depois me fala o que achou."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "00:25:11",
+      "titulo": "Quebra de gelo para contatos frios",
+      "texto": "Oi, boa tarde. Com quem eu falo?"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Leonardo",
+      "pergunta": "Como você faz em relação ao domínio e à cobrança de mensalidade?",
+      "resposta": "O domínio fica no cadastro do próprio cliente e a cobrança mensal de R$ 49,90 cobre a manutenção, enquanto a hospedagem roda gratuita no GitHub e na Vercel.",
+      "t": "00:07:54"
+    },
+    {
+      "autor": "Marcos Torres",
+      "pergunta": "Quantas empresas você abordou até o momento e qual a taxa de conversão?",
+      "resposta": "Foram abordadas 5 empresas, com 3 propostas formais e 2 contratos fechados e pagos, representando uma taxa de conversão de 40%.",
+      "t": "00:09:58"
+    },
+    {
+      "autor": "Rafael",
+      "pergunta": "Como chegar em quem decide, já que a maioria dos WhatsApps é atendida por secretários?",
+      "resposta": "Filtre com educação na conversa inicial para que o atendente repasse o link ao proprietário, ou faça uma visita presencial rápida se o comércio for na mesma cidade.",
+      "t": "00:13:03"
+    },
+    {
+      "autor": "Demétrio",
+      "pergunta": "Quais são os três fatores mais importantes que você observa antes de abordar um cliente?",
+      "resposta": "Estrutura física e operacional consolidada, potencial claro de retorno com pesquisas no Google e presença digital ativa nas redes sociais.",
+      "t": "00:35:37"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "Aconselha se posicionar como especialista individual ou como agência?",
+      "resposta": "Se você trabalha sozinho, posicione sua marca pessoal. Agência transmite uma estrutura pesada que o autônomo não possui e que pode afastar o cliente local.",
+      "t": "02:45:38"
+    },
+    {
+      "autor": "Cordeiro",
+      "pergunta": "Onde você busca referências de sites, modelos e paletas de cores?",
+      "resposta": "No Pinterest, pesquisando layouts modernos e paletas corporativas limpas para fugir dos padrões repetitivos de IA.",
+      "t": "02:50:05"
+    },
+    {
+      "autor": "Audiência",
+      "pergunta": "Qual foi o site mais caro que você já desenvolveu e vendeu?",
+      "resposta": "Foi um portal de obras vendido por R$ 7.600, contendo painel administrativo onde o cliente adiciona fotos, obras e agenda de atendimentos.",
+      "t": "03:29:43"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "É possível migrar um site criado em plataformas como Lovable para a esteira do VS Code?",
+      "resposta": "Sim, basta conectar o projeto ao GitHub para transferir os arquivos e clonar a pasta no VS Code para continuar a edição com o Antigravity.",
+      "t": "03:33:57"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código principal onde a página do portfólio foi estruturada e programada."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão de desenvolvimento com Gemini utilizada no VS Code para codificação em tempo real."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Criação de logotipo, refinamento de copys e geração de mockups conceituais."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Plataforma de inteligência comercial para mineração de empresas sem site."
+    },
+    {
+      "nome": "Pinterest",
+      "uso": "Pesquisa de referências fotográficas de perfil profissional e paletas de cores corporativas."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Hospedagem do repositório privado Junior Lima e sincronização contínua de código."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Publicação estática na nuvem com certificado SSL e deploy automático."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Cobrança via Pix e parcelamento no cartão com antecipação imediata do saldo."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:15:05",
+      "texto": "O espelho do teu cliente é você: como você vai vender que ele precisa de um site se você mesmo não tem o seu?"
+    },
+    {
+      "t": "00:18:07",
+      "texto": "Se você não usa terno e gravata no seu dia a dia, não vai colocar foto de terno no seu site: seja autêntico."
+    },
+    {
+      "t": "00:22:10",
+      "texto": "Prospecção e fechamento é onde está o segredo; a ferramenta de IA é apenas um meio."
+    },
+    {
+      "t": "00:09:58",
+      "texto": "Abordamos cinco empresas, fechamos duas vendas e temos mais uma em análise: a conversão é altíssima."
+    },
+    {
+      "t": "02:45:38",
+      "texto": "Se é só você trabalhando, venda a sua marca pessoal em vez de tentar inventar uma agência."
+    },
+    {
+      "t": "03:29:43",
+      "texto": "Já fizemos CRMs e portais complexos; o site mais caro que vendi foi um portal de obras por R$ 7.600."
+    },
+    {
+      "t": "03:39:11",
+      "texto": "A gente começou com R$ 0, estamos com R$ 1.093 em caixa e a meta do salário mínimo está logo ali."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "dia": 4,
+  "slug": "dia-04",
+  "srt": "../../srt/dia 4_EBOOK-VENDER-SITES-IA.srt",
+  "titulo": "Dia 4 | Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA",
+  "data": "2026-09-04",
+  "duracao": "1:19:25",
+  "youtube": "https://www.youtube.com/watch?v=Wvi93RGW20o",
+  "faturamento": "R$ 0",
+  "mrr": null,
+  "resumo": "Com a proposta da Lavanderia Lords já enviada, Junior publica o site de demonstração da Ijuí Clima pelo GitHub e pela Vercel e aborda o dono pelo WhatsApp. O cliente responde rápido e pede uma ligação. Depois da conversa, ele fica de analisar, e surge a chance de vender também a organização do Instagram. No fim, Junior testa gerar um site da Mais Clima direto no Gemini, sem estruturar os prompts antes, e o resultado sai fraco.",
+  "destaques": [
+    "Fazer o site antes de abordar aumenta muito a chance de fechar: o cliente vê o produto e fica sem jeito de dizer não para quem já trabalhou para ele.",
+    "Quando o cliente pede para ligar, ligue. A conversa transformou uma resposta confusa em um cliente em potencial.",
+    "Gerar o site direto na IA, sem estruturar os prompts, deu um resultado pobre. O processo de planejar antes faz diferença."
+  ],
+  "linha_do_tempo": [
+    { "t": "00:01:19", "texto": "Conta que enviou a proposta para a lavanderia e aguarda o retorno. Hoje vai finalizar o site da empresa de climatização." },
+    { "t": "00:04:42", "texto": "Cria o repositório no GitHub para colocar o site no ar." },
+    { "t": "00:13:56", "texto": "Importa o projeto na Vercel e faz o deploy do site da Ijuí Clima." },
+    { "t": "00:14:57", "texto": "Responde por que prefere fazer o site antes de abordar o cliente." },
+    { "t": "00:18:26", "texto": "Confere o site no celular e aciona o cliente pelo WhatsApp." },
+    { "t": "00:20:42", "texto": "O cliente responde rápido e ele roda o script de abordagem." },
+    { "t": "00:23:05", "texto": "Ajusta o script: a empresa não tem site, então não faz sentido falar em novo site." },
+    { "t": "00:28:20", "texto": "O cliente pede para ligar. Junior faz a ligação fora do ar." },
+    { "t": "00:51:58", "texto": "Volta da ligação: cliente em potencial, vai analisar, e o link fica no ar até o dia seguinte." },
+    { "t": "00:54:13", "texto": "O cliente também pede ajuda com o Instagram, uma nova oportunidade de venda." },
+    { "t": "00:55:16", "texto": "Abre o Nexar Hunter e escolhe a Mais Clima, com Instagram ativo e sem site." },
+    { "t": "01:01:24", "texto": "Testa gerar o site direto no Gemini, sem estruturar os prompts antes." },
+    { "t": "01:07:08", "texto": "O resultado direto sai fraco, e ele volta para o processo com o ChatGPT." },
+    { "t": "01:18:44", "texto": "Encerra mais cedo: proposta da lavanderia aguardando retorno e orçamento da climatização enviado." }
+  ],
+  "dicas": [
+    { "momento": "mentalidade", "t": "00:15:57", "titulo": "Um site a cada dois dias", "texto": "Como o site de demonstração é simples de fazer, dá para produzir um a cada dois dias se for preciso para fechar." },
+    { "momento": "prospeccao", "t": "00:55:16", "titulo": "Instagram ativo e sem site", "texto": "No Nexar Hunter, ele procura empresas com Instagram atualizado e bastante conteúdo, mas sem site. O conteúdo já serve de material para a demonstração." },
+    { "momento": "analise", "t": "00:24:24", "titulo": "Descubra se quem responde é o dono", "texto": "Pelo jeito da conversa, ele percebe que está falando com o dono, o que acelera a decisão." },
+    { "momento": "criacao", "t": "00:04:42", "titulo": "Publique pelo GitHub e pela Vercel", "texto": "Ele cria o repositório no GitHub, sobe os arquivos e importa o projeto na Vercel para ter um link no ar." },
+    { "momento": "criacao", "t": "00:18:26", "titulo": "Confira o celular antes de mandar", "texto": "Antes de acionar o cliente, ele abre o site no celular e confere se o telefone foi atualizado." },
+    { "momento": "criacao", "t": "00:57:43", "titulo": "Deixe a IA pesquisar a empresa", "texto": "O prompt pede para buscar dados no Instagram e na web sobre a empresa e produzir um site profissional sem cara de IA, com design minimalista e premium, por etapas." },
+    { "momento": "criacao", "t": "01:05:48", "titulo": "Responda o questionário da IA", "texto": "O ChatGPT pediu serviços oferecidos, marcas, região atendida, diferenciais, WhatsApp e fotos. Quando faltam fotos, use o Instagram da empresa como referência." },
+    { "momento": "criacao", "t": "01:07:08", "titulo": "Sem estrutura, o resultado fica pobre", "texto": "Gerar o site direto no Gemini, sem estruturar os prompts antes, deu um resultado fraco. O planejamento com o ChatGPT continua valendo." },
+    { "momento": "whatsapp", "t": "00:14:57", "titulo": "Aborde com o site pronto", "texto": "Com uma prévia pronta, o cliente visualiza o resultado, e é muito mais fácil comprar um produto que você está vendo." },
+    { "momento": "whatsapp", "t": "00:15:57", "titulo": "O lado sentimental ajuda", "texto": "O dono pensa que você já fez o site para ele e fica sem jeito de dizer não. Faz parte da estratégia de venda." },
+    { "momento": "whatsapp", "t": "00:23:05", "titulo": "Adapte o script à empresa", "texto": "O script falava em novo site, mas a empresa não tinha site. Ele reformulou antes de mandar, junto com um print do site." },
+    { "momento": "whatsapp", "t": "00:28:20", "titulo": "Se o cliente pedir, ligue", "texto": "A resposta por escrito foi confusa e o cliente pediu uma ligação. Na conversa por telefone a situação ficou clara." },
+    { "momento": "whatsapp", "t": "00:51:58", "titulo": "Dê prazo para o link", "texto": "Depois da ligação, ele avisou que deixaria o link disponível até o dia seguinte e que entraria em contato de novo." },
+    { "momento": "preco", "t": "00:54:13", "titulo": "Venda o Instagram junto", "texto": "O cliente perguntou se ele também conseguia ajustar o Instagram. Um serviço extra pode subir o valor do fechamento." },
+    { "momento": "fechamento", "t": "01:18:44", "titulo": "Mantenha o funil andando", "texto": "Ao fim do dia, uma proposta aguarda retorno e um orçamento foi enviado. No dia seguinte ele volta a falar com os dois." },
+    { "momento": "erros", "t": "00:07:21", "titulo": "Fique de olho no limite da IA", "texto": "Os limites de uso estavam quase no fim. Vale acompanhar o consumo para não travar no meio da entrega." },
+    { "momento": "erros", "t": "00:19:28", "titulo": "Proteja os dados dos outros clientes", "texto": "Em live ou em print, ele não mostra a tela inteira do WhatsApp para não expor números de outros contatos." }
+  ],
+  "scripts": [
+    { "tipo": "prompt", "t": "00:57:43", "titulo": "Gerar o site de uma empresa pesquisando na web", "texto": "Eu tenho que fazer um site para esta empresa, localizada na cidade de Ijuí. Pode buscar dados na página do Instagram e na web sobre a empresa. Vamos produzir um site profissional, sem cara de IA, com design minimalista e premium, como um profissional sênior, por etapas." }
+  ],
+  "duvidas": [
+    { "autor": null, "pergunta": "Não é melhor abordar o cliente antes de fazer o site?", "resposta": "Não. Com uma prévia pronta, a chance de fechar é bem maior: o cliente visualiza o resultado e é mais fácil comprar o que se vê. Também pesa o lado sentimental, porque fica ruim dizer não para quem já fez o site. E como é simples de fazer, compensa.", "t": "00:14:57" }
+  ],
+  "ferramentas": [
+    { "nome": "GitHub", "uso": "Guardar o código do site em um repositório." },
+    { "nome": "Vercel", "uso": "Publicar o site e gerar o link de demonstração." },
+    { "nome": "WhatsApp", "uso": "Abordar o cliente e enviar o print e o link do site." },
+    { "nome": "Nexar Hunter", "uso": "Achar a próxima empresa, com Instagram ativo e sem site." },
+    { "nome": "ChatGPT", "uso": "Levantar as informações da empresa e estruturar os prompts." },
+    { "nome": "Gemini", "uso": "Construir o site no VS Code." },
+    { "nome": "VS Code", "uso": "Editor do projeto, com servidor local para conferir o resultado." }
+  ],
+  "frases": [
+    { "t": "00:04:42", "texto": "Hoje é dia de fechar, galera." },
+    { "t": "00:14:57", "texto": "A chance de fechamento é bem maior quando a gente já tem uma prévia." },
+    { "t": "00:15:57", "texto": "O cara pensa: pô, o cara já fez até o site pra mim. Fica ruim dizer não pra ele." },
+    { "t": "00:15:57", "texto": "Se precisar fazer um site a cada dois dias, a gente vai fazer um site a cada dois dias." },
+    { "t": "01:08:29", "texto": "Agora a gente tem que sair desse visual de IA." }
+  ]
+}

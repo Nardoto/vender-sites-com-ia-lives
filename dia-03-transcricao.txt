@@ -1,0 +1,1930 @@
+Dia 3 | Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA
+https://www.youtube.com/watch?v=Ng44GPpaGsk
+
+[00:00] Estamos ao vivaço, galera. 3 minutinhos
+[00:03] de atraso. Perdão, mas estamos cá.
+[00:07] Bora, bora para mais um dia.
+[00:14] Hoje eu já tô
+[00:16] no energético, galera. Hoje eu já tô no
+[00:18] energético. Porque hoje
+[00:21] como é que tá a música aí? Top. Esperar
+[00:24] a galera chegar, ver como é que tá a
+[00:25] música.
+[00:37] >> [música]
+[00:38] >> en
+[00:40] [canto]
+[00:42] fin [música]
+[00:44] des
+[00:47] mecs
+[00:51] por fin consegu
+[00:54] mi coraz
+[01:03] Então galera, quem chegou agora de
+[01:04] paraquedas, estamos no terceiro dia do
+[01:07] nosso desafio.
+[01:10] E seguinte, e ontem enviamos a proposta
+[01:14] pro cliente, tá?
+[01:17] O cliente respondeu rapidinho, né, que
+[01:19] era o site da lavanderia.
+[01:22] Vamos abrir aqui, ó.
+[01:26] Opa, não é esse,
+[01:30] Lords, né? Vamos chegar aqui na minha
+[01:33] versel e a gente já vai pegar o link.
+[01:44] Esse site aqui, ó. Colocamos o site no
+[01:48] ar, eh, e enviamos pro cliente, tá? O
+[01:52] cliente respondeu, inclusive,
+[01:55] eh, deixa eu olhar aqui.
+[02:05] Cliente respondeu. Eh, eu usei o script
+[02:08] aquele, né, que é esse script aqui, ó.
+[02:10] Deixa eu abrir ele aqui.
+[02:14] V abrir o script aqui para vocês.
+[02:18] Aqui, ó.
+[02:21] Esse é o script, tá? E chegamos nessa
+[02:24] etapa aqui onde o cliente respondeu, né,
+[02:26] que eu podia enviar para ele é o modelo
+[02:30] que eu criei.
+[02:32] Aí
+[02:34] o cliente respondeu: "Certo, falo com
+[02:36] você amanhã. Perfeito. Então, hoje é
+[02:39] amanhã.
+[02:40] Hoje é amanhã, então, possivelmente, eu
+[02:42] ainda não abordei,
+[02:44] eh,
+[02:48] eu mandei essa parte aqui com o link.
+[02:54] E agora, né, vamos aguardar o que o que
+[02:58] ela vai responder nesse caso aqui.
+[03:01] Enquanto isso, eh, a gente vai preparar,
+[03:04] né, ontem a gente já fez uma pesquisa
+[03:06] aqui, ó.
+[03:07] sobre empresas de ar condicionado.
+[03:11] E eu tinha achado uma empresa,
+[03:15] eh, deixa eu trazer aqui para vocês,
+[03:26] que a gente já vai começar a codar para
+[03:27] essa outra e empresa, né?
+[03:31] Só que aí o seguinte, qual que é a ideia
+[03:33] que eu tive?
+[03:35] Olha
+[03:37] só, essa é uma empresa de ar
+[03:39] condicionado, né? Eles não têm
+[03:44] a página de do link do Instagram deles
+[03:47] tá com erro, inclusive.
+[03:50] Então, qual que vai ser a ideia? Eu tive
+[03:52] a ideia de em vez de produzir um site eh
+[03:56] com o logo da empresa, com tudo,
+[03:58] inicialmente, né, eu vou produzir um
+[04:01] modelo padrão, eh, que possa servir para
+[04:05] todas as empresas. Por exemplo, aqui eu
+[04:06] coloquei o nome da lavanderia com a logo
+[04:09] real da lavanderia.
+[04:10] Eh, nos próximos eu vou adotar uma ideia
+[04:13] diferente. Eu vou criar um site,
+[04:16] digamos, genérico, onde depois eu possa
+[04:20] eh trocar a logo caso o cliente não
+[04:23] feche, e mandar para esse mesmo site,
+[04:26] para outra empresa
+[04:29] do mesmo segmento. Então, assim, eu não
+[04:31] preciso ficar criando várias e mini
+[04:34] sites, né, para mostrar para eles. Eu
+[04:36] acho que vai vai dar bom, porque se eu
+[04:38] não vender para uma, eu reaproveito o
+[04:39] que foi criado,
+[04:42] é para revender para outra. E é o que eu
+[04:44] vou fazer inclusive na página da
+[04:46] lavanderia, caso eles não topem, né?
+[04:48] Vamos partir pra outra lavanderia. Eh,
+[04:52] vamos aqui, no caso, vão ter que mudar
+[04:54] copo mais, tem telefone, tudo aqui, né?
+[04:57] Mas bora lá. Eh, eu deixei o projeto já
+[04:59] aqui no VS Code pré pronto,
+[05:06] que é, vamos abrir aqui,
+[05:11] climatizadores o nome,
+[05:15] certo?
+[05:17] Então vamos usar, vamos criar uma LP
+[05:20] aqui para climatizadores
+[05:30] como tradicional.
+[05:32] Eh, mandei aqui, ó.
+[05:37] Aqui eu mandei no caso para essa
+[05:44] e eu preparo sempre os prontos no GPT
+[05:48] Plus. Então vamos preparar os prontos
+[05:51] aqui do GPT Plus que já estão aqui e
+[05:54] vamos colocar rodar, né? Vamos ver o que
+[05:57] que ele faz pra gente. Vamos ver como
+[05:59] estão nossos limites de uso. Ó, o limite
+[06:03] semanal
+[06:05] reseta em 21 horas, tá? Tem problema. Se
+[06:07] a gente é, olha, se a gente ultrapassar,
+[06:12] a gente vai pro
+[06:15] vai pra outra conta. Então, bora lá.
+[06:19] Eh, vamos ver se eu consigo pegar essa
+[06:21] logo aqui.
+[06:27] Ver se algum
+[06:30] aqui, ó.
+[06:32] Tive que ter a fachada da empresa aqui.
+[06:36] Vamos ver se eu consigo
+[06:40] abrir essa foto grande.
+[06:45] Eh, essa é
+[06:48] esse é o logo, né?
+[06:52] Vamos jogar aqui.
+[06:55] Este é a logo da empresa.
+[06:58] Pode exportar a logo e recriá-la
+[07:05] e e ajustá-la
+[07:09] para uma imagem em alta resolução.
+[07:14] Vamos pedir
+[07:18] com com IA, né? Tem que a gente não
+[07:20] faça.
+[07:29] Então vamos lá, galera. Não esquece de
+[07:31] deixar o likezão. Se você é novo, tá
+[07:33] chegando aí, se inscreva no canal.
+[07:36] Abordamos a primeira empresa.
+[07:41] Eu acho que vai dar bom, hein?
+[07:49] Vamos ver o que que ela gera de logo
+[07:51] aqui, ó. Porque aí eu já vou
+[07:59] eu já vou mandar com a logo, sabe?
+[08:15] Vamos enviar com a logo.
+[08:27] Boa.
+[08:30] tá saindo.
+[08:42] Uhum. Muito bom. Na verdade, ele pegou
+[08:44] aqui um trecho da
+[08:48] Agora eu vou pedir para ele gerar um
+[08:50] PNG.
+[08:55] Vamos abrir aqui.
+[09:04] Gere
+[09:06] ger
+[09:08] fundo
+[09:10] transparente
+[09:11] somente a louco.
+[09:19] Juir clima
+[09:22] na alta resolução, né? Vamos lá.
+[09:35] Eu
+[09:51] vou mandar a logo em anexo.
+[10:06] em anexo.
+[10:09] [limpando a garganta]
+[10:09] Bora lá.
+[10:18] Aí a gente monta mesmo processo, né,
+[10:20] galera? monta é o site, dá uma refinada,
+[10:24] coloca no ar, coloca online de forma
+[10:27] gratuita. Inclusive, se você quiser
+[10:29] aprender também, só seguir o passo a
+[10:32] passo que eu faço aqui e prospecta pro
+[10:35] cliente. Aí eu pedi senha, mas tá
+[10:37] beleza.
+[10:47] Colocar aqui
+[10:51] que é uma pasta louco.
+[11:07] Pronto,
+[11:10] logo adicionado. Vamos rodar o prompt,
+[11:12] né?
+[11:14] Esse é o prompt um.
+[11:17] Lembrando que eu tô abordando empresas
+[11:19] da minha cidade, né? Para quem tá
+[11:21] chegando aí,
+[11:23] vamos vender inicialmente
+[11:26] sem portfólio
+[11:29] e trabalhar somente na cidade.
+[11:49] Já iniciou.
+[11:53] Já vamos preparar aqui [canto]
+[12:01] que tá me pedindo para implementar
+[12:05] se ele já tá liberado para implementar
+[12:07] automático.
+[12:09] Ficar de olho no nosso uso, né? Se
+[12:11] precisar a gente troca de conta.
+[12:13] Lembrando que a gente tá usando aqui o
+[12:15] antigravity para desenvolver.
+[12:18] Ele não é tão bom quanto o Codex, tá? O
+[12:22] Codex ele é melhor para desenvolver. Por
+[12:24] aí o Codex você
+[12:27] torra tokens, né? Rapidão você tá sem
+[12:29] limite já.
+[12:32] Certo? Depois aqui, ó, esse pronto serve
+[12:35] como uma espécie de manual do projeto.
+[12:37] Eu manteria ele inclusive salvo dentro
+[12:39] do projeto. Por exemplo, projeto brief
+[12:43] MD
+[12:45] para o demin
+[12:47] sempre poder consultar. Então vamos lá,
+[12:54] vamos jogar ele para lá então.
+[13:19] I don't
+[13:22] you can
+[13:25] I
+[13:31] >> [música]
+[13:32] [canto]
+[13:40] >> Pronto. Project MD tá lá dentro.
+[13:45] Atualizar.
+[13:48] Tá aqui, ó.
+[13:52] me
+[13:54] can't
+[14:18] I know that I the
+[14:21] you
+[14:24] know I the you to me to me I the you to
+[14:31] me to me I the you to me to me I the you
+[14:37] to me to me I don't the you to me to me
+[14:42] I don't the you to
+[15:00] Don't
+[15:26] E aí, vamos aguardar, né, a resposta. O
+[15:29] site ficou muito massa, galera. Ficou
+[15:31] muito bonito.
+[15:33] Apenas refinar, né, ícones reais aqui
+[15:36] embaixo.
+[15:38] Nossa, ficou muito bacana.
+[15:41] Outra
+[15:56] oportunidade que eu que eu vejo agora,
+[15:58] galera, é
+[16:01] na verdade que eu que eu vi,
+[16:04] porque a gente tá se preparando, né?
+[16:06] Vamos ver aqui, ó, quando que é o início
+[16:07] do verão.
+[16:10] Eh, início da primavera,
+[16:14] 22 de setembro. Então, outubro já aqui
+[16:18] na minha região já começa a ficar
+[16:19] quente. Aí já começa os trabalhos de eh
+[16:22] aparecer bastante trabalho, né, dessa
+[16:25] área de climatização.
+[16:27] Então, a abordagem que eu vou usar aqui
+[16:30] já vai ser baseado nisso,
+[16:33] tentar puxar aí pro pro pessoal. Eu
+[16:36] passei hoje de manhã, eu vi uma empresa
+[16:38] que chama Mais Clima.
+[16:41] Vamos ver se eles têm
+[16:44] a essa daqui.
+[16:47] Ver se eles têm site.
+[16:54] Não tem, né? Olha aí, ó. Mais uma
+[16:56] empresa para abordar.
+[16:59] Tem Google meu negócio. Tem avaliações,
+[17:01] ó. Bacana as avaliações.
+[17:13] O perfil deles
+[17:16] contat.
+[17:22] Ah, eles usam só um redirecion
+[17:25] redirecionador de WhatsApp.
+[17:28] Bacana.
+[17:34] Vamos ver o servidor.
+[17:39] Vamos abrir o navegador.
+[17:43] Olha aí. Olha aí o que ele fez já nessa
+[17:45] primeira, gente.
+[17:48] E esse é só o primeiro prompt, né? A
+[17:51] gente nem refinou ainda.
+[17:54] Caraca,
+[17:57] pô, isso aqui para mim tá
+[18:02] Gemini 3.8 flash no médio, galera. Eu tô
+[18:05] usando. Nem usamos nada por enquanto de
+[18:09] limite. Vamos pro segundo pronto.
+[18:21] Vamos lá. Vamos melhorar.
+[18:29] Nossa, tá top, hein?
+[18:44] E rapidão, hein? Rapidão para fazer.
+[18:49] Bora lá.
+[19:26] here with mecentar
+[19:46] o plano. Vamos lá pro prompt 3.
+[20:02] Auditoria de nível da agência. Essa
+[20:04] parte é muito importante, né? Depois do
+[20:07] site. Pronto. Em vez você ficar dizendo
+[20:08] mude isso, mude aquilo. Vamos fazer
+[20:11] [música] o próprio Gemin assumir o papel
+[20:13] de um diretor de criação, revisando o
+[20:14] trabalho da equipe. Boa.
+[20:18] Bora lá.
+[20:26] Enquanto isso, vamos dar uma olhada
+[20:27] aqui.
+[20:29] Serviços.
+[20:32] Instalação de ar condicionado.
+[20:33] Higienização, manutenção preventiva,
+[20:36] manutenção corretiva,
+[20:38] amortização empresarial e corporativa.
+[20:42] E se agendar serviço, olha que massa.
+[20:46] Envia direto no WhatsApp. Bacana,
+[20:51] bacana, bacana. Vamos ver aqui. Contato.
+[20:56] Ó, o rodapé ele já aprendeu, galera.
+[20:58] Olha só que legal você trabalhar sempre
+[20:59] com a mesma inteligência. artificial.
+[21:02] Ele já aprendeu um pouquinho de como eu
+[21:04] gosto. Eu lembro que nos primeiros sites
+[21:06] eu tinha que sempre pedir para eles para
+[21:08] ele ajustar essa parte de rodapé e tudo
+[21:13] mais. E agora ele já tá num nível que
+[21:15] ele já entende um pouco do que eu quero
+[21:18] e já ele já monta o rodapé quase no modo
+[21:22] que eu que eu gosto.
+[21:33] Vamos dar umas piada no mobile.
+[21:41] Acho que tá faltando um
+[21:46] Hero Banner, né?
+[21:51] Talvez aqui a gente pode usar até a foto
+[21:53] da fachada ali que eles têm no
+[21:55] Instagram. Se bem que não é muito boa,
+[21:57] né? Mas dá para pedir. Olha só, esse
+[21:59] esse aqui tá bem estruturado, ó.
+[22:03] Esse aqui, ó. Vamos ver como como vai se
+[22:05] comportar, né?
+[22:09] Eh, vamos ver como ele vai se comportar.
+[22:12] Qualquer coisa a gente já
+[22:15] já cria uma segunda opção aqui. M.
+[22:27] We
+[22:28] we
+[22:30] all fall we
+[22:34] fall and
+[22:52] We
+[23:05] Interessante.
+[23:08] Interessante mesmo.
+[23:43] Ah, ele tá trabalhando. Passe o mouse.
+[23:45] Eu Ah, entendi. Cada
+[23:48] e cada serviço ele troca foto. Que
+[23:51] massa.
+[23:54] Só temos que pedir depois para ele gerar
+[23:56] as fotos corretas, né, pra gente
+[23:58] substituir.
+[24:01] Vamos lá.
+[24:06] Etapas. Solicitação, avaliação,
+[24:08] orçamento, execução, finalização,
+[24:10] residencial e empresarial.
+[24:14] Bacana.
+[24:16] Atendimento profissional. Organização
+[24:18] durante o serviço. Cuidado com ambiente.
+[24:21] Orientação técnica.
+[24:23] Cara, isso aqui é coisa que a gente
+[24:25] demoraria 15 dias para montar, 7 dias
+[24:28] para montar,
+[24:31] envolveria COP, envolveria uma galera,
+[24:33] né?
+[24:35] A gente já rodou aqui em 20 minutos. Nem
+[24:38] deu 20 minutos, né? Porque teve toda a
+[24:42] intro ali ainda.
+[24:44] Vamos lá.
+[24:47] E auditoria nível de agência. Vamos
+[24:49] esperar ele finalizar.
+[24:53] E depois, claro, a gente entra com, né,
+[24:56] a nossa,
+[25:00] a gente entra com a nossa, com o nosso
+[25:02] refinamento, né?
+[25:19] Underline clima. É o Instagram.
+[25:23] Depois a gente vai passar para eles
+[25:31] aí, ó. Finalizando.
+[25:36] Aceitar as alterações.
+[25:38] Então, ele disse aqui, ó, tudo que ele
+[25:40] fez.
+[25:45] Tirar o hashtag daqui, [música]
+[25:50] ó. dados reais a fornecer
+[25:52] posteriormente. Ele pediu, né,
+[25:56] fotos reais dos projetos. Beleza, vamos
+[25:59] fazer o refinamento agora que tá aqui.
+[26:09] Então, vamos lá.
+[26:13] Depois a gente mostra, né, pro chat de
+[26:16] PTI
+[26:18] ou pro Codex.
+[26:20] né, o resultado da página
+[26:23] e aí pede para ele apontar as melhorias
+[26:26] pra gente.
+[26:39] Acho que aqui, ó, no perguntas
+[26:40] frequentes,
+[26:43] é, ele pode, a gente pode ter um dropd,
+[26:45] né?
+[26:49] Ao invés de ficar esse espaço vazio
+[26:50] aqui,
+[26:53] vamos esperar ele fazer o refinamento.
+[27:08] E aí a gente já vai. Esse aqui eu já vou
+[27:10] tentar colocar no ar hoje e já enviar
+[27:12] pro cliente hoje mesmo.
+[27:18] Vamos ver o que que ele
+[27:21] faturando a sessão solutions.
+[27:24] Cadê a sessão solutions?
+[27:30] Refaturar o processo para uma linha
+[27:33] arquitetônica pura linear.
+[27:37] Redução de sombras, ajuste fino no
+[27:40] contraste.
+[27:41] Soo técnico,
+[27:46] performance web code.
+[27:49] Revisão de conteúdo. Beleza,
+[27:57] vamos ver.
+[28:14] Climatização feita com responsabilidade.
+[28:19] Tá, gostei.
+[28:23] Depois a gente vem com os nossos
+[28:24] refinamentos, né?
+[28:26] a gente vem com os nossos refinamentos e
+[28:28] vem
+[28:30] vem trazendo as melhorias com o nosso
+[28:33] olhar, né, para trazer pra nossa
+[28:35] identidade. Cada
+[28:37] eh desenvolvedor tem a sua identidade,
+[28:39] né? Então, acho que isso é importante.
+[28:41] Deixa eu compartilhar a tela com a gente
+[28:43] aqui
+[28:46] que ele consegue
+[28:48] visualizar as alterações.
+[29:20] Trocar a playlist aqui, trazer uma
+[29:21] playlist mais
+[29:24] topzeira.
+[29:36] H
+[30:32] Aí Aqui, ó.
+[30:34] Dizer ele que finalizou. Então, bora lá.
+[30:42] Agora vamos dar os nossos toques.
+[30:47] Certo.
+[30:53] Ah, vamos atualizar aqui. Vamos capturar
+[30:56] a tela.
+[30:59] Vamos ver se tem mais alguma coisa.
+[31:02] Acho que não, né?
+[31:38] É aqui não tá abrindo, não tá pegando o
+[31:40] pente do site.
+[31:44] Aí, agora sim.
+[31:56] Esse foi o resultado inicial que
+[31:58] conseguimos.
+[32:00] Precisamos refinar muito.
+[32:07] É ajustar efeitos nos botões.
+[32:12] Ajustar menu.
+[32:16] Remover.
+[32:18] Remover.
+[32:20] excesso de espaçamento.
+[32:30] Criar eh imagens reais
+[32:37] em todo o site.
+[32:39] Podemos usar
+[32:42] o Instagram do cliente. Instagram do
+[32:45] cliente como referência.
+[32:51] colar aqui o Instagram.
+[33:06] Ã,
+[33:08] a dobra,
+[33:10] a dobra de metodo
+[33:13] metodologia
+[33:16] clara.
+[33:17] também poderos melhorar muito,
+[33:25] mais qualidade,
+[33:30] mais qualidade visual.
+[33:38] O fac
+[33:40] também precisa, precisa ser refinado,
+[33:49] remover os espaços vazios
+[33:54] e aproximar
+[33:57] as perguntas.
+[34:02] Só deve haver expansão
+[34:09] quando for clicar
+[34:14] no ícone de expandir.
+[34:18] Revise o site completo.
+[34:24] especialista web sign S.
+[34:32] Além destas melhorias que citei,
+[34:37] citei,
+[34:39] traga um ou mais prontos,
+[34:44] se necessário,
+[34:48] para transformar este site atual em
+[34:54] um website realmente
+[34:58] profissional. Não
+[35:07] profissional
+[35:09] de alto nível em design. Pronto.
+[35:15] Então aqui eu joguei algumas melhorias e
+[35:17] que eu vi, né? Claro que depois eu vou
+[35:20] refinar. A gente vai refinando aqui
+[35:22] dobra por dobra.
+[35:24] Eh,
+[35:27] a gente vai refinando dobra por dobra e
+[35:31] aí vai fazendo essas melhorias aqui para
+[35:34] trazer pra nossa cara, né? Trazer pra
+[35:37] nossa
+[35:38] pro nosso layout aqui, a nossa
+[35:40] identidade, vamos falar assim.
+[35:46] Revendo a página inteira
+[35:49] pelo print, a base está organizada, mas
+[35:51] ainda está com aparência de primeira
+[35:52] versão bem estruturada, não de um site
+[35:55] premium premium finalizado.
+[35:58] O principal problema não é uma sessão
+[35:59] específica, é o ritmo visual geral.
+[36:05] Há muito branco sem função, tipografia e
+[36:07] imagens pequenas em várias áreas padrões
+[36:09] que você repete e demais. Também tentei
+[36:12] acessar o Instagram para mais o
+[36:14] Instagram bloqueou a visualização
+[36:16] pública sem login nesse evento. Então eu
+[36:18] usaria o perfil que você passou como
+[36:20] fonte oficial de imagem, mas sem
+[36:22] inventar trabalho da empresa. Que eu
+[36:24] mudaria do projeto atual. O RER está
+[36:26] pequeno demais.
+[36:28] A nova logo possui presença visual.
+[36:30] Precisa ser maior.
+[36:34] Vamos lá.
+[36:35] precisa ser maior. O menu também parece
+[36:39] uma navegação técnica de template.
+[36:44] Eu transformaria um haer de
+[36:46] aproximamento 70. Logo com presença,
+[36:48] links mais passados, indicador sutil,
+[36:51] rover, cta com mais elegância.
+[36:54] O o her o hero. Tá, vamos enquanto isso,
+[36:58] vamos rodar o prompt um aqui.
+[37:03] Eh, o hero está correto conceituamento.
+[37:06] As imagens parecem um elemento
+[37:07] secundário.
+[37:09] Eu faria fotografia, mas conteúdo
+[37:10] funcionava como uma única composição.
+[37:13] Imagem maior, corte arquitetônico,
+[37:16] pequenos detalhe técnico sobreposto e
+[37:18] muito menos sensação de texto de um
+[37:20] lado, cardio do outro.
+[37:23] Eh, a área de serviço tá muito leve, há
+[37:27] bastante espaço e pouca presença. A
+[37:29] ideia da lista trial é boa, então não
+[37:31] precisamos voltar para os seis cards.
+[37:34] Reforçaria a fotografia, aumentaria a
+[37:36] escala de tipografia e blá blá blá.
+[37:43] Vamos lá.
+[37:52] Vamos ver o que que
+[37:54] Vamos ver a configuração aqui. Turbo
+[37:57] mode
+[37:58] permissões.
+[38:01] Eh,
+[38:03] tá
+[38:06] ler arquivos. Vamos dar todas as
+[38:08] permissões aqui.
+[38:22] Aqui eu acho que ele já tá aqui também.
+[38:28] Eh, vamos lá em conversation
+[38:33] rate URLs.
+[38:38] Terminal.
+[38:42] Hum.
+[38:46] Lá também tá turbo mode. Isso aqui,
+[38:48] galera, eu tô dando e as permissões, tá?
+[38:51] para ele
+[38:54] ser mais rápido.
+[39:00] Beleza,
+[39:05] voltamos pra gente aqui
+[39:09] e vamos botar ele trabalhar.
+[39:15] Eh, vamos lá. área de projetos tem
+[39:18] potencial excelente, principalmente
+[39:19] porque o fundo escuro já ajuda muito na
+[39:20] identidade. Subir um nível
+[39:23] quando entrar fotografia realmente de
+[39:25] uma pequena galeria de que nação sobre a
+[39:28] foto genérica do técnico justamente tipo
+[39:31] de imagem conduz autenticidade. Quando
+[39:32] tivemos na fala da equipe ou do
+[39:34] profissional de clima trabalhando,
+[39:36] sessão muda de nível imediatamente.
+[39:38] Beleza?
+[39:40] O FAC hoje é o maior problema de
+[39:42] espaçamento da Paz. Existe praticamente
+[39:43] uma tela inteira de espaço vazio entre
+[39:45] perguntas.
+[39:47] Deve virar uma lista editorial compacta
+[39:49] aí. Beleza. Então, temos três pontos. Eu
+[39:52] faria três etapas.
+[39:54] Us esse primeiro aqui
+[39:59] que é longo, né?
+[40:03] Pronto. Fotografia real identidade. Aqui
+[40:05] eu faria uma mudança portar no fluxo.
+[40:07] Pegue as melhores fotos Instagram de
+[40:08] clima e coloque dentro do projeto,
+[40:12] tá?
+[40:16] Vamos lá, então.
+[40:22] Vamos adiantar essa parte aqui.
+[40:42] Vamos rodar as imagens para cá, então.
+[40:51] Só que a gente não tem boas imagens, né?
+[40:59] Bem ruim, na verdade.
+[41:14] Não temos boas imagens, então nós vamos
+[41:17] ter que bolar algo,
+[41:21] tá?
+[41:24] Aqui teremos um trabalhinho extra, mas
+[41:27] não tem problema.
+[41:30] Vamos rodar.
+[41:33] Eh, vamos
+[41:36] coloque lá 10 a 20 imagens lá. Vamos
+[41:38] gerar depois essas imagens, né?
+[41:51] Ter que gerar essas imagens.
+[42:01] Tá? Aí vamos fazer o seguinte, ó. Aí
+[42:05] aqui a gente vai abrir um GPT novo.
+[42:09] Eh, preciso gerar imagens referente à
+[42:13] empresa GT.
+[42:19] Como o cliente não tem
+[42:23] fotos boas no seu perfil,
+[42:28] quero unir
+[42:30] qualidade com a logo e identidade.
+[42:35] Portanto, gere para mim uma sequência de
+[42:41] 10 a 20 imagens
+[42:44] com os temas temas que precisam.
+[42:51] Simulando. Eh, simulando. Não,
+[42:57] logo do cliente está
+[43:01] está em anexo.
+[43:06] É, vamos arrastar o logo do cliente para
+[43:08] cá e vamos pedir para ele gerar essas
+[43:11] imagens, né?
+[43:13] Vamos gerar essas imagens.
+[43:35] Vamos cheirar.
+[43:43] Ah, já melhorou bastante, galera. Olha
+[43:45] só como era a primeira versão aqui, ó,
+[43:47] do
+[43:49] Riler.
+[44:49] Olha
+[45:00] só o que a gente tinha, né? Então, um
+[45:03] excesso de espaço.
+[45:08] >> [limpando a garganta]
+[45:09] >> Ele melhorou, né? uniu a imagem,
+[45:13] melhorou bastante.
+[45:24] Ó, bacana. Ele gerou uma sequência aqui,
+[45:26] ó, de imagens.
+[45:31] Achei que ficou bacana.
+[45:39] Perfeito.
+[45:41] Agora eu vou pedir para
+[45:44] Agora separem essas imagens
+[45:49] de forma individual.
+[45:54] Baixá-la. Pera aí. Baixá-las.
+[46:05] Quando o cliente não tem um bom
+[46:06] conteúdo, né, a gente
+[46:09] gera um bom conteúdo para ele.
+[46:29] Ver se ele tá trabalhando. É, tá
+[46:31] trabalhando. Bora.
+[46:34] Vai com preguiça. GPT.
+[47:19] Consigo sim, mas há um limite de 10
+[47:21] imagens por vez. Como col tem 16, vamos
+[47:24] fazer assim. Etapa um. Perfeito.
+[47:26] Podemos. Perfeito.
+[47:31] Inicia.
+[47:45] stred in
+[48:01] bora,
+[48:05] vamos gerar essa sequência.
+[48:07] G to open
+[48:11] to a new tomorrow
+[48:17] moving with the moing
+[48:24] [música] the light that
+[49:15] Pronto,
+[49:17] aqui ele deu deu uma ajustada e uma
+[49:19] refinada completa, né? Vamos atualizar
+[49:21] aqui.
+[49:26] Ficou melhor.
+[49:29] Melhor mesmo.
+[49:32] Acho que aqui não mudou muito, ó. Olha
+[49:35] só aqui, ó.
+[49:37] É, ficou bem bacana.
+[49:40] Aqui, ó. Ficou legal.
+[49:45] Aqui não mudou muito, né?
+[49:51] Aqui mudou bastante, muito, mas olha que
+[49:54] diferença.
+[50:00] Aqui também
+[50:04] aqui ficou bacana.
+[50:07] Aqui não mudou muito.
+[50:11] Serviços realizados também não mudou
+[50:14] muito, né? Mas organizou, ficou bem
+[50:16] bacana.
+[50:20] Eh, climatização aqui
+[50:24] que perguntas frequentes que não ainda
+[50:26] não ficou legal.
+[50:33] Vou pedir para ele é ajuste o fac
+[50:40] que eu vou pedir manual ajuste o fac na
+[50:43] verdade. Deixa eu ver se esse ajuste de
+[50:45] fac aqui não tá nos outros. Prontos.
+[50:51] Pode gerar, pode eh seguir para as
+[50:56] próximas
+[50:58] próximas
+[51:00] imagens.
+[51:02] Já vamos baixar essas daqui.
+[51:21] Ar como
+[51:23] técnico
+[51:26] eh trabalho
+[51:31] colaborador
+[51:34] de colaborador
+[51:38] trabalhando.
+[51:44] Vamos ver qual que é a imagem dois.
+[51:46] Putz, agora eu perdi a imagem dois, né?
+[51:50] >> [canto]
+[51:56] >> salvarim.
+[52:02] Depois a gente renomeia, né?
+[52:12] You wouldck around
+[52:18] king without his crown breaking
+[52:22] youraking girl you never made us
+[52:33] I'm
+[52:35] of
+[52:43] São seis imagens. Vamos lá, vamos ver se
+[52:46] ele vai gerar separado pra gente.
+[52:49] Enquanto isso, vamos
+[52:51] trazer para cá.
+[53:00] dois trabalhando
+[53:04] climatizadores.
+[53:08] Espaço
+[53:10] espaço empresarial,
+[53:16] espaço residencial
+[53:22] a chave da empresa,
+[53:27] split
+[53:34] séries. Isso
+[53:44] aqui
+[53:55] sala de reuniões.
+[54:00] Isso aqui o que que é?
+[54:04] Manutenção importante.
+[54:07] Manutenção.
+[54:08] >> E aí, pessoal, tudo bem? Ô louco, gente.
+[54:11] Cadê, cadê, cadê, cadê? Acabou minha
+[54:13] playlist.
+[54:18] >> Pronto.
+[54:20] Pois eu tomo ban lá do, tá? Vamos baixar
+[54:24] o restante das imagens.
+[54:48] Pronto, as imagens estão aqui. Vamos
+[54:50] seguir pro pronto, né?
+[55:01] Bora, vamos pôr rodar.
+[55:06] Enquanto isso, galera, eu vou pegar um
+[55:08] café, tá?
+[57:14] Volto já então, moçada.
+[1:00:02] Oh.
+[1:03:12] Vamos ver se ele já tá
+[1:03:15] substituindo as imagens.
+[1:03:18] Ainda não.
+[1:03:21] Ele vai fazer isso.
+[1:05:12] เ
+[1:05:52] Don't
+[1:07:49] Ok,
+[1:08:15] pront
+[1:08:17] dois. E agora vamos pro três, ó. O pront
+[1:08:20] 3 que inclui o F.
+[1:09:25] M.
+[1:09:28] Eu
+[1:09:31] [roncando]
+[1:09:32] acho que essa foto aqui eu vou trocar
+[1:09:33] pela foto
+[1:09:36] essa daqui. Mas a qualidade é muito
+[1:09:38] ruim, né? Putz.
+[1:09:40] Aí eu vou ter que fazer o seguinte, ó.
+[1:09:47] Abrir imagem.
+[1:09:51] Nossa, muito pequeno. Vamos ver se no
+[1:09:53] Facebook deles tem essa imagem.
+[1:09:58] Talvez, né?
+[1:10:17] Eles nem tem.
+[1:10:21] Então vamos pro Google.
+[1:10:27] Ar condicionado,
+[1:10:30] imagens.
+[1:10:36] Vamos tentar
+[1:10:38] copiar a imagem.
+[1:10:42] Ajuste essa imagem para usar. Opa,
+[1:10:50] meu teclado para usar no site.
+[1:10:55] Ah.
+[1:11:01] Remova,
+[1:11:02] remova as grades.
+[1:11:04] Ajuste a qualidade. Remova as grades.
+[1:11:08] Ajuste a qualidade
+[1:11:17] sem alterar a identidade do local.
+[1:11:24] Podia até ter pedido uma resolução, né?
+[1:11:28] Mas tem problema.
+[1:11:32] [roncando]
+[1:11:46] Aí, gente.
+[1:11:56] Já
+[1:12:43] Vem cá, baguncinha. Dá oi pro pessoal.
+[1:12:47] Vem cá. Oi, pessoal. Eu sou baguncinha
+[1:12:52] e tô aqui incomodando.
+[1:13:01] Sai da cadeira, baguncinha
+[1:13:11] aqui, ó.
+[1:13:17] Tá
+[1:13:23] aí, galera, melhorou,
+[1:13:26] né? A foto [música] tá bem melhor.
+[1:13:40] A foto está bem melhor. Да.
+[1:14:22] M.
+[1:14:54] Lá, ele tá trabalhando as imagens. Dá
+[1:14:56] para ver que ele já tá na 11, 12. São
+[1:14:58] 16, né? Então, ainda falta
+[1:15:37] foi pra imagem 13.
+[1:15:58] Pelo decorrer da da coisa, galera, eu
+[1:16:01] acho que vai ser assim, um dia faz um,
+[1:16:05] no dia seguinte aborda o cliente, faz
+[1:16:07] outro, aí aborda o cliente, faz outro.
+[1:16:12] Acho que vai ser mais ou menos essa
+[1:16:13] sequência, viu?
+[1:16:19] que dá para analisar aqui, né?
+[1:18:22] máscara do fio. Mordemos
+[1:18:32] aí tá tá ajustando a imagem 14.
+[1:18:36] Vamos ver onde ele vai jogar essas
+[1:18:37] imagens, né?
+[1:18:49] Essa imagem aqui eu já vou salvar.
+[1:18:54] fachada da empresa.
+[1:18:58] Pronto,
+[1:19:08] 14. Faltam duas imagens para ele
+[1:19:11] ajustar.
+[1:19:15] Tô de olho no mascote aqui.
+[1:19:48] Oh.
+[1:21:10] Essa parte aqui da execução curtir
+[1:21:12] bastante.
+[1:21:13] Mobile também tá bem bacana.
+[1:21:21] Aqui, ó, ele cria já um
+[1:21:27] conforme que já cai no WhatsApp.
+[1:21:32] Eh, eu vou fornecer depois o número
+[1:21:35] oficial.
+[1:21:41] O endereço ainda não.
+[1:21:43] Instagram também.
+[1:21:53] E aí o pront 3, que é o,
+[1:21:56] eu acho que com o pront 3 finalizar, a
+[1:21:59] gente já
+[1:22:01] dá essa refinadinha leve aqui no Raider.
+[1:22:04] Coloca a foto oficial, né?
+[1:22:08] Ó, o menu ele já criou os efeitos.
+[1:22:13] Vencer serviços.
+[1:22:16] instal orçamento, ele já abre o modal
+[1:22:20] agendar também.
+[1:22:24] Orçamento
+[1:22:26] empresarial residencial.
+[1:22:31] Ó, já ficou bem bacana porque com essa
+[1:22:33] sequência de imagens aqui, ó, que a
+[1:22:35] gente enviou para eles, né?
+[1:22:39] Deixa eu abrir elas aqui
+[1:22:49] com essa [roncando] sequência de imagens
+[1:22:50] aqui, ó, vai ficar bem bacana,
+[1:22:53] vai trazer mais a identidade, né, pro
+[1:22:56] projeto. Então, quando o cliente olhar o
+[1:22:58] site, acredito que já a chance de
+[1:23:02] engajamento engajamento vai ser bem
+[1:23:04] maior,
+[1:23:08] bem maior mesmo.
+[1:23:11] Ele já tá, são 16 imagens, então ele já
+[1:23:13] tá finalizando aqui, ó.
+[1:23:23] ização para consultório médico.
+[1:23:25] Instalação
+[1:23:27] sacada, higienização profunda. Sistema
+[1:23:30] Cetização.
+[1:23:34] Compromisso técnico, atendimento local
+[1:23:35] transparência perguntas frequentes.
+[1:23:40] Preencher pré-orçamento.
+[1:23:43] Solicitar orçamento pelo WhatsApp.
+[1:23:56] Mascote tá aqui no ladinho acompanhando.
+[1:24:12] Bora lá.
+[1:25:15] Galera, não esqueçam deixar o likezão
+[1:25:18] aí, tá? Que vocês estão acompanhando
+[1:25:20] essa série aí. Estamos zerados ainda,
+[1:25:23] mas enviamos apenas uma proposta. Daqui
+[1:25:26] um pouco eu vou chamar o eh o cliente
+[1:25:29] para ver se a gente fecha.
+[1:25:32] Vou chamar logo, né?
+[1:26:35] Arteiro aqui mordendo as coisas.
+[1:27:18] Boa, chegamos na imagem 16, hein?
+[1:27:35] Aí, ó.
+[1:27:38] Agora vai ser rapidão. Já analisou as 16
+[1:27:40] imagens e agora já vai aplicar.
+[1:27:44] Depois a gente já vai pedir para ele
+[1:27:46] aplicar aquela
+[1:27:48] imagem da fachada.
+[1:27:52] A imagem da fachada. Eu tô de olho no
+[1:27:54] meu
+[1:27:56] meu doguinho aqui, galera. M.
+[1:28:47] Mas tá ficando sensacional, galera. Bem
+[1:28:49] melhor do que eu esperava, viu? Em um
+[1:28:51] único pró chegou.
+[1:28:54] Salve, Renato. Beleza, pura, meu
+[1:28:56] querido.
+[1:29:02] A cliente de ontem vai responder hoje.
+[1:29:04] Tô aguardando ela responder
+[1:29:07] eh até o final da live. Se ela não
+[1:29:09] mandar nada, eu vou chamar ela.
+[1:29:17] Por isso que eu já tô ganhando tempo
+[1:29:18] aqui e fazendo essa parte da
+[1:29:20] climatização,
+[1:29:22] que aí hoje, final da live, eu chamo a
+[1:29:25] cliente da lavanderia e já chamo junto o
+[1:29:28] cliente da, esse cliente aqui da
+[1:29:30] climatização.
+[1:29:40] Aqui já tá finalizando.
+[1:29:43] E aí é mais um prompt, só algum
+[1:29:45] refinamento que possa ficar
+[1:29:50] manteria pr CT do site 30% escuro.
+[1:29:55] Fundo claro, beleza. Para a nova logo,
+[1:29:57] eu usaria o azul dela referência à
+[1:29:59] entidade, o cianos. Vamos.
+[1:30:02] E depois desses três pontos, eu faria
+[1:30:04] uma quarta etapa, exclusivamente de SO e
+[1:30:06] de O. Bacana.
+[1:30:09] Já pensando em pesquisas.
+[1:30:16] Uhum.
+[1:30:18] Depois a gente mostra o resultado final
+[1:30:19] para
+[1:30:21] Vamos deixar esse prompt aqui
+[1:30:23] pré-pronto.
+[1:30:30] Nossa, ficou bacana o mobile, hein?
+[1:30:33] menu.
+[1:30:41] Eh, como que chama esse efeito? É o web
+[1:30:44] que as coisas vão surgindo.
+[1:30:47] Perguntar aqui pro Jamlin.
+[1:30:53] Eh, como chama o efeito web?
+[1:30:57] feito de tipo websites
+[1:31:01] que as
+[1:31:03] que as dobra que as que o conteúdo que o
+[1:31:07] conteúdo vai surtindo
+[1:31:11] a página vai
+[1:31:14] rolada. Ó lá ele página vai sendo
+[1:31:16] rolada. Você não mandou o site para ela?
+[1:31:19] Mandei sim, Renato, mandei o site eh e
+[1:31:23] pedi o feedback e ela
+[1:31:26] ficou de olhar, eh, ontem, de ontem para
+[1:31:30] hoje, para dar um feedback hoje pra
+[1:31:33] gente.
+[1:31:37] Animações ou um screw. Infinite screw é
+[1:31:40] uma técnica habilidade como redes
+[1:31:41] sociais. Não. Lazy. La carregamento
+[1:31:46] preguiçoso. É uma tecla de
+[1:31:47] desenvolvimento focada em performance de
+[1:31:49] timização. Tá. É o screw
+[1:31:54] review. Animações screw é o efeito
+[1:31:57] técnico onde os [roncando] elementos do
+[1:31:59] site TR mais block surgem gradualmente
+[1:32:01] com transições visuais.
+[1:32:04] Isso mesmo.
+[1:32:08] Os blocos surgem. Deslizam. Vem para tá
+[1:32:11] boa.
+[1:32:17] Embora seja um termo próximo do perlexo,
+[1:32:20] ocor essa resposta aqui.
+[1:32:26] Beleza. Mandei e então, Renato, mandei.
+[1:32:31] E aí, deixa eu pegar aqui. Inclusive,
+[1:32:34] eh,
+[1:32:37] depois eu vou dar uma chamadinha nela,
+[1:32:39] para garantir.
+[1:32:41] Ó, ela falou certo, vou olhar à noite e
+[1:32:43] amanhã eu falo com você. E eu mandei
+[1:32:46] para ela um combinado.
+[1:32:49] Então, até o fim da live eu mando uma
+[1:32:50] mensagem para ela ver qual que vai ser o
+[1:32:53] feedback.
+[1:32:55] Você está usando aquele mesmo pront que
+[1:32:57] você me mandou ontem? Eh, o script de
+[1:32:59] abordagem? Sim.
+[1:33:03] É esse aqui, ó.
+[1:33:05] É, esse é o script padrão que eu que eu
+[1:33:08] uso
+[1:33:09] e é o que que eu vou usar agora eh com
+[1:33:13] esse cliente do dessa do Ji Clima aqui,
+[1:33:17] ó.
+[1:33:28] Este mesmo script.
+[1:33:33] Vamos ver se ele já começou a alterar as
+[1:33:35] imagens. Ainda não.
+[1:33:53] Dá não. Pega mais o cafezinho ali,
+[1:33:54] galera.
+[1:33:56] E já tô de volta.
+[1:34:02] He he he
+[1:34:05] he.
+[1:36:13] Então, Renato, eh, pera aí, deixa eu
+[1:36:16] tirar o aviso aqui.
+[1:36:19] É só pedindo mesmo. Não tem como
+[1:36:23] é você pegar já não tem outra maneira
+[1:36:26] você conseguir o contato do
+[1:36:27] proprietário, né? Só que assim, quando
+[1:36:30] você aborda
+[1:36:32] eh empresas menores,
+[1:36:35] que é esse caso aqui do do nosso
+[1:36:37] projeto, né, da nossa sequência,
+[1:36:41] é muito mais fácil você chegar no
+[1:36:42] proprietário, né?
+[1:36:48] Essa mensagem que eu mandei
+[1:36:50] eh ontem da lavanderia, possivelmente é
+[1:36:53] o próprio proprietário que me respondeu,
+[1:36:55] né? que normalmente quando é um
+[1:36:56] colaborador, ele vai perguntar, eh, não,
+[1:36:59] ele vai falar, não sou responsável, vou
+[1:37:01] passar pro responsável, tudo bom, né?
+[1:37:05] Eh, e aí, tipo, você se se tem esse tipo
+[1:37:08] de abordagem, ah, eu vou passar pro
+[1:37:10] responsável, eu não sou responsável,
+[1:37:12] você já tenta eh conseguir o contato do
+[1:37:15] responsável. Ah, então você tem o
+[1:37:17] contato porque aí eu já posso enviar
+[1:37:19] direto. Algumas empresas vão te passar o
+[1:37:21] contato direto. Não todas, né, mas
+[1:37:23] algumas sim.
+[1:37:26] Mas é o que a gente precisa. É, então,
+[1:37:28] no caso de ontem da lavanderia,
+[1:37:29] possivelmente a é a própria proprietária
+[1:37:32] que me atendeu, tá?
+[1:37:35] Porque ela já falou que ia olhar e tudo
+[1:37:37] mais.
+[1:37:41] Até eu vou rodar o script aqui, ó.
+[1:37:44] Eh, ó,
+[1:37:46] se ela visualizar, não responder.
+[1:37:51] Bom,
+[1:37:59] tá, ó, vou rodar isso aqui, ó. Ela, ela
+[1:38:02] ficou de V, ainda não me chamou, tá?
+[1:38:07] Então, eu vou mandar para ela. Mas é que
+[1:38:09] esse horário eu vou esperar um
+[1:38:10] pouquinho, tá? Porque esse horário 5
+[1:38:12] horas,
+[1:38:17] às vezes é o mov pode dar fluxo lá na
+[1:38:20] na lavanderia, né? Então eu vou esperar
+[1:38:23] um pouquinho para mandar,
+[1:38:25] mas já vou deixar aqui gatilhado.
+[1:38:39] ativar as mensagens temporárias aqui.
+[1:38:53] Então, vou mandar aqui, ó. Oi. T o nome
+[1:38:56] dela aqui
+[1:38:57] passando só para saber se conseguiu
+[1:38:59] abrir a demonstração que te mandei.
+[1:39:02] Ontem realmente pensando na empresa de
+[1:39:03] vocês, então fiquei curioso para saber o
+[1:39:05] que achou.
+[1:39:25] Tá, deixei no rascunho aqui.
+[1:39:35] Vamos lá.
+[1:40:19] imagens. está editando. Perfeito.
+[1:40:22] Ainda não vi, ainda não visualiza as
+[1:40:24] alterações, mas beleza. guardar aqui.
+[1:44:11] Nossa, moço tá trabalhando aqui.
+[1:44:15] Bora, Jim. Jim.
+[1:44:36] Terceiro dia, hein, galera. Ô,
+[1:44:39] sexta-feira já fecha cinco dias de
+[1:44:42] sequência de live aqui, hein?
+[1:44:47] Eu vou mandar a mensagem para a
+[1:44:52] menina da lavanderia,
+[1:45:01] inclusive.
+[1:45:02] Eh, como que é lavanderia?
+[1:45:08] Lord,
+[1:45:11] ver como que ficou o RL aqui.
+[1:45:14] Banderia Lord.
+[1:46:03] E aí, vamos colocar no ar rapidão esse
+[1:46:05] aqui.
+[1:46:06] Eu quero usar eh adicionar esses efeitos
+[1:46:09] aqui, ó.
+[1:46:18] O site fica mais legal.
+[1:46:21] Eu acho que fica bem mais profissional.
+[1:46:23] Por exemplo, no Nexar, é, a gente fez
+[1:46:28] Nexarcbr,
+[1:46:32] na verdade, na Nexa, na anxa a gente tem
+[1:46:35] um efeito no N da Nexa, né?
+[1:46:47] E a gente tem aqui, ó,
+[1:47:00] essa demora no carregamento das imagens
+[1:47:02] não tava acontecendo, hein? Tem que
+[1:47:06] ajustar isso. เฮ
+[1:48:47] Não sei nem de perto todo o limite.
+[1:48:51] Vamos ver o que tá pegando.
+[1:49:34] Ele tá analisando aqui.
+[1:49:37] Twitter
+[1:49:39] Favicon.
+[1:49:41] Que mais?
+[1:49:44] Hum.
+[1:50:14] Ah, minha internet tá bugada aqui, eu
+[1:50:17] acho.
+[1:50:19] A mensagem do WhatsApp que eu enviei
+[1:50:21] foi,
+[1:50:25] por isso que tá demorando para abrir o
+[1:50:27] site, pô.
+[1:50:33] Fazer um teste aqui.
+[1:50:42] Deve ter algum server bugado aí.
+[1:51:04] Oh.
+[1:51:36] Ning
+[1:51:51] Acho que agora restabeleceu aqui.
+[1:51:55] É, agora sim. Andar.
+[1:52:04] Minha conexão tava bugada, galera.
+[1:53:11] Já vamos criar o repositório no G Hub.
+[1:53:14] Vamos otimizando o tempo aqui.
+[1:53:20] Vamos lá. J clima.
+[1:53:24] Vou criar o repositório já.
+[1:53:30] Jogar vercel aqui pro lado.
+[1:53:39] Esse daqui vai ser o outro que eu vou
+[1:53:40] fazer. Esse aqui a gente vai fazer
+[1:53:42] amanhã já.
+[1:53:44] Eles tem bastante conteúdo. Tem um
+[1:53:45] conteúdo bem legal nas redes sociais.
+[1:53:49] Eu acho que um site faz total sentido,
+[1:53:51] né?
+[1:53:55] Certo. Se eu tivesse encontrado esse
+[1:53:58] perfil antes, inclusive eu já teria
+[1:54:00] feito de cara nele. Eu acho que o
+[1:54:01] potencial aqui é maior, mas não vamos
+[1:54:04] descartar nada.
+[1:54:09] E como é custo zero pra gente, zero
+[1:54:12] entre aspas, né? Só custo de tempo,
+[1:54:15] então também não custa nada.
+[1:54:31] >> [limpando a garganta]
+[1:54:39] >> Isso aqui Bras filme, se eu não me
+[1:54:41] engano, isso tem site, né?
+[1:54:45] Vamos olhar,
+[1:54:50] não tem site. Ó, isso aqui depois é um
+[1:54:51] negócio legal pra gente
+[1:54:54] as
+[1:54:56] as imagens geradas com IA.
+[1:55:00] Trabalho com e ar condicionado,
+[1:55:03] autoelétrica, alarmes, filme, sol.
+[1:55:08] Beleza.
+[1:55:42] É, eu acho que era um bug mesmo. Agora
+[1:55:44] voltou ao normal
+[1:55:46] da minha internet.
+[1:56:20] É, por enquanto ele não mudou nada, né?
+[1:56:22] Nossa,
+[1:56:27] aqui vem no esse alteração aqui final
+[1:56:29] vem no próximo prompt.
+[1:56:34] Então
+[1:56:44] vamos aguardando ele finalizar.
+[1:56:48] Prontigante, né?
+[1:56:53] Vamos ver.
+[1:56:55] É,
+[1:57:00] é daqui
+[1:57:02] para cima.
+[1:57:04] Aqui, aqui, aqui, aqui, aqui, aqui,
+[1:57:06] aqui.
+[1:57:09] Bastante trabalho.
+[1:57:30] Ó, ele já mudou a foto do Raider, hein?
+[1:57:35] Ó,
+[1:57:37] ó. Agora a gente tá vendo coisa, hein?
+[1:57:46] Boa,
+[1:57:53] boa. Já mudou aqui, ó.
+[1:57:58] Isso aqui, sala aqui, empresarial. Boa,
+[1:58:01] [música]
+[1:58:03] boa.
+[1:58:12] Olha só.
+[1:58:18] Boa. Tá na fase final já. Bacana.
+[1:58:39] Aqui quando a gente colocar no mobile,
+[1:58:43] a gente colocar a foto que a gente
+[1:58:46] ajustou aqui, ó,
+[1:58:49] vai ficar mais legal.
+[1:58:51] Aqui deu uma repetida nas fotos, né? Mas
+[1:58:54] não, depois a gente ajusta, né?
+[1:59:03] Mas ficou bacana. Bom, muito massa.
+[1:59:09] Muito massa, viu?
+[1:59:15] Agora esses refinamentos, né? Vamos
+[1:59:17] refinar.
+[1:59:24] Só refinar aqui, tá tudo certo.
+[1:59:44] As mensagens ainda não foram.
+[1:59:50] Que coisa.
+[1:59:55] Deixa eu ver o que tá rolando com o meu
+[1:59:57] WhatsApp aqui.
+[2:00:11] Deixa eu reabri-lo.
+[2:00:22] Deve ter bugado. É, imaginei.
+[2:00:27] Deixa eu reconectar aqui, galera.
+[2:00:52] Imaginei que tinha dado um bug, que nem
+[2:00:54] as mensagens do WhatsApp estavam indo.
+[2:01:06] É, agora sim.
+[2:01:20] Ah, o WhatsApp atualizou, por isso
+[2:01:30] capricho.
+[2:02:06] Agora
+[2:02:09] eu vou enviar as mensagens.
+[2:02:17] Vou pegar aqui.
+[2:02:22] Vou mandar aqui.
+[2:02:35] Tá, meu WhatsApp fechou.
+[2:02:43] Tá de brincadeira.
+[2:02:56] Não dá pelo celular.
+[2:04:26] Será que agora vai?
+[2:05:58] >> [limpando a garganta]
+[2:06:27] >> Tá, agora vou mandar mensagem. para
+[2:06:51] ver se foi. Foi mensagem enviada.
+[2:07:23] E eu já vou preparar aqui. Aqui
+[2:07:27] é o contato do próximo, né?
+[2:07:40] Acho que aqui tá na fase final já.
+[2:08:57] Ô, esse pronto aqui, rapaz,
+[2:09:00] ficou puxado, hein?
+[2:09:03] Eu trabalho pro pro Geminis 16 imagens.
+[2:09:06] Vamos ver como é que tá nosso uso. Ô,
+[2:09:08] gastou 2% da nossa banda.
+[2:09:11] é bacana em função disso.
+[2:09:54] Que topzeira.
+[2:10:05] A cliente na lavanderia está mandando um
+[2:10:07] áudio, gente.
+[2:10:11] Vamos ouvir junto.
+[2:10:32] Só não sei se o áudio do WhatsApp vai
+[2:10:34] sair aí, mas vamos ouvir.
+[2:10:37] Vamos lá.
+[2:11:10] Nossa, mandando áudio grande, hein?
+[2:11:15] Se usa por gostar mais ou prefere o
+[2:11:17] Cloud? Então, Renato, eh, o Cloud ele é
+[2:11:21] muito mais eficiente, tá? Isso é fato, é
+[2:11:25] indiscutível. Porém, o Cloud é muito
+[2:11:27] caro.
+[2:11:28] Nesses projetos simples aqui, o Gemini
+[2:11:31] dá super conta
+[2:11:33] e é muito mais barato, né? Se tem Gemini
+[2:11:36] aí, a tá em promoção inclusive, né?
+[2:11:40] Gemini 18 meses, eh, R9,90.
+[2:11:45] Então, vale muito a pena.
+[2:11:48] 5 teras de armazenamento, pô.
+[2:11:52] Eh, aqui, ó,
+[2:11:57] Google
+[2:12:03] plano. E aí eu por R$9,90 acabei pegando
+[2:12:07] duas em duas contas, né?
+[2:12:11] Eh, e consumo
+[2:12:15] que plano?
+[2:12:21] Vamos ver se abre o meu meu plano direto
+[2:12:24] aqui.
+[2:12:40] [música]
+[2:12:46] Acho que tem uma opção aqui. Tinha uma
+[2:12:48] opção aqui que abrir Google One. Acho
+[2:12:50] que é aqui.
+[2:12:52] Aqui, ó.
+[2:12:54] É Google AI Pro 5 TB, assinante desde 27
+[2:12:59] de agosto.
+[2:13:01] Eh, então temos tempo a full aqui porque
+[2:13:04] são 18 meses, né? Então,
+[2:13:08] e aí a gente tem tem flow, tem um monte
+[2:13:12] de coisa, né, que a gente, na verdade,
+[2:13:13] tá aqui, ó.
+[2:13:15] Temos o antigravity, que é o que a gente
+[2:13:17] usa, nano banana para fazer o vídeo.
+[2:13:19] Inclusive, esse vídeo da Nexar aqui, ó,
+[2:13:23] eu fiz com ele.
+[2:13:27] Esse aqui, ó, ficou sensacional. Na
+[2:13:30] verdade, no início, o que roda aqui
+[2:13:33] atrás é um vídeo, né, convertido pra
+[2:13:35] web, lógico,
+[2:13:38] mas é bem bacana. Ó, vamos ver o que que
+[2:13:40] a
+[2:13:41] cliente da lavandeirinha mandou.
+[2:13:45] Eh, vamos lá.
+[2:13:48] Oi,
+[2:13:53] bem comido hoje.
+[2:13:55] >> Olha,
+[2:13:55] >> eu troquei de
+[2:13:59] como é que a gente chama?
+[2:14:00] >> Vamos lá. [roncando]
+[2:14:02] >> De ruim para pior ou de pior para ruim,
+[2:14:04] já nem sei mais.
+[2:14:06] Fui fazer um outro plano com a com a
+[2:14:07] Viva e cheguei na quar o
+[2:14:11] coisa do m e só meu tempo. Agora cheguei
+[2:14:13] em casa. Eu esqueci completamente eu vi
+[2:14:15] ontem eu fiquei conversar com o carro de
+[2:14:17] manhã e no fim não deu tempo. Com as
+[2:14:18] coisas dele, com as minhas nem
+[2:14:19] conversei, sabe que eu tenho uma guria
+[2:14:20] que cuida disso para mim já 2 anos e
+[2:14:21] meio que é a Ana e a gente tem permuta
+[2:14:24] eu e ela, tá? Ela tá os edredon para
+[2:14:25] lavar, você pão e aí vou batendo no
+[2:14:27] valor que a gente faz propaganda mensal,
+[2:14:29] >> né? Mas me diz uma coisa de quantas
+[2:14:30] postagens seria durante a semana e o
+[2:14:32] valor ver como é que táus valores,
+[2:14:36] >> ó. [roncando]
+[2:14:44] Ó, então ela pediu valores e postagens,
+[2:14:46] ó. Então vou mandar um áudio para ela.
+[2:14:49] Então, Lourdes, na verdade, esse é o que
+[2:14:51] eu fiz para você é um site, é o site da
+[2:14:53] lavanderia Lordords, né, para depois a
+[2:14:54] gente fazer www.lavanderialords.com.br,
+[2:14:59] tá? O que que o site vai ser diferente
+[2:15:01] do Instagram? Porque o Instagram eh, eu
+[2:15:04] falo que é uma mídia de oportunidade,
+[2:15:06] né? Então, por exemplo, você tá rolando
+[2:15:09] o Instagram e tá vendo eh os feeds e em
+[2:15:13] algum momento pode pode surgir, né, o
+[2:15:16] teu post. Só que eh o Instagram ele
+[2:15:19] mostra somente para quem te segue, né? É
+[2:15:22] que nem eu sempre eu sempre dou as
+[2:15:24] referências. O Instagram é oportunidade,
+[2:15:25] o Google é necessidade. Então, quando
+[2:15:28] alguém precisa, por exemplo, da
+[2:15:29] lavanderia, a pessoa não vai pesquisar
+[2:15:32] lá dentro do Instagram lavanderia em
+[2:15:34] Jui. Onde a pessoa vai pesquisar? vai
+[2:15:36] pesquisar no Google, né? É que nem
+[2:15:38] quando você tá viajando, por exemplo,
+[2:15:41] estraga o teu carro e você tá lá numa
+[2:15:43] cidade eh aleatória, né? Então você vai
+[2:15:45] mandar, vai pesquisar no Google, né?
+[2:15:47] Oficina mecânica na cidade e tal. Então
+[2:15:51] o site ele proporciona isso, tá? Então
+[2:15:54] quando as pessoas buscam pela empresa
+[2:15:56] com o site existe a possibilidade de
+[2:15:59] você aparecer nos resultados e aí a
+[2:16:01] pessoa entra no site e vai ter todos
+[2:16:03] esses dados, né? os serviços, a
+[2:16:06] telefone, WhatsApp para entrar em
+[2:16:08] contato. Então, o que eu montei para
+[2:16:10] você é um website, é pra gente sair só
+[2:16:14] do Instagram, né, que só o Instagram só
+[2:16:16] mostra para quem segue você, pra gente
+[2:16:20] ir pro Google, né, que vai te trazer
+[2:16:22] mais clientes.
+[2:16:28] [roncando]
+[2:16:33] Aí, ó.
+[2:16:37] Então, explicamos para ela.
+[2:16:41] Aí eu mandei aqui, ó. Eh, a gente tá com
+[2:16:43] uma promoção na agência aqui, eh, com
+[2:16:45] valores bem acessíveis, tá? de
+[2:16:49] pro website. Então eu fiz um modelo base
+[2:16:52] já para você, né, para você conseguir
+[2:16:55] visualizar, né, como como é como como é
+[2:16:59] entregar o site já praticamente pronto
+[2:17:01] pra empresa, né, com as informações
+[2:17:03] reais, com o número de telefone, eh, dá
+[2:17:06] para ajustar algumas fotos, algumas
+[2:17:08] coisas, né? Ali é só um, na verdade, um
+[2:17:11] esboço. A gente pode lapidar
+[2:17:14] e
+[2:17:16] ajustar, né, para ficar com a identidade
+[2:17:18] da lavanderia Lord mesmo. Então, e
+[2:17:21] quando a pessoa encontrar no Google e
+[2:17:23] clicar no site, já vai poder entrar em
+[2:17:25] contato com vocês e e já agendar o
+[2:17:27] serviço, tá? Então, se fizer sentido
+[2:17:29] para ti, eu te mando aqui a proposta,
+[2:17:31] mas o valor é bem bem acessível mesmo,
+[2:17:34] muito menos aí do que um anúncio no
+[2:17:37] jornal.
+[2:17:40] >> [roncando]
+[2:17:41] >> Pronto, galera, prospecção. Vamos ver
+[2:17:44] feedback agora da cliente. Vamos lá
+[2:17:48] botar a música aqui.
+[2:17:53] Aí agora a gente vem para essa aqui, ó.
+[2:17:59] [música]
+[2:18:05] Já vou copiar aqui, ó.
+[2:18:09] E vamos para lá.
+[2:18:13] É a primeira empresa, galera, que a
+[2:18:15] gente tá abordando, viu? A primeira
+[2:18:17] empresa. O cliente já demonstrou
+[2:18:18] interesse, então isso já é bacana.
+[2:18:27] Vamos ver como que tá aqui, ó.
+[2:18:32] trabalhando ainda.
+[2:18:39] Não deixar ele trabalhar.
+[2:19:00] Vamos ver aqui.
+[2:19:02] WhatsApp dela não mostra os se a
+[2:19:05] mensagem foi lida ou não, né? Então quer
+[2:19:08] guardar.
+[2:19:15] Vamos abrir aqui
+[2:19:18] lote. by your
+[2:19:25] be your eyes.
+[2:19:34] >> [choro]
+[2:19:53] [música]
+[2:19:54] >> Why do Feel like I linger
+[2:19:58] linger between the words to say to say
+[2:20:03] the word you remember now we here to
+[2:20:07] take contr
+[2:20:09] over your body and over your
+[2:20:12] take back everything
+[2:20:20] in your
+[2:20:22] in your
+[2:20:24] on
+[2:20:45] Deu esperança, hein, galera? Deu
+[2:20:47] esperança. Acho que a gente vai fechar
+[2:20:49] essa essa cliente
+[2:20:51] da lavanderia.
+[2:20:53] Ela
+[2:20:55] já falou que tem que conversar com o
+[2:20:57] marido dela, hein? Não sei. Saiu no,
+[2:20:59] acabei não vendo se saiu.
+[2:21:02] Eh, será que saiu o áudio dela aqui na
+[2:21:05] live?
+[2:21:08] Eh, deixa eu dar um play aqui no meu
+[2:21:10] áudio.
+[2:21:13] >> Eu acho que não, né? Já para você, né,
+[2:21:15] para você conseguir visualizar como é o
+[2:21:18] site já pronto.
+[2:21:21] É, não, telefone
+[2:21:24] >> não não saiu o áudio, eu acho, para
+[2:21:25] vocês aí, mas beleza. Eh, caso não tenha
+[2:21:28] saído o áudio, depois eu vou conferir.
+[2:21:30] Ela falou que,
+[2:21:33] eh, ela tem parceria com uma menina que
+[2:21:35] faz os post do Instagram para ela, né? E
+[2:21:39] aí ela faz permuta e a menina faz post
+[2:21:42] mensal, semanal. Aí ela tava perguntando
+[2:21:45] qual que era o meu valor para entender,
+[2:21:47] né? Aí eu expliquei para ela que não é
+[2:21:50] eh redes sociais, né? Não é Instagram, é
+[2:21:54] Google site.
+[2:21:57] E aí vamos ver qual que vai ser o
+[2:21:58] feedback dela. Eu perguntei para ela se
+[2:22:01] faz sentido. Aí eu envio para ela a
+[2:22:04] proposta, né? Já tá aqui prontinha.
+[2:22:10] Aí eu já vou mandar a proposta.
+[2:22:34] I wonder
+[2:22:38] Why do I feel like
+[2:22:43] between
+[2:22:44] say
+[2:22:46] the you
+[2:23:29] Vamos lá, vamos aguardar o feedback
+[2:23:31] dela.
+[2:23:37] pode e
+[2:23:40] identidade da quando a pessoa encontrar
+[2:23:42] o Google que tá no site
+[2:23:44] vaiar o serviço se aqui do te mando aqui
+[2:23:46] a proposta bem bem acessível mesmo aí
+[2:23:49] tem um anúncio no
+[2:24:01] vamos ver já se o domínio tá disponível
+[2:24:05] eh lá Lavanderia
+[2:24:08] logs.com.br
+[2:24:12] disponível para registro. Boa.
+[2:24:16] Que aí, ó, eu já mando a proposta para
+[2:24:18] ela.
+[2:24:23] Prontinho.
+[2:24:55] E o legal, galera, que é o seguinte, ó.
+[2:24:57] Eh, GitHub e Versel, você não paga
+[2:25:01] hospedagem, né? Você tem um um limite lá
+[2:25:07] que é
+[2:25:10] que é gratuito. Então, eu vou cobrar
+[2:25:12] R9,90 mensais de hospedagem e esse valor
+[2:25:16] vai entrar limpinho, né? Não vamos ter
+[2:25:19] despesa nenhuma.
+[2:25:21] เฮ
+[2:26:10] Meu mouse parou.
+[2:26:17] Voltou.
+[2:26:20] Ver se tô sem bateria desse mouse.
+[2:26:25] Muito possivelmente estamos sem bateria
+[2:26:27] no mouse.
+[2:26:30] Por carregar aqui.
+[2:26:34] Pronto.
+[2:26:39] Bora.
+[2:26:56] Tá carregando, valendo aqui, hein?
+[2:27:10] Ah, tá carregando o servidor.
+[2:27:23] Vamos aguentar
+[2:27:29] que eu já vou fazer, galera. Eu tenho
+[2:27:31] aqui, eu vou usar a Infinity.
+[2:27:35] para receber essas cobranças.
+[2:27:40] Então, já vou aproveitar aqui,
+[2:27:44] eh, e vou arrumar,
+[2:27:52] vou arrumar
+[2:27:56] a cobrança, né, do website, deixar o
+[2:27:58] link pronto já.
+[2:28:04] Deixa eu entrar aqui na app.
+[2:28:08] Deixa eu ler aqui o Qcode.
+[2:28:14] Autorizar meu computador.
+[2:28:20] CL.
+[2:28:32] Pronto.
+[2:28:37] Ah, agora vamos lá. Planos de
+[2:28:40] assinatura.
+[2:28:42] Vamos criar um plano.
+[2:28:45] Manutenção.
+[2:28:49] Manutenção de website.
+[2:28:53] Qual o valor? R$9,90.
+[2:28:55] Descrição do plano não precisa mensal.
+[2:29:00] Eh, data da cobrança, todo dia
+[2:29:06] 5.
+[2:29:09] Cartão com repasse de taxas e ps atraso
+[2:29:13] permitido com multa
+[2:29:17] de 5%
+[2:29:21] e aplicar juros de 1%.
+[2:29:32] Pronto,
+[2:29:39] manutenção. OK.
+[2:30:22] Vamos ver como que funciona aqui a
+[2:30:24] assinatura.
+[2:30:28] Ah, aqui, ó. Assinar por R$9,90
+[2:30:33] sem fim. Beleza,
+[2:30:36] fechou.
+[2:30:40] Pronto.
+[2:30:56] Agora é só esperar.
+[2:31:02] Deve ter chegado cliente lá. Ó, não ouvi
+[2:31:05] o meu áudio ainda.
+[2:31:22] Hum. E agora vamos lá.
+[2:31:34] Agora vamos criar aqui um limit já.
+[2:31:41] Website promocional.
+[2:31:48] Essa
+[2:31:50] 497
+[2:32:09] continuar.
+[2:32:30] Criei o link também de pagamento do
+[2:32:35] do site 497,
+[2:32:40] ó.
+[2:32:44] É, você não vai vender por 500. 49790
+[2:32:51] é a hospedagem mensal.
+[2:33:00] Deixa eu pausar a música aqui. Vamos
+[2:33:02] ver. Ela mandou um áudio,
+[2:33:04] >> tá? Faz isso. Me passa o valor, me ver
+[2:33:05] bem certinho. Coloca para mim bem
+[2:33:06] certinho o que que vai e o que não vai.
+[2:33:07] E aí você vai conversar com Carlos. Aa
+[2:33:09] tá bem mesmo, n é júnior, a gente corre
+[2:33:10] atrás da máquina, é nota, é contagem das
+[2:33:12] empresas, então a gente não tô trazendo
+[2:33:13] para cá para fazer as coisas porque só
+[2:33:15] tá dando ponto. Então desculpe não não
+[2:33:17] ter ter comentado de manhã, tá?
+[2:33:25] Então vamos lá, ó. Aí [roncando] eu
+[2:33:27] copiei isso aqui, ó. Já vou mandar para
+[2:33:29] ela. Ó, ela pediu para mim mandar a
+[2:33:30] proposta. A ideia é justamente entregar
+[2:33:32] esse site já adaptado para a empresa.
+[2:33:34] Estou fazendo esse projeto por 497
+[2:33:41] com site completo e pronto à utilização
+[2:33:45] único. Pagamento único. Pagamento
+[2:33:48] único.
+[2:33:57] Compra do domínio. Vamos mandar aqui
+[2:33:59] para ela. Compro do domínio. Agora eu
+[2:34:01] posso ligar a música de novo, né, gente?
+[2:34:04] Pera aí. Vamos ligar a música aqui.
+[2:34:08] Compra do domínio.
+[2:34:13] R$ 40.
+[2:34:18] Uma vez no ano.
+[2:34:23] Hospedagem mensal,90.
+[2:34:30] Por mês,
+[2:34:33] por mês.
+[2:34:52] Vou mandar um Mas
+[2:35:02] Ah, sim. Essa época, né, Lurs, início de
+[2:35:05] mês é a correria.
+[2:35:18] Então, vou te mandar a proposta, tá? Eh,
+[2:35:21] o site é assim, a gente tá com essa
+[2:35:23] promoção,
+[2:35:25] eh, é 497,
+[2:35:28] tá? Você paga uma vez só e o site é teu.
+[2:35:31] Aí tem e o domínio, eu vou te mandar
+[2:35:33] ali, que é o www.lavanderialords.com.br,
+[2:35:37] né, que a gente paga pro registro BR.
+[2:35:41] Ele é anual, R$ 40, uma vez por ano. E
+[2:35:45] tem a hospedagem, que é o computador
+[2:35:47] onde a o site vai ficar hospedado para
+[2:35:49] ele poder ficar online 24 horas, né?
+[2:35:52] Esse é R9,90 mensais, mas eu já tô te
+[2:35:55] mandando aqui tudo certinho, tá?
+[2:36:29] Vou mandar aqui.
+[2:36:38] I will reget I will make my own I will
+[2:36:42] not surrender. I will do my best until I
+[2:36:46] get under.
+[2:37:04] Mandando aqui que pode ser parcelado em
+[2:37:06] 10 vezes
+[2:37:08] de R$ 50 por mês.
+[2:37:14] 497 + 40.
+[2:37:26] Então, Lourdes, é esse valor ali, tá?
+[2:37:28] 497, pode fazer em até 10 vezes de
+[2:37:31] 49,70.
+[2:37:33] Paga uma única vez, o site é teu, o
+[2:37:36] domínio, né, que é o www. Então, paga
+[2:37:38] uma vez por ano. Eh, esse esse domínio e
+[2:37:41] hospedagem não vem para mim, tá? Esse é
+[2:37:45] o registro que a gente tem que fazer
+[2:37:46] para poder ter o site no ar. Eh, e a
+[2:37:49] hospedagem é R$9,90 por mês, que é para
+[2:37:53] ter o site rodando no ar. E aí essa
+[2:37:56] parte de registro no Google, essas
+[2:37:57] coisas eu já faço, já te entrego tudo
+[2:37:59] pronto.
+[2:38:01] Eh, dá para seguir essa base que eu fiz
+[2:38:04] para você aí, né? De repente, dá uma
+[2:38:06] olhada com o Carlos lá e a gente ajusta
+[2:38:10] o que tem que ajustar. Em 24 horas, 48
+[2:38:14] horas, ele tá pronto para ir pro ar.
+[2:38:20] Pronto, galera. Pronto, pronto, pronto.
+[2:38:27] Agora sim.
+[2:38:39] Já carregou aqui, tá finalizando.
+[2:38:50] Bacana, bacana. Deve est já na parte
+[2:38:54] final.
+[2:38:58] Eu já quero abordar hoje mesmo esse
+[2:38:59] cliente, viu?
+[2:39:09] Quero abordar ele hoje, inclusive,
+[2:39:15] que aí amanhã eu já vou começar a fazer
+[2:39:17] o do da outra empresa
+[2:39:20] e aí a gente vai fazendo assim, vai
+[2:39:22] esperando um, já vai construindo do
+[2:39:24] próximo. Isso vai
+[2:39:27] fazer a gente ter
+[2:39:45] Ó, a cliente tá mandando um áudio.
+[2:39:57] muito em conta.
+[2:40:09] I'm getting stronger step by step
+[2:40:13] iscking but no
+[2:40:35] tá mandando áudio. Ela
+[2:40:38] falou que tem que conversar com o marido
+[2:40:40] dela, tá? Mas aí eu já tenho a proposta.
+[2:40:59] Eu nem vi como é que tá o mobile deles
+[2:41:02] aqui. Não me recordo, na verdade, mas eu
+[2:41:04] vi.
+[2:41:06] Tá bem bacana.
+[2:41:13] Ó, vou pausar a música aqui, galera, que
+[2:41:15] eu vou ouvir o que ela mandou pra gente.
+[2:41:19] Ouvi o que ela mandou. Não sai
+[2:41:21] [roncando] aí para vocês, né?
+[2:41:22] Possivelmente.
+[2:41:22] >> Sim, gostei. Bem, dá, dá bem, gostei. Só
+[2:41:25] tem coisa que daí nós vamos ter que
+[2:41:26] rever aí que ficou faltando que é hoje,
+[2:41:28] vamos dizer hoje é o ar da empresa, tá?
+[2:41:29] que eu investi muito na questão de
+[2:41:30] saúde. Então,
+[2:41:32] sou a única lavanderia do interior aqui
+[2:41:34] da região que que tem hoje a varetário
+[2:41:36] estadual. Então, todos os dados formas
+[2:41:38] necessárias do meio ambiente e da
+[2:41:39] vigilância única. Então, isso é uma
+[2:41:41] coisa que eu quero dar muita ênfase. Eh,
+[2:41:42] tanto que eu pedi pr pra menina também
+[2:41:44] colocar na aí do mês passado que ela
+[2:41:46] colocou para mim, ela tava afastada qu
+[2:41:47] meses, ela praticamente não fez nada,
+[2:41:48] tava afastada por motivo de saúde e
+[2:41:49] agora quando ela retornou, então eu pedi
+[2:41:51] para ela dar ênfase nisso aí. Mas vai,
+[2:41:53] vamos, vamos, amanhã eu converso
+[2:41:54] contigo. Eu não vou dizer que na
+[2:41:55] primeiras horas da manhã precisa fazer
+[2:41:55] um exames de sangue, mas depois assim
+[2:41:57] que eu conseguir eu já amanhã eu t
+[2:41:58] retorno, tá? fard door. Se eu não
+[2:41:59] conseguir falar de manhã do Carlos, eu
+[2:42:00] falo tarde hoje, sei que ele vem mais
+[2:42:01] tarde e eu tenho compromisso também
+[2:42:02] depois da 7. Então ele chega em casa e
+[2:42:03] eu não vou tardar. Então não sei que
+[2:42:05] >> não. Tranquilo, Lu. Perfeito. Eh isso,
+[2:42:08] esse foco aí é bacana. Já dá pra gente
+[2:42:10] botar ali logo no início do site, quando
+[2:42:12] a pessoa abre já vê essa informação.
+[2:42:15] Essa imagina se tu é a única do estado
+[2:42:17] que tem esse alvará, a gente tem que
+[2:42:18] contar para todo mundo, porque olha a
+[2:42:20] confiabilidade que isso gera, né? Então
+[2:42:23] pode conversar com ele lá e aí amanhã
+[2:42:25] você me dá o feedback. Se você aprovar,
+[2:42:28] a gente já organiza essa parte aí, já dá
+[2:42:31] esse esse foco para quem sabe já iniciar
+[2:42:34] a segunda-feira lá com o teu site no ar.
+[2:42:38] Olha só que bacana, galera. Eh, a
+[2:42:40] cliente acabou de falar, né, que ela é a
+[2:42:43] única lavanderia do Rio Grande do Sul
+[2:42:46] com alvará sanitário,
+[2:42:49] válido para todo o estado. Então, ela tá
+[2:42:52] 100% dentro dos conformes e ela quer dar
+[2:42:54] destaque a isso. Eu vou dizer que
+[2:42:59] praticamente 90% fechado. É, ela falou
+[2:43:03] que vai conversar com o marido dela e
+[2:43:05] que amanhã, não de manhã, mas à tarde
+[2:43:09] ela
+[2:43:10] dá o retorno pra gente. Então, tá
+[2:43:13] bacana. Ela mandou mais um áudio aqui.
+[2:43:15] >> Você quer dizer, eu gasto que eu tive,
+[2:43:17] porque tive que remodelar toda a empresa
+[2:43:18] para poder fazer esse processo, né?
+[2:43:21] >> Ah, eu imagino, Loures, porque imagina,
+[2:43:23] eh, imagina a burocracia que é isso daí,
+[2:43:25] né? Eh, eu tenho um amigo meu que tem
+[2:43:28] lavagem de carro e ele tava me contando
+[2:43:31] esses dias que já é uma burocracia
+[2:43:33] danada e lavagem de carro é um,
+[2:43:35] teoricamente é uma coisa simples, né?
+[2:43:37] Imagina tu aí com esse monte de máquina
+[2:43:39] industrial e coisa rata e ainda tem esse
+[2:43:42] e fluxo, né, de empresa e coisa, mas é
+[2:43:44] bacana porque isso no final da história
+[2:43:47] é um investimento, né, porque faz todo o
+[2:43:49] diferencial.
+[2:43:52] >> Sim, conversamos, tá? Deixamos certo.
+[2:43:54] Vamos conversando.
+[2:43:56] >> Combinado? Então, Lourdes, até amanhã.
+[2:43:58] Qualquer dúvida que vocês tiverem, de
+[2:44:00] repente, quando vocês forem olhar
+[2:44:01] juntos, pode me chamar, tá? Qualquer
+[2:44:03] horário.
+[2:44:06] Pronto, galera. Vou ligar o som de novo.
+[2:44:11] Boas chances, hein?
+[2:44:15] Boas, boas chances de fechar.
+[2:44:20] Ô, mas vamos fechar, será? Na primeira
+[2:44:23] empresa. É isso mesmo.
+[2:44:27] Na primeira empresa a gente já vai
+[2:44:28] fechar.
+[2:44:42] Vou copiar aqui. Eu vou salvar junto no
+[2:44:45] script.
+[2:44:48] Eh, link de compra
+[2:44:51] do site
+[2:44:54] aqui e link de eh hospedagem. Hospedagem
+[2:45:03] MRR.
+[2:45:05] MRR que é recorrente, né?
+[2:45:09] Ah, então vamos lá. O checkout fechou.
+[2:45:12] Planos e assinaturas.
+[2:45:14] Eu
+[2:45:16] tenho um plano manutenção.
+[2:45:22] Copiar esse link.
+[2:45:25] É compartilhar feliz.
+[2:45:29] Então aqui temos os links úteis
+[2:45:34] para venda.
+[2:45:40] Vamos dar uma eh colocar aqui como
+[2:45:43] subtil.
+[2:45:47] Beleza, salvamos.
+[2:46:23] Agora vamos dar foco aqui para finalizar
+[2:46:26] isso.
+[2:46:28] Ainda tem um pront aqui pra gente rodar,
+[2:46:30] né?
+[2:46:37] E bora para cima.
+[2:46:41] Eu quero fechar pelo menos dois nessa
+[2:46:42] semana.
+[2:46:46] Depois já vamos fazer a conexão, já
+[2:46:48] vamos colocar no ar.
+[2:46:52] เฮ
+[2:47:14] [limpando a garganta]
+[2:47:22] Já sabemos que tá disponível.
+[2:47:37] Tá aqui.
+[2:47:46] Ah, esse Screw Revel
+[2:47:49] pra gente fazer depois.
+[2:48:41] Gastamos aí 4%
+[2:48:44] do nosso limite que renova em 19 horas.
+[2:48:49] Tá sossegado. Geminar é muito bom por
+[2:48:51] isso, né, galera? Dá para usar bastante.
+[2:48:58] Dá para usar bastante que não consome
+[2:49:00] todos os tokens nesse plano aqui, né?
+[2:49:22] Ah, que acordou com preguiça aqui.
+[2:50:10] Dá para agilizar aqui, ó. É, na verdade
+[2:50:14] não adianta. Vamos aguardar esse
+[2:50:17] finalizar esse aqui.
+[2:50:19] Já deve est na finaleira. Olha o que ele
+[2:50:23] tá fazendo aqui.
+[2:50:31] Ah, ele ainda tá ajustando a imagem,
+[2:50:33] então. Ah, deve ser essa imagem aqui que
+[2:50:35] tá quebrada.
+[2:50:46] Então deve ser isso que ele tá
+[2:50:48] arrumando.
+[2:50:55] Deixar ele rodar aí.
+[2:51:12] Ficou muito bacana, né? Vamos ver como é
+[2:51:14] que tá o mobile ainda.
+[2:51:17] Aí, ó.
+[2:51:20] Tá muito top.
+[2:51:26] que eu gosto, né, galera, que
+[2:51:27] organizando assim com o com o GPT,
+[2:51:32] com o Codex, na verdade, né, ele não
+[2:51:34] fica com aquela impressão de site de IA,
+[2:51:36] né,
+[2:51:39] tem uma identidade bem bacana, ó. Então,
+[2:51:41] não fica com aquela cara de site criado
+[2:51:45] com o IA, tirando esse ícone aqui do
+[2:51:48] WhatsApp que tá entregando, né, que a
+[2:51:49] gente vai corrigir depois.
+[2:51:52] Eu
+[2:51:59] acho que eu vou adicionar
+[2:52:01] é o mapa também, né, com a localização,
+[2:52:06] talvez.
+[2:52:13] Vamos ver.
+[2:52:16] Esperar ele finalizar aqui pra gente
+[2:52:18] jogar.
+[2:52:24] que jogar um dos últimos prontos.
+[2:53:23] Pois pra gente adicionar esses efeitos
+[2:53:25] aqui também, né? Fica bacana.
+[2:53:31] by your
+[2:53:34] look
+[2:53:38] your eyes.
+[2:53:43] >> [roncando]
+[2:54:03] >> I wonder whatday
+[2:54:07] >> [música]
+[2:54:23] >> O efeitinho aqui do menu também que
+[2:54:24] ficou bacana, né?
+[2:54:27] AP do orçamento também ficou massa.
+[2:54:31] Ó, a sua mensagem será pré-formatada
+[2:54:33] para resposta ágil no canal oficial.
+[2:54:36] Fazer um teste aqui.
+[2:54:39] Fazer um teste aqui. Quero fazer uma um
+[2:54:43] reparocial
+[2:54:50] 12.
+[2:54:56] 2 de PTUS
+[2:55:00] não estáando.
+[2:55:05] Vamos ver se ele vai, ó, ele já abre
+[2:55:10] com mensagem pré-definida
+[2:55:13] de informar disponibilidade de proposta.
+[2:55:16] Bacana.
+[2:55:20] Muito massa.
+[2:55:38] Tô na esperança que finalize, hein.
+[2:55:41] Tô na esperança que finalize. Hoje a
+[2:55:43] live hoje eu não tenho compromisso
+[2:55:44] depois das seis, galera. Hoje a lá pode
+[2:55:46] estender um pouquinho mais,
+[2:55:53] pelo menos até a gente terminar aqui, ó.
+[2:55:56] Eh, e enviar a proposta, né?
+[2:56:08] Let your body let your body go to the
+[2:56:28] bora.
+[2:56:35] Então, uma proposta enviada por
+[2:56:37] enquanto, zero venda, uma empresa
+[2:56:39] abortada.
+[2:56:44] Tá chegando essa meta aí.
+[2:57:12] arrumou ainda. A imagem tá quebrada. Ele
+[2:57:14] tá trabalhando aqui.
+[2:57:42] Capturando os screenshot de todas as
+[2:57:45] imagens. Vai ver que essa daqui tá
+[2:57:47] quebrada. Ó, ela não tava quebrada
+[2:57:49] antes, né? Que agora eu atualizei a
+[2:57:52] página aqui. Ela vai tá quebrada também.
+[2:58:03] เฮ
+[3:00:35] Ah, ela tá, ele tá otimizando, galera,
+[3:00:37] as imagens por isso. Boa. É, até porque
+[3:00:40] as imagens devem ter ficado grande, né?
+[3:00:44] Vamos olhar aqui.
+[3:00:47] Até que não tanto, né? 295, mas ele tá
+[3:00:50] otimizando, ó, pra web.
+[3:00:54] É, na verdade aqui tá otimizado, né? Que
+[3:00:57] se for olhar JPEG
+[3:01:00] dá 2 me, tá? Beleza, ele tá otimizando
+[3:01:03] pr,
+[3:01:05] ó, por exemplo, essa daqui, ó,
+[3:01:08] saiu de
+[3:01:11] 2 megas para
+[3:01:15] 166K.
+[3:01:16] Perfeito. Isso é justifica porque a
+[3:01:20] imagem tá quebrada aqui, né? tá
+[3:01:21] substituindo.
+[3:01:24] Beleza.
+[3:02:04] He.
+[3:02:34] เฮ
+[3:03:26] เ
+[3:03:41] เฮ
+[3:04:36] Aí, ó, otimizando.
+[3:05:00] I can finally see you now.
+[3:05:13] us to radiate radiate
+[3:05:17] no
+[3:05:35] andows
+[3:05:39] We
+[3:05:43] dring
+[3:06:27] see
+[3:06:43] Radiate radiate with no
+[3:07:05] andows
+[3:07:13] Dr.
+[3:07:37] Vamos lá. Tá orcando aqui, galera. Vamos
+[3:07:40] deixar ele orcar.
+[3:07:44] Isso
+[3:07:46] eu vou agilizando aqui. M.
+[3:09:08] Boa noite, Leandro. Chegou o cabra,
+[3:09:11] rapaz. E aí, beleza pura, meu querido?
+[3:10:11] Acabei de configurar o sistema de lives
+[3:10:14] de vendas pro comércio local. Opa, boa,
+[3:10:17] mano. Tá bem. Estamos finalizando aqui,
+[3:10:19] ó, do climatizador agora. Ah, já estamos
+[3:10:23] praticamente fechando com a lavanderia
+[3:10:25] de ontem, né?
+[3:10:27] Vai dar bom.
+[3:10:30] Amanhã ela já vai dar o feedback pra
+[3:10:32] gente.
+[3:10:34] Então, possivelmente aí vai ter, já
+[3:10:36] vamos iniciar com o pé direito, hein? Já
+[3:10:39] vamos iniciar com
+[3:10:42] a com fechamento já na primeira, hein?
+[3:10:47] pagamento aqui.
+[3:10:49] What if I start doing things I know I
+[3:10:51] will reg I will make my own I will not
+[3:10:56] surrend I will do my best until I get
+[3:11:40] finaleira aqui, hein, de
+[3:11:43] organização das imagens.
+[3:11:50] Ainda tá rodando aqui seis comandos.
+[3:12:01] Cara, esse sistema de de venda para
+[3:12:05] comércio é bacana. Você usa o que lendo
+[3:12:07] TikTok?
+[3:12:11] É no TikTok você roda as para eles as
+[3:12:13] live.
+[3:12:15] TikTok tá bem alta.
+[3:12:33] Ainda tem essa imagem aqui, né, pra
+[3:12:35] gente jogar para cá
+[3:12:38] depois que ele finalizar aqui.
+[3:12:42] Ficou bacana, hein?
+[3:12:45] Próximo da imagem original, né?
+[3:12:50] Tô no capricho.
+[3:12:54] Uso o TikTok.
+[3:12:58] Ah, certo.
+[3:13:03] Boa, boa. Ah, é sempre bom criar o
+[3:13:05] próprio sistema, né, personalizado.
+[3:13:08] Muito mais direto ao ponto.
+[3:13:23] Deixa eu ligar
+[3:13:25] a luz aqui, galera.
+[3:13:33] Já tá ficando noite, hein?
+[3:13:43] Vamos ver se ele já criou todas as
+[3:13:45] imagens.
+[3:13:47] A do carro tá aqui.
+[3:13:53] Eram 16, né? Então, a gente tem 45 aqui,
+[3:13:58] criou várias versões e redimensionou
+[3:14:01] também.
+[3:14:32] to
+[3:14:43] Cara, essa daqui a gente tá fazendo o
+[3:14:44] desafio de 497, viu?
+[3:14:49] 497. Paginazinha simples, bem bem
+[3:14:52] acessível para fechar mesmo.
+[3:14:57] É, no mês todo acho que dá para fechar
+[3:14:59] aí bastante, viu? Mas o legal é é a
+[3:15:03] ideia final é aumentar o MRR, né, que é
+[3:15:06] a receita recorrente. Então a gente vai
+[3:15:09] conseguir chegar
+[3:15:12] fechar os 10 clientes. Aí já são R$ 500
+[3:15:14] mensais.
+[3:15:17] É R9,90, que é hospedagem, né, pra gente
+[3:15:20] manter o site no ar, tendo custo zero.
+[3:15:24] Então, a gente usa o Git Hub,
+[3:15:27] então não tem custo.
+[3:15:35] Sobre. Ah, ele tá trabalhando aqui, ó.
+[3:15:37] Tá, agora ele tá trabalhando aqui.
+[3:15:40] É a última etapa, né? que depois essa
+[3:15:43] parte aqui tá no próximo pront.
+[3:15:47] Então a parte tá ficando bem massa, viu?
+[3:15:51] Tem que ajustar o fac aqui ainda, mas
+[3:15:53] tem que trocar essa imagem aqui.
+[3:15:56] Mas tá bem bacana.
+[3:16:01] Tá bem bacana mesmo.
+[3:16:07] Papzinho aqui já pronto
+[3:16:11] para enviar mensagem prédefinida.
+[3:16:21] Tá muito massa.
+[3:16:28] Rodapé também tá no capricho.
+[3:16:32] Vai ficar bacana.
+[3:16:35] Olha, já melhorou o alinhamento do
+[3:16:36] rodapé
+[3:16:38] antes, né? Agora a gente vai pro ter o
+[3:16:41] promp final aqui que tá tá pronto.
+[3:16:45] Mas ele tá trabalhando há um tempo aqui
+[3:16:46] já, hein? Não mostra, né? 15:58 4 2
+[3:16:52] horas já.
+[3:16:56] 2 horas já que ele tá otimizando imagem
+[3:16:59] e tudo mais.
+[3:17:01] É bom que nesse tempo a gente conseguiu
+[3:17:03] passar tudo ali pr
+[3:17:07] pra cliente da lavanderia, né? Eu
+[3:17:25] queria já mandar essa proposta hoje,
+[3:17:27] hein, para amanhã a gente estudar, ó.
+[3:17:31] Por isso eu vou,
+[3:17:34] é que esse último pront aqui eu acho que
+[3:17:35] é bem
+[3:17:38] acho que é bem curto.
+[3:17:40] vai fazer rapidão.
+[3:18:04] Tá fazendo render, tá?
+[3:18:07] Tá massa. A COP também ficou bem bacana.
+[3:18:09] Eu tava dando uma olhada na COP antes
+[3:18:11] aqui.
+[3:18:14] Claro que tem que ajustar esse esse
+[3:18:16] espaçamento aqui, mas a COP tá bem
+[3:18:19] tá bem legal, viu?
+[3:18:24] Boa, boa. Valeu, meu querido. Boa jant
+[3:18:27] aqui a gente vai mais um pouquinho
+[3:18:28] também e já vamos encerrar.
+[3:18:31] Mas ainda, como falei, quero mandar essa
+[3:18:34] proposta hoje.
+[3:19:09] 15 horas, Leandro. A live fica todo dia
+[3:19:13] às 15 horas a gente inicia, tá?
+[3:19:17] Sexta talvez atrase um pouquinho apenas
+[3:19:19] que eu tenho uma reunião às 14, aí pode
+[3:19:22] demorar um pouquinho, mas vamos fazer
+[3:19:25] todo dia. Ativa o sininho aí de
+[3:19:27] notificação que o YouTube
+[3:19:29] eh já te avisa.
+[3:20:02] เ
+[3:21:01] อ
+[3:21:14] Pessoal, vou mostrar lá
+[3:21:58] อ
+[3:23:56] Pessoal, most
+[3:24:04] quiserem
+[3:24:58] Finalizando. Finalizando.
+[3:25:06] Finalizando. Finalizando. Tá quase.
+[3:25:13] Será que vai dar para rodar o script pro
+[3:25:15] cliente hoje ainda? 6:30.
+[3:25:22] Quero que rode muito tarde. Ч.
+[3:26:13] É, galera, tá tá rodando aqui. Que que
+[3:26:17] eu vou fazer?
+[3:26:18] Vamos encerrando por aqui, por hoje.
+[3:26:21] Eh, eu vou tentar
+[3:26:25] finalizar essa CLP, essa LP aqui e aí
+[3:26:28] amanhã eu faço a integração na live para
+[3:26:32] colocar ela no ar, né? Faço a integração
+[3:26:34] para colocar ela no ar e aí a gente já
+[3:26:37] vai abordar o próximo cliente e já vamos
+[3:26:40] ter o retorno do cliente anterior, né?
+[3:26:43] Então, vou nessa. Amanhã às 15 horas
+[3:26:47] estaremos aqui de volta, viu?

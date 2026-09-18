@@ -1,0 +1,409 @@
+{
+  "dia": 6,
+  "slug": "dia-06",
+  "srt": "../../../../midias/youtube/Dia 6 Vibe Coding R$994 de R$1.621 + MRR/legendas.srt",
+  "titulo": "Dia 6 | Vibe Coding: R$994 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "data": "2026-09-08",
+  "duracao": "3:32:10",
+  "youtube": "https://www.youtube.com/watch?v=hOMFdAPxMb4",
+  "faturamento": "R$ 994",
+  "mrr": "R$ 99,80",
+  "resumo": "No sexto dia do desafio, gravado no feriado de 7 de setembro, Junior comemora duas vendas fechadas somando R$ 994 e mostra o saldo líquido de R$ 983,89 na InfinitePay. Ele anuncia o aumento de preço dos próximos sites para R$ 799 mais mensalidade e explica as vantagens de apontar o domínio na Vercel com servidores DNS. Em seguida, minera novas empresas no Nexar Hunter e escolhe a Mais Clima para criar uma demonstração com identidade própria e mascote de urso polar. Durante o desenvolvimento, organiza o código em prompts modulares, aplica um degradê suave e faz o deploy do protótipo no ar.",
+  "destaques": [
+    "Duas abordagens comerciais e duas vendas concluídas, com R$ 983,89 líquidos na conta e R$ 99,80 de receita recorrente mensal.",
+    "Reajuste de tabela planejado para R$ 799 a vista ou 10x de R$ 79,90, aproximando a meta do salário mínimo com uma única venda.",
+    "Regra de ouro visual: usar apenas fotos reais da equipe, uniformes e veículos do cliente, dispensando modelos genéricos de banco de imagens."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:00:05",
+      "texto": "Abre a transmissão ao vivo no feriado de 7 de setembro comemorando as duas vendas e R$ 99,80 em MRR."
+    },
+    {
+      "t": "00:01:05",
+      "texto": "Mostra a evolução visual do site da IG Clima e os ajustes finais antes da entrega."
+    },
+    {
+      "t": "00:10:29",
+      "texto": "Explica como usa o Nexar Hunter e por que optou por não usar o portfólio da sua agência no desafio."
+    },
+    {
+      "t": "00:11:31",
+      "texto": "Apresenta o script de abordagem validado que gerou cem por cento de conversão nas duas primeiras propostas."
+    },
+    {
+      "t": "00:17:45",
+      "texto": "Responde no chat sobre o processo de prospecção e qualificação de leads quentes e oportunidades."
+    },
+    {
+      "t": "00:46:10",
+      "texto": "Exibe o extrato ao vivo com R$ 983,89 líquidos creditados na conta da InfinitePay após as taxas de cartão."
+    },
+    {
+      "t": "00:48:13",
+      "texto": "Mostra o aparelho secundário com chip exclusivo para o WhatsApp Business da operação."
+    },
+    {
+      "t": "00:54:28",
+      "texto": "Configura o domínio próprio da Lavanderia Lords na Vercel e explica o apontamento dos servidores DNS."
+    },
+    {
+      "t": "01:19:03",
+      "texto": "Compara Next.js e Vercel com WordPress, destacando velocidade superior e custo zero de servidor."
+    },
+    {
+      "t": "01:30:46",
+      "texto": "Anuncia a transição de preço dos próximos sites para R$ 799 a vista ou 10 vezes de R$ 79,90."
+    },
+    {
+      "t": "01:42:23",
+      "texto": "Compara gateways de pagamento e aponta a fricção de login do Mercado Pago no celular do cliente."
+    },
+    {
+      "t": "02:52:16",
+      "texto": "Instrui o Gemini a seguir o mockup como referência visual absoluta sem inventar interpretações livres."
+    },
+    {
+      "t": "03:07:12",
+      "texto": "Aplica fundo degradê sutil azul e revisa espaçamentos para conferir sensação de ar refrigerado ao site."
+    },
+    {
+      "t": "03:28:01",
+      "texto": "Faz o deploy do site da Mais Clima na Vercel gerando o link público mais-jui.vercel.app."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:00:05",
+      "titulo": "Produzir no feriado",
+      "texto": "Aproveitar dias de folga do mercado permite estruturar projetos com calma e sair na frente da concorrência no dia útil seguinte."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:00:05",
+      "titulo": "Consistência supera picos de esforço",
+      "texto": "Dedicar duas a três horas diárias traz resultados mais previsíveis do que trabalhar muitas horas esporadicamente."
+    },
+    {
+      "momento": "mentalidade",
+      "t": null,
+      "titulo": "Preparação para a rejeição",
+      "texto": "Uma taxa inicial de conversão alta é atípica. Em vendas ativas o normal é receber negativas antes de encontrar o sim."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:46:10",
+      "titulo": "Transparência do saldo líquido",
+      "texto": "Acompanhar o dinheiro real após o desconto das taxas de antecipação do cartão é fundamental para manter a saúde do caixa."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:10:29",
+      "titulo": "Venda sem portfólio prévio",
+      "texto": "O cliente local compra a solução que vê pronta na tela do telefone, sem se preocupar com o tempo de carreira do desenvolvedor."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:10:29",
+      "titulo": "Automação do garimpo de leads",
+      "texto": "Usar ferramentas para mapear empresas locais poupa tempo mental e permite concentrar energia na criação da demo e no contato."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:17:45",
+      "titulo": "Leads quentes e oportunidades",
+      "texto": "Empresas com perfil ativo nas redes mas sem site entendem o valor da imagem, o que facilita a apresentação de uma proposta formal."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:48:13",
+      "titulo": "Canal comercial exclusivo",
+      "texto": "Separar o WhatsApp pessoal do atendimento profissional evita mistura de conversas e transmite mais credibilidade ao negociar."
+    },
+    {
+      "momento": "analise",
+      "t": "00:55:30",
+      "titulo": "Garimpo visual nas redes do cliente",
+      "texto": "Mapeie fotos de veículos, uniformes e mascotes nas redes da empresa antes de iniciar o código para incorporar a identidade real no site."
+    },
+    {
+      "momento": "analise",
+      "t": "03:00:36",
+      "titulo": "Divisão residencial e corporativa",
+      "texto": "Separar os serviços residenciais dos contratos empresariais demonstra maturidade técnica e atrai serviços de maior valor."
+    },
+    {
+      "momento": "analise",
+      "t": null,
+      "titulo": "Mapeamento dos concorrentes",
+      "texto": "Observar a falta de páginas modernas na região ajuda a posicionar a demonstração como a principal referência digital do setor."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:43:23",
+      "titulo": "Apenas imagens reais da empresa",
+      "texto": "Evite modelos genéricos de banco de imagens. Fotos reais da equipe e da frota geram sensação imediata de pertencimento e confiança."
+    },
+    {
+      "momento": "criacao",
+      "t": null,
+      "titulo": "Paleta extraída da marca",
+      "texto": "Defina as cores primárias e de destaque a partir da logomarca e do uniforme para criar uma composição visual autêntica."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:50:15",
+      "titulo": "Desenvolvimento em etapas sequenciais",
+      "texto": "Divida o projeto em comandos específicos para o topo, os serviços, as provas sociais e os ajustes finais, evitando sobrecarregar a IA."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:52:16",
+      "titulo": "Mockup como referência visual absoluta",
+      "texto": "Ao pedir alterações, anexe o print do layout aprovado e instrua a IA a seguir a imagem com fidelidade sem interpretações livres."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:07:12",
+      "titulo": "Degradê suave de ambientação",
+      "texto": "Um fundo degradê discreto nas dobras intermediárias quebra o branco chapado e transmite a sensação térmica do nicho de climatização."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:54:28",
+      "titulo": "Apontamento de DNS na Vercel",
+      "texto": "Delegar os servidores DNS diretamente para a Vercel ativa o domínio com certificado de segurança em poucos minutos sem custos de servidor."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:11:31",
+      "titulo": "Objetivo do primeiro contato",
+      "texto": "A mensagem inicial não deve tentar fechar a venda de imediato, mas despertar curiosidade para o cliente abrir o link da demonstração."
+    },
+    {
+      "momento": "whatsapp",
+      "t": null,
+      "titulo": "Áudio curto de acompanhamento",
+      "texto": "Mandar um áudio breve e tranquilo após o texto mostra que o contato é humano e desfaz qualquer impressão de mensagem automática."
+    },
+    {
+      "momento": "preco",
+      "t": "01:30:46",
+      "titulo": "Transição para novo patamar de preço",
+      "texto": "Após validar as primeiras entregas por R$ 497, elevar a tabela para R$ 799 valoriza o serviço e permite bater a meta com menos clientes."
+    },
+    {
+      "momento": "preco",
+      "t": "01:42:23",
+      "titulo": "Evite fricção no pagamento",
+      "texto": "Escolha links de checkout que abram direto no navegador do celular. Exigir que o comerciante faça login em aplicativos trava a venda."
+    },
+    {
+      "momento": "preco",
+      "t": "00:46:10",
+      "titulo": "O valor da receita recorrente",
+      "texto": "A mensalidade de manutenção de R$ 49,90 gera receita previsível e vira margem limpa porque a hospedagem não gera despesas."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:31:06",
+      "titulo": "Redução da sensação de risco",
+      "texto": "Mostrar a demonstração navegável faz o cliente testar o produto antes de pagar, eliminando o medo comum de atrasos ou entregas ruins."
+    },
+    {
+      "momento": "erros",
+      "t": "00:09:28",
+      "titulo": "Auditoria obrigatória no mobile",
+      "texto": "Mais de oitenta por cento do tráfego ocorre em celulares. Verifique botões, quebras de linha e tamanhos de fonte no modo responsivo antes do envio."
+    },
+    {
+      "momento": "erros",
+      "t": null,
+      "titulo": "Domínio no documento do cliente",
+      "texto": "Registre o endereço oficial sempre no CPF ou CNPJ da empresa atendida para construir transparência e evitar disputas futuras de titularidade."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "00:11:31",
+      "titulo": "Script de primeiro contato no WhatsApp",
+      "texto": "Oi, tudo bem? Falo com o responsável da [Nome da Empresa]? Meu nome é Junior, trabalho com criação de sites para empresas locais aqui na região. Encontrei o perfil de vocês e gostei muito do trabalho que realizam. Percebi uma excelente oportunidade para melhorar o posicionamento de vocês no Google e na internet, e por isso tomei a iniciativa de montar uma demonstração prática de como poderia ficar o novo site oficial de vocês. Segue o link para você dar uma olhada sem compromisso: [Link da Vercel]. Fiquei curioso para saber o que achou!"
+    },
+    {
+      "tipo": "prompt",
+      "t": null,
+      "titulo": "Prompt 1: Estrutura inicial e Hero",
+      "texto": "Analise o projeto atual e construa a estrutura inicial da Landing Page para a empresa [Nome da Empresa]. Crie um cabeçalho institucional limpo com o logotipo oficial e navegação suave. Na primeira dobra (Hero), insira uma chamada de alto impacto focada em agendamento de serviços, destaque para o mascote institucional e botão de ação direta para o WhatsApp com visual moderno utilizando Tailwind CSS."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:00:36",
+      "titulo": "Prompt 2: Seção de serviços residencial e corporativo",
+      "texto": "Construa a seção de serviços dividida em Atendimento Residencial e Atendimento Corporativo. Crie cards estilizados com ícones pertinentes, bordas arredondadas, efeitos de hover sutis e integre as imagens reais anexadas mostrando os técnicos uniformizados trabalhando."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:00:36",
+      "titulo": "Prompt 3: Prova social, etapas e FAQ",
+      "texto": "Adicione uma seção de prova social e autoridade, contendo estatísticas de clientes atendidos, garantia formal de instalação e depoimentos reais coletados das avaliações. Em seguida, implemente um acordeão interativo de perguntas frequentes sanando dúvidas sobre prazos, manutenção preventiva e condições de pagamento."
+    },
+    {
+      "tipo": "prompt",
+      "t": "02:51:15",
+      "titulo": "Prompt 4: Responsividade mobile e rodapé",
+      "texto": "Faça uma auditoria completa de responsividade no código. Ajuste paddings, margens e tamanhos tipográficos para telas de smartphones. Garanta que os botões de ação para o WhatsApp fiquem fixos ou destacados com fácil acesso pelo polegar e finalize com um rodapé institucional profissional."
+    },
+    {
+      "tipo": "prompt",
+      "t": "02:52:16",
+      "titulo": "Mockup como referência visual absoluta",
+      "texto": "A imagem anexada é o layout aprovado pelo cliente. Não quero uma nova tradução ou interpretação livre. Use como referência visual absoluta e aproxime o máximo possível dessa composição, preservando o conteúdo e os dados reais da empresa."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": null,
+      "titulo": "Roteiro para mensagem de áudio no WhatsApp",
+      "texto": "Oi, [Nome do Contato ou Responsável], tudo bem? Gravei esse áudio rapidinho só para me apresentar. Eu estava navegando aqui pela região procurando serviços de climatização e vi o trabalho excelente que vocês fazem no perfil da empresa. Como trabalho com criação de sites modernos, decidi montar um modelo completo para vocês verem como a marca de vocês se posicionaria de forma profissional na internet. Dei uma olhada nos veículos e na equipe e encaixei tudo na página. Clica no link acima pelo celular para ver como ficou, e sem nenhum compromisso. Se fizer sentido para o momento da empresa, a gente conversa. Um grande abraço!"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": null,
+      "pergunta": "A plataforma da Vercel cobra algum valor mensal para conectar o domínio personalizado do cliente?",
+      "resposta": "Não, a Vercel é gratuita para sites institucionais estáticos. O único custo é o registro do domínio de R$ 40 por ano no Registro.br, pago pelo cliente.",
+      "t": "00:54:28"
+    },
+    {
+      "autor": null,
+      "pergunta": "O que acontece se o cliente decidir cancelar a mensalidade de R$ 49,90 depois de alguns meses?",
+      "resposta": "O site pertence ao cliente e o domínio está no nome dele, então o código pode ser transferido. Na prática, quase ninguém cancela por ser um valor baixo que garante suporte rápido.",
+      "t": null
+    },
+    {
+      "autor": null,
+      "pergunta": "Você acha o Gemini superior ao Lovable para a criação de sites?",
+      "resposta": "O Lovable é ótimo, mas cobra em dólares e consome créditos rápido. O Gemini no VS Code entrega qualidade semelhante com custo muito menor e cotas mais generosas.",
+      "t": "01:09:34"
+    },
+    {
+      "autor": null,
+      "pergunta": "Por que não utilizar o WordPress com Elementor em vez de programar em Next.js com IA?",
+      "resposta": "O WordPress precisa de hospedagem paga, sofre com plugins desatualizados e é mais lento no celular. Sites em Next.js na Vercel carregam rápido e não geram custo de servidor.",
+      "t": "01:19:03"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quais serviços adicionais você oferece para o cliente após a entrega do site?",
+      "resposta": "Com o cliente fidelizado na mensalidade, você pode ofertar gestão de tráfego pago no Google Ads, otimização de SEO local e configuração para buscas por IA.",
+      "t": "01:54:00"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como convencer o comerciante a pagar R$ 49,90 por mês se ele achar que o site não precisa de manutenção?",
+      "resposta": "Posicione a taxa como um seguro digital que mantém a página monitorada e garante alterações rápidas de preços, banners e telefones por menos de R$ 1,70 por dia.",
+      "t": "01:30:46"
+    },
+    {
+      "autor": null,
+      "pergunta": "É seguro registrar o domínio no CPF do próprio desenvolvedor caso o cliente demore a fornecer documentos?",
+      "resposta": "O ideal é registrar no documento do cliente para evitar disputas futuras. Se fizer provisoriamente no seu, transfira a titularidade assim que o contrato for fechado.",
+      "t": null
+    },
+    {
+      "autor": null,
+      "pergunta": "Como agir caso o cliente não possua o logotipo em alta definição em formato vetorial?",
+      "resposta": "Extraia a melhor foto da fachada ou das redes sociais e use a IA para melhorar a nitidez ou recriar a versão vetorial com fundo transparente.",
+      "t": "01:36:53"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quanto tempo costuma levar a propagação dos servidores de nomes DNS configurados no Registro.br?",
+      "resposta": "Embora o prazo teórico seja de até 24 horas, ao apontar para a Vercel a propagação e a emissão do certificado costumam ocorrer entre 15 minutos e duas horas.",
+      "t": "00:54:28"
+    },
+    {
+      "autor": "Kaike",
+      "pergunta": "Como é seu processo de venda? Você pesquisa sobre o negócio no Google, pega os dados de lá para fazer um site e depois oferecê-los?",
+      "resposta": "Sim. Minera as empresas no Nexar Hunter, qualifica quem tem presença mas não tem site, cria um modelo demonstrativo e aborda pelo WhatsApp com o link da demo pronta.",
+      "t": "00:17:45"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "Visual Studio Code",
+      "uso": "Editor de código onde as páginas são construídas e integradas com as extensões de IA."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Ambiente de desenvolvimento integrado ao VS Code para executar comandos de IA no projeto."
+    },
+    {
+      "nome": "Gemini 3.8 Flash",
+      "uso": "Modelo de inteligência artificial usado para gerar e refinar o código com baixo custo de tokens."
+    },
+    {
+      "nome": "ChatGPT Plus",
+      "uso": "Estruturação conceitual dos prompts, criação de textos persuasivos e roteiros de serviços."
+    },
+    {
+      "nome": "InfinitePay",
+      "uso": "Gateway financeiro para cobrança por link parcelado e gestão das assinaturas mensais de manutenção."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Gateway alternativo de pagamentos analisado durante a aula."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Software de prospecção para minerar empresas locais sem site no Google Maps."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Plataforma de hospedagem em nuvem gratuita, deploy contínuo e gestão de servidores DNS."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Registro oficial de domínios com extensão .com.br pela taxa de R$ 40 por ano."
+    },
+    {
+      "nome": "WhatsApp Business",
+      "uso": "Canal de prospecção, envio dos links de demonstração e suporte técnico aos clientes."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:00:05",
+      "texto": "Com apenas duas empresas abordadas no total, nós fechamos duas vendas de sites. Temos cem por cento de aproveitamento até aqui, mas isso não significa que todas as abordagens serão fáceis."
+    },
+    {
+      "t": "00:46:10",
+      "texto": "O dinheiro está na conta: R$ 983,89 líquidos creditados na InfinitePay. Não tem enrolação nem teoria vazia, o desafio é na prática e transparente."
+    },
+    {
+      "t": "01:30:46",
+      "texto": "R$ 497,00 foi excelente para destravar o desafio e colocar as primeiras vendas para dentro, mas a qualidade que estamos entregando vale facilmente R$ 799,00 à vista mais a mensalidade."
+    },
+    {
+      "t": "02:52:16",
+      "texto": "A imagem anexada é o layout aprovado. Não quero interpretação livre da IA: use como referência visual absoluta e replique com precisão cirurgica."
+    },
+    {
+      "t": "00:46:10",
+      "texto": "O segredo para viver com tranquilidade no digital é o MRR: a mensalidade de R$ 49,90 é lucro líquido puro no bolso, porque a hospedagem na Vercel é custo zero."
+    },
+    {
+      "t": "00:00:05",
+      "texto": "Trabalhar no feriado enquanto o mercado descansa é o que separa quem constrói um negócio real de quem apenas sonha com resultados."
+    },
+    {
+      "t": "01:42:23",
+      "texto": "O link de pagamento não pode ter fricção. Se o cliente clicar no celular e tiver que lembrar login de aplicativo, a venda morre ali na hora."
+    },
+    {
+      "t": "03:31:06",
+      "texto": "O cliente local não quer saber de teoria técnica de programação; ele quer olhar a tela do celular e ver a empresa dele linda, pronta para receber orçamentos."
+    }
+  ]
+}

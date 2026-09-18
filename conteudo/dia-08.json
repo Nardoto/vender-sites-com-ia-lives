@@ -1,0 +1,401 @@
+{
+  "dia": 8,
+  "slug": "dia-08",
+  "srt": "../../../../midias/youtube/Dia 8 Vibe Coding R$994 de R$1.621 + MRR/legendas.srt",
+  "titulo": "Dia 8 | Vibe Coding: R$994 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "data": "2026-09-09",
+  "duracao": "4:11:00",
+  "youtube": "https://www.youtube.com/watch?v=bzF7HnpN5qw",
+  "faturamento": "R$ 994",
+  "mrr": "R$ 99,80",
+  "resumo": "O canal atinge a marca de mil inscritos e Junior comemora mostrando o extrato bancário com o saldo das duas primeiras vendas, somando R$ 994 de faturamento e R$ 99,80 de MRR. Ele reajusta a tabela comercial para R$ 799 à vista ou dez vezes de R$ 79,90 no cartão, mantendo o domínio anual e a taxa de manutenção mensal. Durante a transmissão, o proprietário da Mais Clima responde avisando que apresentará a demonstração pronta aos consultores em uma mentoria. Junior faz prospecção de oficinas mecânicas no Nexar Hunter, encontra a Store Automotive com o site fora do ar na bio do Instagram e cria uma landing page esportiva no VS Code com fotos reais da empresa.",
+  "destaques": [
+    "O retorno da Mais Clima comprova o modelo: o cliente respondeu ao envio da demonstração pronta e marcou de apresentar aos consultores da empresa.",
+    "A nova tabela comercial sobe para R$ 799 à vista ou dez vezes de R$ 79,90 no cartão, além da taxa de manutenção mensal de R$ 49,90.",
+    "A prospecção no nicho automotivo encontrou trinta oficinas sem site, revelando a oportunidade da Store Automotive com link quebrado na bio do Instagram."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:02:23",
+      "texto": "Comemora a marca de mil inscritos no canal e reforça o compromisso de transparência total no desafio."
+    },
+    {
+      "t": "00:03:23",
+      "texto": "Relembra o início em 2012 com PHP e reforça a regra de não usar o portfólio da agência."
+    },
+    {
+      "t": "00:07:29",
+      "texto": "Abre o extrato da InfinitePay com R$ 983,79 em conta e anuncia o novo preço de R$ 799 à vista."
+    },
+    {
+      "t": "00:10:31",
+      "texto": "Abre o site da Mais Clima no VS Code e planeja ajustes no rodapé."
+    },
+    {
+      "t": "00:15:47",
+      "texto": "Debate com o chat o envio de prévia pronta versus abordagem direta para quem não tem portfólio."
+    },
+    {
+      "t": "00:18:56",
+      "texto": "Explica os custos zero de hospedagem na Vercel e o registro do domínio próprio do cliente."
+    },
+    {
+      "t": "00:24:14",
+      "texto": "Organiza e exporta o script de abordagem comercial no Word para os alunos."
+    },
+    {
+      "t": "00:26:21",
+      "texto": "Conversa com Renato sobre encarar negativas com naturalidade e seguir para o próximo lead."
+    },
+    {
+      "t": "00:57:48",
+      "texto": "Minera trinta e sete oficinas no Nexar Hunter e identifica trinta empresas sem site."
+    },
+    {
+      "t": "00:58:48",
+      "texto": "Encontra a Store Automotive no Instagram e descobre que o site da bio está fora do ar."
+    },
+    {
+      "t": "02:54:27",
+      "texto": "Dispara a demonstração pronta para o proprietário da Mais Clima pelo WhatsApp."
+    },
+    {
+      "t": "02:56:28",
+      "texto": "O dono da Mais Clima responde avisando que mostrará o site na mentoria do dia vinte."
+    },
+    {
+      "t": "03:03:17",
+      "texto": "Cria a pasta da Store Automotive e organiza as fotos reais coletadas do Instagram."
+    },
+    {
+      "t": "03:23:23",
+      "texto": "Estrutura os serviços e blocos da Store Automotive com tema escuro no VS Code."
+    },
+    {
+      "t": "04:07:58",
+      "texto": "Finaliza a preparação das imagens da Store Automotive e encerra a transmissão de quatro horas."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "02:56:28",
+      "titulo": "Respeite o tempo do cliente",
+      "texto": "Empresários têm rotinas operacionais pesadas e consultorias internas. Quando o retorno demorar ou for adiado, mantenha o acompanhamento profissional sem desespero."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:03:23",
+      "titulo": "Foco na meta diária",
+      "texto": "Mesmo com o saldo positivo das primeiras vendas, mantenha a disciplina diária de prospecção para atingir a meta do salário mínimo."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:26:21",
+      "titulo": "Receber negativa é natural",
+      "texto": "Tomar respostas negativas faz parte da rotina de qualquer vendedor. Agradeça o contato e canalize a energia no próximo lead da lista."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:57:48",
+      "titulo": "Oportunidades no setor automotivo",
+      "texto": "A mineração de oficinas mecânicas revelou dezenas de empresas ativas e lucrativas sem site institucional. O nicho tem ticket alto e demanda constante de motoristas."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:58:48",
+      "titulo": "Site fora do ar na bio",
+      "texto": "Encontrar um link quebrado no perfil do Instagram é uma grande oportunidade comercial. O cliente já reconheceu a necessidade de ter um site e precisa apenas reativar a presença online."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:52:11",
+      "titulo": "Analise o perfil do WhatsApp",
+      "texto": "Antes de enviar a abordagem, verifique se a conta comercial tem foto de qualidade e catálogo de serviços. Contas estruturadas respondem com mais rapidez."
+    },
+    {
+      "momento": "analise",
+      "t": "03:11:01",
+      "titulo": "Posicionamento especializado",
+      "texto": "Ao identificar serviços de alta performance e veículos importados na oficina, posicione a empresa como centro automotivo especializado em vez de oficina comum."
+    },
+    {
+      "momento": "analise",
+      "t": "03:45:32",
+      "titulo": "Combata as dores do consumidor",
+      "texto": "Destaque no site orçamentos aprovados por fotos no WhatsApp, garantias formais e sala de espera climatizada. Isso quebra as principais desconfianças de quem busca manutenção automotiva."
+    },
+    {
+      "momento": "analise",
+      "t": "03:51:00",
+      "titulo": "Transforme pontos fracos em destaque",
+      "texto": "Se a maioria dos concorrentes não documenta a garantia das peças, inclua um selo de garantia de serviços em destaque na página."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:13:32",
+      "titulo": "Use apenas fotos reais",
+      "texto": "Não use imagens genéricas de banco de fotos para empresas locais. Fotos reais dos elevadores, mecânicos e fachada transmitem autenticidade imediata ao cliente."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:14:41",
+      "titulo": "Cuidado com o tema escuro",
+      "texto": "Evite preto absoluto no fundo e utilize tons ardósia escuros. Mantenha os títulos em branco puro e textos secundários em cinza claro para boa leitura sob luz solar."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:01:55",
+      "titulo": "Botão de contato fixo no mobile",
+      "texto": "Mantenha um botão de chamada para o WhatsApp fixado na barra inferior do celular. Isso permite ao visitante solicitar orçamento em qualquer ponto da rolagem."
+    },
+    {
+      "momento": "criacao",
+      "t": "04:01:56",
+      "titulo": "Divida o projeto em prompts modulares",
+      "texto": "Em vez de pedir o site completo de uma só vez, execute comandos separados para hero, serviços, autoridade, depoimentos e rodapé. Isso evita alucinações e perda de contexto da IA."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:24:14",
+      "titulo": "Abordagem com link navegável",
+      "texto": "Apresente o link da demonstração sem custos antecipados e peça a opinião do empresário. A visualização da marca pronta no celular quebra a barreira inicial de contato."
+    },
+    {
+      "momento": "whatsapp",
+      "t": null,
+      "titulo": "Mensagem de áudio personalizada",
+      "texto": "Após enviar o texto com o link do protótipo, envie um áudio curto e educado se apresentando. A voz humana elimina a impressão de automação e spam."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:57:49",
+      "titulo": "Acompanhamento sem pressão",
+      "texto": "Quando o tomador de decisão informar prazos internos ou reuniões de equipe, agradeça e combine um retorno suave após a data indicada."
+    },
+    {
+      "momento": "preco",
+      "t": "00:06:26",
+      "titulo": "Aumento gradual de ticket",
+      "texto": "Com a metodologia validada pelas primeiras vendas a R$ 497, a nova tabela sobe para R$ 799 à vista ou dez vezes de R$ 79,90 no cartão."
+    },
+    {
+      "momento": "preco",
+      "t": "00:07:29",
+      "titulo": "Construção de receita recorrente",
+      "texto": "A cobrança de R$ 49,90 mensais por suporte e hospedagem gera renda passiva limpa. Com uma base de clientes ativa, a mensalidade cobre os custos e garante estabilidade."
+    },
+    {
+      "momento": "preco",
+      "t": null,
+      "titulo": "Site versus Instagram",
+      "texto": "Explique ao cliente que as redes sociais atendem quem já conhece a empresa, enquanto a busca do Google capta motoristas com necessidades urgentes no trânsito."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:15:47",
+      "titulo": "Protótipo pronto acelera o fechamento",
+      "texto": "Enviar a demonstração funcionando antes de pedir qualquer pagamento elimina o risco percebido pelo comerciante e reduz a negociação a poucos passos."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:18:56",
+      "titulo": "Domínio próprio conectado na Vercel",
+      "texto": "Após o pagamento, cadastre o domínio no Registro.br e aponte os servidores DNS na Vercel para colocar a página no ar com certificado de segurança."
+    },
+    {
+      "momento": "fechamento",
+      "t": null,
+      "titulo": "Checklist de entrega técnica",
+      "texto": "Antes de entregar o site definitivo, teste todos os botões de ligação e WhatsApp no celular para conferir o funcionamento em conexões móveis."
+    },
+    {
+      "momento": "erros",
+      "t": "00:10:31",
+      "titulo": "Separe os papéis das ferramentas",
+      "texto": "Use o ChatGPT para arquitetar a proposta visual e criar os textos persuasivos, deixando a IA do editor de código focada exclusivamente na programação."
+    },
+    {
+      "momento": "erros",
+      "t": "00:58:48",
+      "titulo": "Verifique as redes antes de prospectar",
+      "texto": "Deixar de checar links no perfil do Instagram faz você perder o gancho de abordagem. Um link quebrado na bio é a melhor justificativa para iniciar o contato."
+    },
+    {
+      "momento": "erros",
+      "t": "00:15:47",
+      "titulo": "Evite consultar detalhes estéticos no chat",
+      "texto": "Não envie prévias incompletas pedindo opinião sobre cores ou fontes. O cliente leigo precisa ver o projeto pronto e harmônico para tomar uma decisão."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "00:24:14",
+      "titulo": "Script de abordagem comercial",
+      "texto": "Olá, tudo bem? Falo com o responsável pela [Nome da Empresa]? Me chamo Junior e atuo com desenvolvimento web focado no fortalecimento de empresas locais da nossa cidade. Acompanho o perfil de vocês e admiro muito a qualidade técnica e a organização dos serviços que vocês publicam. Notei que vocês possuem uma grande oportunidade de atrair clientes mais qualificados pelo Google, e por isso tomei a iniciativa de montar um layout demonstrativo de como ficaria a nova página oficial da empresa. Você pode visualizar sem nenhum compromisso pelo link a seguir, direto no seu smartphone: [Link da Vercel]. Adoraria receber sua opinião sobre o resultado!"
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:21:21",
+      "titulo": "Identidade e hero section com tema escuro",
+      "texto": "Atue como um desenvolvedor frontend especialista em Next.js e Tailwind CSS. Crie a estrutura inicial e a primeira dobra para o Centro Automotivo Store. Utilize uma paleta escura (fundo Dark Slate #0f172a com acentos metálicos e cinza claro). Cabeçalho institucional com menu, contato direto e chamada principal de impacto sobre manutenção automotiva especializada, integrando a foto real do Camaro esportivo no elevador da oficina com botão de agendamento no WhatsApp."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:23:23",
+      "titulo": "Grade de serviços técnicos especializados",
+      "texto": "Construa uma grade de serviços com seis cards modulares modernos com efeito de brilho e hover. Serviços: Diagnóstico Computadorizado, Câmbio Automático, Revisão Preventiva, Injeção Eletrônica, Suspensão Esportiva e Ar-Condicionado Automotivo. Cada card deve ter ícone minimalista, breve descrição de benefícios e link direto para orçamento."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:45:32",
+      "titulo": "Seção sobre a oficina e diferenciais",
+      "texto": "Crie a seção de história e infraestrutura da oficina. Apresente os diferenciais competitivos: sala de espera executiva com café e internet, serviço de carro reserva para revisões longas e envio de relatórios fotográficos pelo WhatsApp durante a manutenção. Integre fotos reais do espaço físico da oficina."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:51:00",
+      "titulo": "Depoimentos e selos de garantia",
+      "texto": "Estruture a seção de depoimentos com layout de cards elegantes e avaliações de cinco estrelas extraídas das avaliações reais do Google. Destaque selos de garantia formal de serviço e certificações técnicas dos mecânicos."
+    },
+    {
+      "tipo": "prompt",
+      "t": "04:01:56",
+      "titulo": "Mapa, perguntas frequentes e rodapé",
+      "texto": "Finalize a landing page com acordeão interativo de perguntas frequentes sanando dúvidas sobre prazos e formas de parcelamento. Adicione mapa interativo de localização, horários de funcionamento e rodapé corporativo moderno com políticas e contatos atualizados."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": null,
+      "titulo": "Áudio humanizado de apresentação",
+      "texto": "E aí, pessoal da Store, tudo bom? Passei aqui rapidinho em áudio só para me apresentar. Eu já conheço o trabalho de vocês aqui na cidade e sei que a oficina tem um padrão diferenciado com veículos premium. Notei que o site de vocês que estava na bio acabou saindo do ar, então aproveitei para adiantar um projeto moderno no capricho para vocês avaliarem. Clica no link acima pelo celular para ver como ficou. Grande abraço e sucesso por aí!"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": null,
+      "titulo": "Mensagem de acompanhamento após 24 horas",
+      "texto": "Olá, [Nome do Contato], tudo bem? Conseguiu dar uma olhada no modelo que preparei? Se tiver qualquer dúvida ou quiser ajustar algum detalhe das fotos da equipe, estou à disposição!"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "@Akirra-p5f",
+      "pergunta": "Quanto cobrar por site? Eu não tenho como assistir a live agora, queria saber isso.",
+      "resposta": "O preço oficial é de R$ 799 à vista ou em até dez vezes de R$ 79,90 no cartão, além de R$ 40 anuais de domínio no Registro.br e R$ 49,90 mensais para manutenção e hospedagem.",
+      "t": null
+    },
+    {
+      "autor": "Vini",
+      "pergunta": "A Vercel cobra algum valor para permitir a conexão de domínio personalizado do cliente?",
+      "resposta": "A Vercel não cobra para conectar domínios próprios. O cliente adquire o endereço no Registro.br por R$ 40 ao ano, configura os DNS e o site fica hospedado gratuitamente com certificado de segurança.",
+      "t": "00:18:56"
+    },
+    {
+      "autor": "Igor",
+      "pergunta": "Você acha viável mandar uma prévia pronta para o cliente? Já testei três abordagens enviando prévia e ninguém me responde.",
+      "resposta": "A demonstração pronta é o melhor caminho para quem não tem portfólio. Se não houver retorno, revise o perfil das empresas abordadas, certifique-se de usar fotos reais e avalie se o segmento valoriza presença visual.",
+      "t": "00:15:47"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Ontem tomei um red de um cliente que abordei com a prévia. Vale a pena ligar para insistir ou parto para o próximo?",
+      "resposta": "Receber recusas faz parte normal das vendas. Não insista com ligações invasivas: agradeça cordialmente, deixe a porta aberta e passe para o próximo lead da lista.",
+      "t": "00:26:21"
+    },
+    {
+      "autor": null,
+      "pergunta": "Qual é a divisão ideal de trabalho entre o ChatGPT e o Antigravity no dia a dia da criação?",
+      "resposta": "Use o ChatGPT para planejar a arquitetura da página, redigir o copywriting e formular os prompts técnicos. No VS Code, use o Antigravity apenas para gerar e ajustar o código em Next.js e Tailwind CSS.",
+      "t": "00:10:31"
+    },
+    {
+      "autor": null,
+      "pergunta": "É viável cobrar manutenção recorrente de oficinas mecânicas ou eles costumam recusar mensalidades?",
+      "resposta": "Oficinas entendem de manutenção preventiva melhor que outros segmentos. Apresentar os R$ 49,90 como suporte contínuo para manter o site seguro e atualizado tem excelente aceitação.",
+      "t": "00:57:48"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como agir se a foto da fachada da oficina estiver com carros velhos ou entulho na calçada?",
+      "resposta": "Peça para a IA remover elementos poluídos da foto ou foque as dobras da página nas bancadas limpas, equipamentos de diagnóstico e veículos em manutenção interna.",
+      "t": "00:13:32"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você recomenda exibir tabelas de preços de serviços no site da oficina mecânica?",
+      "resposta": "Não coloque preços fixos para serviços mecânicos, pois o custo varia com marca, ano e peças do carro. O mais eficiente é descrever as especialidades e direcionar o orçamento para o WhatsApp.",
+      "t": "03:23:23"
+    },
+    {
+      "autor": null,
+      "pergunta": "É necessário ter conhecimento avançado de programação para executar esse fluxo de trabalho?",
+      "resposta": "Não é preciso dominar programação avançada. A inteligência artificial gera a estrutura de código, cabendo ao desenvolvedor entender a lógica básica, orientar as correções e avaliar o visual.",
+      "t": "00:03:23"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "Antigravity / Gemini 3.8 Flash",
+      "uso": "Extensão no VS Code para geração e edição de código Next.js e Tailwind CSS."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Planejamento da arquitetura da página, redação de textos persuasivos e elaboração de prompts."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Software de prospecção e mineração de empresas locais no Google Maps com filtro de presença digital."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem gratuita na nuvem com integração direta ao GitHub e certificado SSL automático."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Registro e gestão de domínios com terminação .com.br pelo valor anual de R$ 40."
+    },
+    {
+      "nome": "InfinitePay",
+      "uso": "Plataforma de cobranças digitais para links de pagamento parcelado e gestão da mensalidade recorrente."
+    },
+    {
+      "nome": "WhatsApp Web",
+      "uso": "Canal direto de envio das demonstrações prontas, mensagens de voz e negociação com proprietários."
+    },
+    {
+      "nome": "Google Meu Negócio",
+      "uso": "Fonte de avaliações de clientes, fotos reais da fachada e dados de contato das oficinas."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:02:23",
+      "texto": "Ontem vocês fizeram meu dia muito feliz: batemos mil inscritos no canal. Eu não esperava bater essa marca tão rápido."
+    },
+    {
+      "t": "00:03:23",
+      "texto": "O objetivo aqui é fazer um salário mínimo vendendo sites de casa, com qualquer computador comum, sem usar o portfólio da minha agência."
+    },
+    {
+      "t": "00:07:29",
+      "texto": "O dinheiro está na conta: R$ 983,79 líquidos creditados na InfinitePay. É saldo real do extrato."
+    },
+    {
+      "t": "00:57:48",
+      "texto": "Trinta e sete leads minerados de oficinas mecânicas no Hunter e trinta estão sem site. O mercado automotivo está completamente desatendido na internet."
+    },
+    {
+      "t": "00:58:48",
+      "texto": "A Store já teve site no passado e colocou o link na bio do Instagram, mas agora está fora do ar. Essa é a melhor oportunidade para fechar negócio."
+    },
+    {
+      "t": "02:56:28",
+      "texto": "A Mais Clima respondeu ao vivo: estão em processo de mentoria presencial no dia vinte e vão apresentar o site aos consultores."
+    },
+    {
+      "t": "00:26:21",
+      "texto": "Receber um não é a coisa mais comum em vendas. Não fique ligando para insistir com quem não tem interesse; passe para o próximo lead da lista."
+    }
+  ]
+}

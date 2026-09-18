@@ -1,0 +1,3842 @@
+Dia 12 | Vibe Coding: R$1.093 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA
+https://www.youtube.com/watch?v=pyRz5ZODG1Y
+
+[00:20] Now you know I to go I to go. I still
+[00:24] love you. I hope you know I hope you
+[00:27] know the we were never to be sorry I to
+[00:33] leave
+[00:36] now you know
+[00:38] to go to
+[00:45] We will
+[01:39] E aí, rapaziada?
+[01:46] Já tô preparando tudo aqui, galera, e a
+[01:48] gente já vai iniciar.
+[01:50] Tão me ouvindo bem? Tão ouvindo a
+[01:52] música? Como que tá aí?
+[01:57] Quero saber, quero saber, hein,
+[01:59] rapaziada.
+[02:00] >> Tô ouvindo o áudio, hein?
+[02:04] Já vai soltando o likezão, hein?
+[02:14] Salve Dudu,
+[02:16] salve Alan.
+[02:20] Carlos Henrique, Wesley,
+[02:26] Vinícius Vieira, Flávia Alessa.
+[02:30] Salve Flávia.
+[02:35] Eu
+[02:44] pid já tava comentando aqui, hein?
+[02:46] Começa em 7 minutos. Boa.
+[02:58] Já vamos colar, galera. Já vamos colar.
+[03:00] Vai soltando o likezão aí.
+[03:06] Tudo OK, disse o Dudu.
+[03:20] Galera, eu não tô dando conta de vocês,
+[03:23] hein.
+[03:25] Não tô dando conta de responder todo
+[03:27] mundo lá no grupo.
+[03:34] Ah,
+[03:37] vocês estão bom? Vocês estão bom?
+[03:40] Ô, tá estourando a luminosidade aqui,
+[03:42] né, galera? Pera aí, deixa eu arrumar
+[03:44] essa isso aqui.
+[03:55] Ô, Dudu, até amanhã sai. Já tô editando
+[03:58] ele. Já comecei a editar ele.
+[04:23] Boa, galera. Tá chegando ali o grupo.
+[04:25] Hoje tinha 500 mensagens. Então, André,
+[04:29] eu já acordei com a galera
+[04:32] a milhão.
+[04:47] Tô finalizando aqui, galera. A gente já
+[04:48] vai começar
+[04:51] terminando os últimos setups aqui.
+[05:01] Para quem não tá no grupo e tá chegando
+[05:02] agora, galera, o grupo tá na descrição,
+[05:04] né?
+[05:06] É só colar.
+[05:14] Bora lá, gente. Bora lá. Vou abrir aqui
+[05:17] o
+[05:19] WhatsApp.
+[05:23] Cliente de ontem não respondeu, galera.
+[05:25] Pera aí, deixa eu organizar a música
+[05:27] aqui para mim.
+[05:29] Pronto.
+[05:31] Cliente de ontem não respondeu. Eu
+[05:33] mandei umas 10:55 mais uma mensagenzinha
+[05:36] para ele. Ele ainda não respondeu.
+[05:39] Cliente da oficina, eu fiz o follow-up
+[05:41] hoje.
+[05:43] Vamos aguardar se ele visualizou. Vamos
+[05:45] ver se ele vai responder ou ele não vai
+[05:47] responder.
+[05:50] E se ele não responder, amanhã a gente
+[05:52] faz mais um followup nele, tá, galera?
+[05:56] Caso eles não respondam,
+[05:58] eh,
+[06:00] caso eles não respondam, vira
+[06:05] vira
+[06:07] portfólio, né? Então, bora lá. Olha só,
+[06:12] eh, o André Luiz chegou. Valeu, André.
+[06:19] Ali, ó, o André acabou de fechar uma
+[06:20] venda, hein? Boa, André. Boa, André.
+[06:23] Vamos abrir o VS Code aqui, né? Nosso
+[06:26] tradicional VS Code.
+[06:33] Vamos abrir o nosso VS Code aqui.
+[06:39] Vamos minimizar o WhatsApp.
+[06:43] Então, galera, eh, olha lá,
+[06:46] fechamos, né, o site da Lumiart ontem.
+[06:52] Ah, perdão, gente, eu ia arrumar essa.
+[06:54] Tá estourado aqui. Só um minuto.
+[07:14] Pronto, agora não tá tão estourado aí a
+[07:16] nossa luminosidade.
+[07:19] Ó, o Alan vendeu três três sites, hein.
+[07:23] Boa, boa. É isso aí, aproveitando a
+[07:26] Black que tá chegando, né? Com certeza,
+[07:28] pessoal, todo mundo quer vender mais.
+[07:30] Então, galera, o seguinte, quem é novo
+[07:32] aqui, coloca aí, caí de paraquedas no
+[07:34] chat ou tá todo mundo já acompanhando
+[07:38] desde o início.
+[07:45] Está todo mundo aqui desde o início, não
+[07:46] precisa explicar a nossa jornada.
+[07:50] Questar tem vir meu para os clientes,
+[07:51] algo assim. Eu tenho que buscar o e
+[07:54] contratar o cliente depois.
+[07:57] Bir, você tá falando Hunter?
+[08:01] Eh, o Hunter dispara a mensagem no
+[08:03] WhatsApp, tá? É, é um plugin adicional.
+[08:10] Ó, o Luiz caiu sem querer. Boa, Luiz.
+[08:12] Vamos ver quem mais. Como você faz em
+[08:14] relação ao domínio e ao cobrar
+[08:16] mensalidade? Leonardo, a gente cobra.
+[08:18] Hospedagem do cliente R9,90 e hospeda
+[08:21] gratuitamente no GitHub e na Versel.
+[08:24] Fizemos isso ontem, ao final da nossa
+[08:26] live,
+[08:29] Bird. Sim, o plugin de disparo ele é ele
+[08:32] é separado do Hunter, tá? Ele é um um
+[08:35] adicional, você pode contratar ele
+[08:38] dentro do Hunter, independente do plano
+[08:40] que você tem. Só não funciona,
+[08:42] obviamente com com o plano free, né?
+[08:46] Ó, o Demétrio faz três dias começou a
+[08:48] acompanhar. Boa.
+[08:51] Então, galera, o seguinte, eh, vamos lá.
+[08:54] Vamos falar sobre estratégias. Vamos
+[08:56] falar sobre estratégias.
+[08:59] Eh, o que que mudou?
+[09:01] Que que vai mudar para essa segunda
+[09:03] quinzena de
+[09:06] segunda quinzena de setembro?
+[09:09] Não fica lento não, Léo. Acessa aí o
+[09:11] nosso site para você ver que a gente fez
+[09:13] ontem.
+[09:15] H,
+[09:17] fizemos 15 dias, galera, de estratégia
+[09:19] da seguinte forma. Começamos o o projeto
+[09:22] do zero, né, sem portfólio, sem nada, e
+[09:27] usamos a estratégia de eh
+[09:31] usamos a estratégia de criar o mocap pro
+[09:35] cliente, colocar o site no ar e depois
+[09:38] entrar em contato para fazer a venda,
+[09:40] certo? Enviamos cinco propostas.
+[09:45] Duas propostas fechamos,
+[09:48] uma proposta tá em análise e duas
+[09:50] propostas ainda não tivemos
+[09:53] eh retorno. Certo?
+[09:58] Eh, Marcos, na a gente tem oferta aqui
+[10:01] na descrição da live, tá? O antigravity
+[10:04] com 1000 tokens mensais aí para você eh
+[10:08] usar aí a 1499,90 18 meses, tá? Só
+[10:11] clicar no link na descrição da live, aí
+[10:14] você já libera, destrava aí esse esse
+[10:18] bloqueio.
+[10:21] Fiz uns sete e sites de início diferente
+[10:24] para usar como modelo. Estou com
+[10:26] bastante dificuldade para ter resposta
+[10:28] do cliente. Boa. Agora, Alex, nessa
+[10:30] segunda,
+[10:32] nessa segunda quinzena, eu vou falar
+[10:34] sobre isso agora, galera. Então, eh,
+[10:36] essa segunda quinzena,
+[10:38] nós vamos mudar nossa estratégia. Então,
+[10:40] a gente abordou cinco empresas, eh
+[10:43] fechamos duas com essa nossa
+[10:45] metodologia, uma tá em análise e duas
+[10:48] ainda não responderam pra gente, tá?
+[10:50] Então, visualizaram, não responderam,
+[10:52] que é o que normalmente acontece. Agora,
+[10:54] essa segunda quinzena, a gente vai criar
+[10:57] uma segunda estratégia, certo? Que é eh
+[11:01] não fazer mais o website pro cliente em
+[11:05] si, tá? Eh, fazer um mocape.
+[11:09] Sim, mas em em imagem, né? Então, ao
+[11:11] invés da gente pegar o mocap que a gente
+[11:14] gera, a imagem que a gente gera, montar
+[11:16] o site e vender pro cliente, a gente já
+[11:18] vai abordar o cliente
+[11:21] com o mocap em imagem. E aí a gente só
+[11:24] produz o site se a gente fechar com
+[11:26] eles. O que isso vai trazer? Mais
+[11:29] prospecção de clientes. Então, o que que
+[11:31] vocês vão ver agora
+[11:33] nessa segunda quinzena desse mês? que
+[11:35] vocês vão ver muito mais prospecção de
+[11:38] clientes do que desenvolvimento de
+[11:41] website, tá? Só que aí quando você vai
+[11:43] prospectar um cliente assim, dessa forma
+[11:46] que eu tô abordando,
+[11:48] eh,
+[11:50] a gente precisa ter um portfólio. Então,
+[11:54] a gente já tem cinco portfólios, eh,
+[11:57] dois que já estão liberados pra gente
+[11:59] usar. Esse que tá em análise, a gente
+[12:02] não vai usar como portfólio ainda. Esses
+[12:04] dois que tão eh esses dois que estão aí
+[12:08] no ar, que o cliente não respondeu
+[12:10] ainda, a gente vai aguardar, né? Se eles
+[12:13] não responder, a gente remove a logo,
+[12:16] remove os dados do cliente e faz ele
+[12:18] como um modelo e adiciona lá no nosso
+[12:21] portfólio. Só que a gente precisa ter um
+[12:24] site de portfólio, né, galera?
+[12:27] E aí, é isso que eu tava organizando
+[12:29] aqui hoje pela manhã,
+[12:32] usando o chat GPT. Eh, eu criei aqui
+[12:37] uma logo para mim, tá? Que é o JR Lima.
+[12:47] Em cima dessa logo, galera, eu vou
+[12:50] produzir o meu site, que vai ser o meu
+[12:52] portfólio. E aí é isso que eu vou mandar
+[12:54] junto pros clientes, entendeu?
+[12:57] Então, primeiro a gente vai organizar, a
+[12:59] gente não vai sair abordando o cliente
+[13:00] sem ter uma prova social para mostrar
+[13:03] para eles, né? E aí simplesmente mandar
+[13:05] os o link dos sites que a gente já fez,
+[13:09] vai ficar uma lista muito gigante no
+[13:11] WhatsApp. Então, o que que a gente vai
+[13:13] fazer?
+[13:15] Vou montar o meu portfólio. Eu tava
+[13:17] brincando hoje aqui, ó, já com char GPT,
+[13:21] eh, para trazer,
+[13:23] é, algumas ideias aqui, ó. Inclusive,
+[13:25] montei umas fotos minhas que eu peguei,
+[13:27] profissionais.
+[13:29] Inspiração sempre aqui, galera. Eu uso
+[13:30] sempre o Pinterest.
+[13:33] O Rafael perguntou: "Como vocês e chega
+[13:35] em quem decide?" Já que a maioria que
+[13:37] atende o WhatsApp é um secretário
+[13:40] pedindo contato, Rafael, não tem outra
+[13:42] maneira. ou você vai ter que visitar
+[13:46] a empresa de de forma física, né? É a
+[13:49] única maneira. Por enquanto
+[13:52] é só assim para você para você
+[13:54] conseguir. Então, o que que nós vamos
+[13:57] fazer hoje e amanhã, galera? Organizar o
+[14:00] nosso site. Eu sei que tem muita galera
+[14:02] aqui
+[14:03] que tá prospectando cliente e não montou
+[14:06] ainda o próprio portfólio. Quem já tem
+[14:08] portfólio aí, galera, coloca no chat aí.
+[14:11] Quem já tem portfólio pronto, site,
+[14:13] website próprio para vender,
+[14:17] conta para mim.
+[14:36] Ninguém,
+[14:38] ninguém, ninguém tem.
+[14:41] Caraca,
+[14:47] ó, o Alan dis que o dele tá
+[14:48] desatualizado
+[14:51] aí que tá, galera. É isso aí, ó.
+[14:57] ou você não tem
+[14:59] ou tá desatualizado.
+[15:02] E aí eu vou dar uma dica para vocês.
+[15:05] Eh, o espelho do teu cliente é você, tá?
+[15:10] E e era uma coisa que acontecia muito
+[15:12] numa agência, na agência que eu presto
+[15:14] consultoria, que eu presto serviço. A
+[15:16] gente fazia um excelente SEO, a gente
+[15:18] fazia um excelente tráfego pago e a
+[15:20] gente fazia excelentes sites para os
+[15:22] outros e acabava não fazendo pra gente,
+[15:26] tá? Então, eh, você é o espelho do teu
+[15:29] cliente. Então, imagina, é como eu
+[15:33] vender é iPhone, por exemplo, na minha
+[15:36] loja de forma exclusiva
+[15:38] e usar um celular de outra marca, certo?
+[15:41] Então,
+[15:43] você tem que usar o que você vende. Se
+[15:46] você vende tênis da Nike, dificilmente
+[15:48] você vai e chegar com outra marca nos
+[15:51] pés, né? Se você vende creme dental da
+[15:55] Colgate, você não pode usar closeup, não
+[15:58] pro na frente do teu cliente,
+[16:00] obviamente, tá? Então,
+[16:05] então assim,
+[16:08] como que você vai vender um site pro
+[16:10] cara?
+[16:12] E aí você vai explicar que ele vai ter
+[16:14] presença no Google, que mais pessoas vão
+[16:18] encontrar ele no Google se você não tem
+[16:21] o site,
+[16:23] entendeu? Aí o cara vai pensar: "Poxa,
+[16:26] mas é tão importante mesmo ter um site
+[16:27] que nem você tem,
+[16:30] né? A pessoa que faz o site não tem, que
+[16:33] pra pessoa que faz o site é muito em
+[16:34] conta, imagina que ele vai pagar para
+[16:36] alguém fazer o site se a pessoa que faz
+[16:38] o site não tem site, tá? Então isso é um
+[16:41] negócio muito importante. Eu aprendi
+[16:43] numa lição de marketing há muitos anos
+[16:45] atrás. Você tem que usar o que você
+[16:48] vende. Você tem que investir. Aquela
+[16:50] expressão vestir a camisa da empresa não
+[16:53] é só se dedicar, é usar os recursos e
+[16:57] mostrar pras outras pessoas que aquilo
+[16:58] ali funciona para você, por isso que
+[17:00] elas precisam, certo? Então a ideia da
+[17:03] live de hoje e amanhã
+[17:07] é montar o meu portfólio, tá?
+[17:10] Vamos lá pro chat. Deixa eu ver. Cheguei
+[17:11] tarde, The King. Não, chegou na hora,
+[17:14] The King. A gente tá iniciando.
+[17:17] Alô, Oliveira. Um cliente uma vez me
+[17:18] perguntou, disse: "Esse site é
+[17:20] importante porque você não tem o seu".
+[17:21] Olha só, é isso aí. O meu tá
+[17:24] desatualizado também, o Vieira Nerd. Aí
+[17:26] que tá, galera. Então, é isso que eu
+[17:28] falo para vocês. Como é que vocês vão
+[17:30] vender um site para alguém se vocês não
+[17:33] têm site? E assim, ó, não vai me colocar
+[17:36] um domínio genérico, não vai me colocar
+[17:38] um ponto IA, um ponto não sei o quê,
+[17:40] galera. Propriedade ou vai trabalhar com
+[17:44] pcom ou vai trabalhar com pcom.br, tá? E
+[17:48] aí, o que que a gente vai fazer? Vamos
+[17:50] fazer o nosso portfólio. Por isso que eu
+[17:52] tô desenvolvendo
+[17:54] eh a minha marca, tá? Então, o que que
+[17:57] eu fiz hoje? Hoje eu peguei uma foto eh
+[18:00] bacana que eu encontrei no site. Outra
+[18:02] coisa, galera, se você não usa terno e
+[18:05] gravata, não vai botar no teu site uma
+[18:07] foto de você de terno e gravata, tá?
+[18:09] Porque aí o cara vai chegar e vai, você
+[18:11] vai chegar na empresa do cara, o cara
+[18:12] vai olhar: "Não, mas não, essa aqui não
+[18:14] é a mesma pessoa". Então, sejam eh
+[18:18] autênticos, tá? Sejam autênticos. criem
+[18:21] eh um site que transmita o trabalho de
+[18:24] vocês, mas que também conecte eh as
+[18:27] pessoas, tá? Então, quando você vai
+[18:29] visitar, se você manda o site pro cara e
+[18:32] depois você vai visitar, o site que ele
+[18:34] viu, tem que ser a mesma a mesma
+[18:36] identidade da pessoa que tá chegando lá,
+[18:38] tá? Entendeu? Então, não vai colocar uma
+[18:40] foto de uma Ferrari lá no e no teu site
+[18:43] e vai chegar lá no cara de Gol, nada
+[18:46] contra Gol. Excelente carro.
+[18:49] É, já tive. Então assim, crie uma
+[18:52] identidade que aproxime você do teu
+[18:54] cliente e não afaste, tá? Senão o cara
+[18:57] vai olhar, pô, não, não é isso aqui, não
+[18:59] foi isso aqui que eu contratei, tá?
+[19:03] Então é isso que a gente vai fazer.
+[19:05] Então a gente vai fazer o nosso próprio
+[19:07] site porque vai ser eh a nossa
+[19:09] ferramenta de vendas. Outra coisa vai
+[19:13] ser uma maneira da gente divulgar nosso
+[19:16] negócio.
+[19:18] Automaticamente a gente vai fazer SEO
+[19:20] para rankear aqui na nossa cidade. Então
+[19:24] é uma jornada que vocês têm que fazer
+[19:25] junto quem tá vendendo o site, quem já
+[19:27] fechou site, quem não conseguiu fechar
+[19:29] site, quem não recebeu resposta do
+[19:32] cliente, tá? Vamos enriquecer
+[19:36] a a o nossa a nossa abordagem. Então
+[19:39] vamos trazer mais conteúdo, vamos trazer
+[19:41] mais credibilidade, porque é normal a
+[19:44] gente não conseguir vender no início e
+[19:46] enfrentar. Vocês estão vendo a
+[19:47] dificuldade que vocês estão enfrentando
+[19:49] aí, eh, da maneira que vocês estão
+[19:52] começando, é a mesma dificuldade que eu
+[19:53] tô enfrentando aqui e que vocês estão
+[19:55] acompanhando ao vivo comigo, né?
+[19:58] Então, é isso que eh a gente vai fazer e
+[20:02] é isso que a gente vai construir,
+[20:03] construir uma marca e construir uma
+[20:05] identidade. Eu falei ontem na live que
+[20:07] se eu tivesse colocado a minha marca da
+[20:09] agência e abordado muitas eh pessoas em
+[20:13] nome da minha agência, eu teria certeza
+[20:15] que a gente já tinha batido na primeira
+[20:16] semana
+[20:18] o objetivo, né, de do salário mínimo,
+[20:22] que é o objetivo que a gente tem na live
+[20:23] aqui. Porém,
+[20:26] como eu falei, eu já tenho anos de
+[20:28] estrada, já tenho autoridade, o pessoal
+[20:30] já é já conhece a Nexa, então eu não, eu
+[20:33] não vou usar porque vocês não
+[20:35] conseguiriam começar junto esse desafio.
+[20:38] E assim, eh, conectando só comigo, vai
+[20:41] ser e todo mundo aqui no mesmo barco, tá
+[20:44] galera? Então, olha só, vamos lá, vamos
+[20:47] fazer o site de vocês, vamos fazer junto
+[20:49] comigo aí. Eh, primeiro deixa o likezão,
+[20:52] não esquece. Se você não é inscrito, se
+[20:54] inscreva no canal. Eh, a gente vai, se o
+[20:57] pessoal quiser dar uma, se o pessoal
+[20:59] quiser dar uma olhada e fazer um
+[21:01] comentário. Onde, Alex?
+[21:05] Uma dúvida. Quando você usa esse tipo de
+[21:06] abordagem, é melhor usar uma LP de
+[21:08] agência ou estilo frila? Então, Dudu, eu
+[21:12] vou fazer aqui, ó, estilo frila. Vocês
+[21:14] já vão ver o que eu preparei aqui
+[21:16] inicialmente, né?
+[21:18] Eh, e aí vocês já vão, a gente já vai
+[21:20] trocando uma ideia. A verdade é que a
+[21:22] galera vende aí pelo YouTube que é
+[21:23] fácil, mas quase ninguém ensina
+[21:25] prospecção e fechamento. É isso aí,
+[21:27] Rafa. Eh, é que normalmente eu vou ser
+[21:30] bem sincero com vocês, tá? Porque da
+[21:32] mesma forma que vocês e me encontraram
+[21:34] aqui, eu já encontrei muita gente
+[21:36] fazendo essa linha semelhante.
+[21:39] E normalmente ninguém faz em live, né?
+[21:41] Normalmente a gente vê o vídeo, ah,
+[21:43] construir um site de R$ 5.000 em uma
+[21:46] hora na usando IA.
+[21:49] Aí você vê o cara com o site lindão,
+[21:51] cheio de efeito, 3D, 4D, 4K e lá vai.
+[21:56] Mas aí é seguinte, será que ele vendeu
+[21:59] esse site mesmo ou ele julga que esse
+[22:01] site vale R$ 5.000? Porque isso eu posso
+[22:03] fazer aqui. Eu posso fazer um site de R$
+[22:05] 5.000 aqui e dizer para vocês: "Pô, esse
+[22:07] site vale R$ 5.000". Mas e aí, quem que
+[22:10] vai comprar esse site? Então, eu acho
+[22:13] que essa toda essa e esse conjunto de
+[22:16] coisas, por isso que o canal, galera, é
+[22:18] é lives diárias e a gente vai ir, a
+[22:21] gente tem muito chão, a gente tá só no
+[22:22] início, né? A gente tá hoje no dia 12
+[22:25] até, deixa eu atualizar aqui,
+[22:28] deixa eu atualizar aqui a descrição da
+[22:29] live. E dia 12,
+[22:33] o nosso saldo é 1000.
+[22:41] 93
+[22:45] presas abordadas cinco propostas três,
+[22:51] vendo as duas,
+[22:54] tá? Eh, prospecção e fechamento de verde
+[22:57] é onde está o segredo. A ferramenta e a
+[22:59] é apenas um meio. Isso aí. Isso mesmo.
+[23:02] Então,
+[23:05] o que a gente vai fazer é isso. Então, a
+[23:07] gente fez um uma primeira quinzena, a
+[23:08] gente fez um uma metodologia, vendemos.
+[23:11] Agora, na segunda quinzena, a gente vai
+[23:13] usar essa outra metodologia e aí lá no
+[23:16] fim do mês, a gente vai ver o que que o
+[23:17] que vem mais. E aí o que vende mais vai
+[23:20] ser a nossa estratégia para outubro, né?
+[23:23] Então, outubro, eh, a gente já vai ter
+[23:26] uma estratégia, vai saber. Eh, muito nas
+[23:29] lives vocês me perguntaram, né, Júnior,
+[23:31] por que você só não manda o mocap e
+[23:32] envia pro cara? Então, agora a gente vai
+[23:35] fazer isso.
+[23:38] Quais sites tu vendeu? Consegue mostrar
+[23:40] por cima? Teles? Consigo.
+[23:44] E esse daqui, ó.
+[23:47] Esse site aqui foi vendido e tá no ar,
+[23:50] inclusive, né, com a URL.
+[24:00] E esse daqui também.
+[24:06] Os demais, galera, eles estão em
+[24:08] análise, tá? Esse daqui, ó. O cliente
+[24:11] olhou e não respondeu ainda.
+[24:20] Esse daqui o cliente vai dar retorno pra
+[24:23] gente após o dia 20. Eu já agendei aqui
+[24:25] na minha agenda para chamar ele no dia
+[24:27] 23, se eu não me engano. Isso, 23, numa
+[24:30] quarta-feira.
+[24:36] Eh, esse daqui a gente fez ontem, né, na
+[24:40] live do zero e mandamos proposta. Quer
+[24:43] dizer, mandamos proposta, não, abordamos
+[24:45] o cliente, ele ainda não respondeu. Se
+[24:48] ele não responder até o final da live,
+[24:49] eu vou mandar para ele o link para ele
+[24:52] olhar, tá?
+[24:55] Quem tá aqui no grupo, galera? Quem não
+[24:57] tá no grupo, bora. Quem não tá no grupo,
+[25:01] eh, no link aí, ó, da descrição, tem o
+[25:04] nosso grupo do WhatsApp, só colar.
+[25:05] Beleza?
+[25:09] A pessoa para começar a vender site, ela
+[25:11] precisa de um Instagram ou utiliza o
+[25:13] rosto? Marco, é legal o teu Instagram.
+[25:16] Inclusive a gente vai usar WhatsApp. Eu
+[25:19] vou usar o meu WhatsApp particular
+[25:21] também. Só que o meu WhatsApp
+[25:22] particular, galera, tem um monte de
+[25:24] coisa que todo mundo fala comigo. Eu não
+[25:25] vou poder mostrar para vocês, tá? Mas eu
+[25:28] vou abordar amigos, que é o que vocês
+[25:30] vão fazer também nessa segunda quinzena,
+[25:32] abordar amigos que tenham empresas. A
+[25:34] gente vai fazer uma arte para enviar
+[25:36] pelo WhatsApp e vai fazer um script,
+[25:38] galera. A gente vai fazer tudo junto,
+[25:40] tá?
+[25:42] E vou abordar desconhecidos também.
+[25:46] Vou abordar desconhecidos também com o
+[25:49] número que eu comprei, que vai ser o
+[25:50] número da nossa agência, tá?
+[25:58] Por vídeo não estou conseguindo ver os
+[25:59] detalhes, Wesley. Depois eu vou mandar
+[26:01] lá no grupo, tá?
+[26:05] Exatamente, Teles. O nosso objetivo
+[26:08] aqui, galera, tá travando a webcam para
+[26:10] vocês
+[26:11] ou não? É só meu OBS aqui.
+[26:15] O nosso objetivo é converter sites que
+[26:17] não tem um cara de A, tá? Sem usar o
+[26:20] Nexar Hunter, qual tipo de cliente tem
+[26:22] mais chance de fechar? Então, Demetrio,
+[26:25] eh, tem que pesquisar no Google meu
+[26:27] negócio aí. Eh, você tem que buscar as
+[26:31] empresas, olhar o perfil, né?
+[26:35] Eh, olhar o perfil, pera aí, webcam tá
+[26:38] travando. Pera aí. Olhar o perfil, olhar
+[26:40] a rede social e aí fazer uma análise sua
+[26:44] mesmo, né?
+[27:06] Pera aí, galera. Deixa eu
+[27:09] eu arrumar a webcam aqui.
+[27:26] Vamos ver se ela vai voltar,
+[27:28] senão eu vou só reiniciar o OBS aqui,
+[27:30] galera. Pera aí.
+[27:43] Voltamos, voltamos.
+[27:46] Vamos ver aqui.
+[27:49] Dá certo fazer esses layouts com Gemin
+[27:51] chat GPT gratuito? Dá, dá sim, tigo
+[27:54] 1000.
+[27:56] Voltamos, né, galera? Confirma aí se
+[27:58] voltou, tá tudo certinho.
+[28:06] Dá um OK aí para mim
+[28:10] aqui. Para mim tá como excelente. A
+[28:12] conexão.
+[28:15] Dá para fazer gratuito, Tigo. Só essa
+[28:17] parte de eh gerar o site aí você vai
+[28:20] precisar, eu te recomendo pegar uma
+[28:22] assinatura, tá? que eu acho que não vai
+[28:25] dar para conseguir fazer essa. Voltou.
+[28:28] Tá com delay a can e o áudio.
+[28:31] Acho que já vai normalizar.
+[28:35] Dá um F5 no
+[28:41] Dá um F5 aí que já vai normalizar.
+[28:46] Eu tiendo pegar uma assinatura. Eu acho
+[28:49] que não vai dar para
+[28:53] >> Então, bora então. Vamos lá, não vamos
+[28:55] perder tempo. Então, galera, qual que
+[28:57] vai ser? Eu peguei algumas referências,
+[28:59] tá?
+[29:00] Eh, peguei algumas referências aqui,
+[29:02] mandei algumas imagens,
+[29:05] pedi para ele gerar eh alguns mocaps
+[29:09] para mim,
+[29:15] cara. Não, você faz tudo no GPT gratuito
+[29:18] lá, ele gera os mocaps bem de boa. Então
+[29:20] eu separei algumas referências.
+[29:22] Eh, esses prontos, galera, vai tá tudo
+[29:24] lá no grupo no final da live, tá?
+[29:28] Então, eu separei algumas referências
+[29:30] aqui. Eh, mandei uma foto que eu também
+[29:33] peguei lá no
+[29:36] aqui no Pinterest, tá?
+[29:38] Tá aqui a foto, ó. Peguei, ó, a foto.
+[29:41] Cara, bonitão, né? Aí ficou ruim. Ficou
+[29:45] ruim. Mandei mais uma sequência,
+[29:47] ficou quase bom.
+[29:51] E aí eu pedi para ele melhorar mais,
+[29:53] mandei os mocaps, tá? As referências,
+[29:56] pedi para ele bolar um plano. Isso aqui,
+[29:58] galera, vai est tudo depois lá no grupo
+[30:00] do WhatsApp, fiquem tranquilos.
+[30:02] Já usei o Cloud Tigo
+[30:07] E aí ele gerou uma primeira uma primeira
+[30:09] versão para mim
+[30:12] na cor laranja. Achei legal, mas não
+[30:15] gostei do do portfólio aqui. Então, pedi
+[30:19] para ele remover o portfólio, tá? Ele
+[30:22] gerou é uma segunda versão. Curti
+[30:24] bastante, achei bem legal. Eh, criou uma
+[30:27] assinatura própria. Eu acho que ficou
+[30:30] massa.
+[30:33] Pedi para ele melhorar a foto, tá?
+[30:35] Então, ele melhorou a foto. É essa foto
+[30:37] aqui que a gente vai usar a partir de
+[30:38] agora
+[30:40] para criar, né?
+[30:43] E aí, ó, eu pedi uma segunda eh versão.
+[30:48] Pedi uma segunda versão já com a foto
+[30:49] atualizada.
+[30:53] E agora, OK, eu pedi mais uma, uma
+[30:56] outra, mas não gostei, tá? Não gostei.
+[30:59] Pedi para ele voltar para essa versão
+[31:01] aqui. Pedi para ele gerar essa como a
+[31:04] versão base.
+[31:06] É, ele gerou essa segunda opção. Também
+[31:09] gostei bastante, mas eu acho que essa
+[31:11] daqui ainda tá melhor, tá?
+[31:15] Eu acho que essa daqui ainda tá melhor.
+[31:17] Então é isso que é o Mocap, a ideia
+[31:20] geral do site só para ir a programar.
+[31:23] Isso mesmo, Marco. Você monta um mocap,
+[31:26] depois você pede pra chart gerar os
+[31:29] prompt, você usa lá no VS Code. Deu
+[31:32] certo com o cliente? Não respondeu
+[31:33] ainda, Cloud. Fala, mostrei logo logo a
+[31:36] pouco no início da
+[31:38] live, tá?
+[31:43] E aí assim, galera, que eu não eu
+[31:45] gostei, pedi para ele gerar o logo, tá?
+[31:49] Agora o que que eu vou pedir pr ele? Vou
+[31:50] pedir para ele gerar esse mocap aqui.
+[31:55] Melhore o design, o design deste mocap
+[32:01] usando, usando usando a logo
+[32:05] selecionada.
+[32:09] Não mexa na estrutura.
+[32:12] Na estrutura.
+[32:14] Pois gostei.
+[32:16] Aplique melhorias.
+[32:19] Melhorias. minimalistas
+[32:22] para melhorarmos
+[32:24] o design
+[32:27] e remover o máximo
+[32:33] de
+[32:35] site com cara de IA. Vou mandar para
+[32:38] ele. Você tá integrando algum serviço de
+[32:40] IA no site, tipo Robrou por WhatsApp,
+[32:42] para orçamento? Não, Telis. A gente não
+[32:45] chegou ainda nessa parte, tá? Por
+[32:46] enquanto a gente tá focado em vender
+[32:48] sites, montar a caixa. Depois a gente
+[32:51] vai eh ampliar talvez tráfego pago, se a
+[32:54] gente conseguir uma grana boa para isso,
+[32:57] né?
+[33:02] Galera, não esquece de deixar o likezão.
+[33:04] Se você não é inscrito no canal, se
+[33:05] inscreva no canal, galera. Bora bater os
+[33:08] 16 inscritos. Hoje tem só nove like aqui
+[33:11] para mim, tá certo isso?
+[33:18] Agora atualizou 20 like, mas somos 73
+[33:21] pessoas, galera. E só 20 likes. Solta o
+[33:23] likezão aí enquanto a Ia pensa.
+[33:28] Então, galera, como que a gente vai
+[33:30] fazer? Eh, já vou criar uma pasta aqui
+[33:33] que vai ser o nosso site, né?
+[33:38] Vamos colocar aqui Júnior Lima.
+[33:43] Já vou salvar a nossa logo que o Char
+[33:46] PT. Júnior, dá para fazer serviço de
+[33:48] hospedagem para uma empresa pelo Google
+[33:50] Agenda de forma gratuita? Que de forma
+[33:53] gratuita não, se você tiver paciência
+[33:56] dá, porque você vai estourar os limites
+[33:58] rapidão, né?
+[34:01] Mas dá sim.
+[34:05] Tá, vamos baixar logo.
+[34:09] Vamos lá.
+[34:18] Júnior, estou fazendo minha primeira
+[34:19] prospecção por causa de você. Boa, Igor.
+[34:22] Boa. Vamos para cima. A gente vai vender
+[34:24] muito.
+[34:31] Alex, acho que daí você vai precisar de
+[34:32] um
+[34:35] GPT. Opa, GPT free para gerar o mocap.
+[34:38] Dá certo. Dá certo sim. E
+[34:42] eminity
+[34:45] dá certo sim.
+[34:48] Quando você estourar o limite, você
+[34:49] pausa, né, e faz a sequência depois.
+[34:56] Boa, galera. Boa. Sejam todos
+[34:58] bem-vindos. E quem chegou aqui, o
+[35:00] Leonardo deu sub. Valeu, Léo. Tem muita
+[35:04] gente que tá aqui, galera, que não é
+[35:05] inscrita ainda. Bora.
+[35:07] que era a inscrição de vocês.
+[35:11] Então, coloquei a logo aqui. Depois
+[35:14] vamos colocar um mocap.
+[35:17] Fala, meu querido.
+[35:20] Boa. Estou aqui por mais um dia.
+[35:22] Topzeira. Topzeira. Quero vocês aqui
+[35:25] todo dia, galera, para fazer companhia.
+[35:30] Agora eu gostei, gente. Agora eu gostei.
+[35:33] Vou abrir já, já. Só aguardar ele
+[35:34] terminar aqui de processar. Eu vou abrir
+[35:37] aqui para vocês verem. Junior, me fale
+[35:39] três coisas importantes que você observa
+[35:41] num cliente em potencial. Muitos
+[35:44] seguidores? Não, Demétrio, primeiro que
+[35:48] eu acho que é a mais importante é você
+[35:49] analisar a estrutura do cara, ver se o a
+[35:53] empresa do cara é é, vamos dizer assim,
+[35:56] é uma empresa que tem uma base firme,
+[35:58] por exemplo, tem um local bacana, tem
+[36:02] conteúdo, tem estrutura para receber um
+[36:04] site, tá? Porque eu sempre falo nas
+[36:06] lives, não adianta você querer vender um
+[36:07] site pro cara que tem e há 50 anos o
+[36:10] boteco da esquina, né? ele já tá, ele já
+[36:14] tá ali por esporte, entendeu? Então ter
+[36:17] um site para ele não ter, não vai fazer
+[36:19] diferença.
+[36:20] Eh, analise se o site tem o potencial de
+[36:23] trazer vantagens para um cliente, né? A
+[36:25] gente não pode fazer um site só por
+[36:27] fazer, tem que ter um retorno para ele.
+[36:29] Então, vê se aquela empresa poderia ter
+[36:31] um retorno maior, vê se ele tem
+[36:33] estrutura para atender mais clientes,
+[36:35] para receber, vê se ele responde rápido
+[36:37] no WhatsApp, v tudo isso. Segundo, vê se
+[36:40] ele tem presença digital.
+[36:42] Se ele tem o Google Meu Negócio, se ele
+[36:44] tem postado com frequência no Instagram,
+[36:47] então quer dizer que ele tá interessado
+[36:48] no digital. Se ele não tem site ainda,
+[36:51] possivelmente ele vai ele vai fechar
+[36:53] contigo.
+[36:59] Ó, o Luiz deu uma dica ali do GPT, né?
+[37:01] Qual a média de preço de sites que você
+[37:03] vende? Rafa. A gente tá em 799.
+[37:07] >> Mandei uma foto de uma maquete que envio
+[37:10] pros clientes. Dá uma avaliada. Vamos
+[37:11] olhar, João Pedro,
+[37:14] você vende o site, você vende hospedagem
+[37:16] também. Isso. O cliente vai pagar R$9,90
+[37:21] por mês de hospedagem mais o valor do
+[37:23] site.
+[37:27] Aí, galera, 37 likes melhorou, mas ainda
+[37:30] somos 80 aqui.
+[37:35] 38, 80 pessoas aqui e 38 like.
+[37:43] Galera, eu vou salvar aqui o mocap,
+[37:46] ó, mocap do site.
+[37:52] Depois, galera, a gente vai trabalhar
+[37:54] com a página de portfólio, sobre
+[37:58] serviços. Aqui a gente tá fazendo uma
+[38:00] página por página, tá?
+[38:03] Como você faz a hospedagem? Não entendi
+[38:04] isso, Igor. A gente vai fazer ao vivo
+[38:06] aqui quando eu pôr o meu site pro ar. Aí
+[38:09] vocês vão ver como eu hospedo, como eu
+[38:11] conecto o DNS, tá? O domínio próprio.
+[38:16] Eu faço GitHub Versel, tá? Mas vocês vão
+[38:21] emitir, eu vou colocar todos os prompts
+[38:23] lá no no grupo do WhatsApp no final da
+[38:27] live, tá? Des na descrição do vídeo, tá
+[38:30] o link aí para você colar lá na gente,
+[38:33] com a gente no grupo, tá? Galera, eu
+[38:35] abri aqui o mocap
+[38:38] e aí é o seguinte, vamos ver aqui.
+[38:42] Vamos fazer por partes, tá?
+[38:54] Eu vou dar um zoom aqui, ó, para para
+[38:56] vocês conseguir ver. Então, esse vai ser
+[38:58] o resultado do nosso site, galera.
+[39:00] Fechou?
+[39:07] Ontem fechou aquela venda do cliente,
+[39:09] tá? E Cri tá em andamento. Depois eu vou
+[39:12] abrir o whats ali de novo. Ele ainda não
+[39:15] visualizou, não respondeu.
+[39:22] Na versel gratuita é só botar o domínio.
+[39:24] Não, não tem custo nenhum, Telis. É só
+[39:27] colocar o domínio.
+[39:29] Galera, bora chegar nos 1600 inscritos.
+[39:32] Tem gente aqui não é inscrita, hein?
+[39:35] Que que vocês acharam, galera?
+[39:39] Vai ficar top, não vai?
+[39:46] Esse card aqui nós vamos melhorar depois
+[39:48] porque eu sou o único que tá meio voando
+[39:50] aqui.
+[39:54] Vamos colocar aqui na página, Dudu.
+[39:56] Vamos usar esses sites que a gente já
+[39:58] vendeu como portfólio e esses que a
+[40:01] gente produziu, a gente remove logo e
+[40:03] dados do cliente e coloca como portfólio
+[40:05] também. Galera, vamos aqui, ó,
+[40:08] vamos abrir meu projeto aqui. Vamos
+[40:11] startar
+[40:13] aí. 1599 inscritos, galera. Valeu.
+[40:17] Só eu não recebi a notificação. Deixa eu
+[40:18] abrir aqui, ah,
+[40:21] o negócio das notificações aqui para ver
+[40:23] se ele começa a mostrar melhor aqui.
+[40:33] Ah,
+[40:42] deixa eu abrir aqui, galera. Pera aí.
+[40:49] Vai melhorar o design. Vou depois que
+[40:50] ele tiver no ar.
+[40:54] Primeiro a gente vai montar o o mocap
+[40:56] dele.
+[41:13] Deixa eu só arrumar as caixas de alertas
+[41:15] aqui, galera, para não é arriscado subir
+[41:17] o domínio na versel, na versão gratuita.
+[41:21] Não, Ris, nunca tive problema. Tenho
+[41:22] muito projeto lá, inclusive fazer um
+[41:25] teste aqui da
+[41:29] do das caixa de alerta.
+[41:32] Pronto, agora acho que vai dar bom.
+[41:37] Por que que seria arriscado, Regis?
+[41:40] Os arquivos não ficam dentro da versel,
+[41:42] né? Os arquivos ficam dentro do gitub.
+[41:45] A ver, a gente conecta só o domínio.
+[41:53] Então, galera, olha só o que tem que
+[41:54] melhorar aqui. É esse card aqui que tá
+[41:57] bacana. Eu acho que essa primeira dobra
+[41:58] não tem cara de
+[42:01] tá bem estruturado.
+[42:06] Acho que tá bem estruturado, viu? Acho
+[42:07] que não. Esses ícones aqui para os
+[42:09] passivos de melhorias, mas acho que para
+[42:12] início, para início dá, tá?
+[42:15] Então vamos lá.
+[42:17] Eh, deixa eu fechar aqui.
+[42:20] Na verdade, ele devia ter minimizado só,
+[42:22] mas tá beleza.
+[42:25] Refinei o mocap, mantendo a estrutura
+[42:27] aprovada e a logo selecionado. Só avisei
+[42:30] a iluminação, retirei os brilhos
+[42:31] excessivos e deixei os cards e botões
+[42:33] com acabamento mais discreto.
+[42:38] Teles, fica ligado aí que a gente vai
+[42:40] fazer isso. Pap dock do WhatsApp com
+[42:43] link direto. vai ter, Otávio, o botão
+[42:45] flutuante do WhatsApp, tá?
+[42:48] Então, bora. Perfeito.
+[42:51] Agora vamos produzir eh produzir o site
+[42:57] no VS Code usando o antigravity.
+[43:01] Sempre importante, galera, falar o que
+[43:03] que vocês estão usando, porque senão ele
+[43:05] vai tirar promps como se fosse por GPT,
+[43:07] né? E aí não vai, você vai ter
+[43:09] dificuldade de reproduzir.
+[43:12] Vamos iniciar por etapas.
+[43:15] Dobras,
+[43:18] gerepts
+[43:19] com as imagens prontas para eu enviar
+[43:24] juntamente.
+[43:27] Se a versel cair, os arquivos ficam no
+[43:29] GitHub com o backup. Isso mesmo. Se bem
+[43:32] que os arquivos estão na minha máquina
+[43:33] também, né?
+[43:38] É, aqui é open source mesmo. É pra gente
+[43:41] economizar o máximo possível. Galera,
+[43:50] o objetivo aqui é a gente economizar.
+[44:02] Dica, dá para usar o stit? Dá para usar
+[44:05] o Stit? Sim, o Stit é do Tá aqui até.
+[44:11] Ver se é esse. Não, esse tá aqui, ó.
+[44:17] O Stitch faz design de A e é do Google,
+[44:19] tá?
+[44:21] Então, dá para produzir bastante coisa
+[44:23] legal aqui com ele também.
+[44:25] Mas no momento a gente tá de chat GPT,
+[44:28] né?
+[44:31] Vamos dividir por dobras. Primeira base
+[44:33] visual e a primeira dobra. Depois
+[44:35] apresentação, serviços, fechamento. Vou
+[44:37] preparar os prompts e separar o
+[44:39] mocapado. Só a foto e a logo em um
+[44:41] pacote, indicando quais imagens enviar
+[44:43] em cada etapa. Vou usar habilidade de
+[44:46] arquivos para disponibilizar o material.
+[44:50] Vamos abrir o antigravity aqui. Por
+[44:52] quanto está vendendo a land page? 799.
+[44:55] Bruno.
+[44:59] Valeu, galera. Sejam bem-vindos. Ó, 1599
+[45:03] inscritos no canal. Boa, galera. Acho
+[45:05] que dá para bater os 1600 hoje, hein?
+[45:08] Galera, tá chegando, deixa o likezão, se
+[45:10] inscreve no canal
+[45:14] e bora para cima.
+[45:17] Então, a estratégia vai ser essa,
+[45:18] galera. Vamos fazer o nosso site, vamos
+[45:20] organizar tudo, deixar pronto pra gente
+[45:23] se vender. Eu acredito que entre hoje e
+[45:25] amanhã a gente já finaliza o nosso site,
+[45:27] né? E amanhã, amanhã não, amanhã é
+[45:31] quarta, é isso,
+[45:33] quinta-feira a gente já deve começar
+[45:35] com,
+[45:37] já deve começar com,
+[45:40] com a prospecção
+[45:46] MTH,
+[45:48] ah, live top, irmão. Excelente trabalho.
+[45:51] No geral, eu acho que o site que está
+[45:53] gerando pode ter um pador. Pode. Entre
+[45:56] as sessões, eu tirei o pad ontem.
+[45:59] Ontem eu acabei tirando os pad porque eu
+[46:01] tava achando muitos, muito espaçamento.
+[46:07] 1600 inscritos. Valeu, galera. Boa.
+[46:12] Bora para cima.
+[46:14] Só que não recebi a notificação, né?
+[46:17] Eita.
+[46:25] Então, Stit tá, ele melhorou bastante,
+[46:27] tá, galera? Mas eu ainda eu ainda fico
+[46:30] muito satisfeito com o resultado com o
+[46:32] GPT6 do Astra.
+[46:42] Mano, você já vendeu o website na page
+[46:44] loja virtual agro pro nicho cristão?
+[46:47] Cara, eu fiz eh uma página de vendas
+[46:50] para um nicho cristão na agência, tá?
+[46:56] Eh, putz, agora agora eu recebi a
+[46:59] notificação do novo inscrito. Valeu,
+[47:01] Calder. Calder, né, Coder.
+[47:05] Eh,
+[47:07] aqui, ó,
+[47:12] você cria uma land page. Crie
+[47:16] aqui, ó. Eu
+[47:18] fiz esse daqui. Esse aqui acho que na
+[47:20] época que eu fiz a gente é, a gente usou
+[47:21] lovable.
+[47:28] Usamos lobb na época para criar.
+[47:37] muito.
+[47:42] Isso aqui são livrinhos para colorir.
+[47:48] Fala, Renato. Boa. Tava sentindo falta,
+[47:51] hein?
+[47:55] Ainda não, Marco. Ainda não vendemos.
+[48:03] Vai fazer o que hoje, Renato? Renato,
+[48:05] hoje a gente vai fazer
+[48:08] o meu website
+[48:12] crônicas corporativas. Eu utilizo Nexar
+[48:14] Hunter para prospectar cliente
+[48:18] e eu utilizo o VS Code,
+[48:22] que é gratuito, e um plano de 149 do e
+[48:28] antigravity do Google.
+[48:31] Tá, tá tudo aqui na descrição da live,
+[48:32] tá?
+[48:44] Tá tudo aqui na descrição da live.
+[48:57] Vocês que desenvolveram esse Nexar
+[48:58] Hunter? Sim, Tigo na agência. Não sei se
+[49:01] respondeu. Quais os melhores nichos?
+[49:04] Cara, na verdade não tem o melhor nicho,
+[49:06] né? O Hunter é pago. O Hunter é R$ 79 o
+[49:09] plano starter.
+[49:13] É que o Hunter, galera, o que que ele
+[49:15] faz? Ele tem uma IA que já vai te trazer
+[49:18] os os leads com maiores chances de
+[49:21] fechamento, tá? Então ele qualifica já
+[49:25] para você e já te traz uma lista pronta.
+[49:27] A gente vai usar muito Hunter agora
+[49:29] nessa parte de prospectar clientes, né?
+[49:32] Então vocês vão entender mais um
+[49:34] pouquinho do Hunter
+[49:37] e aí a gente vai fazer um disparo em
+[49:39] massa.
+[49:41] Ó, galera da oficina, eu chamei hoje às
+[49:43] 10 horas da manhã e às 10:55
+[49:48] eu chamei de novo o pessoal da Lumiarte.
+[49:51] Se eles não responder até o final da
+[49:52] live, eu vou mandar o mocap para eles
+[49:54] olhar. Eles têm que olhar o mocap.
+[49:57] Como que tu fez os pagamento do site
+[49:59] mensalidade? Pá.
+[50:02] É tudo Mercado Pago.
+[50:05] Programador mediano.
+[50:09] Faz por por região, por cidade, por
+[50:11] bairro.
+[50:22] É, eu faço a busca aqui na minha cidade,
+[50:24] né? Então eu coloco segmento, coloco
+[50:27] aqui, ó, ijui.
+[50:29] E aí com isso eu pego eh os resultados
+[50:32] aqui, ó.
+[50:35] Dá para exportar, dá para disparar em
+[50:37] massa. É bem legal.
+[50:43] Então é que normalmente, né, a gente
+[50:46] chega no
+[50:48] normalmente a gente chega na recepção da
+[50:50] empresa, né, não no responsável, mas aí
+[50:53] é questão de insistir. Vocês vão vocês
+[50:55] vão entender agora nessa segunda
+[50:57] quinzena aí.
+[51:02] Não, a gente na nessa primeira quinzena,
+[51:05] a gente fez o mocap, colocou o site no
+[51:07] ar e a gente já envia pronto para vender
+[51:09] pro cliente. Nessa segunda etapa agora a
+[51:12] gente vai gerar o mocap, vai vender e
+[51:14] depois produzir o site.
+[51:17] Normalmente quem atende não seria
+[51:19] funcionário comum. Sim, é funcionário
+[51:21] comum. Será que eles têm interesse em
+[51:23] passar pro dono, o negócio, chefe? Aí é
+[51:26] que a gente tem que chamar os chamar
+[51:28] eles, né?
+[51:39] que às vezes nem o dono da da empresa
+[51:41] responde. Só que assim, galera, não tem
+[51:43] como você chegar numa empresa
+[51:45] desconhecida direta no dono, a não ser
+[51:47] que você vai visitar ele pessoalmente,
+[51:49] né, e aí tem a chance ainda dele não tá
+[51:51] lá. Então é natural isso, é 100% natural
+[51:55] isso acontecer.
+[52:02] O segredo é você nunca despejar tua
+[52:03] mensagem de cara, né? Você manda: "Olá,
+[52:05] tudo bem? Estão atendendo?" E porque aí
+[52:08] você força, eles vão achar que é um
+[52:09] cliente, eles vão responder
+[52:13] ali, ó. O João Pedro falou exatamente
+[52:15] isso que eu tava falando agora para
+[52:16] vocês.
+[52:19] Exatamente isso,
+[52:22] galera. Olha só, saiu é
+[52:27] saiu aqui a primeira parte que ele tá
+[52:30] pedindo aqui, ó. Tá os prompts tudo
+[52:33] aqui. Beleza.
+[52:36] Cadê o zip que ele pediu para mim
+[52:37] baixar?
+[52:39] Aqui, ó. Prompts e imagens.
+[52:42] Vamos baixar aqui. Prompts e imagens.
+[52:53] Vamos extrair.
+[53:05] Eu mando a mensagem logo de cara. É,
+[53:08] exatamente.
+[53:10] Não pode mandar mensagem logo de cara.
+[53:12] Você manda olá, tudo bem? O cara tem que
+[53:14] achar que você é cliente, você entendeu?
+[53:16] senão eles vão eles vão te ignorar
+[53:18] mesmo,
+[53:21] tá? Então ele separou aqui prompts, tá?
+[53:23] Então vamos pegar aqui os prompts
+[53:29] e aí vamos copiar o prompt aqui.
+[53:33] Beleza?
+[53:36] Vamos ver o que que ele vai trazer pra
+[53:37] gente.
+[53:40] Vou pegar duas pastas aqui, uma com as
+[53:42] imagens e uma com uns prontos.
+[53:54] Ah, vamos lá.
+[53:56] Qual imagem eu preciso mandar?
+[53:59] Mocap da home. Aprovado.
+[54:07] Júnior Lima, braços cruzados e a logo.
+[54:08] Na verdade, tem que mandar as três, né?
+[54:15] Pronto. Vamos andar as três e vamos
+[54:18] executar o prompto.
+[54:28] E a validação. Perfeito.
+[54:36] Mas não corre o risco de você gastar
+[54:38] tempo criando mocap. Isso gasta muito
+[54:40] mais recurso antes. Sim. Marcos, só que
+[54:43] aí é o seguinte, ó, deixa eu te
+[54:44] perguntar. Se você não tem portfólio, se
+[54:47] você começou agora, eh, que que você
+[54:50] acha? É mais fácil você vender o site só
+[54:52] mandando mensagem pro cara e contando
+[54:53] que você vende site ou talvez mostrando
+[54:57] um visual de como ficaria o site dele
+[54:59] para tentar encantar o cliente?
+[55:02] Gasta tokens, mas na verdade não é que
+[55:04] gasta token, galera. É um investimento
+[55:06] que você tem que fazer, né?
+[55:09] Testou o Codex Júnior que achou. Gostei,
+[55:12] Renato, mas tá sugando token, né?
+[55:18] A maior dificuldade é chegar em quem
+[55:19] decide. Então, Rafa, eh, aí a gente tem
+[55:23] que filtrar, né, o que que tu acha que
+[55:25] tem possibilidades e aí quem sabe
+[55:27] abordar o cliente pessoalmente, né?
+[55:34] Outro detalhe, galera, abordem
+[55:36] conhecidos eh de vocês que já tem
+[55:39] empresa, tá? A gente vai fazer isso
+[55:42] porque é muito mais fácil você fechar
+[55:43] com essa pessoa do que com o
+[55:45] desconhecido,
+[55:49] entendeu? Então essa é a diferença, é
+[55:51] tentar e brilhar o olho do cara, né?
+[55:57] McAP home aprovado e Júnior de braços
+[56:00] cruzados.
+[56:08] Vou fazer um site para uma igreja de um
+[56:10] pastor conhecido meu. Nem vou pedir
+[56:12] muito, pois já tô criando portfólio.
+[56:14] Isso aí. Eu tô indo em pessoas que eu já
+[56:16] conheço. Não estou muito seguro para
+[56:18] abordar desconhecidos. Boa. É o melhor
+[56:21] caminho porque as pessoas já te
+[56:22] conhecem, né? Tem algum modelo de
+[56:24] oficina que já fez oficina mecânica? Tem
+[56:27] sim.
+[56:30] Inclusive ali no nosso grupo tem os
+[56:32] prontos que eu usei para fazer esse
+[56:35] site.
+[56:42] Todo final de live, galera, eu mando lá
+[56:44] no grupo os prontos que eu usei, tá?
+[57:11] Diz ele que já fez. Galera,
+[57:13] eu acho que não deve estar nem perto do
+[57:15] que a gente precisa. Então só vamos
+[57:16] pedir para ele aqui, ó, rode o servidor
+[57:18] local para eu visualizar os visualizar o
+[57:23] resultado.
+[57:25] Você vende só o site? Cheguei agora.
+[57:27] Inicialmente a gente tá vendendo só
+[57:29] site, mas a gente vai trabalhar com CRM,
+[57:33] vamos trabalhar na frente com SEO, com
+[57:35] tráfego pago. A gente vai fazer o que
+[57:37] uma agência faz, galera. Só que a gente
+[57:39] tem que construir autoridade para fazer
+[57:42] isso, né?
+[57:48] e também estudar sobre o assunto,
+[57:50] obviamente, né? Eu já tenho experiência,
+[57:52] mas quem não tem precisa estudar sobre o
+[57:55] assunto.
+[58:12] Os mocaps. Então eu vou jogar os
+[58:14] prompts, esses daqui desde o início, tá?
+[58:18] Aí vocês já vão eh ver como que eu faço
+[58:21] o mocap.
+[58:37] Boa, Google e a Pro ativo. Boa, boa.
+[58:45] Lembrando, galera, que tem uma oferta do
+[58:46] Gemini aqui a R$9,90
+[58:50] e 18 meses, né?
+[59:34] Galera, aí ó, rodou o server.
+[59:38] Vamos abrir para ver como é que ficou.
+[59:47] Tá parecido, mas tá longe. Tá. Vamos
+[59:52] mostrar aqui para ele, né? O que
+[59:57] Vou mostrar aqui o que ele gerou,
+[1:00:01] tá?
+[1:00:03] Vamos mostrar aqui o que ele gerou e
+[1:00:04] vamos pedir para fazer o ajuste.
+[1:00:09] Vamos lá. Então, cola aqui, ó. Este foi
+[1:00:12] o resultado que tivemos na primeira
+[1:00:16] dobra.
+[1:00:19] Precisamos dos ajustes
+[1:00:22] para chegar no resultado esperado
+[1:00:27] do MOCAP.
+[1:00:35] Qual nicho você acha melhor para
+[1:00:37] trabalhar com tráfego pago? Cara,
+[1:00:38] tráfego pago,
+[1:00:41] eh,
+[1:00:42] é complicado.
+[1:00:45] É pessoal, Bruno, é direto na na sua
+[1:00:48] conta, tá? É só clicar no link ali que o
+[1:00:51] pessoal já atende você.
+[1:00:56] É jogo rápido,
+[1:00:58] uns 15 minutinhos aí já tá ativado na na
+[1:01:02] tua conta.
+[1:01:07] Então não ficou como a gente queria, que
+[1:01:09] é normal, galera. Agora vamos, né?
+[1:01:16] Agora vamos trabalhar para deixar como a
+[1:01:18] gente quer.
+[1:01:21] Eu acredito que a gente até amanhã
+[1:01:23] esteja com o site 100%, galera.
+[1:01:25] Prontinho já pra gente prospectar.
+[1:01:31] Estou me planejando para criar a land
+[1:01:33] page para fazer grupo de achadinhos de
+[1:01:35] afilihado. Boa.
+[1:01:38] No momento sou gestor de tráfego, mas
+[1:01:40] muita exploração e agência. É, cara, na
+[1:01:42] verdade, tráfego pago tá bem caro, né?
+[1:01:49] Tráfego pago tá bem caro.
+[1:01:56] 86. Boa, galera, bora se inscrever e
+[1:01:58] deixar o likezão. 86 pessoas aqui com a
+[1:02:00] gente. Ontem, ontem tinha mais de 200
+[1:02:02] pessoas aqui com a gente. Júnior,
+[1:02:04] trabalha com SEO? Sou especialista em
+[1:02:06] SEO, amigo.
+[1:02:08] Desde 2014 eu trabalho com SEO.
+[1:02:12] Como faz para prospectar o cliente?
+[1:02:14] Vamos fazer isso, Spy.
+[1:02:16] Vamos fazer isso nessa semana aí.
+[1:02:42] Vai fazer alguma prospecção hoje,
+[1:02:44] Mateus? Vai depender do
+[1:02:47] Eu acho que não.
+[1:02:50] Hoje vai ser só o seu site. Fala,
+[1:02:52] Lázaro. Hoje a gente vai codar.
+[1:02:57] A gente tem que preparar agora o
+[1:02:58] material para conseguir prospectar,
+[1:03:02] mano.
+[1:03:04] Eh, consegue, quem tem feiura, consegue
+[1:03:07] fazer um portfólio igual o seu? Claro
+[1:03:10] que consegue, aí, Ris, eu não sou bonito
+[1:03:12] também não.
+[1:03:14] Eu nunca saio bem nas fotos. Aí a gente
+[1:03:15] usa Ia, né, para ficar legal nas fotos.
+[1:03:19] Esse faturamento atual de quantas
+[1:03:20] vendas? É de duas, dois fechamentos.
+[1:03:24] Hoje é o 12º dia crônicas corporativas.
+[1:03:31] Acho melhor anunciar e buscar leads pelo
+[1:03:33] meta ou criar uma LP e rodar anúncio no
+[1:03:35] Google Ads? Vittor, a gente roda
+[1:03:37] orgânico mesmo, abordando
+[1:03:40] um por um.
+[1:03:46] Aplicando atributos estendido ao
+[1:03:48] arquivo. Bora lá.
+[1:03:54] É, então é isso que a gente tava falando
+[1:03:56] no início, né? A gente tem que
+[1:03:59] montar a nossa estrutura para poder
+[1:04:01] vender pros outros, né?
+[1:04:04] Preparei um prompto. Deixa eu pedir
+[1:04:05] aqui, ó. Cole os prompts aqui
+[1:04:11] no chat sem precisar.
+[1:04:13] Ficar baixando arquivos.
+[1:04:18] Escolhe
+[1:04:21] o prompt no antigravity. Vamos abrir
+[1:04:25] aqui.
+[1:04:29] Anexa print. É print do resultado real,
+[1:04:33] tá? Vamos lá.
+[1:04:38] Print do resultado real.
+[1:04:45] know
+[1:05:15] Ah, Mocap alvo. Mocap home aprovado. Tá,
+[1:05:18] vamos mandar o Mocapado.
+[1:05:27] Ah, tá.
+[1:05:29] Vamos por partes.
+[1:05:48] Que mais ele quer que a gente mande
+[1:05:50] aqui?
+[1:05:56] retrato. Vamos mandar aqui o de braço
+[1:05:58] cruzado e a logo possivelmente, né?
+[1:06:03] Pronto.
+[1:06:06] Printora
+[1:06:11] mandar aqui.
+[1:06:16] Tu tem cara de que assim como já sofreu
+[1:06:18] muito com plugin para WordPress.
+[1:06:22] Já.
+[1:06:23] que vai mudar com o site pronto. Vai
+[1:06:25] usar ele na prospecção. Isso mesmo,
+[1:06:27] Lázaro. Vamos usar ele na prospecção.
+[1:06:29] Depois a gente já abre margem para
+[1:06:31] rankeamento no Google e já abre margem
+[1:06:33] para tráfego pago, né?
+[1:06:36] Sem eh sem dizer que cresce a nossa
+[1:06:39] autoridade.
+[1:06:41] Você utiliza alguma skill, Carlos? Eu
+[1:06:42] tenho skills aqui, eh, porém não tô
+[1:06:46] utilizando no momento.
+[1:06:49] Tô fazendo um site exemplo aqui usando
+[1:06:51] antigravity. É o que a gente tá usando
+[1:06:53] aqui. Tem o Gemini pro, é o que a gente
+[1:06:55] tá usando. José Rodriguez
+[1:07:08] aí.
+[1:07:47] Qual sua taxa de conversão aproximada
+[1:07:49] cada 10 clientes, qual o fechamento? A
+[1:07:52] gente fez cinco prospecções e fechamos
+[1:07:56] duas e uma tá em análise.
+[1:07:59] Até ontem a gente tava com 50% de
+[1:08:02] aprovação.
+[1:08:03] Já vendeu algo hoje, Felipe? Hoje a
+[1:08:05] gente não tá prospectando. Tô fazendo o
+[1:08:07] meu meu site de portfólio agora.
+[1:08:12] Exatamente isso mesmo.
+[1:08:19] Galera, não esquece de se inscrever no
+[1:08:20] canal para vocês poderem acompanhar, tá?
+[1:08:25] Então, Marcos, é alta, tá? É porque a
+[1:08:27] estratégia que a gente estava usando era
+[1:08:29] interessante.
+[1:08:31] Melhorou?
+[1:08:35] Melhorou, galera. Melhorou,
+[1:08:38] ó. Melhorou bastante,
+[1:08:42] tá? Agora o que que a gente vai pedir?
+[1:08:44] Eh, essa assinatura, né?
+[1:08:49] Eh, essa vamos mandar aqui, ó,
+[1:08:56] essa assinatura. Vamos mandar aqui para
+[1:08:58] ele, ó.
+[1:09:00] Já melhorou bastante,
+[1:09:02] bastante. A assinatura.
+[1:09:05] Assinatura tem uma identidade própria.
+[1:09:08] Identidade própria. Acho que se gerarmos
+[1:09:12] a imagem, gerarmos
+[1:09:15] ela em imagem e adicionar ao hero,
+[1:09:20] podemos
+[1:09:22] ter o resultado melhor.
+[1:09:26] Mas, galera, tá muito e já tá muito
+[1:09:28] próximo, tá? Olha só,
+[1:09:31] já tá muito próximo. Três prontos. Isso
+[1:09:33] aqui a gente já conseguiu resolver.
+[1:09:38] Três prontos, a gente já conseguiu
+[1:09:39] resolver. Galera, dá o likezão aí, se
+[1:09:42] inscreve no canal. Bora para cima.
+[1:09:46] Já já eu vou pegar meu café. Então, hoje
+[1:09:47] a gente vai transformar é o meu
+[1:09:50] portfólio pra gente conseguir prospectar
+[1:09:53] e prospectar muito cliente. Esse rodapé
+[1:09:56] aqui não tá bom. Eu vou pedir para ele
+[1:09:58] melhorar depois.
+[1:10:01] YouTube eu não vou poder usar como rede
+[1:10:02] social, né, galera? Já pensou os
+[1:10:04] clientes vão vir olhar aqui a gente
+[1:10:06] fazer o site deles.
+[1:10:08] Doideira, não vai dar. Mas WhatsApp,
+[1:10:12] Instagram vai dar. Eu vou usar o meu
+[1:10:13] Instagram pessoal, galera. Certo?
+[1:10:17] Inclusive, quem não me segue ainda, só
+[1:10:21] colar.
+[1:10:27] Cola lá. Sou Jr. Oficial.
+[1:10:38] Essas cinco empresas abordadas foram
+[1:10:40] leads frios. Foram todos,
+[1:10:44] todos, todos. Agora a gente vai começar
+[1:10:45] a trabal, quer dizer, não é que foi lead
+[1:10:47] frio, né? A gente tem o Nexar Hunter que
+[1:10:49] já traz um, é uma melhoria aqui, né?
+[1:10:52] Então,
+[1:10:55] ó,
+[1:10:57] boa. Agora ele gerou assinatura, galera.
+[1:10:59] Então, o seguinte, já melhorou bastante,
+[1:11:02] vai ficar muito mais fácil.
+[1:11:14] Quem aí tá rodando, tá criando a página
+[1:11:16] aí junto comigo? Fala. Boa. Agora a
+[1:11:19] galera tá chegando, tá se inscrevendo.
+[1:11:20] Valeu, moçada. Valeu pelo sub.
+[1:11:23] O sub ainda tá meio bugado aqui para
+[1:11:25] mim, né? Aparece para uns de uns, de
+[1:11:28] outros não.
+[1:11:38] Então o que que a gente busca aqui,
+[1:11:39] galera? Eu acho que vai ser rápido, viu?
+[1:11:41] Eu acho que a gente vai conseguir
+[1:11:42] finalizar ainda hoje.
+[1:11:44] Ó, para quem tá usando o VS Code,
+[1:11:46] galera, eu tava usando o 3.8 Flash, tá?
+[1:11:51] No médio, eu mudei agora pro 3.1 Pro no
+[1:11:55] low e tá bem mais eficiente, viu? Ó, o
+[1:11:58] Carlos Henrique tá criando. Boa, Carlos.
+[1:12:02] Gostei bastante do 3.1 Pro no low,
+[1:12:04] galera. Júnior, esse Gemini Pro aí já
+[1:12:06] vem com antigravity? Sim, é esse plano,
+[1:12:09] inclusive, é esse que eu uso, galera. É
+[1:12:11] esse que eu uso, tá?
+[1:12:14] É o que tá na minha conta de e-mail
+[1:12:16] aqui, ó, pro.
+[1:12:22] E ó os limites aqui, galera. A gente mal
+[1:12:25] tem token a para produzir site para
+[1:12:27] caramba.
+[1:12:30] Ó, ele gerou três versões aqui. Qual Yas
+[1:12:33] você tá usando para criar os sites? Qual
+[1:12:35] o valor da assinatura?
+[1:12:37] Galera, se vocês dividirem o R$9,90,
+[1:12:42] eh, vai dar 8 com34 por mês. Então, vale
+[1:12:45] muito a pena. Tá na descrição aí, é só
+[1:12:48] chamar que a galera já ativa na hora
+[1:12:49] para vocês.
+[1:12:58] Galera, galera, atende aí, já ativa
+[1:13:01] rapidão para vocês. Vi que o faturamento
+[1:13:04] aumentou. Na verdade, eu somei o valor
+[1:13:06] dos site Eduardo, com o MRR, né, que a
+[1:13:09] gente recebeu e eu não tinha colocado
+[1:13:11] ali,
+[1:13:13] ó. Ele pediu para substituir já. Vamos
+[1:13:15] lá, ó.
+[1:13:17] Já mandou o prompt aqui, tá? E mandou a
+[1:13:19] imagem pra gente. Vamos ver se essa
+[1:13:22] imagem tá em PNG mesmo, tá? Vamos baixar
+[1:13:25] ela,
+[1:13:28] colocar aqui assinatura.
+[1:13:32] Assinatura JL. morning and tomorrow.
+[1:13:54] Júnior, já pensou em usar a skill do
+[1:13:56] Codex dentro do Gemini ou do Cloud para
+[1:13:59] geração de imagens? Caso você tenha
+[1:14:01] assinatura GBT, dá para usar sem Sim.
+[1:14:04] Uhum.
+[1:14:06] Mas eu eu gosto de ir codando e já ir
+[1:14:09] visualizando aqui as alterações.
+[1:14:16] Eu gosto desse layout aqui, galera, de
+[1:14:18] mandar os prompts na esquerda e já
+[1:14:21] visualizar na direita. Essa é uma é uma
+[1:14:24] coisa minha mesmo.
+[1:14:41] Mano, é possível criar agentes de pro
+[1:14:43] WhatsApp? Com certeza, Ris.
+[1:14:47] Sem a necessidade de usar o Dá, dá. Tem
+[1:14:49] várias. Se você pesquisar aí, você vai
+[1:14:51] encontrar bastante conteúdo sobre isso.
+[1:14:54] Now make falls
+[1:15:00] like we fall down
+[1:15:04] the way someh
+[1:15:07] know we can be now never
+[1:15:24] Vendi o site hoje por 200. Valeu pelas
+[1:15:26] dicas. Boa, meu querido. Boa.
+[1:15:38] Eu fiz automação pro meu Insta.
+[1:15:41] Fica muito bom.
+[1:15:51] Não apareceu, né? Mas está tudo certo.
+[1:16:20] 200 um site.
+[1:16:22] Você compra domínios de e-mail onde? O
+[1:16:24] onde? Preciso de um e-mail de suporte,
+[1:16:27] cara. Rostinger,
+[1:16:29] estou finalizando o website de um time
+[1:16:31] que jogo. Posso mandar aqui para você
+[1:16:33] analisar? Então, meu querido, a gente
+[1:16:35] vai fazer uma live só de analisar o
+[1:16:37] website mais paraa frente. Entra no
+[1:16:39] nosso grupo lá do WhatsApp, tá na
+[1:16:41] descrição da live, se você não participa
+[1:16:43] ainda. Nós vamos fazer uma live só sobre
+[1:16:45] isso.
+[1:16:47] Então, Rafa, é, a gente vendeu a 497,
+[1:16:51] né? os primeiros
+[1:17:09] tu vendeu muito barato, mas enfim, é o
+[1:17:11] caminho. É, Res, é que assim, vai, vai
+[1:17:15] vendendo barato para gerar portfólio e
+[1:17:17] aí você vai ficando reconhecido, vai
+[1:17:19] gerando e identidade, vai gerando
+[1:17:22] portfólio e automaticamente você já vai
+[1:17:24] crescendo, aí você vai subindo o ticket,
+[1:17:27] né?
+[1:17:35] Ah, entendi, galera, o que aconteceu
+[1:17:36] aqui. A assinatura tá em preto, né?
+[1:17:43] Não, verdade não. Tá em branco.
+[1:17:47] Vamos ver o que tá acontecendo.
+[1:17:49] Enquanto isso, eu vou cuidando o
+[1:17:50] WhatsApp, tá, galera? Vai que
+[1:17:54] eu vou mandar o mocap depois para esse
+[1:17:55] cliente. Como encontrar os clientes e a
+[1:17:59] abordagem? Vamos fazer isso,
+[1:18:00] desempregado.
+[1:18:03] Vamos usar o Nexar Hunter e vamos
+[1:18:05] prospectar clientes.
+[1:18:10] Vamos. prospectar clientes para vender
+[1:18:12] websites e aumentar esse nosso caixa. Aí
+[1:18:17] chegamos na metade do mês, né?
+[1:18:19] Precisamos dar uma engordadinha no
+[1:18:20] caixa.
+[1:18:28] Opa, agora chegou a notificação de sub,
+[1:18:30] galera. Valeu, Vitor Augusto, seja
+[1:18:32] bem-vindo. Bora para cima, gente. Bora
+[1:18:34] para cima. Eu quero likezão e sub aí
+[1:18:36] enquanto o Antigravity trabalha aqui pra
+[1:18:38] gente.
+[1:18:42] Amanhã eu vou colocar no ar, galera, é o
+[1:18:44] vídeo da configuração completa do VS
+[1:18:46] Code com antigravity. Para quem quiser
+[1:18:49] esse layout aqui, para quem gostar desse
+[1:18:50] layout que eu tô trabalhando
+[1:18:53] com visualização aqui na direita, com
+[1:18:55] prompt esquerda.
+[1:18:59] Tempo de adolescente. Hoje trabalho como
+[1:19:00] gerente atacadista, mas quero migrar de
+[1:19:03] rama. Boa, desempregado. Chega de CLT.
+[1:19:06] Então, CLT ele é legal porque assim, ele
+[1:19:08] vai alavancar o teu negócio. Agora,
+[1:19:10] quando você empreender, eh, aumenta a
+[1:19:13] tua previsibilidade, né? Você pode sair
+[1:19:15] daquele teto limite que você tem hoje.
+[1:19:20] Tudo que test fica muito genérico para
+[1:19:22] oferecer pro cliente. Ou então, Gabriel,
+[1:19:26] eh, pega a base dos nossos prompts. Todo
+[1:19:29] final de live eu mando ali no grupo do
+[1:19:31] WhatsApp os nossos prompts. Talvez teu
+[1:19:33] erro esteja no prompt, né?
+[1:19:36] Outra coisa, galera, que é muito
+[1:19:38] importante,
+[1:19:40] eh, nunca planeje um site já enviando
+[1:19:45] prompt direto aqui, por exemplo, no
+[1:19:47] antigravity, tá? É bola toda uma
+[1:19:50] estrutura. Eu uso salt GPT, mas você
+[1:19:52] pode usar qualquer IA aí de de sua
+[1:19:54] preferência. Bola o projeto, gera os
+[1:19:56] mocaps,
+[1:19:58] chega no resultado final que você quer e
+[1:20:01] depois gera os prontos e executa, tá?
+[1:20:03] Porque eu vejo muita gente codando e aí,
+[1:20:05] ah, eu vou fazer o site portfólio, aí
+[1:20:07] vem aqui no Gemini, eu vou gerar um site
+[1:20:09] pro meu portfólio que vai ter que ter
+[1:20:11] isso, isso, isso. Cara, ele tá chegando
+[1:20:13] cru, tá? Então aqui, ó, a gente já tem
+[1:20:16] estrutura, já tem, já tem o mocap de
+[1:20:18] como vai ficar, já tem
+[1:20:22] eh já tem as imagens que a gente vai
+[1:20:25] usar, já tem logo. Então, estruturem
+[1:20:27] isso, porque aí os prompts vão vão sair
+[1:20:30] muito mais organizados e você vai ser
+[1:20:32] muito mais assertivo e aí você sai da
+[1:20:35] bolha, que é 90% do que a galera faz,
+[1:20:38] entendeu, né? A bolha é isso aí.
+[1:20:42] Você
+[1:20:45] vende o site? Eu vendo o site e vendo a
+[1:20:46] hospedagem.
+[1:20:49] Candidato não, Regis.
+[1:20:54] Candidato não. E o pessoal tem verba
+[1:20:56] curta normalmente e na agência a gente
+[1:20:59] não atende.
+[1:21:02] Como o site é provisório por um tempo,
+[1:21:04] né? pessoal que é uma coisinha barata,
+[1:21:06] eu acabo não,
+[1:21:08] eh, na agência a gente não pega esse
+[1:21:10] tipo de projeto.
+[1:21:14] Ó lá, BMW Brasil foi 2000. Ah, meu
+[1:21:17] querido, agora sim. Agora a gente tá
+[1:21:20] falando um ticket bacana.
+[1:21:23] Parcelei em seis vezes. Boa.
+[1:21:37] É a vantagem, galera, que vocês, por
+[1:21:39] exemplo, o Mercado Pago, mesmo tendo uma
+[1:21:41] taxa, você vende e recebe na hora. Então
+[1:21:44] você pode fazer até 12 vezes pro
+[1:21:46] cliente. Então aumenta a probabilidade
+[1:21:48] de você vender. E o Mercado Pago aceita
+[1:21:51] cadastro no CPF, né? Então você não
+[1:21:53] precisa ter uma empresa.
+[1:22:03] Aí, galera, ó, ele finalizou lá, ó.
+[1:22:07] Eh, tá bem próximo do que a gente quer,
+[1:22:09] tá?
+[1:22:13] Vamos mandar aqui para ele.
+[1:22:21] Mandar aqui.
+[1:22:38] Então aqui que eu mandei o texto,
+[1:22:39] galera. Design que gera resultados.
+[1:22:41] diferente, né? Então vou pedir para ele
+[1:22:43] ajustar e vou pedir para ele deixar
+[1:22:46] maior o Júnior Lima aqui. Então pode ver
+[1:22:49] que eu não tô mandando, galera, direto
+[1:22:51] aqui no antigravity agora esse processo
+[1:22:52] inicial. Eu tô mandando aqui no GPT para
+[1:22:55] ele gerar o prom para mim.
+[1:23:08] Então, Gabriel, é só que assim, você
+[1:23:10] fazer um site 10, 20, 30 minutos fica
+[1:23:12] muito genérico, né? Então você tem que
+[1:23:13] ter uma estrutura por trás. Aí quanto
+[1:23:16] mais rápido você fizer e mais simples
+[1:23:18] for o projeto, mais difícil é de vender.
+[1:23:20] E é isso muitas vezes que trava a venda.
+[1:23:23] Eu estava muito desanimado, comecei a
+[1:23:26] abriras lives e fiquei mais animado.
+[1:23:28] Desde ontem fiquei num ritmo de produção
+[1:23:29] muito boa. Boa, Demétrio. É, esse é o
+[1:23:32] nosso objetivo, galera. Por isso que eu
+[1:23:34] quero que vocês se inscrevam no canal e
+[1:23:36] deixe o likezão, porque isso faz o
+[1:23:39] YouTube recomendar as minhas lives para
+[1:23:41] mais pessoas.
+[1:23:42] E o objetivo é que vem mais gente
+[1:23:47] e mais gente comece a fazer site aqui
+[1:23:49] com a gente, mais gente começa a ganhar
+[1:23:51] dinheiro codando.
+[1:23:56] Agora assinatura está visível. Falta
+[1:23:58] aumentar um pouco tamanho e organizar a
+[1:24:00] legenda em três linhas. Aí ó, ele já vai
+[1:24:02] fazer.
+[1:24:07] E aí, galera, prepara porque vocês vocês
+[1:24:09] vão prospectar junto comigo.
+[1:24:20] Exatamente, Alan. Você não pode vender e
+[1:24:24] só por vender, porque aí você não vai
+[1:24:25] ter o cliente recorrente, entendeu? Você
+[1:24:28] tem que vender pensando que além de
+[1:24:31] trazer mais clientes para ele e mais
+[1:24:33] para frente ele vai ver que isso
+[1:24:35] funciona e ele vai te solicitar tráfego
+[1:24:38] pago, aí ele vai te solicitar redes
+[1:24:40] sociais, Google Ads, SEO. Então você
+[1:24:45] acaba fazendo o que a gente chama de uma
+[1:24:47] esteira, que é vender, é muito mais
+[1:24:49] fácil a gente vender um um serviço para
+[1:24:53] para aquele cara que já é nosso cliente,
+[1:24:55] do que a gente vender para alguém que
+[1:24:57] não é, entendeu? Então é muito fácil a
+[1:24:58] gente chegar em alguém que a gente já
+[1:25:00] fez o site e tentar fechar com ele um
+[1:25:02] tráfego pago do que a gente chegar para
+[1:25:04] um desconhecido e vender só o tráfego
+[1:25:05] pago. E é isso que gera eh a nossa
+[1:25:10] carreira. Então você vai juntando
+[1:25:12] portfólio, vai juntando pessoas, aí você
+[1:25:14] já vai fazer networking, já vai ter
+[1:25:16] indicação e aí vai crescendo.
+[1:25:19] Pessoal, pelo que eu entendi, não existe
+[1:25:21] mais técnica secreta de criação,
+[1:25:24] mas sim o direcionamento de arte.
+[1:25:26] Encarem a IA como uma plataforma para
+[1:25:28] fazer projetos ambiciosos e não rápidos.
+[1:25:31] É isso aí.
+[1:25:32] É isso mesmo. A gente tá falando hoje,
+[1:25:34] né, sobre isso, eh,
+[1:25:37] eh, trazer a a tua identidade para para
+[1:25:40] transmitir através da IA, que eu
+[1:25:43] programava na mão, galera. Eu programava
+[1:25:45] na mão. Então, fazer um site desse daqui
+[1:25:47] na mão demoraria semanas. E hoje eu vou
+[1:25:51] conseguir fazer até amanhã. Esse site
+[1:25:53] vai estar pronto. Amanhã a gente já vai
+[1:25:54] prospectar cliente,
+[1:25:57] né?
+[1:25:59] Recebi notificação agora. Erasmo
+[1:26:01] Nascimento deu sub. Valeu, meu querido.
+[1:26:04] Bora para cima.
+[1:26:06] Micael
+[1:26:08] Garces
+[1:26:10] deve, valeu pelo sub, gente boa. Agora
+[1:26:14] tá vindo as notificações, galera. Agora
+[1:26:16] tá massa. Olha, finalizou aqui.
+[1:26:20] Aí, ó. Agora, galera, a gente tá
+[1:26:22] falando, olha só, desde que a gente
+[1:26:24] começou
+[1:26:26] e a gente mandou o primeiro prompt às
+[1:26:28] 4:15.
+[1:26:30] Então, 20 minutinhos, 30 minutinhos,
+[1:26:33] 30 minutinhos. A gente já tá com a
+[1:26:34] primeira dobra pronta.
+[1:26:37] Vamos atualizar aqui, mandar para ele. E
+[1:26:39] agora vamos dizer para ele, ó. Perfeito.
+[1:26:41] Agora sim.
+[1:26:43] Aí a gente faz o seguinte, ó. Perfeito,
+[1:26:45] perfeito. Agora sim, vamos dar
+[1:26:49] seguimento para as próximas
+[1:26:53] próximas etapas,
+[1:26:58] porque a pessoa que faz vídeos no Insta,
+[1:27:00] ela já até aborda com o site pronto,
+[1:27:03] mostra, a pessoa se encanta e você já
+[1:27:06] agenda a reunião de fechamento. Que tu
+[1:27:08] acha desse modelo? É o modelo que a
+[1:27:10] gente tá tava fazendo de ontem para
+[1:27:13] trás, Gabriel. Se você olhar nossas
+[1:27:15] outras lives, foi assim que a gente
+[1:27:17] fechou as vendas.
+[1:27:21] Júnior, estou começando esse mercado.
+[1:27:23] Você pode passar alguma dica para
+[1:27:24] abordar clientes? Então, Notriel, as
+[1:27:27] lives passadas a gente fez isso, mas a
+[1:27:29] gente vai fazer isso muito mais agora
+[1:27:31] nas lives futuras. Então, a dica que eu
+[1:27:34] vou te dar hoje é se inscreve no canal e
+[1:27:36] ativa o sininho, porque a gente faz live
+[1:27:37] todo dia. Chegou o Renan. Fala, irmão.
+[1:27:40] Segunda vez na live apareceu para mim.
+[1:27:42] Muito top. Tem que se inscrever, Renan.
+[1:27:44] Eh, como você fez para os clientes se
+[1:27:48] ser recorrentes? Vende hospedagem? Sim,
+[1:27:51] vendo o domínio ao valor normal. Domínio
+[1:27:53] a gente não cobra nada, então cobro
+[1:27:55] R$9,90.
+[1:27:58] E é vendosedagem R9,90.
+[1:28:03] Envie o mocap completo aprovado junto
+[1:28:05] com esse prompt. Sim, senhor. Se ele
+[1:28:07] falou, tá falado.
+[1:28:10] V enviar o mocap completo aqui.
+[1:28:16] Haer e ha aprovado. Agora vamos para o
+[1:28:18] bloco dois. Seu projeto é isso mesmo?
+[1:28:22] Seu projeto. Isso aí.
+[1:28:28] Seu projeto comigo do início a fim.
+[1:28:30] Soluções para o seu negócio. Atendimento
+[1:28:31] próximo. Estratégia em cada detalhe.
+[1:28:34] Quanto cobrem o site?
+[1:28:36] LP, a gente tá cobrando 799 agora.
+[1:28:39] Crônicas,
+[1:28:42] gostei de você, Juniorzão. Abraço,
+[1:28:44] sucesso. Vou em busca do meu também. Até
+[1:28:46] a próxima. Boa, meu querido. A gente tá
+[1:28:48] aqui todo dia, das 15 às 18. Hoje eu não
+[1:28:52] vou tão longe, viu? Costuma hospedar os
+[1:28:54] projetos dos onde, Gabriel? Eh, vamos
+[1:28:58] hospedar Hostinger. É Rostinger não.
+[1:29:01] Vamos hospedar Versel e
+[1:29:04] GitHub. Fabrício deixou o sub. Valeu,
+[1:29:07] Fabrício.
+[1:29:11] Esturião, a gente já cobra direto no
+[1:29:14] cartão, tá dando opção do cliente
+[1:29:16] parcelar em 12 vezes. Ontem deu certo
+[1:29:19] aquele cliente, tá aqui, ó. Daqui um
+[1:29:21] pouco eu vou mandar o link para ele, ó.
+[1:29:23] A galera tá chegando.
+[1:29:26] Não vai dar. Tô indo pra academia agora.
+[1:29:28] Ou Gabriel indo pra academia e deixando
+[1:29:30] nós aqui sem live. Não pode, hein?
+[1:29:35] Então, um cliente eu mandei aqui, não me
+[1:29:38] respondeu, outro cliente não me
+[1:29:40] respondeu também, mas nós vamos abordar
+[1:29:42] eles de novo. A gente tem o script de
+[1:29:44] vendas, né, galera? A gente segue eles.
+[1:29:48] RH Daniel vai descobrir. RH Daniel
+[1:29:52] é o Raniel, desculpa. É o Raniel que tá
+[1:29:55] sempre com a gente aqui. Raniel vai
+[1:29:57] descobrir. A gente vai encher o saco do
+[1:29:59] cara até ele bloquear nós.
+[1:30:02] >> Trabalha com qual revenda de hospedagem?
+[1:30:05] Eh, não revendemos hospedagem aqui. Arte
+[1:30:08] Web. A gente usa open source, tá? Git
+[1:30:10] hub e Versel.
+[1:30:19] Galera, deixa eu pegar um café. Vamos
+[1:30:21] ver se Deixa eu deixar o Deixa eu pegar
+[1:30:25] um cafezinho aqui.
+[1:30:28] Vitrine de ofertas deu show sub. Valeu,
+[1:30:31] meu querido.
+[1:30:35] Você faz land page? Faço, Telis. Muitas
+[1:30:38] landes.
+[1:30:41] É aula um. É isso aí. Vitrine de
+[1:30:45] ofertas.
+[1:30:46] Tem que maratonar lá as nossas lives,
+[1:30:49] hein?
+[1:31:20] Você
+[1:31:26] vende cada site a quanto? 799
+[1:31:29] de Pânico.
+[1:31:32] Vi aqui segui logo. Boa, meu querido. É
+[1:31:34] que às vezes demora para chegar aqui,
+[1:31:36] né?
+[1:31:39] Esqueço que vendedor precisa incomodar
+[1:31:40] de certo modo. Isso aí, Raniel. Você tem
+[1:31:42] que ser chato. O vendedor, eu falei já
+[1:31:44] em todas as lives, galera, o vendedor
+[1:31:46] ele tem que encher o saco do cara até
+[1:31:48] ele te bloquear. Quanto ele não te
+[1:31:50] bloquear no WhatsApp,
+[1:31:52] a gente já fez o serviço. Então, se a
+[1:31:54] gente vender, tem que encher o saco dele
+[1:31:57] mesmo. Você vende site por 99,80? Não,
+[1:32:00] Brian.
+[1:32:01] Eh, 99,80 é o nosso MRR, que é a
+[1:32:04] manutenção dos sites que a gente já
+[1:32:06] vendeu.
+[1:32:12] Crônicas corporativas
+[1:32:15] tem, tem e vai e a gente vai fazer isso
+[1:32:17] hoje se eu conseguir terminar meu site,
+[1:32:19] tá?
+[1:32:21] Vamos, eu vou, vamos ver o que ele tá
+[1:32:22] rodando aqui, ó.
+[1:32:25] Perfeito. Agora vamos mandar para ele
+[1:32:27] que ele tem que posicionar conforme o
+[1:32:30] mocap.
+[1:32:51] Vende por quanto então? vendo por 7,99
+[1:32:54] Brian mais R9,90
+[1:32:56] eh por mês.
+[1:33:00] Quando vai fazer o vídeo? Já gravei,
+[1:33:03] Micael do VS Code. Já gravei. Vai o ar.
+[1:33:09] Eu vendi dois de pânico por 4 97, que
+[1:33:15] era o nosso valor inicial.
+[1:33:17] Eh, e agora a gente vai vender. A gente
+[1:33:21] aumentou o ticket, né? Porque a gente
+[1:33:22] precisava de portfólio primeiro, por
+[1:33:23] isso eu vendi barato. E agora eu vou
+[1:33:26] vender a 799 os próximos.
+[1:33:29] Nunca vi essa ferramenta. Como funciona?
+[1:33:31] É paga ou tem que carregar tokens
+[1:33:33] infinitos? Gabriel, é o antigravity
+[1:33:35] dentro do VS Code, tá?
+[1:33:38] Amanhã vai sair o vídeo sobre essa
+[1:33:40] configuração aqui completa.
+[1:34:03] Deixa lá pegar meu café, galera,
+[1:34:04] enquanto ele ele roda aqui o o prompt.
+[1:34:12] Deixa eu, vamos botar rodar aqui. Vai
+[1:34:13] cobrar quanto por essa aula? Não vou
+[1:34:16] cobrar nada, Micael. Todo o nosso
+[1:34:18] conteúdo aqui no YouTube é gratuito,
+[1:34:20] mano.
+[1:34:25] Eu vou fazer assim, ó, que vai ficar
+[1:34:27] mais fácil.
+[1:34:30] Eu
+[1:34:33] vou mandar esse print completo aqui, ó.
+[1:34:49] Esperar ele terminar.
+[1:34:54] Eu vou cobrar, galera, o like de vocês e
+[1:34:56] a inscrição no canal. Só isso.
+[1:34:59] Só vocês se inscrevendo no canal e
+[1:35:01] deixando o like já me motiva a tá aqui
+[1:35:03] todo dia.
+[1:35:07] Pronto, galera, eu vou pegar meu café
+[1:35:08] ali. Segura aí.
+[1:35:13] Qual a meta? Inicialmente um salário
+[1:35:15] mínimo, mas a meta vai ser muito mais
+[1:35:17] que isso,
+[1:35:25] cara. O, ô Alisson, diferença entre o
+[1:35:27] antigravity e o cloud para mim é o uso
+[1:35:29] de tokens, tá?
+[1:35:33] Valeu, Micael, valeu pelo like, pelo
+[1:35:34] sub. A ideia é vender serviço. Vamos
+[1:35:36] vender, Leonardo, depois. Se tráfego
+[1:35:39] pago, Google Ads. Agora deixa eu pegar
+[1:35:42] meu café, gente, enquanto eu rodo aqui.
+[1:37:19] to much about the struggles I was and
+[1:37:25] no trou
+[1:37:29] the
+[1:37:31] reg
+[1:37:41] the days
+[1:38:41] You know my heart.
+[1:38:43] You know my desires you the
+[1:38:47] me
+[1:38:51] to
+[1:39:10] the
+[1:39:47] Voltei, galera. Gasta cada por quanta
+[1:39:50] criação de site? Gasto muito pouco,
+[1:39:53] galera.
+[1:39:55] Gasto muito pouco.
+[1:39:57] Gasto quase nada.
+[1:40:10] Ainda não chegou, né, no resultado.
+[1:40:16] Vamos ver o que que eu perdi no chat
+[1:40:17] aqui.
+[1:40:44] Se você usar alguma plataforma mais
+[1:40:47] simples, você consegue um plano de R$
+[1:40:49] 100 do Google, só que levaria algum
+[1:40:51] tempo pela limitação. Exatamente. Se
+[1:40:53] você tiver um plano mais simples, você
+[1:40:55] vai gastar todos os teus tokens, né?
+[1:40:58] Ã, e aí
+[1:41:02] você tem que esperar renovar, né?
+[1:41:16] Vamos pedir para ele chegar aqui nesse
+[1:41:18] resultado que é o que a gente quer, né?
+[1:41:39] Em algum lugar consigo estender e
+[1:41:41] entender mais sobre como você cria esse
+[1:41:44] setup no VS Code.
+[1:41:47] Ô virtual, eu vou, eu já gravei, tô
+[1:41:50] editando já o vídeo.
+[1:41:52] É Vita Y Shorts. Tô gravando, vai sair
+[1:41:57] amanhã inclusive esse vídeo para você
+[1:41:59] ter exatamente essa esse layout aqui que
+[1:42:02] eu uso
+[1:42:06] de como configurar o VS Code nesse
+[1:42:08] formato aqui.
+[1:42:26] Galera, não esquece de deixar o likezão
+[1:42:28] e o sub. Ah, falei
+[1:42:31] Daily English acabou de se inscrever.
+[1:42:33] Valeu.
+[1:42:38] Obrigado pelo sub.
+[1:42:40] Júnior, acabei de chegar no canal. Uma
+[1:42:42] dúvida, você tá usando o antigravity?
+[1:42:44] Sim, palestrante da ONU. Tô usando
+[1:42:46] antigravano
+[1:42:50] pro e nunca usei o antiravity. Ô Micael,
+[1:42:52] tem que começar a usar, pô.
+[1:43:01] Pago R$3,90 nele.
+[1:43:05] É, aqui a gente tem essa oferta na na
+[1:43:08] descrição da live, onde você paga 149,
+[1:43:11] vai ter 18 meses do plano pro. Se você
+[1:43:14] já tem plano ativo, quando você ativa,
+[1:43:16] ele sobre ele sobrepõ o plano, né?
+[1:43:44] Cara, ele não sobrepõe.
+[1:43:48] Vamos lá, vamos ver o que implementar
+[1:43:50] resultado, tá?
+[1:44:02] Quantas prospecções por dia, nós vamos
+[1:44:04] fazer bastante agora.
+[1:44:07] Agora, a partir que a gente assim que a
+[1:44:09] gente terminar o nosso site,
+[1:44:19] ô, o flow tá incluso, né, no pro galera.
+[1:44:42] Vamos mandar aqui para ele o problema.
+[1:44:43] Alguém se inscreveu aqui. Fiozeira se
+[1:44:46] inscreveu. Valeu, meu querido, pelo sub.
+[1:44:48] Bora para cima, galera. Eu não vou ficar
+[1:44:51] travado isso aqui, tá? Eu vou seguir,
+[1:44:53] depois eu volto se ele não resolver, pra
+[1:44:56] gente não perder tempo, né?
+[1:45:04] Galera, eu quero fazer no mínimo
+[1:45:07] eh umas 10 prospecções por live
+[1:45:12] para ver quanto a gente vai conseguir
+[1:45:13] fechar nesse novo método, né, essa nova
+[1:45:17] forma de prospecção.
+[1:45:42] Exatamente. O card precisa ficar na
+[1:45:43] frente
+[1:45:45] no mocap. A falta aparece continuando
+[1:45:47] atrás dele. Eu havia orientado a não
+[1:45:49] sobrepor os blocos e isso contrariava
+[1:45:51] esse efeito. Colha esse prompt para
+[1:45:54] corrigir. Beleza.
+[1:45:57] Qual é a nova forma, Micael? a gente vai
+[1:46:00] eh criar o nosso site com o nosso
+[1:46:03] portfólio
+[1:46:05] e a gente vai
+[1:46:09] e a gente vai prospectar o cliente para
+[1:46:12] vender o site. Anteriormente a gente
+[1:46:14] tava selecionando o cliente, fazendo o
+[1:46:17] site e depois entrando em contato para
+[1:46:18] vender o site pro cliente.
+[1:46:23] Pode sim, José. Eu acho que quando você
+[1:46:25] ativar o teu plano, ele já vai cancelar
+[1:46:26] automático o teu anterior.
+[1:46:33] Então, Kemi, todos o site fica
+[1:46:36] hospedado, né, online. Então, a gente
+[1:46:38] altera lá aqui pelo VS Code mesmo.
+[1:46:47] Tô montando os meus com Astra low, mas o
+[1:46:50] bicho bebe mais que eu falo, gasta
+[1:46:52] crédito, velho.
+[1:46:55] Gabriel, minha cabeça explodindo
+[1:46:56] informações, porém não consigo sair do
+[1:46:58] cara. Joga tudo isso no chat apt e pede
+[1:47:00] para ele te guiar.
+[1:47:02] Como você faz caso o cliente tá
+[1:47:04] respondid?
+[1:47:11] Deixa eu ver onde foi parar meu
+[1:47:12] doguinho, galera.
+[1:47:15] Tô com filhote de doguinho aqui. Aí eu
+[1:47:17] tenho que ficar dando um umas olhadas
+[1:47:20] nele. Galera que chegou, não esquece dar
+[1:47:23] o sub aí, se inscreve no canal e deixa o
+[1:47:26] likezão, porque o conteúdo aqui é 100%
+[1:47:28] gratuito. Nosso grupo de networking no
+[1:47:30] WhatsApp tá na descrição do vídeo. Cola
+[1:47:32] lá com a gente. Final de cada live eu
+[1:47:35] gero o resumo dos prontos e envio lá.
+[1:47:43] Já faz em que você coloca para
+[1:47:45] sincronizar
+[1:47:48] e ele sincroniza automático
+[1:47:51] os arquivos.
+[1:47:54] Até não sei será que tem e integração
+[1:47:57] nativa da hostinger
+[1:48:00] aqui, ó. O conector da hostinger para
+[1:48:02] usar no VS Code, galera.
+[1:48:06] Tá? Então,
+[1:48:08] mumzinho,
+[1:48:10] ó.
+[1:48:13] Gestão de planos,
+[1:48:15] domínio, VPS, e-commerce, tudo aqui.
+[1:48:22] Conecta pela PI.
+[1:48:25] Bacana.
+[1:48:30] Paulo chegou. Valeu pelo sub, Paulo.
+[1:48:36] Diogo Costa chegou e deixou o sub.
+[1:48:38] Valeu, meu querido. A gente cobra R9,90,
+[1:48:42] mas a gente não usa hostinger para
+[1:48:44] hospedar, tá? A gente hospeda de forma
+[1:48:46] gratuita.
+[1:48:51] A gente hospeda de forma gratuita.
+[1:48:59] Ah, galera, agora tá chegando lá.
+[1:49:06] Acho que é isso aí mesmo.
+[1:49:13] Agora a gente precisa pedir para ele só
+[1:49:15] substituir a imagem aqui, ó.
+[1:49:27] Pode usar, Gabriel. Hos pedagens você
+[1:49:28] escolhe. Só que rostinhos você vai ter
+[1:49:30] que pagar, né? Git Hub é gratuito.
+[1:49:45] Você cobra por alteração, Kemi. Cada
+[1:49:48] alteração que o cliente solicitar, você
+[1:49:50] cobra a parte.
+[1:49:52] Fiz dois sites para prospectar, porém os
+[1:49:54] clientes não respondem. Como você aborda
+[1:49:56] eles? Por mensagem ou ligação? Por
+[1:49:58] mensagem. Por mensagem. Tem o script ali
+[1:50:00] no nosso grupo. Valeu pelo sub, Kem.
+[1:50:05] Como você acha os clientes, Philip ou
+[1:50:08] Felipe?
+[1:50:09] A gente usa o Nexar Hunter, tá? Que é a
+[1:50:12] nossa ferramenta aqui da agência de
+[1:50:14] prospecção de clientes, tá? Prospecta
+[1:50:17] por segmento. A gente vai usar muito
+[1:50:18] Nexar Hunter a partir de agora.
+[1:50:21] segmento, nicho, cidade. E aí com a
+[1:50:23] inteligência artificial ele já vai te
+[1:50:25] dar é um resultado de por por ranking,
+[1:50:30] né? Ele vai rankear quais clientes t
+[1:50:33] mais possibilidade de fechar com você.
+[1:50:37] Usa Versel com GitHub? Uso sim.
+[1:50:42] Então se inscreve aí, Nei, e
+[1:50:45] acompanha nossas lives que a gente vai
+[1:50:47] fazer isso
+[1:50:49] muito essa semana.
+[1:50:52] Faremos todo dia a partir dessa semana.
+[1:50:54] Por isso que eu tô fazendo o site aqui
+[1:50:56] para ter o portfólio e ter referência,
+[1:50:58] né?
+[1:51:08] Agora a gente chegou no resultado que a
+[1:51:09] gente queria.
+[1:51:13] Certo? Agora vamos mostrar aqui para
+[1:51:15] ele. Perfeito.
+[1:51:22] Aí agora a gente coloca aqui. Chegamos
+[1:51:25] no resultado. Resultado esperado.
+[1:51:29] Chegamos no resultado esperado.
+[1:51:33] Valeu pelo sub, Nei.
+[1:51:35] Chegamos no resultado esperado. Agora
+[1:51:38] vamos ajustar a assinatura.
+[1:51:41] Agora vamos ajustar a assinatura.
+[1:51:49] É que você já tinha me enviado,
+[1:51:54] porém precisamos dela eh em branco e sem
+[1:52:00] fundo.
+[1:52:01] Clonar site é a coisa mais fácil que
+[1:52:03] tem, cara. Esse com IA
+[1:52:06] maybe chegou, vendeu aquele site de
+[1:52:09] ontem, o que o cliente respondeu? Meu
+[1:52:10] cliente não respondeu ainda, maybe.
+[1:52:16] Não tô palestrante, tô só no YouTube,
+[1:52:18] tá?
+[1:52:21] Basicamente eu busco o cliente, tipo,
+[1:52:22] você busca e nessa ferramenta, porém em
+[1:52:25] vez de usar ferramenta, eu uso charge
+[1:52:26] pt. Consegue chegar nesse mesmo
+[1:52:28] resultado. Nei,
+[1:52:31] só não tem aa para selecionar os
+[1:52:33] clientes, assim, te dizer qual que tem
+[1:52:35] mais potencial, né?
+[1:52:37] Esse chatt seu é pago, sim. Eh,
+[1:52:41] é o plus, tá?
+[1:52:52] Tô uma semana testando com Codex. Codex
+[1:52:55] é bom, cara, só que tá derretendo,
+[1:52:58] tá derretendo token, né,
+[1:53:01] Felipe? Valeu pelo sub, meu querido.
+[1:53:04] Bora.
+[1:53:08] Já testei, Mateus.
+[1:53:11] Já testei, mas gosto mais do
+[1:53:13] antigravity, tá?
+[1:53:16] Acho grande Gravity bem melhor aqui, meu
+[1:53:18] querido.
+[1:53:20] É, o Astra tá tá derretendo token. Eu tô
+[1:53:24] usando aqui, galera, o Astra só para e
+[1:53:27] tô usando alto, viu?
+[1:53:29] Mas eu tô usando só para organizar os
+[1:53:31] nossos prontos aqui. Até nem sei como tá
+[1:53:33] o consumo.
+[1:53:35] Vamos ver como tá o consumo aqui.
+[1:53:41] Ah, redefine em 3 horas. Ó, tá quase
+[1:53:43] acabando nosso limite, viu?
+[1:53:47] Do diário em 20%.
+[1:53:49] Vai dar de boa.
+[1:53:54] Fala, Thagão. Seja bem-vindo ao nosso
+[1:53:56] canal. Não esquece de deixar teu sub aí,
+[1:53:58] hein? Se inscreve aí no canal e deixa o
+[1:54:00] likezão. Qual, qual modelo? Eu tô usando
+[1:54:03] o 3.1 Pro,
+[1:54:07] Mateus.
+[1:54:10] Tá, ele tá finalizando aqui a imagem.
+[1:54:14] Caso o cliente precise de autonomia para
+[1:54:16] mexer no site ou duplicar alguma land
+[1:54:18] page, tem algum meio para isso? O
+[1:54:21] cliente fica 100% dependente?
+[1:54:24] Então aí eh, a gente pode criar essa
+[1:54:27] opção pro cliente e adicionar um valor a
+[1:54:30] mais no site, né? Aí a gente sai eh de
+[1:54:34] um website simples para
+[1:54:37] chegar aí em algo diferente.
+[1:54:45] Eu pedi na verdade não tem diferença
+[1:54:47] nenhuma. É que eu gosto mais de usar o
+[1:54:48] VS Code pelos plugins que ele traz para
+[1:54:51] mim. Tô tô habituado a usar ele.
+[1:54:55] Ô Thago, não apareceu. Às vezes buga
+[1:54:57] isso aqui, cara. Mas valeu pelo sub,
+[1:54:59] hein, então, Thaago.
+[1:55:04] Boa, galera. Galera, tá chegando.
+[1:55:06] Seguinte galera, quero o likezão aí.
+[1:55:09] Deixa o likezão pro YouTube entregar
+[1:55:11] para mais pessoas e a gente trazer mais
+[1:55:13] gente aqui para também vender site e
+[1:55:16] faturar junto com a gente.
+[1:55:20] A gente tá com 94 pessoas assistindo e
+[1:55:23] estamos com 88 likes, mas já passou mais
+[1:55:26] de 3.500 pessoas aqui pela live.
+[1:55:31] Ok,
+[1:55:34] agora ele gerou aqui.
+[1:55:39] Comecei a acompanhar agora. começa a
+[1:55:41] cobrar a partir de quanto
+[1:55:44] e como está precificando. Kelvin e 799
+[1:55:51] para produzir o site e90
+[1:55:57] mensal de manutenção.
+[1:56:00] Morais, valeu pelo sub, meu querido.
+[1:56:31] De onde você é, irmão? Sou do Rio Grande
+[1:56:32] do Sul, Jui.
+[1:56:34] Já coloca um método de pagamento? Sim, a
+[1:56:36] gente já tem os links no script ali.
+[1:56:39] Mercado Pago, Infinity Pay.
+[1:56:45] Tá difícil, Thago, de achar.
+[1:56:48] Eh, seria a abordagem por não ter um
+[1:56:50] portfólio? Então, cara, a gente falou
+[1:56:51] sobre isso no início da live.
+[1:56:54] Como que você vai vender um site
+[1:56:56] e vai falar as vantagens pra pessoa de
+[1:56:59] ter um site se nem você tem o site? Essa
+[1:57:02] é a pergunta que eu quero te fazer.
+[1:57:08] E pídio é 799
+[1:57:10] o valor do site mais R9,90 de
+[1:57:13] hospedagem.
+[1:57:19] Nem sabia que eu tinha acesso antigraf,
+[1:57:21] viu? Só como você tá prospectando direto
+[1:57:24] no WhatsApp.
+[1:57:27] E Juí, mentira, minha namorada é de Juí,
+[1:57:29] bicho. Moramos em Jundiaí, São Paulo.
+[1:57:32] Boa, Kelvin. Faz tempo que vocês moram
+[1:57:34] aí.
+[1:57:36] Ele é um tipo de codex. É um tipo de
+[1:57:38] codex o antigravity.
+[1:57:40] Vixe, eu cobrando 1000 em site. Nei, tá,
+[1:57:42] tá justo o valor. A gente vai chegar a
+[1:57:44] R99 aqui por site, pode ter certeza.
+[1:57:49] ou mais, né, dependendo do que o cliente
+[1:57:51] cliente precisa.
+[1:57:53] OK. A assinatura ficou bem massa.
+[1:58:03] Agora vamos mandar o print aqui. OK.
+[1:58:06] Agora aumente a assinatura e centralize
+[1:58:12] para chegarmos chegarmos a este
+[1:58:15] resultado. Agora eu tô mandando aqui
+[1:58:17] direto no antigravity.
+[1:58:20] Comecei a usar o antigravity hoje,
+[1:58:22] Júnior. Ô, o antigravity é muito bom,
+[1:58:23] Thaago.
+[1:58:27] Ó lá, ó o Ó pessoal de volta aqui, ó.
+[1:58:30] Eita, tá todo mundo aos redores aqui.
+[1:58:33] Então,
+[1:58:35] palestrante,
+[1:58:37] posso rodar o antigravdex ao mesmo
+[1:58:39] tempo? Pode, cara, mas aí vai dar um
+[1:58:41] conflito, né? Eu tenho aqui o
+[1:58:44] antigravity e o codex. Dá para usar os
+[1:58:47] dois do mesmo projeto, um por vez,
+[1:58:49] obviamente, né?
+[1:58:52] Fez um mocap no começo da live? Fiz sim.
+[1:58:55] Tá aqui ele, ó.
+[1:58:58] Mas eu vou soltar lá no nosso grupo, tá
+[1:59:00] gente? Os eh eu vou soltar lá no grupo
+[1:59:04] os prontos que eu usei, tá? Eu sou
+[1:59:07] daqui, conheci ela quando ela veio morar
+[1:59:08] para cá e hoje moramos juntos. Família
+[1:59:10] dela mora aí próximo ao Ninju. O Ninju
+[1:59:12] foi a minha faculdade.
+[1:59:16] Eu tenho Deminar Enterprise pela empresa
+[1:59:18] onde trabalho. Dá para colocar ele para
+[1:59:19] rodar? Eu acho, tenho quase certeza que
+[1:59:21] sim.
+[1:59:24] Você pode queimar umas notas de 100 se
+[1:59:26] quiser também.
+[1:59:29] Pera aí que tem alguém chorando aqui.
+[1:59:31] Que aconteceu?
+[1:59:35] Que aconteceu que você tá aqui chorando?
+[1:59:38] Estava codando por Cloud, Google Studio
+[1:59:40] e usando para criar o prompt. É o que a
+[1:59:42] gente faz aqui.
+[1:59:45] E cria o prompt pelo chart. Aí ó,
+[1:59:48] galera, chegamos ao resultado que a
+[1:59:49] gente queria nessa primeira parte, ó. Eu
+[1:59:52] acredito que essa parte aqui vai ser
+[1:59:53] muito mais rápido. Vou mandar para ele
+[1:59:55] aqui, ó.
+[2:00:00] Vamos mandar aqui, ó. Chegamos ao
+[2:00:02] resultado esperado. Chegamos ao
+[2:00:04] resultado esperado.
+[2:00:08] Agora podemos dar sequência.
+[2:00:25] É, tem esse detalhe, né? No Enterprise
+[2:00:27] você tá usando a conta deles, né?
+[2:00:31] Valeu pelo sub, David.
+[2:00:34] 799 para uma land page. Isso aí, Pido.
+[2:00:39] Que você acha de trabalhar com esses
+[2:00:41] três presos de site? 4991499.
+[2:00:45] Marcos, aí depende.
+[2:00:47] É.
+[2:00:48] do do teu trabalho, né? Se você tem
+[2:00:51] potencial para cobrar 199,
+[2:00:53] você tem que cobrar 1499.
+[2:00:56] A gente aqui tá começando do zero, então
+[2:00:58] a gente ainda não tem potencial. Se eu
+[2:00:59] for tentar vender um site a R$ 2.000,
+[2:01:02] eh, como eu sou iniciante, eu não tinha
+[2:01:04] nem meu próprio site, não ia conseguir
+[2:01:06] vender. Agora a gente tá aqui juntos,
+[2:01:09] né, desde o início, montando a nossa
+[2:01:11] estrutura. Se vocês pegar o que a gente
+[2:01:12] tinha lá na live um, né, a gente começou
+[2:01:14] sem nada, apenas com uma ideia.
+[2:01:18] E agora a gente já tem um caixa aí de R$
+[2:01:20] 1.000. Já estamos montando a nossa
+[2:01:23] estrutura, inclusive vamos usar esse
+[2:01:25] caixa para comprar o nosso domínio e aí
+[2:01:27] a gente vai prospectar.
+[2:01:31] Colhe o prompt no antigra junto com o
+[2:01:33] mocap completo. Então vamos lá de novo.
+[2:01:35] Mocap completo.
+[2:01:39] Inclusive hoje, galera, eu quero ver se
+[2:01:40] já coloca essa primeira parte do site no
+[2:01:42] ar, tá?
+[2:01:45] A gente tem que criar a página de
+[2:01:46] portfólio ainda que a gente não criou,
+[2:01:51] né? Nós vamos criar.
+[2:01:59] Eh, o portfólio são sites que eu já fiz,
+[2:02:01] Thago. Tá. Prospecto em ligação,
+[2:02:04] prospecto no WhatsApp. Iodas, você
+[2:02:08] abordou cinco e fechou o dois.
+[2:02:10] Isso mesmo. Mas tem um que vai responder
+[2:02:12] pra gente ainda depois do dia 20 e tem
+[2:02:17] dois que não responderam que a gente não
+[2:02:19] desistiu deles ainda, né? Júnior, posso
+[2:02:22] dar uma dica? Seu portfólio faz ele
+[2:02:23] modelo
+[2:02:25] cinematográfico, vai ficar top. Boa,
+[2:02:28] Nei. Só que isso eu não sei se converte
+[2:02:30] tanto, tá?
+[2:02:38] Então, LP é mais simples ainda, né,
+[2:02:41] Gabriel? Mas a lógica é sempre a mesma.
+[2:02:45] Richard chegou e deu sub. Valeu,
+[2:02:47] Richard, seja bem-vindo. Bora para cima.
+[2:02:52] Bispo chegou e deu sub. Valeu, meu
+[2:02:54] querido.
+[2:02:56] Valeu por se inscrever no canal, galera.
+[2:02:59] E bora deixar o likezão, né? Vamos ver
+[2:03:00] se subiu o likezão. 106 pessoas
+[2:03:03] assistindo e
+[2:03:05] e 93 likes só. Caraca.
+[2:03:10] Vamos subir esse like aí, galera. Tipo,
+[2:03:12] quando você mostra ele aos seus
+[2:03:14] clientes, eles vão adorar. Vão, vão,
+[2:03:17] Neymar, eu tenho algumas objeções sobre
+[2:03:20] essas animações aí de site, mas vamos
+[2:03:22] testar
+[2:03:29] mais um sub aqui
+[2:03:33] do Vanking. Valeu pelo sub, meu querido.
+[2:03:36] Fala, mano. Beleza? Começou quando o
+[2:03:37] projeto? Hoje, quer dizer, o projeto do
+[2:03:40] início tá na live um, tá aqui no canal,
+[2:03:44] caso queira maratonar,
+[2:03:47] tá tudo disponível aqui no canal,
+[2:03:49] galera, desde o início até a gente
+[2:03:50] chegar a faturar aí mais de R$ 5.000 por
+[2:03:53] mês.
+[2:04:05] Aí, galera, tá chegando já no resultado
+[2:04:07] que a gente quer. Deixa eu fechar isso
+[2:04:09] aqui,
+[2:04:13] ó. O nosso resultado é esse aqui, ó.
+[2:04:15] Depois a gente vai ajustar esses
+[2:04:16] espaçamentos, tá? Não gosto, galera,
+[2:04:19] muito de desses espaçamento.
+[2:04:22] Fala, mano. Beleza? Como você fez para
+[2:04:24] convencer o prospect?
+[2:04:27] Então, Dova, como a gente eh faz o o
+[2:04:31] site pro cara e já manda o site pronto
+[2:04:33] nessa primeira estratégia que a gente
+[2:04:35] adotou, que era isso, né? Captava
+[2:04:38] captava os clientes no Hunter, eh,
+[2:04:41] criava o site com conteúdo que a gente
+[2:04:44] encontrava nele do Instagram, Google e
+[2:04:46] tudo mais e fazia o site e vendia.
+[2:04:48] Então, foi assim que a gente conseguiu
+[2:04:50] fechar.
+[2:04:53] Chegando no canal, já sei fazer, mas
+[2:04:54] nunca botei em prática. Então vamos Fox
+[2:04:57] da Fox David. Isso, vamos colocar no ar
+[2:05:01] isso daí. Yoda deixou o sub. Valeu,
+[2:05:04] galera. Será que hoje a gente consegue
+[2:05:05] chegar a 1700 inscritos? Isso aí não
+[2:05:08] falta gente, hein? Seria 51 inscritos
+[2:05:18] aí, ó. Falei que essa parte aqui,
+[2:05:20] galera, ia ser mais rápida.
+[2:05:28] Tá bem próximo, tá? Mas ainda não é o
+[2:05:30] que a gente quer.
+[2:05:35] Vamos mandar aqui para ele.
+[2:05:48] aqui.
+[2:06:00] Ainda falta os efeitos de transparência,
+[2:06:03] né?
+[2:06:19] Vou mandar o print aqui para ele gerar
+[2:06:22] esse.
+[2:06:30] Valeu pelo sub, Paulo.
+[2:06:45] Qual plugin você tá usando para ver o
+[2:06:47] site HTML no S Code? O navegador nativo
+[2:06:51] eu pedi é só dar F1 e pesquisar ali por
+[2:06:54] navegador que você já vai já vai
+[2:06:57] encontrar.
+[2:07:05] Não sei, não sei mexer muito no C. Tô
+[2:07:07] aprendendo como coloca Iá dentro dele
+[2:07:09] por meio de extensão mesmo. Isso mesmo,
+[2:07:11] Kem. Vai sair o vídeo amanhã. Mano, como
+[2:07:14] está sendo sua prospecção? Tem algum
+[2:07:16] script, roteiro? Tem Roblox? Tá dentro
+[2:07:19] do nosso grupo do WhatsApp.
+[2:07:22] Só aplicar. Precisamos de uma aviação
+[2:07:25] sutil para efeito. Envie as duas imagens
+[2:07:27] juntos nesse prompt
+[2:07:32] mandar.
+[2:07:35] Qual nicho prospectou? Micael perguntou.
+[2:07:37] Lavanderia, oficina mecânica,
+[2:07:40] climatização
+[2:07:41] e esquadrias.
+[2:07:47] Qual você acha que traz mais venda,
+[2:07:49] Crazy? Não tem um, não tem um, um que
+[2:07:53] gere mais vendas, né,
+[2:07:56] em si, especificamente.
+[2:08:10] Tava pensando em prospectar lojas que
+[2:08:12] vendem bateria de carro como entrega.
+[2:08:14] Você sabe que com entrega, link direto
+[2:08:15] no WhatsApp. Acho que uma LP simples com
+[2:08:17] mobile first daria dar sim, João.
+[2:08:20] Inclusive eu passei hoje, eu tenho, a
+[2:08:23] gente vai abordar, galera, os conhecidos
+[2:08:26] e conhecidos, tá? E eu tenho um amigo
+[2:08:28] meu que tem uma loja de baterias de
+[2:08:30] carro. Eu tô pensando em abordar ele
+[2:08:31] amanhã já. Só que aí eu tenho o meu
+[2:08:34] site, tenho as referências agora, né?
+[2:08:36] Então vai ficar muito mais fácil de
+[2:08:37] converter. Sem contar que a gente tem a
+[2:08:40] opção de parcelar no cartão para eles.
+[2:08:43] Mano, como está sendo sua prospecção?
+[2:08:45] Tem algum script? Teiro, respondi Roblox
+[2:08:48] tá no nosso grupo do WhatsApp.
+[2:08:50] Thzin,
+[2:08:52] onde a gente, onde acha clientes? A
+[2:08:54] gente acha clientes na nossa ferramenta
+[2:08:56] que é o Nexar Hunter,
+[2:08:59] onde eu pesquiso por segmento, nicho e
+[2:09:03] cidade.
+[2:09:05] E aí com o IAL já filtra os melhores
+[2:09:08] possibilidades de fechar, tá? Já tenho
+[2:09:11] uma IA aqui que já vai me trazer os
+[2:09:12] clientes mais quentes para mim
+[2:09:14] prospectar e fechar. A gente vai usar
+[2:09:16] muito Nexar Hunter.
+[2:09:19] Instrumentos musicais não. Cris,
+[2:09:23] você disponibiliza o pronto prazo de
+[2:09:25] apt? Sim, Nicolas, lá no grupo, no final
+[2:09:28] de cada live eu exporto os prontos e
+[2:09:30] mando lá para todo mundo.
+[2:09:40] Tá mexendo.
+[2:09:44] Você deixa quanto tempo on pro cliente
+[2:09:46] analisar o site? Eu rodo, eu tenho
+[2:09:48] script de atendimento, eh, onde tem todo
+[2:09:52] o passo a passo, a gente chama se o
+[2:09:53] cliente não responder e tal. Na última
+[2:09:56] mensagem, que é o final da abordagem, eu
+[2:09:58] mando uma uma mensagem dizendo que eu
+[2:10:00] vou deixar o site no ar por dois dias,
+[2:10:02] além do tempo que eu já fiquei ali
+[2:10:04] tentando vender para ele. Se ele não
+[2:10:07] fechar em dois dias, a gente tira a
+[2:10:09] identidade visual dele e vira portfólio.
+[2:10:13] Podemos ter acesso a esse SA.
+[2:10:16] Ã, Alan, o Gemini Pro tá na descrição
+[2:10:19] aqui, tá? R$9,90
+[2:10:22] por 18 meses com antigravity completaço.
+[2:10:26] É só você clicar no link ali que o
+[2:10:29] pessoal já te atende.
+[2:10:51] Bora, galera. Deixa o likezão aí para
+[2:10:53] mim e se inscreve. Quem não é inscrito
+[2:10:55] ainda, tem muito conteúdo bom. As lives
+[2:10:58] vão rodar diretaço. Kat acabou de se
+[2:11:01] inscrever, valeu pelo sub.
+[2:11:06] Essa sua ferramenta de prospecção, como
+[2:11:08] funciona? Você criou ou é paga? Eu
+[2:11:10] criei, William, ela é paga, tá? Na
+[2:11:12] verdade, ela surgiu porque era uma
+[2:11:13] necessidade nossa na agência. Então, a
+[2:11:16] gente tava com muito lead desqualificado
+[2:11:18] no tráfego pago e a gente criou o Nexar
+[2:11:23] Hunter. Inicialmente ele rodava local
+[2:11:25] num computador da agência, ele nem era
+[2:11:27] online. Só que aí muita gente gostou e
+[2:11:30] pediu para usar e a gente acabou e
+[2:11:33] criando, né, o Nexar Hunter em si, que
+[2:11:36] até então ele era uma ferramenta nossa.
+[2:11:39] Vou assistir desde a live um. Tô
+[2:11:41] precisando de uma renda extra. Pô,
+[2:11:43] Victor, vai ser facinho de fazer uma
+[2:11:45] renda extra.
+[2:11:48] Tá falido não, mano. Tem muito mercado
+[2:11:50] ainda, galera. Eu eu coloquei um desafio
+[2:11:53] pra gente chegar em 1700 inscritos.
+[2:11:56] Eu acho que não, não vai dar não. A
+[2:11:57] gente tá com 1660 hoje.
+[2:12:01] Troca a foto do segundo banner. Acho que
+[2:12:03] pro design seria melhor. Tira o
+[2:12:05] replicado.
+[2:12:06] Tem que gerar uma foto nova, Dudu. Mas
+[2:12:09] por enquanto eu acho que não.
+[2:12:11] Mas é válido a tua observação.
+[2:12:21] Aí melhorou bastante, ó.
+[2:12:26] Melhorou bastante. Depois eu vou ajeitar
+[2:12:28] esse card aqui, ó, que não tá legal.
+[2:12:34] Eh, eu vou pedir para ele organizar
+[2:12:35] agora já.
+[2:12:46] Melhorou muito. Apenas o primeiro card é
+[2:12:51] sites e land pages
+[2:12:54] que não está fiel.
+[2:12:58] Vamos mandar aqui o resultado para ele
+[2:13:06] e vamos mandar como deveria ser.
+[2:13:16] Usa a foto do seu link bill. Pode ser.
+[2:13:21] Tu usa chat GPT plus ou business? Eu uso
+[2:13:24] o business. O plus. É o mais barato, é o
+[2:13:28] de 20, se eu não me engano.
+[2:13:35] Aliás, tá acabando o nosso nosso limite,
+[2:13:38] ó, em 4%, galera.
+[2:13:42] Vai renovar daqui 3 horas, tá na
+[2:13:44] finaleira.
+[2:13:48] Vamos eh diminuir aqui, ó.
+[2:13:54] Vamos diminuir aqui para ele dar uma
+[2:13:56] economizada.
+[2:14:07] Alguém deu sub aí, galera? Eu perdi a
+[2:14:09] notificação, mas já já vai aparecer de
+[2:14:11] novo.
+[2:14:18] Aí eu tô, o limite semanal tá de boa,
+[2:14:20] mas o
+[2:14:23] o de 5 horas tá tá em 3%, tá na
+[2:14:27] finaleira.
+[2:14:29] Como funciona o Nexar Hunter? do Nexar
+[2:14:30] Hunter você prospecta
+[2:14:33] eh, Cris por segmento e cidade e com o
+[2:14:38] IAL já te dá uma lista de clientes com
+[2:14:40] maior possibilidade de fechamento.
+[2:14:44] Valeu, No Cry pelo sub.
+[2:14:53] O principal desvio eh está na ilustração
+[2:14:56] achatadas para o conteúdo. Nessa
+[2:14:57] referência mais alta, tá? Envia as duas
+[2:14:59] imagens com esse prompt. Vamos lá.
+[2:15:02] Compensação de minai, né, galera?
+[2:15:05] Sobra token aqui.
+[2:15:09] Por isso que eu uso o antigravity, né,
+[2:15:12] que é o Gemini,
+[2:15:14] porque sobra tok.
+[2:15:21] Você
+[2:15:28] acha que compensa usar o chat GPT nessa
+[2:15:30] potência toda? Acho que para criar o
+[2:15:32] prompt, então varia. É, eu uso ele fusão
+[2:15:36] mesmo, porque principalmente quando é
+[2:15:38] meu site, né? E site de cliente, eu uso
+[2:15:42] todo o recurso que tem.
+[2:15:47] Agora eu vou baixar pra gente não travar
+[2:15:50] aqui, né? Mas tem 3% só.
+[2:15:57] Geminei Gemini tá bem meia boca. Começou
+[2:16:00] uns delírios do nada. Então ó lá, a
+[2:16:02] gente tá usando aqui, tá com o prop
+[2:16:05] certo, ele tá dando muito bom.
+[2:16:08] Tá dando muito bom.
+[2:16:14] Eu
+[2:16:32] uso o Astra no ultra para criar o prompt
+[2:16:34] para executar no Corex. Eu uso no médio,
+[2:16:36] acaba que fica muito melhor. Eu uso no
+[2:16:38] ultra porque ele fica muito mais
+[2:16:39] assertivo, né, no prompt.
+[2:16:43] Se acabar nossos token aqui do GPT, a
+[2:16:46] gente vai full antigravity.
+[2:16:49] Esse valor que você tá vendendo já tem
+[2:16:51] trampo de SEO? Não, Telis. SEO é
+[2:16:54] separado.
+[2:16:56] Só prospecta um cliente de cada vez.
+[2:16:58] Não, quando a gente finalizar o nosso
+[2:17:00] portfólio, a gente vai prospectar
+[2:17:01] bastante por dia.
+[2:17:09] Bom, vou seguir junto aqui fazendo meu
+[2:17:11] portfólio. Boa, Thago. Isso aí.
+[2:17:15] Não tô usando Ricardinho,
+[2:17:18] tô usando 3.1 Pro.
+[2:17:23] Acho, achei muito, muito mais rápido e
+[2:17:25] muito melhor nos resultados.
+[2:17:27] do que o 3.8 que eu tava usando no
+[2:17:30] médio.
+[2:17:35] Como você deixa o site do cliente
+[2:17:37] publicado dois dias pelo
+[2:17:41] Aí você vai, a gente vai fazer isso no
+[2:17:43] no meu aqui
+[2:17:46] com o que você tá ganhando dinheiro.
+[2:17:49] Então bala, a gente tá ganhando dinheiro
+[2:17:51] vendendo sites.
+[2:17:54] Aí ó, galera, agora sim.
+[2:17:58] Perfeito.
+[2:18:03] Vamos pegar os promps que a gente tinha
+[2:18:04] aqui.
+[2:18:12] Processos faca e rodaapé.
+[2:18:21] Agora eu vou usar para economizar aqui,
+[2:18:23] ó. Vou usar o prompt que a gente já
+[2:18:27] tinha, né?
+[2:18:35] O fac tá separado. Vamos ver se o fac tá
+[2:18:37] separado. Alguém deu um sub aí, galera?
+[2:18:39] E eu perdi de novo.
+[2:18:43] Processo facapé.
+[2:18:49] Então agora a gente tem essa dobra aqui,
+[2:18:51] ó.
+[2:19:00] Na verdade, a gente tem essa dobra
+[2:19:02] completa aqui.
+[2:19:09] Foi o Bruno CR que deu o sub. Valeu,
+[2:19:11] Bruno
+[2:19:15] Júnior. Não estou achando o pronto que
+[2:19:17] você disse que tinha no grupo. Thiago,
+[2:19:19] pede para alguém te encaminhar que o
+[2:19:20] pessoal te envia porque eu acordei hoje
+[2:19:23] com mais de 500 mensagens no WhatsApp.
+[2:19:26] Senão no final da live você me marca lá
+[2:19:28] que eu te mando de novo. Mas tá fixado
+[2:19:31] no tá fixado no chat, Raniel, no grupo
+[2:19:34] do WhatsApp, tá na descrição da live
+[2:19:37] aqui, tá?
+[2:19:42] Então, palestrante, eu recomendo você
+[2:19:44] usar no alto para gerar os promps, tá?
+[2:20:04] Galera, a gente tem ainda a página de
+[2:20:07] portfólio, né, pra gente criar ela.
+[2:20:12] E esse rodapé aqui, ó, eu quero mudar
+[2:20:16] ele, tá? Quero fazer um rodapé. Mas esse
+[2:20:18] mocap você fez com a Ia eu fiz com o
+[2:20:21] GPT.
+[2:20:25] com GPT. Como tá fazendo a abordagem?
+[2:20:28] Ligação fria. WhatsApp. Por enquanto no
+[2:20:31] WhatsApp, José,
+[2:20:33] não tô tão incisivo assim para ir pra
+[2:20:35] ligação ainda, mas tá dentro do projeto
+[2:20:38] de abordagem. A gente vai testar aqui
+[2:20:40] todas as abordagens possíveis.
+[2:20:44] Todas as abordagens possíveis mesmo.
+[2:20:48] Galera, eu quero chegar a 1700 inscritos
+[2:20:50] hoje. Ajuda eu aí.
+[2:20:54] O Jun tinha falado que era boa ontem,
+[2:20:57] mas ele tá usando Mercado Pago. Cadê o
+[2:21:00] João aqui? Vamos ver que ele pedir.
+[2:21:01] Infinity Pay é boa? É boa, João. Eu uso
+[2:21:04] também, mas é como segunda opção, tá?
+[2:21:07] Infinity Pay. Eu gosto do Mercado Pago
+[2:21:11] porque ele já libera o valor na hora.
+[2:21:20] Sim. Inicialmente estamos usando CPF, o
+[2:21:22] PO, depois quando a gente tiver o CNPJ
+[2:21:25] não usaremos mais, né? Por enquanto nós
+[2:21:27] somos um freelancer informal, tá?
+[2:21:31] Consegue mostrar o tipo de mensagem que
+[2:21:32] tá enviando, José? Tá no grupo, tá? Mas
+[2:21:35] tá aqui, ó.
+[2:21:37] Vamos pegar essa prospecção aqui de
+[2:21:38] cliente, ó. Oi, boa tarde. Quem eu falo?
+[2:21:41] Oficina da Store.
+[2:21:44] Ã, aí eu botei aqui, olha só, est
+[2:21:46] trabalhando na criação de websites, tal.
+[2:21:48] Vou passar para ele. Aí eu mandei o
+[2:21:50] mocap, tá? Inclusive eu vou mandar para
+[2:21:52] esse cliente aqui, ó, que não me
+[2:21:54] respondeu. Vou mandar agora final do
+[2:21:56] dia, não vou mandar. Mandar amanhã de
+[2:21:58] manhã para ele. Ele não me respondeu,
+[2:21:59] mas ele tá online. Vou mandar. Vamos
+[2:22:02] abrir o script aqui. Eu já vou mandar.
+[2:22:16] Vamos lá.
+[2:22:24] Já vamos mandar aqui, aproveitar que ele
+[2:22:26] tá online.
+[2:22:27] Esse é o modelo que eu preparei para
+[2:22:29] vocês.
+[2:22:33] Vamos pegar aqui o link.
+[2:22:41] Você pensando principalmente em deixar a
+[2:22:43] empresa mais profissional.
+[2:22:50] Melhor apresentar melhor os produtos
+[2:22:53] barra serviços da empresa.
+[2:22:57] Dá uma olhada pr no celular também.
+[2:22:58] Depois me fala o que achou. Mandei.
+[2:23:04] Consegue mostrar o tipo de mensagem? Tá
+[2:23:06] lá no grupo script completo, tá? José
+[2:23:09] como a pessoa não percebe que o site é
+[2:23:12] feito com ya, porque ele não tem cara de
+[2:23:16] É isso que a gente faz aqui,
+[2:23:19] eh, Cisco,
+[2:23:22] fazer sites que não tem um cara de A.
+[2:23:27] Tá. Vamos lá. Vamos ver aqui.
+[2:23:30] Perfeito.
+[2:23:32] Eh,
+[2:23:44] ficou muito próximo, muito próximo
+[2:23:48] do que busco, mas preciso ter exatamente
+[2:23:54] esse resultado da imagem.
+[2:23:58] MG2 em anexo.
+[2:24:01] Vou pedir para ele arrumar. Já usou asas
+[2:24:04] para pagamento? Eu uso na agência Ris.
+[2:24:07] Aqui nesse
+[2:24:08] nesse desafio nós não estamos usando. Tu
+[2:24:11] tem o site em qual site da hospedagem?
+[2:24:14] Git Hub Versel. Cisco. Ainda que a
+[2:24:17] pessoa perceba que foi feito com para
+[2:24:19] quem não tem nada, tá? Mas aí o
+[2:24:21] seguinte, galera, aí vocês refinam o
+[2:24:23] site para ele não ter cara de, entendeu?
+[2:24:25] ou pelo menos eh
+[2:24:29] ficar mais longe possível de cara de A.
+[2:24:35] Sinceramente, galera, eu acho que esse
+[2:24:37] site aqui, ó, esse site, todos os sites
+[2:24:39] que a gente fez, eu acho que eles não tm
+[2:24:42] cara de a
+[2:24:50] Você tá usando o cloud? Não, Yuri, tô
+[2:24:51] usando o antigravity.
+[2:25:01] Inclusive, galera, os prompts eu
+[2:25:03] disponibilizo lá no nosso grupo do
+[2:25:04] WhatsApp, tá?
+[2:25:06] Então é só entrar lá.
+[2:25:12] Galera, eu acho que amanhã vai dar para
+[2:25:13] prospectar, hein?
+[2:25:16] Amanhã vamos começar a disparar pra
+[2:25:18] galera.
+[2:25:46] Como você faz para ter essas imagens?
+[2:25:49] Eles que falaram como queriam. Quais as
+[2:25:52] imagens balalar?
+[2:25:58] As imagens
+[2:26:00] a gente gera tudo pelo GPT Plus,
+[2:26:04] mas pelo gratuito você consegue gerar
+[2:26:05] também.
+[2:26:12] Tá otimizado para mobile. Vamos
+[2:26:13] otimizar, Gabriel. Mas ainda não.
+[2:26:22] Ó, galera, ele já tá começando a chegar
+[2:26:24] no resultado que eu quero.
+[2:26:34] Qual horário vai abrir a live para
+[2:26:35] mostrar? Thaago, todo dia a gente
+[2:26:38] abre live às entre 15 horas e 15:30 da
+[2:26:43] tarde. Normalmente 1515 por aí. Júnior,
+[2:26:46] eu peguei um cliente do nicho de bebidas
+[2:26:48] alcoólicas, mas o Chart se recusa a
+[2:26:50] trabalhar. Sabe como burlar isso,
+[2:26:54] cara? Boa pergunta. Nunca pegamos esse
+[2:26:57] nicho.
+[2:27:01] Qual que é o argumento que ele tá dando
+[2:27:03] para você?
+[2:27:13] Então, Nicolas, depende do teu do teu
+[2:27:15] prompt. A princípio, a gente usa aqui
+[2:27:18] direto no VS Code com o plugin oficial
+[2:27:21] da Antigravity, tá? Extensão oficial.
+[2:27:27] Aí, galera, chegamos perto do que a
+[2:27:28] gente queria. Chegamos perto do que a
+[2:27:30] gente queria.
+[2:27:35] Tem que melhorar os ícones, tá? Mas
+[2:27:37] tranquilo. Eh, mesma coisa aqui.
+[2:27:42] OK.
+[2:27:49] Agora com o FAC,
+[2:27:52] vamos chegar ao mesmo resultado fiel do
+[2:27:57] Mocap.
+[2:28:00] Mocap em anexo
+[2:28:03] MG2.
+[2:28:06] Vamos fazer o print aqui do Mocap.
+[2:28:11] Vamos mandar.
+[2:28:16] E aí, por fim, galera, eh, eu acho que
+[2:28:19] tá só faltando os
+[2:28:23] Não, tá top.
+[2:28:26] Vamos colocar na página aqui para ver
+[2:28:28] como que tá.
+[2:28:30] Agora é só ajustar os espaçamentos, né?
+[2:28:43] Aí, ó, palestrante já deu feedback aí
+[2:28:45] para você, hein?
+[2:28:50] Você faz site falar com o cliente ou
+[2:28:52] depois? Então, bala, a todos os que a
+[2:28:55] gente fechou até então foi antes de
+[2:28:58] falar com o cliente, a gente fez e
+[2:29:00] vendeu o site pronto. Agora daqui pra
+[2:29:02] frente a gente tá fazendo o nosso nosso
+[2:29:05] portfólio para prospectar clientes,
+[2:29:07] vender e depois fazer o site. Galera que
+[2:29:09] tá chegando, valeu pelo sub. Se não é
+[2:29:11] inscrito, se inscreva no canal
+[2:29:14] e bora soltar o likezão aí pra gente.
+[2:29:26] O antigravity me deixou muito
+[2:29:28] satisfeito. Dei uma pesquisada e parece
+[2:29:30] que ele é feito para isso. Para fazer
+[2:29:32] alterações no código. Boa, Nicolas. Isso
+[2:29:34] aí. Importante é o resultado, né? O
+[2:29:37] método não justifica os resultados.
+[2:29:41] Nossa, irmão, salvou muito. Vou testar
+[2:29:43] aqui agora. Boa. Já entrei no grupo do
+[2:29:46] Zap.
+[2:29:48] Show, Yuri. Eu vou soltar lá depois o os
+[2:29:52] promptos, tá?
+[2:30:01] Aí, galera, agora sim.
+[2:30:05] Ah, vamos lá.
+[2:30:10] aqui, tá? OK.
+[2:30:14] Vamos lá, gente.
+[2:30:26] Ah, o Grock tem menos restrições, né?
+[2:30:28] Isso é verdade.
+[2:30:35] Galera, tá bem fiel. Tá. Agora eu vou
+[2:30:38] pedir
+[2:30:40] eh
+[2:30:42] para ajustar os ícones, né?
+[2:30:50] Agora ajuste os ícones do site para
+[2:30:54] serem exatamente
+[2:30:57] iguais aos do Mocap em anexo. Galera, eu
+[2:31:02] já vou colocar o site no ar, tá? Então,
+[2:31:04] quem tava perguntando lá na live como
+[2:31:06] que eu hospedo, como que eu coloco o
+[2:31:08] site no ar, fica ligado porque eu vou
+[2:31:11] colocar no ar já já. Inclusive vou
+[2:31:13] compartilhar o link aqui para vocês eh
+[2:31:17] para vocês
+[2:31:19] acessarem, tá? E eu vou também eh amanhã
+[2:31:23] a gente já vai comprar o domínio e já
+[2:31:25] vamos colocar no ar no domínio.
+[2:31:28] Teve venda? Parabéns, Pisane. Ainda não,
+[2:31:30] Pisan.
+[2:31:32] Tás vendendo essa página por quanto
+[2:31:34] nessas abordagens? 799
+[2:31:37] e conteúdos viciantes. 799 o site
+[2:31:40] mais,90 de hospedagem, tá? Então, se
+[2:31:43] você quer saber como que eu coloco o
+[2:31:44] site no ar, não sai da live.
+[2:31:49] Acabei de subir no Git na Versel, porém
+[2:31:51] a Versel site tá com todas as imagens
+[2:31:53] quebradas sem aparecer. Eduardo, vem
+[2:31:56] aqui no antigravity, né? e tira o print
+[2:31:59] da versel e pede para ele ajustar que
+[2:32:01] ele vai arrumar para você.
+[2:32:03] Como sobe o site para os clientes verem?
+[2:32:05] Agora você já vai saber, meu querido,
+[2:32:10] quanto tempo mais ou menos para criar um
+[2:32:11] site depois de fechado
+[2:32:14] e você vende mais landage ou sites
+[2:32:16] completos? Vende os dois,
+[2:32:18] Yuri, três dias tá no ar já ou antes, no
+[2:32:22] caso aqui que a gente faz primeiro
+[2:32:24] e 24 horas, tá?
+[2:32:32] A parte mobile a gente vai fazer depois
+[2:32:35] que tiver a parte desktop pronta.
+[2:32:38] 49 por tu já cobra de uma vez. Não,
+[2:32:41] Pisan, eu cobro recorrente. Mercado Pago
+[2:32:44] e Infinity Pay. Lá tem cobrança
+[2:32:46] recorrente que cobra todo mês. Então não
+[2:32:49] fica usando o limite do cliente. Ele vai
+[2:32:52] ele vai ser cobrado todo mês na data que
+[2:32:54] ele
+[2:32:58] toda a data que ele renovar.
+[2:33:02] Mandei. Vamos lá. Amanhã a gente vai. Dá
+[2:33:04] para tirar uns 3k de extra. Dá para
+[2:33:06] tirar mais. Víor, Victor,
+[2:33:10] só que claro, tem que construir, né, a
+[2:33:12] tua presença digital. Você não vai
+[2:33:14] começar hoje e semana e final do mês já
+[2:33:16] vai est ganhando 3K, né? Então você
+[2:33:19] começa pequeno, depois vai ficando
+[2:33:21] grande.
+[2:33:25] Você tá fazendo plano de manutenção
+[2:33:27] também? Não, só hospedagem. A manutenção
+[2:33:29] quando o cliente precisa de alteração,
+[2:33:32] eh, a gente cobra a parte.
+[2:33:39] Pessoal da Stor não deu bola ainda,
+[2:33:42] Pisaninho. Amanhã a gente vai mandar
+[2:33:45] mensagem para eles de novo.
+[2:33:49] Cordeiro, eu uso antigravity no VS Code.
+[2:33:53] Tá,
+[2:33:57] vamos ver se ele chegou nos ícones que
+[2:33:59] eu queria. Não, né?
+[2:34:03] Ah, mas melhorou já.
+[2:34:11] OK. Agora e falta o efeito de
+[2:34:14] transparência no card do WhatsApp.
+[2:34:25] O card do WhatsApp.
+[2:34:36] Agora, galera, eu vou voltar aqui, ó, e
+[2:34:39] vou pedir pro pro GPT
+[2:34:43] eh gere o Favicon do site,
+[2:34:47] somente o JR da Logo sem fundo, em alta
+[2:34:52] qualidade.
+[2:34:58] Espero que dê o limite, né? Ter 3%.
+[2:35:01] Você não faz web app também? Como
+[2:35:05] colocar no site um sistema de
+[2:35:06] agendamentos? A gente faz palestrante,
+[2:35:09] só que aí é outro valor, né? É outro
+[2:35:12] valor.
+[2:35:14] Esses R99,90 vem pro nosso bolso,
+[2:35:16] Gabriel, porque a gente usa Git Hub e
+[2:35:19] Versão, então peda gratuitamente.
+[2:35:26] O que você faria se fosse entrar hoje
+[2:35:28] para fazer sites com no Code? Tudo isso
+[2:35:31] que eu tô fazendo desde a live, Yuri.
+[2:35:48] Cheguei tarde. Mas subiu algum lead
+[2:35:50] hoje? Não, Periclis, estamos fazendo o
+[2:35:52] nosso portfólio. Vamos subir e amanhã.
+[2:36:02] Fala, Dudu, qual que é o É?
+[2:36:07] Fala, galera. Seja bem-vindo. Quem tá
+[2:36:09] chegando novo aí no canal, não esquece
+[2:36:11] de deixar o sub, tá?
+[2:36:16] Deixa o sub aí pra gente.
+[2:36:19] Logo do rodapé.
+[2:36:22] está quebrado. Vamos corrigir.
+[2:36:25] Eh, quebrado. Faça a correção.
+[2:36:32] Top demais. O domínio você paga ou o
+[2:36:34] cliente escolhe e ele paga? Eu deixo
+[2:36:36] tudo pronto pro cliente, tá? Mas eu
+[2:36:38] mando a fatura para ele pagar. Eu
+[2:36:40] registro o domínio, nome dele, eh, deixo
+[2:36:43] tudo OK. E aí eu mando a fatura para ele
+[2:36:45] pagar.
+[2:36:49] Funciona para SAS também.
+[2:36:53] Para fazer site, você usa alguma
+[2:36:54] ferramenta paga ou dá para fazer tudo de
+[2:36:56] graça? Não dá. Bala, você tem que ter no
+[2:36:58] mínimo assinatura do antigravity que tem
+[2:37:00] aí e na descrição da live, inclusive com
+[2:37:04] com desconto especial. Dá para fazer os
+[2:37:07] mocaps pelo antigravity? Aí você faz
+[2:37:09] pelo Gemini, né? Dá para fazer sim.
+[2:37:14] Bora monetizar tudo. José Luiz tá quase
+[2:37:31] aí. Justou a louco. Pedi para ele gerar
+[2:37:34] o Favicon e ficamos sem limite. Isso.
+[2:37:37] Ficamos sem limite
+[2:37:41] tá. Não consegui jogar F porque o
+[2:37:43] limite. Beleza, não tem problema.
+[2:37:46] Vamos, vamos pro Gemini.
+[2:37:50] Gem. Opa,
+[2:37:54] Gemini. Google. Pronto. Vamos Gemini.
+[2:37:58] Boa tarde. O cliente da Lumiart
+[2:38:00] retornou? Não.
+[2:38:03] Estou com MRR de 5K. O José Luiz lá tá
+[2:38:05] com MR de 5K. Ó que bom. Topzeira. É
+[2:38:09] isso aí. Tem que construir.
+[2:38:28] Então vamos lá, galera. Vamos pedir.
+[2:38:30] Deixa eu enviar logo aqui no Gemini.
+[2:38:32] Vamos fazendo o minar. Então,
+[2:38:38] vamos aqui nas imagens.
+[2:38:43] Gere
+[2:38:45] somente o JR da logo
+[2:38:49] sem fundo para usar como favicon.
+[2:38:54] Veículo no meu site.
+[2:39:02] Qual playlist de música? Ã aqui, galera,
+[2:39:05] ó.
+[2:39:07] Música sem copy para lives. Vou
+[2:39:10] compartilhar com vocês.
+[2:39:28] Mercado de apps móvel. O que você acha?
+[2:39:31] Tá valendo a pena, cara? Tem tem
+[2:39:33] bastante conteúdo sobre isso, né? Eu
+[2:39:39] acho que vale a pena sim, galera. 1677
+[2:39:42] inscritos. Será que dá para bater 1700
+[2:39:45] inscritos hoje? Que vocês acham? Preciso
+[2:39:47] do apoio de vocês aí. Qual é a brisa
+[2:39:50] aqui? Você constrói sites e vende, sobe
+[2:39:52] campanha de vendas. Queria entender
+[2:39:54] melhor. Cheguei agora. Então, meu
+[2:39:56] querido, deixa o teu sub aí que eu já
+[2:39:58] vou te explicar. A gente faz o site,
+[2:40:01] escolhe o cliente, prospecta o cliente,
+[2:40:03] faz o site, vende. Isso mesmo. Mas a
+[2:40:07] gente vende de forma orgânica, tá?
+[2:40:11] Não tem diferença. O VS Code é só IDE,
+[2:40:14] né, de conexão.
+[2:40:20] R9,90 não é manutenção, Gabriel, é
+[2:40:23] hospedagem, tá?
+[2:40:25] O objetivo é ter 30 clientes de MRR até
+[2:40:28] fim do ano pra gente já ter um salário
+[2:40:30] mínimo fixo todo mês. Ah.
+[2:40:58] Aí agora chegou a notificação de
+[2:41:00] inscrito. Enzo Alberto, valeu pelo sub,
+[2:41:02] meu querido.
+[2:41:05] Mas os peda isso para sempre? Sim,
+[2:41:09] hospeda para sempre.
+[2:41:11] É o lead frio que acham que chamam,
+[2:41:13] certo? Eh, isso. Então você constrói
+[2:41:17] primeiro, procura o cliente depois.
+[2:41:18] Então, nesse primeiro, nessa primeira
+[2:41:21] quinzena, a gente fez isso. Agora eu tô
+[2:41:23] fazendo o meu portfólio porque a gente
+[2:41:25] vai inverter a jogada, a gente vai
+[2:41:26] prospectar e depois vender. Fizemos o 15
+[2:41:29] dias de teste, prospectamos cinco
+[2:41:31] clientes, fechamos dois, um tá em
+[2:41:34] análise e dois não responderam. Essa
+[2:41:37] segunda quinzena agora a gente vai
+[2:41:38] inverter, a gente vai prospectar para
+[2:41:42] tentar vender para depois produzir.
+[2:41:46] Meu xará Júnior Correia chegou aí. Valeu
+[2:41:48] pelo sub, meu querido.
+[2:41:52] Basicamente vira uma renda fixa mensal
+[2:41:53] sem fazer nada. É esse é o objetivo,
+[2:41:55] Gabriel. Se chama MRR, receita mensal
+[2:41:59] recorrente ou receita recorrente mensal.
+[2:42:13] Um abraço. Vou ter que ir agora, mas tô
+[2:42:15] na torcida. Valeu, Pidô. Amanhã a gente
+[2:42:17] tá de volta. Só colar com a gente aqui.
+[2:42:20] Muito top. Parabéns pelo projeto. Os
+[2:42:22] leads você procura onde? Redes sociais?
+[2:42:25] Não, os leads a gente prospecta no Nexar
+[2:42:27] Hunter, tá? Que é uma ferramenta de
+[2:42:29] prospecção B2B. Que que é B2B, galera?
+[2:42:32] Empresa para empresa, tá? Business to
+[2:42:34] business. Então aqui eu eu consigo
+[2:42:37] prospectar por nicho
+[2:42:40] e consigo prospectar por cidade. E aí
+[2:42:43] com a inteligência artificial ele já me
+[2:42:45] dá clientes potenciais aqui, ó,
+[2:42:48] filtradinho,
+[2:42:49] onde eu posso disparar em massa ou
+[2:42:51] abordar
+[2:42:52] um por um, como eu faço aqui no
+[2:42:54] WhatsApp. Na verdade, eh, eu peguei um
+[2:42:56] WhatsApp só para isso agora, né, galera,
+[2:42:58] pra gente fazer essa parte de
+[2:42:59] prospecção.
+[2:43:01] Mas vou prospectar nesse segundo
+[2:43:03] semestre. É segunda quinzena agora do
+[2:43:04] mês. Vou prospectar conhecidos que tem
+[2:43:07] empresa.
+[2:43:10] Melhor que investir, então, diz o
+[2:43:11] Gabriel, com certeza.
+[2:43:28] Galera, estamos chegando lá. 1681
+[2:43:31] inscritos. Acho que vai dar, hein? Será
+[2:43:33] que vai dar para chegar aos 1700
+[2:43:34] inscritos hoje?
+[2:43:37] Precisa ter computador muito bom para
+[2:43:38] poder ganhar dinheiro com isso. Precisa
+[2:43:40] só ter um computador. Precisa ter mais
+[2:43:41] vontade, bala, do que o computador. Não
+[2:43:44] precisa ser maior de idade, não. Você
+[2:43:46] paga quanto por mês assinatura para
+[2:43:48] fazer esses sites? Então, Yuri, na
+[2:43:50] descrição da live aqui tem um link do
+[2:43:52] Gemini, uma oferta promocional 18 meses
+[2:43:55] Gemini Pro com YouTube Lite, 5 TB de
+[2:43:58] armazenamento e mais uma porrada de de
+[2:44:00] funcionalidades, que é o que eu tô
+[2:44:02] usando aqui, antigravity, né, por R$
+[2:44:05] 149,90, 18 meses. Isso dá R$ 8,34
+[2:44:09] por mês.
+[2:44:11] Você paga essa plataforma aí ou ela é
+[2:44:13] free? Essa plataforma é nossa. Eh, o
+[2:44:16] Nexar Hunter.
+[2:44:18] Ela tem plano a partir de R$ 79, que é o
+[2:44:20] plano que tá ativo aqui, ó, que eu
+[2:44:22] assinei pra gente usar usar aqui.
+[2:44:27] Caraca, Diminar, que demora,
+[2:44:38] rapaz. O Astro aqui, Léo, tá derretendo
+[2:44:40] meus créditos, meus tokens.
+[2:44:43] Tanto que
+[2:44:46] eu tenho aqui, ó,
+[2:44:51] vai renovar daqui 3 horas.
+[2:44:58] Para fazer a manutenção, o projeto fica
+[2:45:00] salvo no antigravity? Fica. Todos os
+[2:45:03] projetos, na verdade, fica no computador
+[2:45:06] ou no GitHub, né? você tem conexão
+[2:45:08] direto com eles. GitHub é bom que se
+[2:45:10] você vai viajar, você leva o notebook,
+[2:45:12] consegue conectar o o VS Code ao ao
+[2:45:17] GitHub e fazer as alterações.
+[2:45:24] Tô umas duas semanas buscando como fazer
+[2:45:26] esses sites e só tem guru vendendo
+[2:45:27] curso. E Yuri aqui é de graça, pô.
+[2:45:30] Inclusive a gente já tá na live 12, né?
+[2:45:34] 12º dia
+[2:45:38] aconselha eu me posicionar como
+[2:45:40] especialista ou agência em relação a
+[2:45:42] site Instagram e outros. Se é só você,
+[2:45:45] Gabriel, eu te posiciono a você vender a
+[2:45:48] tua marca, não como agência.
+[2:45:52] Agência envolve estruturas, né? E aí é
+[2:45:54] uma estrutura que se você tá trabalhando
+[2:45:55] só você,
+[2:45:57] eh, você não tem ainda, né?
+[2:46:03] Tá sério que tá demorando tudo isso? Vou
+[2:46:04] cortar manual.
+[2:46:29] Como você faz na parte de segurança,
+[2:46:31] Yuri?
+[2:46:33] uma land page não tem login, não tem
+[2:46:35] senha, você não precisa se preocupar com
+[2:46:36] segurança.
+[2:46:59] Certeza que isso aqui tá PNG? Tá não.
+[2:47:15] Tava fazendo pelo cloud, mas então vou
+[2:47:17] passar a tentar fazer pelo antigráfic.
+[2:47:18] Então, Yuri, é o que você precisa, na
+[2:47:20] verdade. o Gemin é muito ruim
+[2:47:22] para essas coisas, galera. Credo.
+[2:47:25] Eh, deixa eu pegar aqui um GPT frio
+[2:47:27] aqui.
+[2:47:39] Vamos usar um GPT free aqui para fazer
+[2:47:40] isso.
+[2:48:02] Que que nós vamos fazer hoje?
+[2:48:05] Nós vamos
+[2:48:08] gostaria de remover,
+[2:48:12] gostaria de exportar
+[2:48:16] JR desta logo
+[2:48:19] em alta resolução
+[2:48:25] sem fundo.
+[2:48:29] tá pensando,
+[2:48:35] usa algum plugin figloud, ele consegue
+[2:48:38] vetorizar dentro, fica perfeito. Onde
+[2:48:41] está essa promo que você falou do
+[2:48:42] antigravity? Tá na descrição aqui, ó,
+[2:48:45] descrição da live Gemn Pro 18 meses. Só
+[2:48:49] clicar no link aí.
+[2:49:02] Só clicar no link que ele ativa na sua
+[2:49:04] conta. Pessoal te atende aí já.
+[2:49:08] Aí, galera.
+[2:49:16] Tá, agora eu vou Ah, tá, ele baixou
+[2:49:19] aqui.
+[2:49:23] Ajuste a imagem
+[2:49:28] para ficar já sem espaços vazios.
+[2:49:36] quadrado.
+[2:49:37] Vou usar de favicon no meu site. Pedir
+[2:49:42] para ele fazer aí pra gente. Prontinho.
+[2:49:44] Cheguei agora. Tá fazendo o seu site ou
+[2:49:46] do cliente? Tô fazendo o meu site,
+[2:49:47] Carlos, pra gente poder já amanhã
+[2:49:49] prospectar cliente novo, né?
+[2:49:52] Objetivo é esse agora, prospectar
+[2:49:54] cliente novo.
+[2:50:01] Você usa a extensão do VS Code? A gente
+[2:50:05] usa o VS Code com extensão do
+[2:50:06] antigravity. Inclusive tá saindo vídeo
+[2:50:08] amanhã, galera, no canal.
+[2:50:15] Onde
+[2:50:30] contra referência de sites, modelos e
+[2:50:32] paletas? Cordeiro, eu uso aqui, ó,
+[2:50:36] Pinterest. É aqui que eu busco as minhas
+[2:50:38] referências sempre.
+[2:50:47] Agora eu vou salvar aqui o Favicon Jr.
+[2:50:51] Vamos jogar lá na pasta.
+[2:51:05] Galera, não esquece de se inscrever e
+[2:51:06] deixar o likezão aí.
+[2:51:13] Não esquece de se inscrever e deixar o
+[2:51:15] likezão. Agora o que que a gente vai
+[2:51:16] fazer? Vamos pedir para ele eh criar o
+[2:51:19] Favicon, né?
+[2:51:22] E vamos colocar o site no ar. Use essa
+[2:51:26] imagem como favicon do site. Favicon,
+[2:51:30] galera, é esse ícone que aparece aqui em
+[2:51:32] cima, tá? Esse iconezinho aqui, ó.
+[2:51:39] Fiz o que o palestrante disse e mesmo
+[2:51:41] assim fica não deixando. Eita!
+[2:51:45] Tô com dificuldade para saber o caminho
+[2:51:47] certo para fazer o site com. Então,
+[2:51:49] Yuri, é só ficar aqui com a gente que
+[2:51:51] você vai
+[2:51:53] você já vai pegar a manha de tudo, hein?
+[2:51:56] É o que a gente fez desde lá, a primeira
+[2:51:58] live.
+[2:52:18] Essa logo tá parecida com a minha. É,
+[2:52:20] José,
+[2:52:22] mas eu sou
+[2:52:25] tá na nas tá com essa identidade.
+[2:52:29] Tá com essa identidade. É.
+[2:52:34] Galera, 1688 inscritos. Bora bater os
+[2:52:38] 1700.
+[2:52:39] Vocês acham?
+[2:52:45] Todo mundo ajudando bastante. Ó o Riel
+[2:52:47] aí. Boa, Riel. Valeu. O nosso grupo do
+[2:52:50] WhatsApp, galera, para quem não
+[2:52:51] participa ainda, tá na descrição da
+[2:52:54] live, tá?
+[2:53:09] E aí, o seguinte, galera, para amanhã
+[2:53:10] vai ficar só o portfólio, que é uma
+[2:53:13] página que a gente não criou ainda.
+[2:53:16] sobre tá aqui, serviços tá aqui,
+[2:53:18] processo tá aqui.
+[2:53:41] Será que estou mexendo no WordPress?
+[2:53:42] Será?
+[2:53:45] Fiquei até agora e você não mostrou
+[2:53:46] sobre o site pro cliente ver. Como
+[2:53:49] assim? A gente tá terminando nosso nosso
+[2:53:53] site. Ele não tá pronto. A gente vai
+[2:53:55] subir quando finalizar aqui.
+[2:54:01] Calma, galera. Vamos por partes. Não
+[2:54:03] podemos atropelar aqui.
+[2:54:24] Já vamos chegar lá nessa parte de subir.
+[2:54:27] Ó, Favicon carregou lá. O Favicon,
+[2:54:29] galera, ó. Tá lá em cima.
+[2:54:32] Agora vamos dar uma olhadinha no mobile
+[2:54:34] se a gente vai precisar mexer. Olha aí o
+[2:54:36] mobile. Tá, essa imagem aqui realmente
+[2:54:39] ficou repetida, mas hoje eu não vou
+[2:54:41] conseguir gerar ela, né? Porque eu
+[2:54:48] vamos ter que gerar outra outra imagem.
+[2:54:56] Praticamente a gente não precisa, cara.
+[2:54:58] Eu gosto muito do antigravity porque ele
+[2:55:01] ele gera um a versão mobile muito
+[2:55:04] bacana.
+[2:55:10] Olha isso. Ficou top demais, galera.
+[2:55:12] Ficou top demais. Agora vamos subir,
+[2:55:14] então.
+[2:55:16] Ah, vamos subir o site pro ar
+[2:55:19] primeiro. Eh, vamos lá no GitHub.
+[2:55:25] Pô, não sei dizer, mas teoricamente ele
+[2:55:26] não deveria saber que você está no
+[2:55:28] WordPress. Na verdade é fácil descobrir,
+[2:55:30] né, galera?
+[2:55:35] Ó, o José tá usando outra identidade,
+[2:55:38] galera. Ó, muito simples, tá? Primeiro
+[2:55:41] vocês tem que ter conta no GitHub e na
+[2:55:43] Versel, tá? Github.com,
+[2:55:47] verscel.com,
+[2:55:48] tá?
+[2:55:50] H, logins iguais com a mesma conta. Você
+[2:55:54] vai logar com o Google, loga com Google
+[2:55:57] nas duas, certo?
+[2:56:00] Todo mundo ligado aí para não ficar com
+[2:56:03] essa dúvida?
+[2:56:06] Então, cordeiro, é uma promoção, não sei
+[2:56:08] até quando vai, viu? Mas por enquanto a
+[2:56:10] gente ainda tem alguns convites
+[2:56:12] disponíveis
+[2:56:14] por enquanto.
+[2:56:17] Ã, quem precisar então do antigravity
+[2:56:20] Gemini Pro que com que é o mesmo plano
+[2:56:23] que eu uso aqui para fazer os sites, tá
+[2:56:25] na descrição da live.
+[2:56:28] Ah, seguinte, eh, vamos lá, então. Vem
+[2:56:32] aqui em new para criar um repositório,
+[2:56:34] tá? Aqui vocês podem ver, ó, eu tenho
+[2:56:36] uma porrada de repositório. Todos os
+[2:56:38] meus projetos estão aqui. Vem aqui em
+[2:56:40] new. Vamos colocar aqui, ó. Júnior Lima
+[2:56:46] tá disponível.
+[2:56:48] Detalhe importante, não deixa público,
+[2:56:50] tá, galera? Senão qualquer pessoa pode
+[2:56:52] acessar os teus arquivos, deixa privado.
+[2:57:02] Então, deixa privado, tá?
+[2:57:09] e crie o repositório,
+[2:57:13] tá? criou o repositório, você vai ter um
+[2:57:15] link do teu repositório, que é esse link
+[2:57:17] aqui.
+[2:57:20] Aí você vem aqui, ó, no teu antigravity,
+[2:57:23] se você usa o IDE ou VS Code, fala o
+[2:57:26] seguinte, vamos sincronizar
+[2:57:29] o site com o meu repositório.
+[2:57:33] Eita, pera aí, pera aí. Cancelar aqui.
+[2:57:36] Vamos sincronizar.
+[2:57:39] Vamos sincronizar
+[2:57:42] o meu site com o repositório.
+[2:57:45] Repositório do GitHub.
+[2:57:48] Eu gosto de garantir também, ó, garanta
+[2:57:50] também que seja configurado
+[2:57:54] configurado
+[2:57:56] um commit ou deploy, uso o que vocês
+[2:57:59] quiserem. Um comit automático,
+[2:58:03] automático a cada atualização
+[2:58:07] feita.
+[2:58:10] E aí você cola o link aqui do teu
+[2:58:11] repositório, tá? Que é esse que você
+[2:58:14] gerou agora, que tá aqui, ó. Só copiar
+[2:58:19] e manda rodar e aguarda. Manda rodar e
+[2:58:22] aguarda. Galera, falta 11 inscritos pra
+[2:58:25] gente fechar 1700.
+[2:58:28] Quem tá na live aí, não é inscrito ainda
+[2:58:30] no canal, dá o sub aí pra gente.
+[2:58:35] Galera, lembrando que GitHub Versel você
+[2:58:37] tem o limite gratuito, tá? Então pode
+[2:58:41] arrochar aqui, cobrar os R9,90 mensal aí
+[2:58:44] do teu cliente que você não vai pagar
+[2:58:46] nada, vai entrar os R9,90
+[2:58:50] limpo para você.
+[2:58:55] Ó, ele tá sincronizando com o
+[2:58:57] repositório.
+[2:59:06] Так.
+[2:59:16] Outro
+[2:59:29] detalhe, galera, tem tem tá na descrição
+[2:59:32] da live também o nosso grupo do
+[2:59:33] WhatsApp, né? Vamos ver quantas
+[2:59:35] mensagens tem no nosso grupo do
+[2:59:36] WhatsApp. 319.
+[2:59:39] E eu vou lançar aqui todos os prontos,
+[2:59:41] só que eu vou ter que lançar mais tarde,
+[2:59:43] né, galera? Eu tenho que esperar. Eh, ou
+[2:59:45] Caiu Cordeiro acabou de dar o sub.
+[2:59:48] Valeu, Caio.
+[2:59:50] Vou ter que esperar resetar meu limite,
+[2:59:51] né, daqui 3 horas. Então, eu vou postar
+[2:59:54] esses prompts aqui mais lá próximo das
+[2:59:57] 11 da noite ou 10 da noite.
+[3:00:05] Ó, galera, tudo sincronizado. Acabei de
+[3:00:07] finalizar o repositório da sua pasta
+[3:00:09] local.
+[3:00:11] Fiz o commit de todos os arquivos do
+[3:00:13] site, CSS, HTML, tudo. O VS Code, tá?
+[3:00:17] Tem o controle da versão do Git embutido
+[3:00:19] e formando no alto. Beleza. Como
+[3:00:21] configurar? Ele ensina a configurar
+[3:00:22] aqui, tá? Então é só dar um F5 aqui, ó.
+[3:00:27] Ó, já tá todos os arquivos aqui, ó.
+[3:00:30] Valeu, Caik, pelo sub. Tamo junto.
+[3:00:35] Então, tá todos os arquivos aqui,
+[3:00:36] galera. Tá, agora a gente vai paraa
+[3:00:39] Versel. Por que que eu uso a Versel?
+[3:00:40] Porque daí eu uso a URL gratuita, certo?
+[3:00:45] Então chega aqui na Versel, lembrando
+[3:00:47] você tem que estar na mesma, o mesmo
+[3:00:49] e-mail que você criou conta no GitHub,
+[3:00:52] você usa aqui na Versel. Vem aqui
+[3:00:54] adicionar novo, coloca projeto, ele já
+[3:00:58] vai detectar todos os projetos que você
+[3:00:59] tem no GitHub. Ó, tá aqui, ó. Júnior
+[3:01:03] Lima faz 2 minutos, então eu vou
+[3:01:05] importar. Clique em importar.
+[3:01:08] Project Name Júior Lima.
+[3:01:11] Já pegou aqui os arquivos. Dá um deploy.
+[3:01:16] É um deploy. Aguarda.
+[3:01:27] Voltei. Agora os outros clientes deram
+[3:01:28] retorno. Ainda não. João Pedro, aonde eu
+[3:01:31] consigo o cliente, o Fernando, a gente
+[3:01:33] prospecta no Hunter. se inscreve aqui no
+[3:01:36] no canal que a gente vai prospectar
+[3:01:38] bastante cliente essa semana. Aí galera,
+[3:01:42] ó, parabéns,
+[3:01:44] seu projeto já está publicado. Agora
+[3:01:46] vamos continuar pro dashboard.
+[3:01:51] E olha só, juniorlima.
+[3:01:56] Vou colar aqui no chat para vocês,
+[3:02:03] galera. O Nexar Hunter. Eh, Fernando, tá
+[3:02:06] na descrição da da live, tá? Clica lá
+[3:02:09] que tem vídeo de como funciona, como
+[3:02:11] prospecta. Mas basicamente você
+[3:02:13] seleciona o nicho, a cidade e ele já
+[3:02:15] filtra com e os clientes com maior
+[3:02:17] potencial para você fechar.
+[3:02:28] Então, é basicamente isso que a gente
+[3:02:30] faz. Prospecto cliente. Criamos o site e
+[3:02:34] vendemos. Agora a gente vai inverter.
+[3:02:35] Criamos o nosso site. Vamos criar o
+[3:02:38] nosso portfólio que a gente já tem. Já
+[3:02:40] produzimos sites, já vendemos sites, já
+[3:02:42] construímos sites. Vamos gerar o nosso
+[3:02:45] portfólio e aí vamos vender para depois
+[3:02:47] desenvolver.
+[3:02:49] Abriu certinho. Só falta o número do
+[3:02:51] WhatsApp. Não tá pronto ainda, Yuri. Ele
+[3:02:53] não tá pronto ainda. Como coloca o
+[3:02:55] domínio próprio aí a gente vai fazer
+[3:02:57] isso amanhã. Arte Web.
+[3:02:59] Nós vamos comprar o domínio e vamos
+[3:03:01] criar
+[3:03:03] aí. Vai comprar o domínio também, né,
+[3:03:05] Júnior? Vou comprar o domínio também. Ou
+[3:03:07] deixar conversel. Não, a gente vai
+[3:03:09] comprar o domínio.
+[3:03:11] Vamos comprar o domínio.
+[3:03:15] Isso mesmo.
+[3:03:18] Ã, vamos lá, galera. Olha só, o Nexar
+[3:03:20] Hunter tá aqui aberto e a gente vai usar
+[3:03:23] muito ele agora, essa semana porque a
+[3:03:25] gente vai trabalhar com essa parte de
+[3:03:27] prospectar cliente, né? Então,
+[3:03:30] busca por nicho, segmento, busca pela
+[3:03:33] cidade,
+[3:03:35] tá? E aí ele já vai te dar aqui, ó,
+[3:03:39] uma lista, né, de 20 em 20, que é o que
+[3:03:42] o Google permite, de empresas que estão
+[3:03:45] no Google Meu Negócio
+[3:03:47] com potencial de venda. Então, a gente
+[3:03:50] vai prospectar cliente, vai abordar.
+[3:03:52] Aqui a gente tem WhatsApp, score e todo
+[3:03:56] tudo que o cliente oferece, redes
+[3:03:58] sociais, se ele tiver
+[3:04:16] júnior, se você usa o antig porque não
+[3:04:17] usa o Firebase, já não é melhor, já é
+[3:04:20] nativo do Google, cara. Na verdade, aí é
+[3:04:23] gosto, né? Eu habituei a usar GitHub,
+[3:04:26] Versel,
+[3:04:28] Supase. Aí é questão de
+[3:04:32] familiaridade com as ferramentas, né?
+[3:04:40] Exatamente. A Versel eu uso só para
+[3:04:42] mostrar o mocap, né, pro cliente, para
+[3:04:44] ele acompanhando online. Por exemplo,
+[3:04:47] quando ele faz, ele pede uma alteração,
+[3:04:49] alguma coisa, a gente vai fazendo, vai
+[3:04:50] colocando o ar, ele vai visualizando,
+[3:04:52] depois no final a gente conecta o
+[3:04:53] domínio.
+[3:04:56] Try. Não, não temos um nicho em si. A
+[3:05:00] gente já fez pra oficina mecânica, né?
+[3:05:02] Tá aqui, ó.
+[3:05:04] A gente já fez pra oficina mecânica.
+[3:05:06] Fizemos para esquadrilhas de alumínio,
+[3:05:10] fizemos para lavanderia,
+[3:05:16] fizemos para instalador de ar
+[3:05:19] condicionado.
+[3:05:25] Então, a gente não tem um nicho, a gente
+[3:05:26] já pega a prospecta, né, com o Nexar
+[3:05:29] Hunter, analisa o perfil do cliente e
+[3:05:33] tava produzindo sites para vender. Agora
+[3:05:36] a gente vai inverter, né? Por isso que a
+[3:05:38] gente tá fazendo o nosso
+[3:05:41] Por isso que a gente tá fazendo o nosso
+[3:05:42] próprio site.
+[3:05:44] Ficou muito bom, galera, o mobile. Eu só
+[3:05:46] preciso,
+[3:05:49] só preciso de uma imagem diferente para
+[3:05:51] colocar aqui, ó.
+[3:05:57] É isso aí. Eu só preciso de uma imagem
+[3:05:59] diferente, mas ficou muito bacana.
+[3:06:03] Viu que o Callf lançou o próprio sistema
+[3:06:04] de deploy com até 10 GB livre de
+[3:06:07] armazenamento? Não, não vi, não vi.
+[3:06:09] Otávio, bacana, né? Isso é muito útil.
+[3:06:21] Ainda não, programador.
+[3:06:24] A gente não tá aplicando se ainda aqui.
+[3:06:26] Não chegamos nessa fase. Você já é um um
+[3:06:30] produto separado. Qual o nome para gerar
+[3:06:32] a logo ali na aba do Google?
+[3:06:37] Não entendi tua pergunta, Gabriel. O
+[3:06:39] logo a gente gerou no
+[3:06:42] chat EPT, tá? Quais são os períodos da
+[3:06:45] live, Yuri? Yuri, a gente faz live todo
+[3:06:48] dia às 15 horas da tarde.
+[3:06:53] Ah, ah, tá, tá. Você tá falando Favicon.
+[3:06:55] Tá boa. Entendi. Agora o Leonardo
+[3:06:58] respondeu lá.
+[3:07:00] Galera, 169
+[3:07:02] inscritos, dá para chegar a 1700. Quem
+[3:07:04] não é inscrito aí, dá o sub pra gente.
+[3:07:16] Ó, ele já deu aqui, ó, o atalho pra
+[3:07:18] gente, ó. Control shift X,
+[3:07:22] git autocomit.
+[3:07:26] Vamos ver se a gente acha aqui. Git auto
+[3:07:30] aqui, ó. Git autocomit. Vamos instalar.
+[3:07:34] que daí ele já faz o deploy automático.
+[3:07:46] Feito.
+[3:07:56] Vai sair vídeo amanhã, galera, para
+[3:07:58] vocês eh configurar aqui o VS Code bem
+[3:08:00] como tá o meu Júnior. Tô pensando em
+[3:08:02] fazer uma live no mesmo estilo, mas pela
+[3:08:05] manhã tu acha que é de boa? Então, Ru, é
+[3:08:07] só se organizar, né?
+[3:08:10] Se você tiver tempo,
+[3:08:13] vale a pena, sim.
+[3:08:16] Mas se você vai compartilhar conteúdo,
+[3:08:18] né? Se você tá pensando em ganhar
+[3:08:20] dinheiro fazendo live, vou ter que te
+[3:08:22] dar uma notícia triste, tá? Você não vai
+[3:08:26] ganhar dinheiro fazendo live, eu acho.
+[3:08:29] Eu não tô ganhando dinheiro fazendo
+[3:08:30] live, galera, mas tô compartilhando
+[3:08:32] conteúdo e tô aprendendo bastante com
+[3:08:34] vocês. Então, para mim tá compensando
+[3:08:36] muito.
+[3:08:39] 325 mensagens, galera. Oh louco.
+[3:08:55] Vamos dar uma analisada aqui. Vamos ver
+[3:08:57] se o
+[3:08:58] meu GPT Plus gera uma imagem melhor
+[3:09:01] aqui. O meu GPT free lá gera uma imagem
+[3:09:05] melhor.
+[3:09:06] Vamos, vamos vir aqui pro
+[3:09:09] pro meu GPT gratuito aqui.
+[3:09:14] Essas são as duas primeiras dobras. OK.
+[3:09:18] Duas primeiras dobras do site. A minha
+[3:09:21] foto é de baixo,
+[3:09:25] é igual a de cima.
+[3:09:29] Preciso preciso alterá-la.
+[3:09:34] gere eh três opções
+[3:09:38] seguindo
+[3:09:39] a mesma identidade
+[3:09:42] da foto minha para usar na segunda
+[3:09:45] dobra.
+[3:09:54] Tu faz contrato, eu formalizo via
+[3:09:58] WhatsApp ou e-mail. Gabriel, como você
+[3:10:02] recebe? Eu recebo pelo Mercado Pago no
+[3:10:04] cartão, assim que eu fecho a venda.
+[3:10:23] Tu deixa os trampos rodando e aí você
+[3:10:25] vai acompanhando na academia.
+[3:10:31] Boa. Tem uma proposta comercial,
+[3:10:34] orçamento montado para editar e mandar
+[3:10:36] pro cliente. Vamos fazer isso, Thaago. A
+[3:10:39] gente tem um script de abordagem, mas a
+[3:10:41] gente vai
+[3:10:44] eh a gente vai criar tudo isso agora.
+[3:10:48] Ó, Yuri, essa live tá ajudando demais.
+[3:10:49] Valeu. É, Yuri, tem muito conteúdo
+[3:10:52] bacana.
+[3:10:58] Quanto você cobra por site? Cobro 799.
+[3:11:04] ele criou uma identidade nova
+[3:11:05] aqui para mim, né? Que eu nem queria.
+[3:11:09] Gostei dessa foto aqui, ó.
+[3:11:12] Vamos ver aqui.
+[3:11:27] Ah, vamos lá.
+[3:11:32] Gostei desta foto aqui.
+[3:11:38] Gere e em alta qualidade qualidade com
+[3:11:44] com o sombreamento
+[3:11:46] sombreamento laranja.
+[3:11:51] laranja, mas sem linhas.
+[3:12:02] 799 mais domínio, 799 o site, R9,90 o
+[3:12:07] domínio e mais R9,90 de hospedagem
+[3:12:10] mensal.
+[3:12:12] É isso que a gente cobra.
+[3:12:14] YouTube acabou de recomendar teu canal.
+[3:12:16] Acho muito conteúdo de prospecção
+[3:12:18] boa, meu querido. Faça sua inscrição aí
+[3:12:20] que a gente vai ter 7,99. Não, 799,
+[3:12:25] Mateus.
+[3:12:28] Não é, é quando eu falo 799, galera, é
+[3:12:30] 799,
+[3:12:32] tá? 799, não é 7,99.
+[3:12:37] Consigo usar meu subdomínio para colocar
+[3:12:39] o site e enviar para o cliente? Consegue
+[3:12:41] sim, João.
+[3:12:43] Consegue sim.
+[3:12:45] poderia mostrar como foi a conversa do
+[3:12:47] último fechamento dessa jornada. Tá lá
+[3:12:51] nas outras lives, Artim.
+[3:12:55] Aí, galera, ó,
+[3:12:57] gerou a imagem e essa imagem que eu vou
+[3:12:59] usar lá na segunda dobra. Vamos salvar
+[3:13:02] ela aqui.
+[3:13:04] Vamos colocar júnior 2.
+[3:13:14] Agora vamos vir aqui, ó. Vamos mandar
+[3:13:17] aqui, ó,
+[3:13:20] essa dobra.
+[3:13:23] E vamos pedir para ele substitua
+[3:13:27] a minha imagem
+[3:13:29] nesta dobra.
+[3:13:31] pela foto em anexo MG2
+[3:13:36] sem quebrar sem quebrar ou alterar o
+[3:13:42] layout atual.
+[3:13:53] Esse 799
+[3:13:55] é para site ou land page LP Luan.
+[3:14:00] O cliente da esquadrilas não respondeu
+[3:14:02] ainda não.
+[3:14:05] >> Eu mandei os negócios aqui para ele de
+[3:14:06] novo. Ele não respondeu.
+[3:14:10] Ele só respondeu ontem porque ele achou
+[3:14:12] que eu era cliente, né? Mas demorou para
+[3:14:14] responder. Ele demorou mais de uma hora
+[3:14:16] para responder.
+[3:14:19] Devo cobrar mais de hospedagem para
+[3:14:21] cliente grande, tipo clínica? Eu acho
+[3:14:23] que não, Gabriel, porque hoje qualquer
+[3:14:24] hospedagem host, hospedagens normais aí
+[3:14:28] oferecem R$ 20, R$ 30,
+[3:14:31] só quando é VPS que é mais caro, né,
+[3:14:36] galera? Falta seis inscritos aí pra
+[3:14:37] gente fechar 1700.
+[3:14:41] Bora fechar.
+[3:14:43] Você tá usando VS Code ou antigravity?
+[3:14:45] Eu tô usando antigravity no VS Code
+[3:14:48] Wagner
+[3:14:51] pra site. Aí depende do site, né, Luan?
+[3:14:55] 100, 2000, 3.000, 4.000, depende do
+[3:14:58] site.
+[3:15:00] Aí galera, tá subindo. Só não recebi a
+[3:15:03] notificação de quem se inscreveu, mas
+[3:15:04] subiu.
+[3:15:06] Tá abordando com primeira dobra ou já
+[3:15:09] com todo o site feito? com todo o site
+[3:15:11] feito, Leonardo, até então. Porém, agora
+[3:15:14] a gente tá fazendo, agora eu tô fazendo
+[3:15:16] o meu site, eh, justamente para
+[3:15:21] fazer o contrário.
+[3:15:23] Aí, galera, ó,
+[3:15:25] cadê o Dudu? Dudu que tinha falado,
+[3:15:27] galera, 1700 inscritos, vocês são
+[3:15:29] demais. Valeu,
+[3:15:32] Apex Pro acabou de se inscrever, mano.
+[3:15:35] Ajuda a configurar. Como você fez isso?
+[3:15:38] Quero usar o antigravity no S code, não
+[3:15:40] consigo. Ele tem uma extensão, Wagner. É
+[3:15:43] só você vir aqui em extensão, prospere.
+[3:15:46] Acabou de deixar o sub. Valeu, meu
+[3:15:48] querido.
+[3:15:50] Aqui em extensões você pesquisa pela
+[3:15:51] extensão oficial do antigravity.
+[3:15:54] Dev COD acabou de se inscrever. Valeu
+[3:15:56] pelo sub, galera. Aqui, ó, antigravity.
+[3:16:00] Tá aqui, ó, plugin oficial.
+[3:16:09] Galera, o VS Code é a IDE onde você usa
+[3:16:12] IA, tá?
+[3:16:14] Então o VS Code em si, ele não tem IA.
+[3:16:21] Vamos ver no mobile como ficou aí,
+[3:16:23] galera, ó.
+[3:16:26] Tá, vamos pedir para ele fazer o ajuste
+[3:16:28] no mobile só dessa imagem que não ficou
+[3:16:30] legal.
+[3:16:32] Vamos ver como ele tava.
+[3:16:34] É, precisava fazer o ajuste igual,
+[3:16:37] ó, ele aqui é local,
+[3:16:41] aqui é o site local e aqui é o site que
+[3:16:43] tá no GitHub na Versel. Você viu,
+[3:16:45] galera, que eu alterei e ele já fez os o
+[3:16:49] deploy automaticamente.
+[3:16:52] Wagner, vai sair vídeo amanhã. Eh,
+[3:16:56] vai sair vídeo amanhã sobre a
+[3:16:58] configuração do meu VS Code, tá? para
+[3:17:01] vocês ter esse mesmo resultado aqui.
+[3:17:06] Vamos pedir para ele ajustar. Eh, OK.
+[3:17:14] Vamos mandar aqui, ó, essa dobra. A
+[3:17:18] dobra no mobile. Mobile.
+[3:17:22] Não está bom. Ajuste
+[3:17:25] a imagem.
+[3:17:28] Ajuste a imagem.
+[3:17:31] Ajuste. Vou mandar só um ajuste.
+[3:17:35] Me passa o ensinamento, Rafael. Vê que o
+[3:17:37] Rafael, sou programador e comecei a
+[3:17:38] entrar nesse mercado recentemente. Ainda
+[3:17:40] tô aprendendo como funciona. Já consegui
+[3:17:42] faz, mas já consegui fazer uns 20k. Boa.
+[3:17:46] Você gerou o meup inicial em imagens,
+[3:17:49] certo? Não deu distorção das imagens e
+[3:17:51] textos atrapalhados? Não,
+[3:17:55] não, LC. Não deu não.
+[3:17:59] É só a gente chegar aqui, ó. Vamos
+[3:18:01] chegar aqui no topo. A gente fez isso no
+[3:18:03] início da live, tá?
+[3:18:05] Eu falei sobre isso,
+[3:18:08] ó. Ele deu uma primeira versão.
+[3:18:10] Eu pedi para ele ajustar. Eu control, eu
+[3:18:14] prospecto no WhatsApp usando a nossa
+[3:18:16] ferramenta que é a Nexar Hunter, tá?
+[3:18:20] onde eu prospecto por nicho, por cidade
+[3:18:23] e ele já me dá os possíveis clientes.
+[3:18:26] E aí eu fui lapidando aqui, ó, pedi para
+[3:18:28] ele remover o portfólio, colocar numa
+[3:18:30] página separada.
+[3:18:35] Daí eu gerei a minha imagem com efeito.
+[3:18:40] Qual a vantagem de usar o VS Code
+[3:18:41] antigravity juntos?
+[3:18:44] É uma ferramenta que eu gosto de usar,
+[3:18:45] né, para para programar, na verdade,
+[3:18:48] para vibe codar. Eu acho confortável
+[3:18:52] usar ela porque tem navegador integrado,
+[3:18:54] tem mais extensões que eu posso usar
+[3:18:56] como super basic hubo mais. Quais
+[3:19:00] elementos principais que diam LP de um
+[3:19:02] site para eu não fazer um e vender como
+[3:19:05] land page? É tudo numa numa página só,
+[3:19:08] tá? Não tem menus com subpáginas. Por
+[3:19:11] exemplo, aqui
+[3:19:13] é aqui, ó.
+[3:19:16] Aqui é uma land page. Quando você clica
+[3:19:18] em soluções, projetos e sobre, é tudo na
+[3:19:21] mesma página, tá? Se eu tiver um uma
+[3:19:24] página só de portfólio, aí já deixa de
+[3:19:28] ser a land page um e vira um website.
+[3:19:32] Cara, o nicho bom não existe um nicho
+[3:19:34] bom, mas procura prestador de serviço,
+[3:19:36] né? Ficou bom, ficou tudo bem mais fácil
+[3:19:39] porque eu tenho sistema de I próprio. Eu
+[3:19:41] vim aqui para entrar nesse mercado e
+[3:19:43] acabou facilitando bastante as coisas,
+[3:19:45] mas é um mercado bom, diz o Rafael.
+[3:20:11] Ah, galera, eu vou abrir aqui no meu
+[3:20:13] celular para ver como que ele ficou.
+[3:20:19] Vamos abrir aqui no celular para ver
+[3:20:21] quanto ele ajusta ali.
+[3:20:59] Vamos, vamos lá, galera. Deixa eu abrir
+[3:21:01] aqui a web. Olha aí, ó. Site
+[3:21:07] rodando no celular já, ó.
+[3:21:16] Vamos ver se ele mudou aqui.
+[3:21:21] Vamos ver o que o que mudou aqui, né?
+[3:21:23] Ainda não.
+[3:21:30] Ainda ficou cortada a imagem.
+[3:21:33] Precisamos,
+[3:21:35] Precisamos ajustar para que não fique
+[3:21:40] cortada a foto.
+[3:21:43] Você tem um guard próprio ou não
+[3:21:47] precisou? Ó o Rafaela, você tem ideia de
+[3:21:50] algum nich bom para começar? Tem um site
+[3:21:51] para um cliente, mas não sei como
+[3:21:54] entregar para ela. Como funciona a
+[3:21:56] hospedagem, essas paradas? Tem como
+[3:21:57] explicar? Acabamos de fazer,
+[3:22:01] acabamos de fazer isso.
+[3:22:03] Onde você tira a ideia dos componentes
+[3:22:05] ou aí a guia, eu uso referências aqui do
+[3:22:08] Pinterest, ó.
+[3:22:12] Inclusive lá nos e no início do prompt,
+[3:22:16] eu joguei todas as referências que eu
+[3:22:18] tinha separado lá.
+[3:22:21] Joguei todas as referências lá antes de
+[3:22:24] fazer o mocap, né?
+[3:22:29] THT. Eh, o plano do antigravity que eu
+[3:22:32] uso aqui é esse que tá na descrição do
+[3:22:34] vídeo da live aqui, tá? Eh, é o Google
+[3:22:38] IA Pro com 5 TB armazenamento
+[3:22:40] antigravity, 1000 tokens mensais por
+[3:22:43] 149,90 18 meses, tá? Então você vai
+[3:22:47] dividir 149,90 por 18 meses, vai dar
+[3:22:50] 8,34 mensal. Vale muito a pena. Aliás, a
+[3:22:55] galera me avisou que tem poucas unidades
+[3:22:57] ainda disponível
+[3:23:00] na proposta. O que você manda?
+[3:23:05] A proposta, o script tá no nosso grupo
+[3:23:08] do WhatsApp, galera. Quem precisar do
+[3:23:09] script
+[3:23:12] aí, galera, melhorou, mas acho que dá
+[3:23:14] para ficar um pouquinho melhor ainda.
+[3:23:21] Vamos ver como que é essa foto aqui. Só
+[3:23:23] para mim é, dá para eu melhorar um
+[3:23:25] pouquinho mais.
+[3:23:32] Você
+[3:23:53] acha que dá para trabalhar com foco
+[3:23:55] somente em land page? Dá sim, Marcelo.
+[3:24:00] O tão duro que não tem o valor da
+[3:24:02] ferramenta de 149. Gabriel, pode
+[3:24:04] parcelar no cartão THT. Temos live todo
+[3:24:06] dia às 15 horas.
+[3:24:09] Aproveitem, galera, porque é durar muito
+[3:24:12] tempo. Na verdade, esse antigrav são
+[3:24:15] convites que a gente tem
+[3:24:18] e vai acabar. Não vai durar para sempre,
+[3:24:21] não. É um convite onde você ativa na sua
+[3:24:23] própria conta, tá?
+[3:24:29] Dougajo
+[3:24:31] chegou. Salve, meu querido. Seja
+[3:24:33] bem-vindo.
+[3:24:36] Galera, deixa eu atualizar aqui. Tá 131
+[3:24:39] likes mesmo.
+[3:24:43] Ah, 154 likes. Valeu. Mas se não deixou
+[3:24:46] o likezão aí, ó, deixa o like pra gente.
+[3:24:49] Batemos os 1700 inscritos. Valeu, gente.
+[3:24:52] Vocês são demais.
+[3:24:54] 1709 inscritos. Muito obrigado pela
+[3:24:57] companhia de todos.
+[3:25:01] Então, vamos finalizar essa dobra aqui,
+[3:25:03] galera. E a parte inicial do nosso site
+[3:25:06] já tá pronta, né? Do nosso portfólio.
+[3:25:08] Tinha um monte de gente aqui que tava
+[3:25:09] fazendo portfólio junto, galera. Quem
+[3:25:11] quem tá fazendo aí? Já terminaram? Vende
+[3:25:14] site como o Império dos Cortes. Vendo no
+[3:25:17] X1 no WhatsApp.
+[3:25:22] X1 do WhatsApp. A gente prospecta os
+[3:25:24] clientes aqui com a ferramenta com Nexar
+[3:25:26] Hunter, né? Ela filtra por nicho e
+[3:25:29] cidade, já classifica com os clientes
+[3:25:32] mais potenciais e a gente aborda no
+[3:25:34] WhatsApp.
+[3:25:36] Fica gravada sim,
+[3:25:39] fica gravado sim. Inclusive todas as
+[3:25:42] lives, galera, tá estão gravadas, né? Eu
+[3:25:44] não tirei nenhuma do ar ainda. Tá lá
+[3:25:47] desde o primeiro dia até o dia 12, que é
+[3:25:50] hoje. Então quem quiser maratonar aí com
+[3:25:53] certeza vai prospectar muito, vai
+[3:25:56] agregar bastante.
+[3:25:58] Ô Júnior, abre a minha LP aí, dá uma
+[3:26:00] olhada na oferta se puder depois.
+[3:26:03] Boa.
+[3:26:04] Com que pega o antigravity? Tá na
+[3:26:07] descrição da live o programador mediano,
+[3:26:11] só clicar no link.
+[3:26:13] tá na descrição da live.
+[3:26:16] Só seguir o passo a passo ali que a
+[3:26:18] galera, o pessoal já te atende.
+[3:26:22] Tu vai no Google Meu Negócio e procura a
+[3:26:23] empresa no map, depois vende. Então,
+[3:26:25] Império, a gente usa o Nexar Hunter, que
+[3:26:27] é esse aqui que tá na tela aqui.
+[3:26:30] Usa skill? Não, Alisson, não uso.
+[3:26:39] Quanto é o Nexar? O Nexart tem plano de
+[3:26:41] a partir de 79.
+[3:26:44] A partir de 79, Mateus, que é o plano
+[3:26:47] que a gente tá usando aqui. Mas eu acho
+[3:26:48] que eu vou ter que fazer o upgrade pro
+[3:26:50] pro, hein?
+[3:26:52] R$ 200 é barato para site. Simples? É
+[3:26:54] sim.
+[3:26:58] Então, Império, eu uso o Nexar Hunter
+[3:27:01] para prospectar os clientes e esse plano
+[3:27:04] do antigravity que tá aqui na descrição
+[3:27:06] da live. É só isso. Isso dá 80 e a gente
+[3:27:10] fez a conta em alguma live aí, dá R$ 80
+[3:27:12] e poucos reais se for dividir mensal,
+[3:27:13] né? O Hunter é de despesa por mês, mas
+[3:27:18] tem token a full, a gente não consegue
+[3:27:20] gastar tudo. A gente for olhar o limite,
+[3:27:23] galera, a gente tem 77
+[3:27:25] do semanal
+[3:27:27] que vai resetar em 5 dias. Então a gente
+[3:27:30] tem 5 dias aí com 77
+[3:27:33] e tem 77 do diário que renova amanhã,
+[3:27:37] então é muito bom.
+[3:27:42] Aí galera, agora ele chegou no que eu
+[3:27:43] queria, ó.
+[3:27:47] Vamos ver se ele não mexeu no Não mexeu
+[3:27:49] no desktop.
+[3:27:52] E olha aí que massa que ficou.
+[3:27:58] Depois a gente vai gerar os efeitos de
+[3:28:00] rolagem, né?
+[3:28:04] Obrigado, M. Tamo junto. Você acha que
+[3:28:07] faz sentido criar um agente de
+[3:28:09] atendimento para WhatsApp para oferecer
+[3:28:11] com como produto também?
+[3:28:14] É sim, só que tem bastante mercado, né,
+[3:28:18] cara? Eu já usei muito o LB, viu? Só que
+[3:28:21] é muito caro os tokens. Não, hoje eu
+[3:28:23] não, eu prefiro criar sim.
+[3:28:26] Crio todos os meus sites aqui com anti
+[3:28:28] gravity no VS Code.
+[3:29:01] Mas é uma boas se você tem o
+[3:29:03] investimento disponível, né? Mas você
+[3:29:05] vai gastar um muito token, muito lá é
+[3:29:07] crédito, né? Eles te dão cinco créditos
+[3:29:10] diários que dois prompt já consome tudo.
+[3:29:14] E aí você vai
+[3:29:17] gastar bastante. Eu usaria R$ 150 lá no
+[3:29:21] lourro. Você gasta em dois dias.
+[3:29:43] Acho que chegou. Quem chegou? Quem
+[3:29:45] chegou? Francisco Ferreira chegou. Valeu
+[3:29:47] pelo sub, Francisco. Seja bem-vindo.
+[3:30:07] Acabei de comprar. Já já a galera te
+[3:30:09] atende aí, Sombrio. Qual o site mais
+[3:30:12] caro que eu já fiz? Foi esse aqui, ó.
+[3:30:26] quer dizer, site, né? Estamos falando em
+[3:30:28] site. Já a gente já fez CRMs e bastante
+[3:30:32] coisa a mais, mas site site o mais caro
+[3:30:35] que eu fiz foi esse aqui,
+[3:30:39] que foi R$ 7.600.
+[3:30:53] Esse site aqui tem
+[3:30:56] esse site aqui tem área administrativa,
+[3:30:58] né, onde o cliente
+[3:31:01] eh adiciona as obras dele e na verdade
+[3:31:04] ele mexe em todo o site, tá?
+[3:31:07] Ele ele altera o que ele quiser. Altera,
+[3:31:10] adiciona itens na agenda.
+[3:31:15] Então, adiciona fotos, então ele faz
+[3:31:17] tudo.
+[3:31:27] Galera, valeu pelo sub. Vou testar aqui
+[3:31:30] onde pega o prompt que você citou,
+[3:31:32] Mateus. Eu vou soltar o prompt lá no
+[3:31:34] grupo do WhatsApp, tá?
+[3:31:38] No fim da live, na verdade, eu tenho que
+[3:31:39] esperar um pouquinho, né? que eu preciso
+[3:31:42] liberar meus meus tokens aqui do do
+[3:31:48] Chad GPT,
+[3:31:50] porém tá perto, né? Eu acho que reseta
+[3:31:52] em
+[3:31:54] algumas horinhas.
+[3:32:01] A gente estava dando 2 horas ali para
+[3:32:03] resetar.
+[3:32:04] Como você consegue seus clientes nessa
+[3:32:06] ferramenta que tá aqui na descrição da
+[3:32:08] live?
+[3:32:10] Vamos fazer comigo
+[3:32:12] Nexar Hunter, tá?
+[3:32:14] Você prospecta por nicho, prospecta por
+[3:32:17] cidade e com o IAL já filtra e te traz
+[3:32:20] os clientes com maior chance de
+[3:32:22] fechamento. É uma ferramenta nossa da
+[3:32:24] nossa agência.
+[3:32:27] Hoje você já vendeu? Hoje eu tô fazendo
+[3:32:29] meu portfólio
+[3:32:31] contra o futebol pra gente prospectar a
+[3:32:34] partir de amanhã.
+[3:32:37] Quantas vendas tu fecha por dia?
+[3:32:39] Geralmente, Júnior, então, na agência lá
+[3:32:41] a gente fecha bastante. Aqui a gente em
+[3:32:45] 12 dias fechamos duas, prospectamos só
+[3:32:48] cinco, obviamente, né? Mas fechamos
+[3:32:51] duas.
+[3:32:55] CRM, outra coisa, o que é CRM? É, são
+[3:32:59] sistemas, tá?
+[3:33:05] Ég nicho é, eu vi uns caras que fazem
+[3:33:08] site usando LBO a partir de uma extensão
+[3:33:11] que não consome os tokens. É, mas daí
+[3:33:14] se der ruim eles banem teu projeto e aí
+[3:33:18] você perde o site e explica como pro teu
+[3:33:21] cliente.
+[3:33:23] Tem algum nicho que poucos exploram que
+[3:33:24] você acha bom? Na verdade não tem um
+[3:33:26] nicho bom, né?
+[3:33:30] Mecânica a gente fez, né? Um site aqui
+[3:33:31] de mecânica.
+[3:33:36] Valeu, Império. A gente também fecha às
+[3:33:38] 19 hoje a live, galera,
+[3:33:41] porque o o chat PT bloqueou a gente, né?
+[3:33:47] Mas aqui, galera, depois eu vou lançar
+[3:33:48] lá no grupo do WhatsApp todos os prontos
+[3:33:50] que eu usei, tá, no meu projeto aqui. E
+[3:33:52] amanhã a gente vai fazer o meu
+[3:33:54] portfólio, né, a página do portfólio,
+[3:33:57] que é só o que falta. Depois a gente já
+[3:34:00] vai partir pra prospecção.
+[3:34:04] Consigo pegar esse arquivo na Lobb e
+[3:34:06] mudar para esse método? Consegue,
+[3:34:08] Gabriel, mas você vai ter que, na
+[3:34:10] verdade, que ela que você pode fazer,
+[3:34:12] você pode conectar o teu projeto no Lovo
+[3:34:15] do GitHub, ele vai transferir todos os
+[3:34:17] teus arquivos. Aí você vem aqui no VS
+[3:34:19] Code, conecta, conecta aqui e segue
+[3:34:22] editando de boa.
+[3:34:25] Quando você fecha LP, está incluso a
+[3:34:27] mensalidade, a hospedagem a gente cobra,
+[3:34:29] Luan. R$9,90 mensais.
+[3:34:33] Quanto tempo você trabalha com sites?
+[3:34:34] Desde 2012.
+[3:34:39] Júnior, eu não entendi a mesma coisa. Tô
+[3:34:41] na live. Um. Usa o GPT ou o Gemini? Uso
+[3:34:44] os dois, Victor. O GPT é o que gera os
+[3:34:47] prompts e as imagens e os mocaps do
+[3:34:50] site. E o Gemini com antigravity é o que
+[3:34:53] eu uso aqui no VS Code para desenvolver
+[3:34:55] os sites.
+[3:34:59] Império, amanhã a gente volta, hein?
+[3:35:01] Domínio eu também cobro do cliente 3990,
+[3:35:04] que é o.com.br. BR.
+[3:35:17] M.
+[3:35:38] Quem não tá no grupo do WhatsApp,
+[3:35:39] galera, tá na descrição aqui da live,
+[3:35:41] tá? Valeu pelo sub. Quem chegou foi o
+[3:35:45] Vamos fazer pelo sub, meu querido.
+[3:35:47] Gemini para gerar um mocap não é tão
+[3:35:49] bom. As imagens sair zoadas. Eu uso o
+[3:35:51] GPT para gerar as imagens.
+[3:35:54] Equipe já liberou o meu acesso
+[3:35:55] antigravity. Valeu, meu querido. Borra.
+[3:35:58] Agora é só iniciar projeto aqui com a
+[3:36:01] gente.
+[3:36:04] Já adianta 80%, sim. E já deixa tudo
+[3:36:07] muito mais assertivo, né, Gabriel? Você
+[3:36:09] já vem com tudo que você, você já sabe o
+[3:36:11] que você vai ter de resultado, então
+[3:36:14] você fica muito mais assertivo. Vai
+[3:36:16] postar o vídeo como deixar config no VS
+[3:36:18] Code amanhã, Gabriel. Quero terminar de
+[3:36:20] editar hoje para amanhã jogar no grupo.
+[3:36:32] Cheguei agora. Tô querendo começar a
+[3:36:34] vender site. Boa, Nartoto. Então, se
+[3:36:36] inscreve no canal aí e deixa teu like
+[3:36:39] porque a gente vai prospectar cliente
+[3:36:41] todo dia a partir de agora. A gente só
+[3:36:43] precisa finalizar o nosso site aqui.
+[3:37:07] Galera, é muito muito em conta para
+[3:37:09] vocês iniciar. Eu falei, se você não
+[3:37:12] quer iniciar com o Hunter, que é o mais
+[3:37:13] caro, né? R9,90 mensal, mas na verdade
+[3:37:16] não é caro. Se você fechar um site, você
+[3:37:18] já paga um ano para eles, ã, de Hunter,
+[3:37:22] né? Mas você pode começar prospectando
+[3:37:25] no Google Meu Negócio, né? Vai lá no
+[3:37:27] chat de EPTs, pede para ele listar
+[3:37:29] empresas de nicho tal, na cidade tal,
+[3:37:32] ele vai ele vai listar para você.
+[3:37:35] Qual os principais fatores que tem que
+[3:37:37] revisar antes de entregar um site? Tem
+[3:37:39] como resumir antes de terminar? Cara,
+[3:37:42] usa habilidade, principalmente no
+[3:37:43] mobile, né? Teu site tem que tá o
+[3:37:46] cliente, quando você mandar o link para
+[3:37:48] ele, ele vai olhar primeiro no celular,
+[3:37:49] depois no computador.
+[3:37:56] Você coloca o da hospedagem, mas é em
+[3:37:59] sua VPS ou você contrata
+[3:38:00] individualmente? Eu hospedo gratuito no
+[3:38:03] GitHub e na Versel.
+[3:38:06] Eh, mudando para roça,
+[3:38:11] Gabriel vai aprender. É bem simples, tá?
+[3:38:13] O videozinho aí acho que não vai dar 15
+[3:38:15] minutos para você deixar o VS Code assim
+[3:38:18] que nem o meu.
+[3:38:23] Qual o valor médio dos sites? O valor
+[3:38:26] médio é a land page 799.
+[3:38:30] Também vendo o site, mano. Ticket 597.
+[3:38:33] Boa, Gabriel. Isso aí.
+[3:38:44] Finalizamos aqui então, galera. Galera,
+[3:38:46] finalizamos 19 horas. Hoje eu vou
+[3:38:48] ficando por aqui.
+[3:38:51] Eh, se eu mandar o site que fiz hoje,
+[3:38:53] você dá um bizu. Manda no grupo lá,
+[3:38:54] Ezequiel. Manda no grupo lá que a gente
+[3:38:56] olha, tá, gente? Deixa o likezão, se
+[3:39:00] inscreve no canal. Amanhã tem live de
+[3:39:02] novo. Na verdade tem live todo dia às 15
+[3:39:04] horas. Eh, se você quer prospectar
+[3:39:07] cliente com Nexar Hunter, ela é uma
+[3:39:09] ferramenta nossa da nossa agência.
+[3:39:11] Então, tá na descrição da live. Se você
+[3:39:13] quer usar o Ginai e o Antigravity,
+[3:39:16] tá promocional. Aqui a gente tem link de
+[3:39:19] convite para você ativar na tua conta
+[3:39:20] também. Tá no link da live. R$9,90 por
+[3:39:24] 18 meses. Isso dá exatamente 8,34 por
+[3:39:28] mês. Então, vale muito a pena. E aí você
+[3:39:30] já é só isso que você precisa para
+[3:39:33] entrar na jornada aí junto comigo. O
+[3:39:36] Hunter é opcional, você não precisa do
+[3:39:37] Hunter, tá? Você pode prospectar cliente
+[3:39:39] de outra forma, mas segue aí porque tem
+[3:39:42] muito conteúdo bacana. Se você não viu
+[3:39:44] as lives anteriores, cola lá. Eh, a
+[3:39:47] gente começou com R$ 0, estamos com R$
+[3:39:49] 1093 em caixa e essa semana a gente vai
+[3:39:53] vender mais, pode ter certeza.
+[3:39:55] A gente mostra, Ezequiel, vamos ter
+[3:39:57] abordagem de cliente, estratégia de
+[3:40:00] venda, script de venda, tá lá no nosso
+[3:40:01] grupo do WhatsApp.
+[3:40:04] O Gabriel, vou comprar já, já, tô
+[3:40:05] esperando a mulher para ir no mercado.
+[3:40:07] Boa, boa.
+[3:40:10] Ã, a galera vai te atender lá, Gabriel.
+[3:40:12] Se não for muito tarde, a galera já te
+[3:40:14] manda, já te manda o link meio de
+[3:40:15] imediato, tá?
+[3:40:18] Só tem um horário ali que a galera não
+[3:40:20] fica na frente do whats.
+[3:40:22] E é isso aí, amanhã às 15 horas a gente
+[3:40:25] tá aqui de volta prospectando o cliente,
+[3:40:27] terminando nossa land page, né? Falta
+[3:40:29] fazer o portfólio. Temos todos esses
+[3:40:32] sites aqui, ó, para colocar no nosso
+[3:40:34] portfólio. Ninguém respondeu, mas a
+[3:40:37] galera tá online. Então, amanhã a gente
+[3:40:40] vai fazer a última chamada nessa galera
+[3:40:42] aqui. Se eles não fecharem, a gente já
+[3:40:44] vai focar nos demais. Não vamos gastar
+[3:40:47] tempo aí com a galera.
+[3:40:51] 1600 em quantos dias? O objetivo é em um
+[3:40:54] mês, né? É um salário mínimo, na
+[3:40:56] verdade. A gente fez R$ 1.000. Valeu,
+[3:40:59] Vinícius pelo sub.
+[3:41:02] Precisa ser com o mesmo e-mail do GPT
+[3:41:04] GitHub? Não precisa, Gabriel. É só ser
+[3:41:07] qualquer conta do Gmail que você usa,
+[3:41:09] tá? Não precisa ser a mesma.
+[3:41:13] Fechou, galera?
+[3:41:15] Cadê o link do Gemini João Gabriel? Tá
+[3:41:18] aqui na descrição da live
+[3:41:23] logo depois ali do Nexar Hunter.
+[3:41:28] Só clicar, fazer o pedido que a galera
+[3:41:30] já te atende aí.
+[3:41:35] Ezequiel, fica no GitHub, tá hospedado.
+[3:41:40] É número novo para prospectar. É número
+[3:41:42] novo, Luan. Tá aqui, ó. É número novo,
+[3:41:45] por isso que não tem histórico. Mas eu
+[3:41:47] quero prospectar
+[3:41:49] meus conhecidos também. Então, eu vou
+[3:41:51] usar o meu WhatsApp. Só isso eu não
+[3:41:53] posso mostrar porque tem um monte de
+[3:41:55] número aqui que não, que é de outros
+[3:41:57] segmentos, mas eu vou prospectar também.
+[3:42:00] Inclusive, eu coloquei lá no grupo um
+[3:42:02] spoiler, né, do das nossas imagens de
+[3:42:05] prospecção e a gente vai fazer o script
+[3:42:07] aqui de prospecção junto com vocês ao
+[3:42:10] vivo na live, tá? Por isso que é
+[3:42:11] importante vocês eh se inscreverem no
+[3:42:14] canal e ativar o sininho aí para YouTube
+[3:42:16] notificar.
+[3:42:18] Fechou, galera? Então, o link do Eminai,
+[3:42:20] link do Hunter e link do grupo, tudo
+[3:42:23] aqui na descrição da live. Fechou? E
+[3:42:26] amanhã eu volto aqui com vocês
+[3:42:29] às 15 horas. Cois.

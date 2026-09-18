@@ -1,0 +1,401 @@
+{
+  "dia": 3,
+  "slug": "dia-03",
+  "srt": "../../../../midias/youtube/Dia 3 Vibe Coding Do R$0 ao R$1.621 Vend/legendas.srt",
+  "titulo": "Dia 3 | Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA",
+  "data": "2026-09-03",
+  "duracao": "3:26:50",
+  "youtube": "https://www.youtube.com/watch?v=Ng44GPpaGsk",
+  "faturamento": "R$ 0",
+  "mrr": null,
+  "resumo": "No terceiro dia do desafio, Junior dá seguimento à conversa com a dona da Lavanderia Lords para fechar a proposta de R$ 497 com manutenção mensal de R$ 49,90. Para não ficar esperando parado, ele inicia a criação de um modelo de landing page para o setor de climatização. A estrutura é montada com o Gemini no VS Code, enquanto o ChatGPT gera o acervo de imagens e recria o logotipo da empresa. No fim da live, a dona da lavanderia envia um áudio elogiando o trabalho, destacando o alvará sanitário da empresa e alinhando o fechamento com o sócio.",
+  "destaques": [
+    "Princípio da esteira: após mandar a proposta para a lavanderia, começou imediatamente a criar a demo de climatização para não perder tempo esperando.",
+    "Estratégia do modelo modular de nicho: se a empresa recusar, basta trocar a logo e as cores para oferecer ao concorrente.",
+    "O protótipo pronto na tela do celular substitui o portfólio: o cliente vê a própria empresa funcionando e a barreira da desconfiança cai."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:01:03",
+      "texto": "Abre a live no terceiro dia do desafio e confere o status da abordagem com a Lavanderia Lords."
+    },
+    {
+      "t": "00:04:06",
+      "texto": "Define a estratégia de criar modelos padrão por nicho para reaproveitar o trabalho caso o cliente recuse."
+    },
+    {
+      "t": "00:06:07",
+      "texto": "Localiza a foto da fachada da empresa de climatização para extrair a marca."
+    },
+    {
+      "t": "00:08:15",
+      "texto": "Gera a versão em alta resolução do logotipo com fundo transparente no ChatGPT."
+    },
+    {
+      "t": "00:11:21",
+      "texto": "Inicia o desenvolvimento no VS Code usando Antigravity com o Gemini 3.8 Flash."
+    },
+    {
+      "t": "00:12:22",
+      "texto": "Cria o arquivo project-brief.md na raiz para servir de contexto e manual do projeto para a IA."
+    },
+    {
+      "t": "00:15:26",
+      "texto": "Analisa a sazonalidade da climatização com a chegada da primavera e do verão no sul."
+    },
+    {
+      "t": "00:19:46",
+      "texto": "Roda o prompt de auditoria de nível de agência fazendo o Gemini atuar como diretor de criação."
+    },
+    {
+      "t": "00:47:19",
+      "texto": "Gera um lote de dezesseis imagens realistas no ChatGPT para os serviços de ar-condicionado."
+    },
+    {
+      "t": "01:22:13",
+      "texto": "Testa no navegador os modais de orçamento integrados ao WhatsApp."
+    },
+    {
+      "t": "02:10:05",
+      "texto": "A cliente da Lavanderia Lords envia um áudio no WhatsApp comentando sobre a proposta."
+    },
+    {
+      "t": "02:15:13",
+      "texto": "Envia áudio explicando a diferença de posicionamento entre Instagram e Google."
+    },
+    {
+      "t": "02:31:22",
+      "texto": "Gera o link de pagamento de R$ 497 e cadastra a assinatura de R$ 49,90 na InfinitePay."
+    },
+    {
+      "t": "02:41:59",
+      "texto": "A cliente responde empolgada, destaca seu alvará sanitário estadual e combina de confirmar com o sócio."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:01:03",
+      "titulo": "Transparência ao vivo",
+      "texto": "Mostrar a rotina real sem esconder erros ou respostas demoradas prova como o trabalho funciona de verdade."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:11:21",
+      "titulo": "Equipamento simples basta",
+      "texto": "Não precisa de computador caro para programar com IA. O processamento pesado roda na nuvem e qualquer máquina básica com VS Code dá conta."
+    },
+    {
+      "momento": "mentalidade",
+      "t": null,
+      "titulo": "O não faz parte da rotina",
+      "texto": "Receber recusas é uma questão estatística em vendas ativas. A rejeição não deve ser levada para o lado pessoal."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:04:06",
+      "titulo": "Princípio da esteira de trabalho",
+      "texto": "Depois de enviar uma proposta, não fique parado esperando resposta. Abra o próximo projeto e continue produzindo."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:11:21",
+      "titulo": "Comece sem depender de portfólio",
+      "texto": "A demonstração pronta supre a falta de clientes anteriores. O empresário se convence ao ver o próprio negócio funcionando no celular."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:11:21",
+      "titulo": "Foco no comércio local",
+      "texto": "Começar pela própria cidade facilita a conversa. A proximidade gera mais confiança e permite até uma visita presencial se for preciso."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:15:26",
+      "titulo": "Nichos de serviço essencial",
+      "texto": "Setores como lavanderias, climatização e oficinas atendem demandas urgentes. Quem procura esses serviços já está pronto para contratar."
+    },
+    {
+      "momento": "prospeccao",
+      "t": null,
+      "titulo": "Filtros de qualificação",
+      "texto": "Priorize empresas com ponto físico ativo, boas avaliações no Google e WhatsApp verificado, mas que ainda não tenham site próprio."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:03:06",
+      "titulo": "Link quebrado como oportunidade",
+      "texto": "Quando o link da biografia da empresa está com erro, você tem um gancho imediato para mostrar que ela está perdendo clientes."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:36:13",
+      "titulo": "Como falar com o dono",
+      "texto": "Em pequenos negócios locais o WhatsApp geralmente é atendido pelo próprio proprietário. Se cair em recepcionista, peça educadamente o contato do responsável."
+    },
+    {
+      "momento": "analise",
+      "t": "00:03:06",
+      "titulo": "Auditoria prévia do negócio",
+      "texto": "Examine as fotos e redes sociais do cliente antes do primeiro contato. Entender a operação dele fornece argumentos reais para a abordagem."
+    },
+    {
+      "momento": "analise",
+      "t": "02:41:59",
+      "titulo": "Descubra o diferencial da empresa",
+      "texto": "Todo negócio tradicional tem um ponto de orgulho, como anos de mercado ou licenças especiais. Destacar isso na página gera conexão imediata."
+    },
+    {
+      "momento": "analise",
+      "t": "02:15:13",
+      "titulo": "Entenda a intenção de busca",
+      "texto": "Quem pesquisa um serviço local no Google tem uma urgência para resolver. O site precisa entregar o contato de forma rápida e clara."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:12:22",
+      "titulo": "Crie o manual do projeto",
+      "texto": "Manter um arquivo de instruções na raiz orienta a IA durante todo o processo. Isso evita que ela altere seções já aprovadas nos comandos seguintes."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:07:09",
+      "titulo": "Recrie o logotipo com IA",
+      "texto": "Se a empresa não tem o logo em vetor, recorte a foto da fachada e peça ao ChatGPT para gerar uma versão em alta resolução com fundo transparente."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:04:06",
+      "titulo": "Estrutura modular reaproveitável",
+      "texto": "Construa o site em blocos modulares. Se o primeiro cliente não fechar, basta trocar a marca e as cores para apresentar a outro concorrente."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:47:19",
+      "titulo": "Acervo de fotos personalizadas",
+      "texto": "Evite bancos de imagens com modelos gringos artificiais. Gere fotos temáticas e realistas alinhadas com o trabalho do prestador de serviço."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:19:46",
+      "titulo": "Auditoria nível de agência",
+      "texto": "Peça para a IA agir como diretora de criação revisando o código. Ela ajusta alinhamentos, contrastes e espaçamentos sem você precisar caçar detalhes."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:22:13",
+      "titulo": "Modais de WhatsApp",
+      "texto": "Botões de orçamento que abrem modais com opções de serviço e direcionam a mensagem pronta para o WhatsApp facilitam o contato."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "01:38:17",
+      "titulo": "Atenção ao horário de envio",
+      "texto": "Evite enviar mensagens perto do fim da tarde, quando o comerciante está fechando o caixa. Prefira o meio da manhã ou o início da tarde."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:15:13",
+      "titulo": "Google versus Instagram",
+      "texto": "O Instagram entrega conteúdo para quem já segue a empresa, enquanto o Google coloca o negócio na frente de quem precisa do serviço na hora."
+    },
+    {
+      "momento": "preco",
+      "t": "02:31:22",
+      "titulo": "Estrutura da oferta inicial",
+      "texto": "Cobrar R$ 497 pelo desenvolvimento com opção de parcelamento torna a compra acessível e ajuda a fechar rápido."
+    },
+    {
+      "momento": "preco",
+      "t": "02:24:55",
+      "titulo": "Mensalidade com custo zero",
+      "texto": "A mensalidade de R$ 49,90 vira lucro recorrente limpo porque a hospedagem no GitHub e na Vercel não custa nada."
+    },
+    {
+      "momento": "fechamento",
+      "t": "02:35:31",
+      "titulo": "Transparência no domínio",
+      "texto": "Deixe claro que os R$ 40 do domínio vão para o Registro.br uma vez por ano. Isso afasta qualquer desconfiança sobre taxas escondidas."
+    },
+    {
+      "momento": "erros",
+      "t": "00:19:46",
+      "titulo": "Não tente fazer tudo em um prompt",
+      "texto": "Construir a página inteira de uma vez só faz a IA quebrar blocos e se perder. Divida a criação em etapas progressivas."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "01:36:13",
+      "titulo": "Pedir o contato do proprietário",
+      "texto": "Entendo perfeitamente. Você teria o contato do proprietário ou responsável pela empresa para que eu possa encaminhar o material demonstrativo diretamente a ele sem tomar seu tempo?"
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:07:09",
+      "titulo": "Recriar logotipo com fundo transparente",
+      "texto": "Este é o logo da empresa. Pode exportar o logo, recriá-lo e ajustá-lo para uma imagem em alta resolução. Gere com fundo transparente somente o logo em alta resolução."
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:42:01",
+      "titulo": "Gerar imagens realistas para climatização",
+      "texto": "Preciso gerar imagens referentes à empresa de climatização. Gere sequências individuais mostrando instalação de equipamentos split, higienização técnica profissional com uniforme padrão, climatização em ambientes corporativos e salas de reunião, em alta resolução e estilo fotorealista."
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:19:46",
+      "titulo": "Auditoria de nível de agência",
+      "texto": "Auditoria de nível de agência: em vez de ficar dizendo mude isso ou mude aquilo, faça o modelo assumir o papel de um diretor de criação, revisando o trabalho da equipe de desenvolvimento para ajustar alinhamento, contraste, espaçamento entre blocos e refinamento estético."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "01:38:17",
+      "titulo": "Mensagem de acompanhamento da demonstração",
+      "texto": "Oi, [Nome do cliente], passando só para saber se conseguiu abrir a demonstração que te mandei ontem. Fiz realmente pensando na empresa de vocês, então fiquei curioso para saber o que achou."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:15:13",
+      "titulo": "Áudio explicando a diferença entre Google e Instagram",
+      "texto": "Então, [Nome do cliente], na verdade o que eu fiz para você é um website oficial da empresa, para termos no futuro o endereço www.nomedaempresa.com.br. O site funciona de forma totalmente diferente do Instagram. O Instagram é uma mídia de oportunidade: as pessoas entram para se entreter e, no meio das postagens, pode ser que vejam uma foto sua, mas ele praticamente só entrega para quem já segue sua página. Já o Google é uma mídia de necessidade: quando uma pessoa está com um problema imediato, como uma roupa fina para lavar ou um ar-condicionado com defeito, ela não vai pesquisar no feed do Instagram, ela abre o Google e digita exatamente o que precisa na cidade. O site serve para colocar sua empresa na frente desses clientes prontos para comprar, exibindo seu telefone e WhatsApp de forma profissional."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": null,
+      "titulo": "Comparação de valor com mídias tradicionais",
+      "texto": "O valor é bastante acessível, custando muito menos do que uma única inserção de propaganda em jornal impresso ou rádio local. Com a diferença de que o anúncio temporário acaba, enquanto o site se torna um patrimônio permanente da sua empresa na internet."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:33:30",
+      "titulo": "Envio da proposta comercial no WhatsApp",
+      "texto": "A ideia é justamente entregar esse site já adaptado para a empresa. Estou fazendo esse projeto por R$ 497 com site completo e pronto para utilização em pagamento único. Compra do domínio www.nomedaempresa.com.br: R$ 40 uma vez no ano. Hospedagem e manutenção mensal: R$ 49,90 por mês para manter o site rodando 24 horas. Pode ser parcelado em até 10 vezes de R$ 49,70."
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Renato",
+      "pergunta": "Você utiliza o Antigravity por preferência pessoal ou considera o Claude superior para programar?",
+      "resposta": "O Claude é excelente, mas o custo de tokens é alto para quem está começando. O Gemini 3.8 Flash entrega ótima qualidade visual com velocidade e custo quase nulo, mantendo a margem do projeto.",
+      "t": "02:11:10"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Como você consegue chegar diretamente no contato do proprietário sem ficar travado na recepção?",
+      "resposta": "No comércio local, o WhatsApp geralmente é atendido pelo dono. Quando cai com um funcionário, o segredo é pedir com educação o contato do responsável para enviar a demonstração.",
+      "t": "01:36:13"
+    },
+    {
+      "autor": null,
+      "pergunta": "O link do site foi enviado diretamente para a cliente avaliar no navegador?",
+      "resposta": "Sim, o projeto foi publicado na Vercel gerando uma URL pública para a cliente abrir e interagir pelo celular antes de falar de valores.",
+      "t": "00:02:05"
+    },
+    {
+      "autor": null,
+      "pergunta": "O que acontece com o tempo de trabalho investido caso a empresa decida recusar a compra do site?",
+      "resposta": "O trabalho não é perdido. Por ser uma estrutura modular de nicho, basta trocar o logo, as cores e o contato para oferecer a outra empresa do mesmo setor.",
+      "t": "00:04:06"
+    },
+    {
+      "autor": "Leandro",
+      "pergunta": "Qual a frequência e os horários das transmissões ao vivo do desafio?",
+      "resposta": "As transmissões ocorrem de segunda a sexta-feira, iniciando por volta das 15h, mostrando todo o processo de prospecção, código e negociação.",
+      "t": "03:19:09"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como fazer para que a inteligência artificial não desconfigure as seções anteriores ao pedir um novo ajuste?",
+      "resposta": "Mantenha um arquivo de instruções do projeto na raiz e delimite no comando apenas a seção que precisa ser alterada, reforçando que o restante deve ficar intacto.",
+      "t": "00:12:22"
+    },
+    {
+      "autor": null,
+      "pergunta": "Vale a pena contratar servidores caros de hospedagem para atender clientes locais?",
+      "resposta": "Não. Usando GitHub e Vercel, o custo de hospedagem é zero com alta velocidade e certificado de segurança. Isso faz a mensalidade de manutenção virar lucro líquido.",
+      "t": "02:24:55"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como funciona o gatilho da sazonalidade na escolha dos nichos?",
+      "resposta": "Na climatização, a proximidade da primavera e do verão aumenta a busca por consertos e instalações. Escolher nichos em alta demanda facilita a venda.",
+      "t": "00:15:26"
+    },
+    {
+      "autor": null,
+      "pergunta": "É possível parcelar o valor do site para o cliente sem assumir o risco de inadimplência?",
+      "resposta": "Sim, criando um link de pagamento na InfinitePay. O cliente parcela em até 10 vezes e a plataforma assume o risco, liberando o valor líquido com desconto da taxa.",
+      "t": "02:36:38"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "Visual Studio Code",
+      "uso": "Editor de código onde os arquivos da landing page são estruturados."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão do VS Code que executa as alterações de código orientadas por IA."
+    },
+    {
+      "nome": "Gemini 3.8 Flash",
+      "uso": "Modelo de linguagem do Google utilizado para programar o site com velocidade e baixo custo de tokens."
+    },
+    {
+      "nome": "ChatGPT Plus",
+      "uso": "Geração de textos, criação de imagens temáticas e vetorização de logotipos a partir de fachadas."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospecção ativa de empresas locais sem site no Google Maps."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Armazenamento do código-fonte em repositório privado."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem gratuita do site com certificado de segurança e deploy contínuo."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Consulta e registro de domínio nacional .com.br pela taxa de R$ 40 por ano."
+    },
+    {
+      "nome": "InfinitePay",
+      "uso": "Cobrança via link parcelado em até 10 vezes e cadastro da mensalidade recorrente."
+    }
+  ],
+  "frases": [
+    {
+      "t": "02:15:13",
+      "texto": "O Instagram é oportunidade, o Google é necessidade."
+    },
+    {
+      "t": "00:04:06",
+      "texto": "Se eu não vender para uma lavanderia, reaproveito exatamente a mesma estrutura que foi criada para vender para outra do mesmo segmento."
+    },
+    {
+      "t": "00:01:03",
+      "texto": "Sem resultado inventado e sem cortar os erros: se vender, vocês vão ver; se ninguém responder, também."
+    },
+    {
+      "t": "00:12:22",
+      "texto": "Eu prefiro usar o Gemini 3.8 Flash porque ele dá super conta do recado e sobra limite, enquanto outras IAs torram seus tokens em três comandos."
+    },
+    {
+      "t": "02:44:00",
+      "texto": "Se você é a única da sua região que possui alvará sanitário válido em todo o estado, a gente tem que contar isso no topo do site para todo mundo ver."
+    },
+    {
+      "t": "02:14:13",
+      "texto": "O site proporciona isso: quando as pessoas buscam pelo serviço no Google, você aparece, o cliente clica e já cai no seu WhatsApp pronto para fechar."
+    },
+    {
+      "t": "00:23:54",
+      "texto": "Entregar a demonstração praticamente pronta quebra qualquer barreira de confiança porque o cliente vê o negócio dele funcionando na tela do celular."
+    }
+  ]
+}

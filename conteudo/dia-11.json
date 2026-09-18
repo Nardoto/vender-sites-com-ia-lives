@@ -1,0 +1,369 @@
+{
+  "dia": 11,
+  "slug": "dia-11",
+  "srt": "../../../../midias/youtube/Dia 11 Vibe Coding R$994 de R$1.621 + MR/legendas.srt",
+  "titulo": "Dia 11 | Vibe Coding: R$994 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "data": "2026-09-14",
+  "duracao": "4:03:30",
+  "youtube": "https://www.youtube.com/watch?v=LPI9a76H2EY",
+  "faturamento": "R$ 994",
+  "mrr": "R$ 99,80",
+  "resumo": "No décimo primeiro dia, Junior volta no início da semana com saldo de R$ 1.031 e anuncia que a Alumi Arte será a última empresa com site desenvolvido antes da abordagem. Ele avalia as propostas pendentes da Mais Clima e da Store Automotive e constrói a landing page da fabricante de esquadrias no VS Code com o Antigravity. Em seguida, publica o projeto no GitHub e na Vercel com subdomínio personalizado. No final da tarde, envia a primeira mensagem de contato no WhatsApp e encerra a transmissão respeitando o fim do horário comercial.",
+  "destaques": [
+    "A Alumi Arte marca o encerramento do modelo de criar o site antes do contato: na segunda quinzena, a prospecção usará mockups em imagem e portfólio próprio.",
+    "Com dois clientes ativos, o MRR de R$ 99,80 cobre todas as despesas mensais de ferramentas de inteligência artificial.",
+    "Abordagens comerciais devem respeitar o horário de expediente das empresas e nunca ser enviadas no período noturno."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:03:31",
+      "texto": "Verifica que a oficina mecânica visualizou a mensagem da proposta enviada na sexta-feira."
+    },
+    {
+      "t": "00:08:38",
+      "texto": "Apresenta o saldo atualizado de R$ 994 e confirma o MRR de R$ 99,80."
+    },
+    {
+      "t": "00:09:40",
+      "texto": "Comunica que a Alumi Arte será o último site produzido antes do primeiro contato comercial."
+    },
+    {
+      "t": "00:11:41",
+      "texto": "Explica que a abordagem pelo WhatsApp traz melhor retorno do que pelo Instagram."
+    },
+    {
+      "t": "00:14:42",
+      "texto": "Explica o fluxo de trabalho gerando prompts no ChatGPT e codando com o Gemini no Antigravity."
+    },
+    {
+      "t": "00:19:48",
+      "texto": "Explica por que começou cobrando R$ 497 e relata o agendamento de retorno da Mais Clima."
+    },
+    {
+      "t": "00:25:21",
+      "texto": "Mostra o painel da Vercel com dezenas de sites ativos consumindo menos de 25% do limite gratuito."
+    },
+    {
+      "t": "00:35:43",
+      "texto": "Explica o recebimento de pagamentos e mensalidades pelo Mercado Pago com opção de parcelamento."
+    },
+    {
+      "t": "01:30:53",
+      "texto": "Mostra projetos de lojas virtuais e explica que e-commerce permite cobrar tickets bem mais altos."
+    },
+    {
+      "t": "02:29:41",
+      "texto": "Cria o repositório privado da Alumi Arte no GitHub para armazenar o código."
+    },
+    {
+      "t": "02:36:55",
+      "texto": "Faz o deploy do site na Vercel importando o repositório direto do GitHub."
+    },
+    {
+      "t": "02:38:55",
+      "texto": "Configura o subdomínio alumiartijui.vercel.app nas configurações de domínio da Vercel."
+    },
+    {
+      "t": "02:39:55",
+      "texto": "Dispara a mensagem inicial de quebra de gelo para a empresa no WhatsApp."
+    },
+    {
+      "t": "03:11:12",
+      "texto": "Gera um prompt no ChatGPT e refina o visual do rodapé com a logo no Antigravity."
+    },
+    {
+      "t": "03:25:32",
+      "texto": "Observa o fim do expediente comercial e opta por aguardar o dia seguinte para enviar o link."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:08:38",
+      "titulo": "Evolução dos métodos",
+      "texto": "Criar o site antes foi essencial para validar as primeiras entregas, mas a esteira precisa evoluir para mockups para ganhar escala."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:13:41",
+      "titulo": "Aumente o ticket médio",
+      "texto": "Quem consegue fechar sites por R$ 250 consegue vender por R$ 500, dobrando o faturamento com o mesmo esforço."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:46:06",
+      "titulo": "Custo fixo baixo",
+      "texto": "Manter a operação enxuta com despesa mensal baixa garante lucro líquido direto na conta desde o início."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:05:13",
+      "titulo": "Proximidade na própria cidade",
+      "texto": "Atuar na própria cidade facilita o contato, traz referências locais e permite até visitar o estabelecimento se necessário."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:09:20",
+      "titulo": "Filtro de oportunidades no Hunter",
+      "texto": "Priorize empresas sem site ativo no Google Meu Negócio mas que demonstrem operação comercial em andamento."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:25:41",
+      "titulo": "Foco em buscas no Google",
+      "texto": "Serviços de necessidade imediata como oficinas e instalações dependem fortemente de pesquisas no Google, facilitando a venda."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:11:41",
+      "titulo": "WhatsApp versus Instagram",
+      "texto": "O Instagram funciona para garimpar contatos e fotos, mas o WhatsApp tem taxa de resposta muito mais alta."
+    },
+    {
+      "momento": "analise",
+      "t": "00:45:55",
+      "titulo": "Fotos reais geram valor",
+      "texto": "Usar fotos reais de obras e serviços postadas no Instagram do cliente enriquece a página e remove o aspecto genérico."
+    },
+    {
+      "momento": "analise",
+      "t": "00:30:26",
+      "titulo": "Presença no Google Meu Negócio",
+      "texto": "Verifique se a empresa mantém telefone e dados comerciais atualizados na ficha do mapa antes de preparar a demonstração."
+    },
+    {
+      "momento": "analise",
+      "t": "01:14:25",
+      "titulo": "Identidade visual existente",
+      "texto": "Empresas que já possuem logo e cores definidas facilitam a montagem do layout sem exigir criação do zero."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:14:42",
+      "titulo": "Prompts no ChatGPT e código no Gemini",
+      "texto": "Planeje o layout e os textos no ChatGPT e use o Antigravity com Gemini no VS Code para construir o código."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:39:46",
+      "titulo": "Preview interno no editor",
+      "texto": "O preview embutido no VS Code acelera o trabalho ao dispensar a alternância contínua com o navegador externo."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:29:41",
+      "titulo": "Repositório privado no GitHub",
+      "texto": "Mantenha o repositório como privado no GitHub para proteger o código e os arquivos do cliente contra cópias."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:38:55",
+      "titulo": "Subdomínio limpo na Vercel",
+      "texto": "Se o subdomínio padrão estiver ocupado, adicione a sigla da cidade para manter uma URL limpa para apresentação."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:53:23",
+      "titulo": "Evite padrões com cara de IA",
+      "texto": "O segredo para um site profissional é fugir de degradês roxos e ícones clichês com prompts bem direcionados."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:39:55",
+      "titulo": "Primeira mensagem curta",
+      "texto": "Abra o contato apenas com uma saudação educada para conferir se o número está ativo e quem atende a conversa."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "03:25:32",
+      "titulo": "Respeite o horário comercial",
+      "texto": "Evite enviar propostas ou links fora do horário comercial para manter a postura profissional e evitar mensagens ignoradas."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:05:35",
+      "titulo": "Follow-up sem afobação",
+      "texto": "Se a mensagem for visualizada sem retorno imediato, aguarde o dia útil seguinte para enviar o link com tranquilidade."
+    },
+    {
+      "momento": "preco",
+      "t": "00:19:48",
+      "titulo": "Preço de entrada para validar",
+      "texto": "Cobrar um valor menor no início viabiliza os primeiros clientes rápidos e a montagem do portfólio."
+    },
+    {
+      "momento": "preco",
+      "t": "02:44:02",
+      "titulo": "A força da receita recorrente",
+      "texto": "O pagamento mensal de manutenção cobre os custos de ferramentas e cria estabilidade financeira mês a mês."
+    },
+    {
+      "momento": "preco",
+      "t": "01:30:53",
+      "titulo": "Escalada de ticket com e-commerce",
+      "texto": "Lojas virtuais completas com meios de pagamento integrados permitem cobrar tickets bem maiores que landing pages simples."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:35:43",
+      "titulo": "Facilite o pagamento com parcelamento",
+      "texto": "Oferecer parcelamento no cartão via link do Mercado Pago remove a principal trava de orçamento do pequeno empresário."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:59:42",
+      "titulo": "Domínio no cadastro do cliente",
+      "texto": "Oriente o cliente a registrar o domínio próprio em sua própria conta para garantir transparência e autonomia."
+    },
+    {
+      "momento": "erros",
+      "t": "00:10:41",
+      "titulo": "O gargalo do site pronto antes",
+      "texto": "Construir sites completos antes de falar com o cliente consome muito tempo e limita o volume diário de prospecção."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "02:57:26",
+      "titulo": "Conectar repositório e commit automático no GitHub",
+      "texto": "Conecte o site ao diretório do GitHub e garanta que cada alteração tenha um commit automático."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:06:08",
+      "titulo": "Gerar segunda versão profissional do rodapé",
+      "texto": "Gere uma segunda versão deste rodapé mais profissional com foco em destacar a logo institucional."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:11:12",
+      "titulo": "Ajustar rodapé conforme mockup e mobile",
+      "texto": "Agora com o mockup em anexo, faça o ajuste do rodapé para chegarmos exatamente a este resultado visual. Faça o ajuste do rodapé no mobile para ficar compatível. Não altere nenhuma outra dobra do site."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:39:55",
+      "titulo": "Primeiro contato de quebra de gelo",
+      "texto": "Olá, boa tarde, tudo bem?"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "03:36:04",
+      "titulo": "Triagem para falar com o responsável",
+      "texto": "Olá, tudo bem? Falo com o responsável da empresa?"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "00:12:41",
+      "titulo": "Envio do link de demonstração da empresa",
+      "texto": "Esse é o modelo que preparei para vocês: [link]. Montei pensando principalmente em deixar a empresa mais profissional e apresentar melhor os produtos/serviços da empresa. Dá uma olhada no celular também. Depois me fala o que achou."
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Mateus",
+      "pergunta": "Por que você escolheu começar cobrando o valor de R$ 497?",
+      "resposta": "Porque a operação estava começando do zero absoluto, sem portfólio prévio. O ticket baixo facilitou fechar os primeiros clientes rápidos e validar a entrega.",
+      "t": "00:19:48"
+    },
+    {
+      "autor": "Ed",
+      "pergunta": "A Vercel não vai bloquear ou derrubar os sites por excesso de limite no plano gratuito?",
+      "resposta": "Não derruba. Sites institucionais estáticos consomem muito pouca largura de banda, e com dezenas de sites ativos o consumo não chega a 25% da cota gratuita.",
+      "t": "00:25:21"
+    },
+    {
+      "autor": "Marco",
+      "pergunta": "É possível desenvolver lojas virtuais completas com vibe coding?",
+      "resposta": "Sim, é possível desenvolver e-commerce completo com catálogo, checkout e cálculo de frete, permitindo cobrar tickets mais elevados.",
+      "t": "01:30:53"
+    },
+    {
+      "autor": "Elpídio",
+      "pergunta": "Por que você usa o Codex ou Antigravity em vez do Claude?",
+      "resposta": "Por questão de custo. O Claude consome muitos créditos rapidamente, enquanto os modelos no Antigravity entregam excelente resultado com plano mensal muito mais acessível.",
+      "t": "02:27:39"
+    },
+    {
+      "autor": "Raniel",
+      "pergunta": "Quanto sobra líquido ao parcelar um site de R$ 799 em 10 vezes no Mercado Pago?",
+      "resposta": "Com a taxa de antecipação do Mercado Pago em torno de 11%, sobram aproximadamente R$ 711 liberados na hora no saldo da conta.",
+      "t": "03:12:14"
+    },
+    {
+      "autor": "João",
+      "pergunta": "É obrigatório ter um computador potente para programar com IA no VS Code?",
+      "resposta": "Não é necessário. O VS Code é muito leve e o processamento pesado de inteligência artificial roda nos servidores em nuvem.",
+      "t": "03:45:14"
+    },
+    {
+      "autor": "Creative Labs",
+      "pergunta": "Se a empresa recusar a proposta, você renomeia para outro cliente do mesmo nicho ou deixa como portfólio?",
+      "resposta": "O projeto vira portfólio. Caso o cliente não feche, o site continua servindo como prova social para demonstrar a outros clientes.",
+      "t": "03:59:42"
+    },
+    {
+      "autor": "Pedro",
+      "pergunta": "Você mantém o nome real das empresas no seu portfólio?",
+      "resposta": "Apenas das empresas que fecharam contrato. Para demonstrações não fechadas, remove-se a marca e os dados específicos antes de usar como modelo.",
+      "t": "04:01:54"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código principal utilizado para programar o site com preview integrado."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão no VS Code para desenvolvimento web com Gemini 3.1 Pro."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Planejamento de layout, refinamento de textos e geração de prompts estruturados."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Mineração e prospecção de empresas locais sem site no Google."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Hospedagem do repositório privado para versionamento seguro do código."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Publicação estática gratuita com deploy contínuo e subdomínio próprio."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Cobrança via Pix e link de pagamento parcelado no cartão."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:10:41",
+      "texto": "Essa vai ser a última empresa que a gente desenvolve o site antes de falar com o cliente: na segunda quinzena, vamos mudar a estratégia para ganhar escala."
+    },
+    {
+      "t": "00:13:41",
+      "texto": "Tem que aumentar o ticket. Já pensou se você vende esses seis por quinão? Três conto, duplica o teu faturamento atual."
+    },
+    {
+      "t": "00:25:21",
+      "texto": "A Vercel e o GitHub não vão derrubar seu site: tenho uma porrada de sites rodando no plano gratuito consumindo menos de 25% do limite."
+    },
+    {
+      "t": "02:46:06",
+      "texto": "Dois clientes de R$ 49,90 já pagam 100% das ferramentas do nosso mês inteiro: todo o resto que entrar agora é lucro limpo na conta."
+    },
+    {
+      "t": "03:53:23",
+      "texto": "Se você conseguir chegar num resultado que não tem cara de IA, você já está se diferenciando da maioria do mercado."
+    },
+    {
+      "t": "03:59:42",
+      "texto": "Se o cara recusar, vira portfólio. A gente precisava de portfólio, por isso que a gente adotou essa estratégia."
+    }
+  ]
+}

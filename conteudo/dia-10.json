@@ -1,0 +1,475 @@
+{
+  "dia": 10,
+  "slug": "dia-10",
+  "srt": "../../../../midias/youtube/Dia 10 Vibe Coding R$994 de R$1.621 + MR/legendas.srt",
+  "titulo": "Dia 10 | Vibe Coding: R$994 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "data": "2026-09-11",
+  "duracao": "4:56:10",
+  "youtube": "https://www.youtube.com/watch?v=f4S74IfIDnM",
+  "faturamento": "R$ 994",
+  "mrr": "R$ 99,80",
+  "resumo": "Junior inicia a live ajustando a versão mobile e corrigindo o empilhamento de ícones da página da Store Automotive. Após checar que o domínio da oficina no Registro.br estava com DNS padrão desativado e o site fora do ar, ele dispara a abordagem pelo WhatsApp. A recepção da oficina responde e encaminha a demonstração pronta para a diretora da empresa. Enquanto aguarda o retorno, Junior minera novos segmentos no Nexar Hunter e abre uma enquete com o chat para escolher a próxima landing page, vencida pelo nicho de esquadrias de alumínio com a Alumi Arte.",
+  "destaques": [
+    "A auditoria técnica de DNS no Registro.br confirmou que a Store Automotive pagava anuidade de domínio com o site fora do ar, validando a oportunidade de abordagem.",
+    "A demonstração da Store Automotive foi enviada no WhatsApp no fim do expediente de sexta-feira e encaminhada pela secretária para análise da diretora.",
+    "Enquete ao vivo com a audiência definiu o próximo segmento de prospecção: esquadrias de alumínio e vidros com a empresa Alumi Arte."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:03:41",
+      "texto": "Abertura da transmissão do décimo dia com foco em finalizar o mobile da Store Automotive e disparar a abordagem."
+    },
+    {
+      "t": "00:15:59",
+      "texto": "Comparação visual entre o protótipo no ChatGPT e a renderização do front-end no Antigravity."
+    },
+    {
+      "t": "00:32:19",
+      "texto": "Testes de responsividade mobile no celular para identificar problemas de espaçamento vertical."
+    },
+    {
+      "t": "01:22:04",
+      "texto": "Explicação sobre as configurações de velocidade máxima no Antigravity com o modo Turbo."
+    },
+    {
+      "t": "01:29:59",
+      "texto": "Envio de commit e sincronização com o GitHub para atualizar o deploy na Vercel."
+    },
+    {
+      "t": "01:53:07",
+      "texto": "Correção do empilhamento vertical de três ícones de serviços no layout mobile."
+    },
+    {
+      "t": "02:03:10",
+      "texto": "Envio da primeira mensagem de quebra de gelo para o WhatsApp da Store Automotive."
+    },
+    {
+      "t": "02:07:24",
+      "texto": "Consulta do domínio no Registro.br e confirmação de DNS inativo enquanto a oficina responde no chat."
+    },
+    {
+      "t": "02:15:33",
+      "texto": "Envio do roteiro completo de apresentação com a demonstração pronta da oficina."
+    },
+    {
+      "t": "02:44:38",
+      "texto": "A atendente informa que a contratação cabe à diretora e encaminha a proposta internamente."
+    },
+    {
+      "t": "03:04:38",
+      "texto": "Nova rodada de mineração no Nexar Hunter analisando transportadoras, guinchos e esquadrias."
+    },
+    {
+      "t": "03:33:41",
+      "texto": "Abertura da enquete no chat para a escolha do próximo nicho entre os espectadores."
+    },
+    {
+      "t": "03:49:32",
+      "texto": "Encerramento da votação com vitória do nicho de esquadrias de alumínio."
+    },
+    {
+      "t": "04:17:26",
+      "texto": "Concepção do layout da Alumi Arte no ChatGPT com fotos reais coletadas das redes sociais."
+    },
+    {
+      "t": "04:54:32",
+      "texto": "Comemoração da marca de 1.250 inscritos no YouTube e encerramento da live de quase cinco horas."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": null,
+      "titulo": "Disciplina de prospecção",
+      "texto": "Ajustar telas e códigos é confortável, mas a receita só entra quando você aborda decisores no WhatsApp. Mantenha a rotina comercial diária."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:09:28",
+      "titulo": "Encarar negativas com naturalidade",
+      "texto": "Ser ignorado ou receber respostas negativas faz parte da rotina de vendas. Não leve para o lado pessoal e foque no próximo contato."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:12:29",
+      "titulo": "Validação inicial como pessoa física",
+      "texto": "Não gaste recursos abrindo empresa antes de validar o modelo. Comece recebendo pelo CPF e formalize o CNPJ quando a receita recorrente cobrir os custos contábeis."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:26:00",
+      "titulo": "Mineração focada em serviços essenciais",
+      "texto": "Evite buscas genéricas por comércio. Priorize segmentos com tickets altos ou demandas de urgência, como oficinas, esquadrias, guinchos e transportadoras."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "03:06:39",
+      "titulo": "Identificação de capacidade financeira",
+      "texto": "Antes de montar a demonstração, veja fotos da estrutura da empresa e frotas. Empresas com galpões amplos e equipamentos modernos têm orçamento imediato para fechar."
+    },
+    {
+      "momento": "prospeccao",
+      "t": null,
+      "titulo": "Fuja de perfis sem presença digital",
+      "texto": "Negócios sem nenhuma rede social costumam ter proprietários resistentes à tecnologia. Foque em empresas que já postam conteúdo e valorizam sua imagem."
+    },
+    {
+      "momento": "analise",
+      "t": "02:07:24",
+      "titulo": "Oportunidade do domínio inativo",
+      "texto": "Quando a empresa divulga o endereço do site na fachada ou no perfil mas a página está fora do ar, o dono já entende o valor do site e precisa apenas da reativação técnica."
+    },
+    {
+      "momento": "analise",
+      "t": "02:07:24",
+      "titulo": "Checagem de DNS no Registro.br",
+      "texto": "Consulte o Whois do domínio da empresa. Se estiver registrado mas apontando para servidores padrão inativos, o cliente está pagando anuidade sem ter o site funcionando."
+    },
+    {
+      "momento": "analise",
+      "t": "03:06:39",
+      "titulo": "Descarte comércios informais de bairro",
+      "texto": "Não perca tempo prospectando pequenos comércios presenciais que não dependem de WhatsApp corporativo nem de busca na internet."
+    },
+    {
+      "momento": "analise",
+      "t": null,
+      "titulo": "Descarte franquias e filiais",
+      "texto": "Evite abordar filiais de grandes redes ou franquias. A gestão de marketing fica centralizada na matriz e os atendentes locais não têm autonomia para contratar."
+    },
+    {
+      "momento": "criacao",
+      "t": "04:10:13",
+      "titulo": "Concepção e código em duas etapas",
+      "texto": "Use o ChatGPT para planejar a estrutura das seções e redigir os textos persuasivos. Depois passe os comandos para a IA no VS Code gerar o código da página."
+    },
+    {
+      "momento": "criacao",
+      "t": "04:01:40",
+      "titulo": "Elimine a estética artificial de IA",
+      "texto": "Evite fundos escuros com degradês roxos e ícones tridimensionais genéricos. Adote um visual corporativo sóbrio com tipografia limpa e espaçamento equilibrado."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:53:07",
+      "titulo": "Ajuste o empilhamento de ícones no celular",
+      "texto": "Quando blocos de serviços ficarem empilhados verticalmente no mobile, reorganize em colunas equilibradas com o ícone posicionado acima do texto."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:54:16",
+      "titulo": "Configuração de velocidade do Antigravity",
+      "texto": "Ative o modo Turbo e o envio imediato nas configurações da extensão para acelerar a geração do código sem confirmações repetitivas."
+    },
+    {
+      "momento": "criacao",
+      "t": null,
+      "titulo": "Blindagem de imagens no prompt",
+      "texto": "Se a IA começar a trocar as fotos já inseridas a cada alteração, determine no comando para manter as tags de imagem inalteradas e mexer apenas no CSS e nos textos."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:06:24",
+      "titulo": "Perfil comercial humanizado",
+      "texto": "Use uma linha telefônica exclusiva com sua foto pessoal profissional no WhatsApp. Evite logotipos genéricos de agências que geram desconfiança inicial."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:03:10",
+      "titulo": "Primeira mensagem de quebra de gelo",
+      "texto": "Não mande links nem textos longos no primeiro contato. Inicie com uma saudação simples para testar a agilidade de resposta do canal."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:47:48",
+      "titulo": "Como falar com atendentes e secretárias",
+      "texto": "Quando a secretária informar que contratações cabem à diretoria, agradeça cordialmente e peça a gentileza de repassar a demonstração pronta ao responsável."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "01:56:48",
+      "titulo": "Cuidado com abordagens no fim da sexta-feira",
+      "texto": "Mensagens enviadas no fim do expediente de sexta-feira costumam ter leitura adiada. Trate o envio como preparação para o acompanhamento na segunda-feira."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:21:45",
+      "titulo": "Mensagem de acompanhamento após visualização",
+      "texto": "Se o cliente abrir o link mas não responder, envie uma mensagem leve após alguns dias perguntando o que ele achou da demonstração."
+    },
+    {
+      "momento": "preco",
+      "t": "00:22:05",
+      "titulo": "Escala progressiva de preços",
+      "texto": "Comece cobrando R$ 497 para validar o método e gerar clientes rápidos. Em seguida suba para R$ 799 à vista ou dez vezes de R$ 79,90 no cartão."
+    },
+    {
+      "momento": "preco",
+      "t": "04:12:14",
+      "titulo": "MRR como base do negócio",
+      "texto": "A mensalidade de R$ 49,90 por cliente cobre hospedagem e suporte básico. Com trinta clientes ativos, você gera cerca de R$ 1.500 mensais de receita recorrente limpa."
+    },
+    {
+      "momento": "preco",
+      "t": null,
+      "titulo": "Quebra da objeção de valor",
+      "texto": "Divida o preço total em dez vezes no cartão e mostre que a parcela diária custa menos de três reais. Um único serviço novo gerado pela página paga todo o investimento."
+    },
+    {
+      "momento": "fechamento",
+      "t": "04:25:45",
+      "titulo": "Escopo fechado na manutenção",
+      "texto": "A mensalidade de R$ 49,90 inclui pequenas alterações de texto e fotos, sem painel administrativo complexo. Novas seções ou páginas extras exigem orçamento à parte."
+    },
+    {
+      "momento": "fechamento",
+      "t": "02:07:24",
+      "titulo": "Titularidade do domínio com o cliente",
+      "texto": "Oriente o cliente a pagar o registro do domínio em sua própria conta no Registro.br. Isso garante transparência e mantém a titularidade oficial da marca com ele."
+    },
+    {
+      "momento": "erros",
+      "t": "02:10:29",
+      "titulo": "Evite excesso de refinamento antes da venda",
+      "texto": "Não passe dias polindo detalhes minuciosos de uma demonstração antes de confirmar o interesse do decisor. O retorno por hora trabalhada cai drasticamente."
+    },
+    {
+      "momento": "erros",
+      "t": null,
+      "titulo": "Reutilização de projetos não fechados",
+      "texto": "Nenhum site criado é perdido. Se o cliente declinar, remova o logotipo e adapte o layout para prospectar outra empresa do mesmo segmento."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "04:01:40",
+      "titulo": "Refinamento do rodapé e desintoxicação de IA",
+      "texto": "Gostei da ideia inicial, porém precisamos melhorar o rodapé. Está com muita cara de IA, precisamos melhorar para um design minimalista, executivo e compatível com a identidade visual da empresa."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:53:07",
+      "titulo": "Solução de empilhamento de ícones no celular",
+      "texto": "Essa faixa está ocupando a altura vertical excessiva porque os três ícones ficaram empilhados no mobile. Vamos organizar em três colunas equilibradas com o ícone posicionado acima do texto."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:29:59",
+      "titulo": "Sincronização automática no GitHub",
+      "texto": "Conecte o site ao diretório do GitHub e garanta que cada alteração tenha um commit automático para sincronizar com a hospedagem."
+    },
+    {
+      "tipo": "prompt",
+      "t": "04:07:49",
+      "titulo": "Estrutura inicial para esquadrias e vidraçaria",
+      "texto": "Essa é a proposta inicial: um site de estética arquitetônica elegante com foco em orçamento pelo WhatsApp. Branco e grafite com o verde-água da identidade. Foto de impacto na primeira dobra, valorizando a esquadria. Soluções organizadas com imagens de leitura rápida. Projetos em destaque para demonstrar a qualidade dos acabamentos e apresentação sólida da empresa."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:03:10",
+      "titulo": "Primeira mensagem de quebra de gelo",
+      "texto": "Oi, boa tarde."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:15:33",
+      "titulo": "Abordagem completa com demonstração pronta",
+      "texto": "Olá, Oficina Store. Sim, sou cliente Junior aqui. Olha só, estou trabalhando com a criação de websites para as empresas aqui de Ijuí. Como acompanho vocês, vi que o site atual de vocês está fora do ar. Como conheço a empresa, achei que seria uma ótima oportunidade de melhorar a presença de vocês online. Inclusive, acabei montando uma demonstração de como poderia ficar o novo site da Store. Ficou bem legal. Posso enviar para você dar uma olhada sem compromisso?"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:47:48",
+      "titulo": "Resposta para encaminhamento à diretoria",
+      "texto": "Tá perfeito, fico agradecido se você puder encaminhar a ela. Obrigado."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:21:45",
+      "titulo": "Mensagem de acompanhamento após envio",
+      "texto": "Passando para saber se conseguiu olhar a demonstração que te mandei. Montei realmente pensando na empresa de vocês, então fiquei curioso para saber o que vocês acharam."
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": null,
+      "pergunta": "Qual versão e plano do Antigravity você está usando no VS Code e qual o seu custo?",
+      "resposta": "Usa o plano Google AI Pro de 18 meses com 5 TB de armazenamento no Google Drive, com custo equivalente a cerca de R$ 8,32 por mês.",
+      "t": "04:45:20"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você utiliza agentes autônomos para criar os sites sozinho ou supervisiona cada etapa?",
+      "resposta": "Não usa agentes totalmente autônomos. A dinâmica emprega o ChatGPT para conceber as seções e textos, enquanto o Antigravity opera sob comandos humanos para gerar o front-end.",
+      "t": "04:05:46"
+    },
+    {
+      "autor": null,
+      "pergunta": "Não é perigoso perder tempo construindo o site antes de ter o contrato assinado com o cliente?",
+      "resposta": "Para quem inicia sem portfólio, apresentar o site pronto zera a desconfiança. Caso o cliente decline, basta remover o logotipo e reutilizar o projeto para outro cliente.",
+      "t": "00:11:50"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você emite nota fiscal para os clientes que compram sites nesse início de desafio?",
+      "resposta": "Não emite nota nestas primeiras vendas, operando como freelancer no CPF via Mercado Pago. A formalização em PJ é recomendada quando a receita recorrente pagar as despesas contábeis.",
+      "t": "02:12:29"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quanto tempo em média se gasta para construir um mockup e deixar o site pronto para apresentar?",
+      "resposta": "Em média leva de quatro a oito horas divididas em planejar as seções no ChatGPT, gerar a base no VS Code, ajustar o mobile e publicar a prévia na Vercel.",
+      "t": null
+    },
+    {
+      "autor": null,
+      "pergunta": "Qual a diferença prática entre o Claude e o Antigravity na criação de sites?",
+      "resposta": "O Claude é mais rápido e interpreta instruções com facilidade, mas tem custo mais elevado. O Antigravity com Gemini entrega ótima fidelidade visual com custo muito reduzido.",
+      "t": "01:54:16"
+    },
+    {
+      "autor": null,
+      "pergunta": "A hospedagem gratuita na Vercel e no GitHub Pages não corre o risco de ser derrubada?",
+      "resposta": "Não há risco para landing pages institucionais leves. A cota gratuita da Vercel suporta milhares de acessos mensais sem consumir os limites do plano.",
+      "t": "04:08:50"
+    },
+    {
+      "autor": "Rafa",
+      "pergunta": "Como acelerar o Antigravity para que ele não trave pedindo confirmação a cada comando executado?",
+      "resposta": "Acesse as configurações nos três pontos da extensão, mude o Quick Message para envio imediato, o Security Preset para Turbo Mode e o Agent para Always ask.",
+      "t": "01:22:04"
+    },
+    {
+      "autor": null,
+      "pergunta": "A cobrança de R$ 49,90 por mês de hospedagem não é muito baixa para o mercado?",
+      "resposta": "Para o comércio local o valor é quase imperceptível. Para o desenvolvedor que usa infraestrutura gratuita na nuvem, trinta clientes pagando mensalidade geram cerca de R$ 1.500 recorrentes.",
+      "t": "04:12:14"
+    },
+    {
+      "autor": null,
+      "pergunta": "Se o cliente quiser autonomia para ele mesmo alterar os textos do site, como proceder?",
+      "resposta": "No modelo de entrada de R$ 799 a página é estática sem painel administrativo. Se o cliente exigir um CMS completo para edições manuais, o orçamento deve subir para R$ 2.500 a R$ 3.500.",
+      "t": "04:25:45"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como conseguir fotos das empresas para os sites demonstrativos sem falar com elas previamente?",
+      "resposta": "Colete fotos diretamente do perfil do Instagram, Facebook ou da ficha do Google Meu Negócio da empresa para montar uma demonstração com elementos reais.",
+      "t": "04:17:26"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como evitar que a inteligência artificial gere sites espalhafatosos e cheios de efeitos desnecessários?",
+      "resposta": "Proíba explicitamente no comando o uso de gradientes roxos, luzes neon e elementos tridimensionais genéricos, exigindo paleta sóbria e design corporativo limpo.",
+      "t": "04:01:40"
+    },
+    {
+      "autor": null,
+      "pergunta": "Por que não automatizar todo o processo de abordagem enviando mensagens automáticas em massa?",
+      "resposta": "Disparos em massa geram bloqueios de chip no WhatsApp e têm conversão muito baixa. A abordagem manual humanizada e personalizada para cada empresa gera resultados muito superiores.",
+      "t": "02:03:10"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como funciona a titularidade do domínio na hora em que o cliente fecha a compra do site?",
+      "resposta": "O cliente cria a conta dele no Registro.br e paga a anuidade em seu próprio nome. O desenvolvedor solicita apenas o acesso técnico para apontar os DNS.",
+      "t": "02:07:24"
+    },
+    {
+      "autor": null,
+      "pergunta": "É possível viver exclusivamente da criação e venda de websites locais com inteligência artificial?",
+      "resposta": "Sim. Mantendo uma rotina de prospecção e construindo uma carteira recorrente de manutenção, é perfeitamente viável atingir faturamentos previsíveis trabalhando em casa.",
+      "t": null
+    },
+    {
+      "autor": null,
+      "pergunta": "Qual a máquina mínima recomendada para trabalhar com essa esteira de vibe coding?",
+      "resposta": "Qualquer computador simples que rode o VS Code e um navegador moderno é suficiente, pois o processamento dos modelos de IA ocorre todo em nuvem.",
+      "t": null
+    },
+    {
+      "autor": "Pisan",
+      "pergunta": "Se o cliente pagar via Pix no Mercado Pago, o dinheiro fica bloqueado ou cai na hora?",
+      "resposta": "Pagamentos via Pix caem imediatamente na conta do Mercado Pago sem taxas, ficando disponíveis para transferência ou uso no mesmo instante.",
+      "t": "02:13:31"
+    },
+    {
+      "autor": "Will",
+      "pergunta": "O que fazer se o cliente já possuir domínio registrado na HostGator em vez do Registro.br?",
+      "resposta": "O processo é o mesmo: acesse a zona de DNS do provedor onde o domínio foi comprado e aponte os registros CNAME e A para os servidores da Vercel.",
+      "t": "04:12:14"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código central com extensão de navegação embutida e terminal integrado."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão no VS Code para geração de código com Gemini 3.8 Flash em tempo real."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Planejamento da arquitetura da página, redação de textos persuasivos e elaboração de prompts."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Plataforma de mineração de empresas locais no Google Maps com filtro de presença digital."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Hospedagem de repositórios privados para controle de versão e integração contínua."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem em nuvem gratuita com certificado SSL automático conectada ao GitHub."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Consulta de Whois e servidores de DNS para verificar regularidade de domínios nacionais."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Gateway de pagamentos para cobranças à vista no Pix e parcelamentos no cartão de crédito."
+    },
+    {
+      "nome": "InfinitePay",
+      "uso": "Opção alternativa de cobrança para contingência e recebimento de mensalidades."
+    },
+    {
+      "nome": "WhatsApp Web",
+      "uso": "Comunicação direta com proprietários e envio dos links das demonstrações prontas."
+    }
+  ],
+  "frases": [
+    {
+      "t": null,
+      "texto": "A parte mais fácil é fazer o site. O verdadeiro desafio é vender."
+    },
+    {
+      "t": null,
+      "texto": "Você não vai ficar uma semana inteira refinando um site para chegar no cliente e receber um não."
+    },
+    {
+      "t": "03:06:39",
+      "texto": "Não adianta você querer fazer um site para o cara que tem o boteco da esquina há cinquenta anos: ele já está ali por esporte e o site não fará sentido para ele."
+    },
+    {
+      "t": null,
+      "texto": "O segredo não está na ferramenta ou na IA que desenvolve, o segredo está no prompt e no olhar humano."
+    },
+    {
+      "t": null,
+      "texto": "Se o cliente não fechar, você não perdeu seu tempo: você acabou de produzir mais um projeto para o seu portfólio."
+    },
+    {
+      "t": "00:11:50",
+      "texto": "Para quem está começando sem portfólio, mostrar o site pronto da empresa é infinitamente mais poderoso do que apenas prometer um serviço."
+    },
+    {
+      "t": "02:12:29",
+      "texto": "Comece no seu CPF, valide a esteira comercial, ponha dinheiro em caixa e só depois monte uma estrutura corporativa formal."
+    }
+  ]
+}
