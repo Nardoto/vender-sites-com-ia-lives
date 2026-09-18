@@ -308,28 +308,126 @@ ${(c.scripts || []).length ? `<section id="scripts" class="secao">
 ${rodapeScripts('')}`;
 }
 
-function paginaIndex(lives) {
+function valorReais(s) {
+  const m = /R\$\s*([\d.]+)(?:,(\d+))?/.exec(String(s || ''));
+  return m ? Number(m[1].replace(/\./g, '')) + (m[2] ? Number('0.' + m[2]) : 0) : 0;
+}
+function reais(n) {
+  return 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 });
+}
+
+function paginaIndex(lives, jornada) {
+  const META = 1621;
   const totalDicas = lives.reduce((a, c) => a + (c.dicas || []).length, 0);
   const totalDuvidas = lives.reduce((a, c) => a + (c.duvidas || []).length, 0);
-  const titulo = `Lives: ${SERIE}`;
-  const descricao = 'Dicas, dúvidas respondidas e transcrição completa de cada live do desafio de vender sites para empresas locais usando IA.';
+  const porDia = Object.fromEntries(lives.map((c) => [c.dia, c]));
+  const ultima = lives[lives.length - 1] || {};
+  const faturado = Math.max(0, ...lives.map((c) => valorReais(c.faturamento)));
+  const mrr = Math.max(0, ...lives.map((c) => valorReais(c.mrr)));
+  const pct = Math.min(100, Math.round((faturado / META) * 100));
+  const etapas = (jornada && jornada.etapas) || [];
+  const marcos = Object.fromEntries(((jornada && jornada.placar) || []).map((p) => [p.dia, p.marco]));
+  const titulo = `A jornada completa: ${SERIE}`;
+  const descricao = 'Da decisão ao site entregue: a linha do tempo completa para mapear clientes, criar a demonstração com IA, abordar pelo WhatsApp, vender e produzir o site final, com dicas e transcrição de cada live.';
+
+  const fonteLink = (f) => {
+    const c = porDia[f.dia];
+    if (!c) return '';
+    return `<span class="fonte"><a href="${c.slug}.html" aria-label="Abrir a live do dia ${f.dia}">Dia ${f.dia}</a>${f.t ? tagTempo(c.youtube, f.t) : ''}</span>`;
+  };
+
   return `${cabecalho(titulo, descricao, '')}
 <body class="pagina-index">
 ${barraTopo('index.html')}
-<main class="conteudo conteudo-largo">
-<section class="hero hero-index">
-  <p class="sobretitulo">${esc(CANAL)}</p>
-  <h1>${esc(SERIE)}</h1>
-  <p class="lead">Um desafio ao vivo: sair do zero e chegar a um salário mínimo vendendo sites para empresas locais, criados com IA. Aqui estão as principais dicas, as dúvidas que a galera mandou no chat e a transcrição completa de cada live.</p>
+<div class="layout">
+<nav class="menu" id="menu-lateral" aria-label="Seções da página">
+  <p class="menu-titulo">Visão geral</p>
+  <ul>
+    <li><a href="#inicio">O desafio</a></li>
+    <li><a href="#placar">Placar dia a dia</a></li>
+  </ul>
+  <p class="menu-titulo">A jornada</p>
+  <ul>
+    ${etapas.map((e, i) => `<li><a href="#etapa-${esc(e.id)}"><span class="menu-num">${i + 1}</span> ${esc(e.nome)}</a></li>`).join('\n    ')}
+  </ul>
+  <p class="menu-titulo">Conteúdo</p>
+  <ul>
+    <li><a href="#lives">Todas as lives</a></li>
+  </ul>
+</nav>
+<main class="conteudo">
+
+<section class="hero hero-index" id="inicio">
+  <p class="sobretitulo">${esc(CANAL)} &middot; desafio ao vivo</p>
+  <h1>Como vender sites com IA, do zero ao primeiro salário</h1>
+  <p class="lead">${esc((jornada && jornada.intro) || 'Um desafio ao vivo: sair do zero e chegar a um salário mínimo vendendo sites para empresas locais, criados com IA.')}</p>
+  <div class="meta-desafio" role="img" aria-label="Faturamento de ${reais(faturado)} de uma meta de ${reais(META)}">
+    <div class="meta-topo"><span>Faturado até o dia ${esc(ultima.dia)}</span><strong>${reais(faturado)} <small>de ${reais(META)}</small></strong></div>
+    <div class="meta-barra"><span style="width:${pct}%"></span></div>
+    <div class="meta-rodape"><span>${pct}% da meta</span>${mrr ? `<span>Receita recorrente: <strong>${reais(mrr)} por mês</strong></span>` : ''}</div>
+  </div>
   <div class="fichas">
-    <div class="ficha"><span>Lives</span><strong>${lives.length}</strong></div>
+    <div class="ficha"><span>Etapas da jornada</span><strong>${etapas.length}</strong></div>
+    <div class="ficha"><span>Lives resumidas</span><strong>${lives.length}</strong></div>
     <div class="ficha"><span>Dicas</span><strong>${totalDicas}</strong></div>
     <div class="ficha"><span>Dúvidas respondidas</span><strong>${totalDuvidas}</strong></div>
-    <div class="ficha"><span>Meta do desafio</span><strong>R$ 1.621</strong></div>
+  </div>
+  <div class="acoes">
+    ${etapas[0] ? `<a class="btn btn-primario" href="#etapa-${esc(etapas[0].id)}">Começar a jornada</a>` : ''}
+    <a class="btn" href="#lives">Ver as lives</a>
   </div>
 </section>
-<section class="secao">
-  <h2>Escolha uma live</h2>
+
+<section class="secao" id="placar">
+  <h2>Placar dia a dia</h2>
+  <p class="nota">Como o desafio andou, live por live. Clique em um dia para abrir as dicas e a transcrição.</p>
+  <ol class="placar">
+    ${lives.map((c) => {
+      const v = valorReais(c.faturamento);
+      const h = Math.max(4, Math.round((v / META) * 100));
+      return `<li><a href="${c.slug}.html" class="placar-dia">
+        <span class="placar-barra" aria-hidden="true"><span style="height:${h}%"></span></span>
+        <span class="placar-num">Dia ${c.dia}</span>
+        <span class="placar-valor">${esc(c.faturamento || '')}</span>
+        <span class="placar-marco">${esc(marcos[c.dia] || (c.destaques || [])[0] || '')}</span>
+      </a></li>`;
+    }).join('\n    ')}
+  </ol>
+</section>
+
+<section class="secao jornada" id="jornada">
+  <h2>A jornada completa</h2>
+  <p class="nota">O processo inteiro, na ordem em que acontece. Cada passo mostra em qual live e em qual minuto ele foi ensinado.</p>
+  ${etapas.map((e, i) => `<article class="etapa" id="etapa-${esc(e.id)}">
+    <div class="etapa-marcador" aria-hidden="true"><span>${i + 1}</span></div>
+    <div class="etapa-corpo">
+      <p class="etapa-num">Etapa ${i + 1} de ${etapas.length}</p>
+      <h3>${esc(e.nome)}</h3>
+      <p class="etapa-chamada">${esc(e.chamada || '')}</p>
+      <ol class="passos">
+        ${(e.passos || []).map((p) => `<li class="passo">
+          <h4>${esc(p.titulo)}</h4>
+          <p>${esc(p.texto)}</p>
+          ${(p.fontes || []).length ? `<div class="fontes">${p.fontes.map(fonteLink).join('')}</div>` : ''}
+        </li>`).join('\n        ')}
+      </ol>
+      ${e.script && e.script.texto ? `<div class="script">
+        <div class="card-topo"><span class="tag m-whatsapp">Pronto para copiar</span></div>
+        <h4>${esc(e.script.titulo)}</h4>
+        <blockquote id="script-etapa-${i}">${esc(e.script.texto)}</blockquote>
+        <button class="btn btn-copiar" data-copiar="script-etapa-${i}" aria-label="Copiar: ${esc(e.script.titulo)}">Copiar</button>
+      </div>` : ''}
+      <div class="etapa-rodape">
+        ${(e.ferramentas || []).length ? `<div class="etapa-ferramentas"><span>Ferramentas:</span> ${e.ferramentas.map((f) => `<span class="chip-ferramenta">${esc(f)}</span>`).join(' ')}</div>` : ''}
+        ${e.cuidado ? `<p class="cuidado"><strong>Cuidado:</strong> ${esc(e.cuidado)}</p>` : ''}
+      </div>
+    </div>
+  </article>`).join('\n  ')}
+</section>
+
+<section class="secao" id="lives">
+  <h2>Todas as lives</h2>
+  <p class="nota">Cada página tem resumo, dicas por etapa, scripts, dúvidas da galera e a transcrição completa com busca.</p>
   <div class="grade grade-lives">
     ${lives.map((c) => `<a class="card card-live" href="${c.slug}.html">
       <div class="card-topo"><span class="tag">Dia ${c.dia}</span><span class="meta">${dataBR(c.data)} &middot; ${esc(c.duracao || '')}</span></div>
@@ -342,11 +440,13 @@ ${barraTopo('index.html')}
   </div>
 </section>
 <footer class="rodape">
-  <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube.</p>
+  <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube. Resumos e dicas extraídos da transcrição automática.</p>
 </footer>
 </main>
+</div>
 ${rodapeScripts('')}`;
 }
+
 
 // ---------- execução ----------
 function main() {
@@ -356,7 +456,7 @@ function main() {
   }
   const lives = fs
     .readdirSync(PASTA_CONTEUDO)
-    .filter((f) => f.endsWith('.json'))
+    .filter((f) => /^dia-\d+\.json$/.test(f))
     .map((f) => {
       const c = JSON.parse(fs.readFileSync(path.join(PASTA_CONTEUDO, f), 'utf8'));
       c.slug = c.slug || `dia-${String(c.dia).padStart(2, '0')}`;
@@ -394,7 +494,9 @@ function main() {
     );
   });
 
-  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives), 'utf8');
+  const arqJornada = path.join(PASTA_CONTEUDO, 'jornada.json');
+  const jornada = fs.existsSync(arqJornada) ? JSON.parse(fs.readFileSync(arqJornada, 'utf8')) : null;
+  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada), 'utf8');
   console.log(`index.html com ${lives.length} lives.`);
   if (falhou) {
     console.error('ATENÇÃO: alguma checagem falhou.');

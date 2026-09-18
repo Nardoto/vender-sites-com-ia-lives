@@ -1,0 +1,1020 @@
+{
+  "intro": "Tudo o que foi feito em dez lives, na ordem: sair do zero e buscar um salário mínimo vendendo sites para empresas locais, criados com IA. Do mapeamento de clientes à entrega do site, passando pela mensalidade que garante receita todo mês. Cada passo leva ao minuto da live em que foi ensinado.",
+  "etapas": [
+    {
+      "id": "decisao",
+      "nome": "A decisão e o plano",
+      "chamada": "Definir a meta financeira, a mentalidade inicial e a estratégia de validação sem portfólio prévio.",
+      "passos": [
+        {
+          "titulo": "Definir a meta financeira do desafio",
+          "texto": "O objetivo inicial é atingir a renda de um salário mínimo vendendo sites para empresas locais. Dividir o total em quatro contratos de R$ 497 torna a meta simples de alcançar.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:07:28"
+            },
+            {
+              "dia": 2,
+              "t": "00:30:15"
+            }
+          ]
+        },
+        {
+          "titulo": "Adotar a estratégia de venda sem portfólio",
+          "texto": "Para quem começa do zero, a demonstração pronta da própria empresa prospectada substitui o portfólio tradicional. O cliente vê o seu próprio negócio no ar e a barreira da desconfiança cai.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:10:32"
+            },
+            {
+              "dia": 3,
+              "t": "00:11:21"
+            }
+          ]
+        },
+        {
+          "titulo": "Manter custos fixos operacionais mínimos",
+          "texto": "A operação exige apenas um computador básico, conexão com a internet e a assinatura de uma ferramenta de IA. A hospedagem e a publicação dos códigos rodam de graça no GitHub e na Vercel.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "00:16:00"
+            },
+            {
+              "dia": 5,
+              "t": "00:52:07"
+            }
+          ]
+        },
+        {
+          "titulo": "Trabalhar com a mentalidade de esteira contínua",
+          "texto": "Nunca fique esperando a resposta de uma proposta enviada para começar outro site. Mantenha a esteira em produção constante e crie a próxima demonstração imediatamente.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "00:04:06"
+            }
+          ]
+        },
+        {
+          "titulo": "Apresentar-se com marca pessoal autêntica",
+          "texto": "Assuma seu perfil pessoal e atenda de forma direta sem inventar falsa fachada de agência multinacional. O empresário de bairro valoriza falar diretamente com o profissional responsável.",
+          "fontes": [
+            {
+              "dia": 12,
+              "t": "02:45:38"
+            }
+          ]
+        }
+      ],
+      "ferramentas": [
+        "ChatGPT",
+        "Gemini",
+        "Google Chrome"
+      ],
+      "cuidado": "Tentar parecer uma agência multinacional afasta o comerciante local, que prefere um atendimento direto e humanizado com o próprio profissional."
+    },
+    {
+      "id": "mapeamento",
+      "nome": "Mapeamento de clientes",
+      "chamada": "Minerar oportunidades no mercado local e identificar empresas sem presença digital oficial.",
+      "passos": [
+        {
+          "titulo": "Minerar empresas locais no Nexar Hunter",
+          "texto": "Utilize o Nexar Hunter para extrair dados públicos do Google Maps por nicho e localidade. O sistema separa automaticamente telefones, endereços e a existência de sites registrados.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:12:35"
+            },
+            {
+              "dia": 6,
+              "t": "00:10:29"
+            }
+          ]
+        },
+        {
+          "titulo": "Priorizar empresas da sua cidade ou região",
+          "texto": "Prospectar negócios locais traz maior sensação de segurança para o cliente e permite agendar visitas presenciais se for necessário. O vínculo comunitário facilita o diálogo inicial.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:11:35"
+            },
+            {
+              "dia": 11,
+              "t": "01:05:13"
+            }
+          ]
+        },
+        {
+          "titulo": "Analisar a sazonalidade e a época do ano",
+          "texto": "Escolha nichos com alta demanda de serviços no período atual. Setores como climatização e refrigeração vendem muito mais perto do verão, tornando os empresários mais receptivos.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "01:19:11"
+            },
+            {
+              "dia": 3,
+              "t": "00:15:26"
+            }
+          ]
+        },
+        {
+          "titulo": "Focar em serviços essenciais de alto ticket",
+          "texto": "Priorize oficinas mecânicas, vidraçarias, clínicas e instaladores em vez de pequenos comércios varejistas. Negócios de serviços dependem de buscas ativas e possuem margem financeira para investir.",
+          "fontes": [
+            {
+              "dia": 8,
+              "t": "00:57:48"
+            },
+            {
+              "dia": 10,
+              "t": "02:26:00"
+            }
+          ]
+        },
+        {
+          "titulo": "Filtrar exclusivamente quem não tem site",
+          "texto": "Descarte qualquer empresa que já possua um portal moderno e estruturado. Concentre cem por cento dos seus esforços em negócios sem site ou com páginas fora do ar.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:35:49"
+            },
+            {
+              "dia": 8,
+              "t": "00:57:48"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Pedir sugestão de nicho lucrativo ao ChatGPT",
+        "texto": "Qual setor de empresas é mais propício para eu fechar a venda de um website de R$ 497?"
+      },
+      "ferramentas": [
+        "Nexar Hunter",
+        "Google Maps",
+        "ChatGPT"
+      ],
+      "cuidado": "Evite buscas genéricas por pequenos comércios e foque em segmentos com demanda urgente ou serviços de valor agregado maior."
+    },
+    {
+      "id": "analise",
+      "nome": "Análise do cliente",
+      "chamada": "Qualificar os leads minerados verificando redes sociais, avaliações e dados do decisor.",
+      "passos": [
+        {
+          "titulo": "Identificar os sinais de um bom lead",
+          "texto": "Verifique se a empresa possui espaço físico, avaliações positivas no Google e fotos reais de serviços. Isso confirma que o negócio está ativo, fatura e se importa com sua reputação.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:13:36"
+            }
+          ]
+        },
+        {
+          "titulo": "Avaliar a movimentação no Instagram",
+          "texto": "Empresas com postagens frequentes no Instagram já entendem a importância da divulgação digital. Fica muito mais fácil vender um site para quem já investe tempo nas redes.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "01:13:52"
+            },
+            {
+              "dia": 4,
+              "t": "00:55:16"
+            }
+          ]
+        },
+        {
+          "titulo": "Localizar links quebrados ou domínios fora do ar",
+          "texto": "Encontrar um link com erro na biografia do Instagram ou no Google Meu Negócio é a melhor oportunidade de contato. Você aborda a empresa apontando uma falha real que prejudica as vendas dela.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "01:14:55"
+            },
+            {
+              "dia": 8,
+              "t": "00:58:48"
+            }
+          ]
+        },
+        {
+          "titulo": "Conferir o posicionamento no Google Meu Negócio",
+          "texto": "O perfil do Google atrai pessoas que buscam atendimento urgente. Analise as notas e comentários dos clientes para entender os pontos fortes e os serviços mais procurados da empresa.",
+          "fontes": [
+            {
+              "dia": 11,
+              "t": "00:30:26"
+            },
+            {
+              "dia": 12,
+              "t": "00:36:37"
+            }
+          ]
+        },
+        {
+          "titulo": "Identificar o proprietário e contornar filtros",
+          "texto": "Descubra se o número do WhatsApp pertence ao dono ou a uma atendente. Ao falar com secretárias, seja educado e solicite o contato de quem toma as decisões do negócio.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "01:36:13"
+            },
+            {
+              "dia": 4,
+              "t": "00:24:24"
+            }
+          ]
+        },
+        {
+          "titulo": "Mapear oportunidades de vendas adicionais",
+          "texto": "Observe se o logotipo da empresa está em baixa resolução ou se as redes sociais precisam de organização. Esses detalhes servem de gancho para oferecer serviços complementares na negociação.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:15:37"
+            },
+            {
+              "dia": 4,
+              "t": "00:54:13"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Pedir o contato direto do proprietário para a secretária",
+        "texto": "Entendo perfeitamente. Você teria o contato do proprietário ou responsável pela empresa para que eu possa encaminhar o material demonstrativo diretamente a ele sem tomar seu tempo?"
+      },
+      "ferramentas": [
+        "Google Meu Negócio",
+        "Instagram",
+        "WhatsApp"
+      ],
+      "cuidado": "Deixar de checar os links das redes sociais faz você perder o gancho de abordagem gerado por um site quebrado ou fora do ar."
+    },
+    {
+      "id": "planejamento",
+      "nome": "Planejamento do site com IA",
+      "chamada": "Arquitetar a estrutura visual, reunir referências e preparar os prompts antes de codificar.",
+      "passos": [
+        {
+          "titulo": "Separar o papel das ferramentas de IA",
+          "texto": "Utilize o ChatGPT para planejar a estratégia visual, organizar os textos e criar os prompts sequenciais. Reserve o editor de código e o modelo técnico exclusivamente para programar.",
+          "fontes": [
+            {
+              "dia": 8,
+              "t": "00:10:31"
+            },
+            {
+              "dia": 10,
+              "t": "04:10:13"
+            }
+          ]
+        },
+        {
+          "titulo": "Coletar referências visuais no Pinterest",
+          "texto": "Pesquise por layouts modernos no Pinterest para extrair composições inovadoras e paletas de cores elegantes. Enviar imagens de referência para a IA impede que ela crie páginas padronizadas.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "01:06:00"
+            },
+            {
+              "dia": 12,
+              "t": "00:13:03"
+            }
+          ]
+        },
+        {
+          "titulo": "Criar o manual de instruções do projeto",
+          "texto": "Salve um arquivo com o resumo das diretrizes visuais e regras da empresa na raiz do projeto. Esse manual mantém a IA orientada e evita que ela modifique estilos já consolidados.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "00:12:22"
+            }
+          ]
+        },
+        {
+          "titulo": "Gerar o mockup visual da primeira página",
+          "texto": "Antes de escrever qualquer linha de código, gere no ChatGPT uma imagem visual da primeira dobra para validação. Essa imagem serve como guia estético absoluto para o desenvolvimento.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:36:49"
+            },
+            {
+              "dia": 6,
+              "t": "02:52:16"
+            }
+          ]
+        },
+        {
+          "titulo": "Estruturar os prompts modulares por dobra",
+          "texto": "Peça ao ChatGPT os comandos divididos em blocos progressivos: topo, serviços, diferenciais, depoimentos e rodapé. Prompts divididos evitam que o modelo se perca na lógica do layout.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "01:50:00"
+            },
+            {
+              "dia": 5,
+              "t": "01:04:57"
+            }
+          ]
+        },
+        {
+          "titulo": "Recriar o logotipo da empresa com fundo transparente",
+          "texto": "Caso o cliente só tenha fotos da fachada ou imagens de baixa resolução, utilize a IA para recriar o logotipo vetorizado com fundo limpo e alta definição.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "00:07:09"
+            },
+            {
+              "dia": 12,
+              "t": "00:12:02"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Gerar imagem da primeira página antes de codificar",
+        "texto": "Me dê a imagem visual da primeira página do site para aprovação, antes de gerarmos os prompts para de fato produzir. Traga uma experiência premium, baseada no fato de que somos uma agência de marketing premium e profissional."
+      },
+      "ferramentas": [
+        "ChatGPT",
+        "Pinterest"
+      ],
+      "cuidado": "Despejar todas as ideias diretamente na ferramenta de código sem planejamento prévio gera um site genérico e com resultado visual pobre."
+    },
+    {
+      "id": "construcao",
+      "nome": "Construção da demonstração",
+      "chamada": "Desenvolver a página no editor de código com IA dobra por dobra, aplicando fotos reais e design limpo.",
+      "passos": [
+        {
+          "titulo": "Montar o ambiente de desenvolvimento",
+          "texto": "Abra o VS Code integrado ao assistente de IA Gemini ou Antigravity. Esse ambiente permite criar o código em Next.js e Tailwind CSS com agilidade e visualização em tempo real.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "00:11:21"
+            },
+            {
+              "dia": 11,
+              "t": "00:14:42"
+            }
+          ]
+        },
+        {
+          "titulo": "Caprichar no impacto da primeira dobra",
+          "texto": "O cabeçalho e a seção inicial precisam deixar claro o serviço principal, a cidade de atuação e conter um botão visível para contato no WhatsApp. A primeira dobra é decisiva para reter o visitante.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:29:41"
+            }
+          ]
+        },
+        {
+          "titulo": "Construir e refinar uma dobra por vez",
+          "texto": "Execute os comandos em etapas sequenciais, conferindo o resultado de cada bloco antes de passar ao seguinte. Envie imagens do estado atual e da referência visual para guiar os ajustes.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "01:21:38"
+            },
+            {
+              "dia": 8,
+              "t": "04:01:56"
+            }
+          ]
+        },
+        {
+          "titulo": "Eliminar a estética artificial de inteligência artificial",
+          "texto": "Remova degradês roxos saturados, fundos preto absoluto e ícones tridimensionais exagerados. Adote paletas corporativas limpas, tons ardósia modernos e tipografia equilibrada.",
+          "fontes": [
+            {
+              "dia": 8,
+              "t": "01:14:41"
+            },
+            {
+              "dia": 11,
+              "t": "03:53:23"
+            }
+          ]
+        },
+        {
+          "titulo": "Incorporar exclusivamente fotos reais da empresa",
+          "texto": "Utilize imagens autênticas da fachada, equipe, maquinários e frota de veículos coletadas das redes sociais do cliente. Fotos reais criam conexão imediata e superam qualquer banco de imagens.",
+          "fontes": [
+            {
+              "dia": 6,
+              "t": "01:43:23"
+            },
+            {
+              "dia": 8,
+              "t": "00:13:32"
+            }
+          ]
+        },
+        {
+          "titulo": "Postergar detalhes secundários para depois da venda",
+          "texto": "Não perca horas refinando microdetalhes antes de apresentar a página ao cliente. O objetivo da demonstração é validar o interesse comercial; o acabamento fino entra na entrega final.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "01:44:54"
+            },
+            {
+              "dia": 10,
+              "t": "02:10:29"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Remover aspecto artificial e desintoxicar rodapé",
+        "texto": "Gostei da ideia inicial, porém precisamos melhorar o rodapé. Está com muita cara de IA, precisamos melhorar para um design minimalista, executivo e compatível com a identidade visual da empresa."
+      },
+      "ferramentas": [
+        "VS Code",
+        "Antigravity",
+        "Gemini"
+      ],
+      "cuidado": "Construir a página inteira em um único prompt faz a ferramenta quebrar a hierarquia visual e perder elementos essenciais."
+    },
+    {
+      "id": "publicacao",
+      "nome": "Publicação da demonstração",
+      "chamada": "Hospedar o projeto na internet de forma gratuita e rápida para gerar um link funcional.",
+      "passos": [
+        {
+          "titulo": "Criar o repositório privado no GitHub",
+          "texto": "Suba os arquivos do site para um repositório privado no GitHub. A privacidade protege o código desenvolvido e os dados comerciais da empresa prospectada contra cópias.",
+          "fontes": [
+            {
+              "dia": 11,
+              "t": "02:29:41"
+            },
+            {
+              "dia": 12,
+              "t": "02:56:25"
+            }
+          ]
+        },
+        {
+          "titulo": "Conectar e publicar o projeto na Vercel",
+          "texto": "Importe o repositório na Vercel para realizar o deploy em poucos segundos com custo zero. A plataforma oferece alta velocidade de carregamento e estabilidade total para a demonstração.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "00:16:00"
+            },
+            {
+              "dia": 4,
+              "t": "00:04:42"
+            }
+          ]
+        },
+        {
+          "titulo": "Configurar subdomínio limpo e profissional",
+          "texto": "Personalize o subdomínio padrão da Vercel inserindo o nome da empresa e da cidade. Um endereço limpo transmite credibilidade imediata ao destinatário no momento da abordagem.",
+          "fontes": [
+            {
+              "dia": 11,
+              "t": "02:38:55"
+            }
+          ]
+        },
+        {
+          "titulo": "Manter sincronização contínua com commits",
+          "texto": "Mantenha o editor sincronizado com o GitHub para que cada ajuste no código seja publicado automaticamente na Vercel. Isso permite corrigir apontamentos do cliente em segundos.",
+          "fontes": [
+            {
+              "dia": 10,
+              "t": "01:29:59"
+            },
+            {
+              "dia": 12,
+              "t": "02:57:26"
+            }
+          ]
+        },
+        {
+          "titulo": "Auditar a exibição no celular antes do envio",
+          "texto": "Abra o link publicado no seu próprio celular antes de enviar ao cliente. Verifique espaçamentos, quebras de texto, botões de toque e o empilhamento vertical de ícones.",
+          "fontes": [
+            {
+              "dia": 4,
+              "t": "00:18:26"
+            },
+            {
+              "dia": 6,
+              "t": "00:09:28"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Sincronização contínua com GitHub e Vercel",
+        "texto": "Conecte o site ao diretório do GitHub e garanta que cada alteração tenha um commit automático para sincronizar com a hospedagem."
+      },
+      "ferramentas": [
+        "GitHub",
+        "Vercel",
+        "Google Chrome Mobile"
+      ],
+      "cuidado": "Enviar o link sem auditar a navegação no celular compromete a proposta, já que mais de oitenta por cento dos empresários acessam pelo smartphone."
+    },
+    {
+      "id": "abordagem",
+      "nome": "Abordagem no WhatsApp",
+      "chamada": "Iniciar o contato comercial com empatia, respeito ao horário e envio da prévia pronta.",
+      "passos": [
+        {
+          "titulo": "Respeitar estritamente o horário comercial",
+          "texto": "Dispare contatos comerciais exclusivamente no horário de expediente das empresas, preferindo o meio da manhã ou o início da tarde. Evite noites e fins de tarde de sexta-feira.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "01:38:17"
+            },
+            {
+              "dia": 11,
+              "t": "03:25:32"
+            }
+          ]
+        },
+        {
+          "titulo": "Utilizar perfil comercial humanizado",
+          "texto": "Tenha uma linha exclusiva para atendimento com sua foto pessoal profissional no perfil. Evite avatares genéricos ou logotipos de agências que parecem robôs de spam.",
+          "fontes": [
+            {
+              "dia": 6,
+              "t": "00:48:13"
+            },
+            {
+              "dia": 10,
+              "t": "02:06:24"
+            }
+          ]
+        },
+        {
+          "titulo": "Enviar mensagem curta de quebra de gelo",
+          "texto": "Inicie o contato com uma saudação simples e direta para confirmar se a pessoa que atende está disponível. Mensagens curtas geram curiosidade e aumentam a taxa de resposta.",
+          "fontes": [
+            {
+              "dia": 10,
+              "t": "02:03:10"
+            },
+            {
+              "dia": 11,
+              "t": "02:39:55"
+            }
+          ]
+        },
+        {
+          "titulo": "Apresentar-se e pedir autorização para enviar o link",
+          "texto": "Diga seu nome, mencione que atua com criação de sites na região e elogie o trabalho da empresa. Explique que montou uma prévia visual e peça permissão para compartilhar o link.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "00:51:43"
+            },
+            {
+              "dia": 6,
+              "t": "00:11:31"
+            }
+          ]
+        },
+        {
+          "titulo": "Disponibilizar o link navegável com gentileza",
+          "texto": "Assim que o cliente autorizar, envie o link da demonstração explicando que o objetivo é valorizar a presença da marca no Google. Mantenha o tom descontraído e sem qualquer pressão.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "00:52:45"
+            },
+            {
+              "dia": 8,
+              "t": "00:24:14"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Primeira mensagem de abordagem no WhatsApp",
+        "texto": "Olá, tudo bem? Falo com o responsável pela Lavanderia Lords? Meu nome é Júnior, trabalho com a criação de sites para empresas. Encontrei vocês enquanto pesquisava negócios na região, gostei bastante da empresa e percebi uma oportunidade de melhorar a presença de vocês na internet. Inclusive, acabei montando uma demonstração de como poderia ficar um site da Lavanderia Lords. Ficou bem legal. Posso enviar para você dar uma olhada, sem compromisso?"
+      },
+      "ferramentas": [
+        "WhatsApp Business"
+      ],
+      "cuidado": "Enviar propostas ou links fora do horário comercial transmite amadorismo e faz sua mensagem ser arquivada sem leitura."
+    },
+    {
+      "id": "negociacao",
+      "nome": "Follow-up e negociação",
+      "chamada": "Acompanhar o retorno do cliente, contornar objeções com clareza e alinhar expectativas.",
+      "passos": [
+        {
+          "titulo": "Realizar o acompanhamento sem afobação",
+          "texto": "Aguarde vinte e quatro horas após o envio do link antes de retomar o contato. Faça um acompanhamento educado no dia seguinte, perguntando se a pessoa conseguiu abrir a prévia.",
+          "fontes": [
+            {
+              "dia": 2,
+              "t": "00:57:02"
+            },
+            {
+              "dia": 11,
+              "t": "00:05:35"
+            }
+          ]
+        },
+        {
+          "titulo": "Quebrar a objeção do perfil no Instagram",
+          "texto": "Se o cliente alegar que já possui Instagram, esclareça que a rede social foca em entretenimento enquanto o Google atende à necessidade imediata de quem quer comprar na cidade.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "02:15:13"
+            }
+          ]
+        },
+        {
+          "titulo": "Atender prontamente por ligação telefônica",
+          "texto": "Caso o cliente solicite ou a conversa por texto fique travada, faça uma ligação imediatamente. Conversar por voz esclarece dúvidas, transmite segurança e acelera o acordo.",
+          "fontes": [
+            {
+              "dia": 4,
+              "t": "00:28:20"
+            }
+          ]
+        },
+        {
+          "titulo": "Estipular prazo de disponibilidade da demonstração",
+          "texto": "Informe ao cliente que o link da demonstração ficará disponível temporariamente no ar. Esse limite incentiva o empresário a analisar a proposta com agilidade e prioridade.",
+          "fontes": [
+            {
+              "dia": 4,
+              "t": "00:51:58"
+            }
+          ]
+        },
+        {
+          "titulo": "Respeitar a avaliação de sócios e consultores",
+          "texto": "Quando o contato avisar que levará a proposta para sócios ou consultores, combine um prazo claro para retorno sem pressionar. Dê espaço para a análise interna acontecer.",
+          "fontes": [
+            {
+              "dia": 8,
+              "t": "02:56:28"
+            },
+            {
+              "dia": 8,
+              "t": "02:57:49"
+            }
+          ]
+        },
+        {
+          "titulo": "Encarar recusas com serenidade e avançar",
+          "texto": "Se o cliente recusar expressamente, agradeça com simpatia e parta para a próxima empresa. O design pronto pode ser reaproveitado para outro concorrente do mesmo nicho.",
+          "fontes": [
+            {
+              "dia": 8,
+              "t": "00:26:21"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Áudio explicativo sobre a diferença entre Google e Instagram",
+        "texto": "Então, [Nome do cliente], na verdade o que eu fiz para você é um website oficial da empresa, para termos no futuro o endereço www.nomedaempresa.com.br. O site funciona de forma totalmente diferente do Instagram. O Instagram é uma mídia de oportunidade: as pessoas entram para se entreter e, no meio das postagens, pode ser que vejam uma foto sua, mas ele praticamente só entrega para quem já segue sua página. Já o Google é uma mídia de necessidade: quando uma pessoa está com um problema imediato, como uma roupa fina para lavar ou um ar-condicionado com defeito, ela não vai pesquisar no feed do Instagram, ela abre o Google e digita exatamente o que precisa na cidade. O site serve para colocar sua empresa na frente desses clientes prontos para comprar, exibindo seu telefone e WhatsApp de forma profissional."
+      },
+      "ferramentas": [
+        "WhatsApp Business",
+        "Telefone"
+      ],
+      "cuidado": "Insistir de forma invasiva com quem já disse não desgasta o relacionamento e rouba o tempo que deveria ser usado em novos contatos."
+    },
+    {
+      "id": "fechamento",
+      "nome": "Fechamento e pagamento",
+      "chamada": "Apresentar a proposta comercial, definir as condições de pagamento e receber com rapidez.",
+      "passos": [
+        {
+          "titulo": "Iniciar com preço de entrada para validação",
+          "texto": "Fixe o valor inicial em R$ 497 para facilitar o fechamento dos primeiros clientes. O valor baixo reduz o risco percebido e valida o processo comercial rapidamente.",
+          "fontes": [
+            {
+              "dia": 1,
+              "t": "00:32:43"
+            },
+            {
+              "dia": 11,
+              "t": "00:19:48"
+            }
+          ]
+        },
+        {
+          "titulo": "Reajustar a tabela conforme a validação avança",
+          "texto": "Com as primeiras vendas creditadas e depoimentos em mãos, suba o valor do site para R$ 799 à vista. O aumento gradual do ticket médio valoriza a autoridade do seu trabalho.",
+          "fontes": [
+            {
+              "dia": 6,
+              "t": "01:30:46"
+            },
+            {
+              "dia": 8,
+              "t": "00:06:26"
+            }
+          ]
+        },
+        {
+          "titulo": "Disponibilizar parcelamento suave no cartão de crédito",
+          "texto": "Permita que o cliente parcele o valor em até dez vezes no cartão. Parcelas menores tornam o investimento acessível para qualquer empresa local sem comprometer o fluxo de caixa.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "02:36:38"
+            },
+            {
+              "dia": 11,
+              "t": "00:35:43"
+            }
+          ]
+        },
+        {
+          "titulo": "Escolher gateway de pagamento com liberação rápida",
+          "texto": "Utilize plataformas como InfinitePay ou Mercado Pago para gerar links de cobrança. Mesmo com o cliente parcelando, o valor total líquido fica liberado de imediato na conta.",
+          "fontes": [
+            {
+              "dia": 6,
+              "t": "00:46:10"
+            },
+            {
+              "dia": 12,
+              "t": "01:21:37"
+            }
+          ]
+        },
+        {
+          "titulo": "Eliminar etapas de cadastro e atrito no pagamento",
+          "texto": "Envie links de pagamento que abram direto no navegador do celular do cliente sem exigir downloads ou logins complexos. Fricção no checkout faz a venda esfriar.",
+          "fontes": [
+            {
+              "dia": 6,
+              "t": "01:42:23"
+            }
+          ]
+        },
+        {
+          "titulo": "Separar os custos de registro do domínio oficial",
+          "texto": "Explique claramente que o registro do domínio custa cerca de R$ 40 anuais pagos diretamente ao órgão oficial. Isso mantém a titularidade nos documentos da própria empresa.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "00:57:38"
+            },
+            {
+              "dia": 8,
+              "t": "00:18:56"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Envio da proposta comercial detalhada no WhatsApp",
+        "texto": "A ideia é justamente entregar esse site já adaptado para a empresa. Estou fazendo esse projeto por R$ 497 com site completo e pronto para utilização em pagamento único. Compra do domínio www.nomedaempresa.com.br: R$ 40 uma vez no ano. Hospedagem e manutenção mensal: R$ 49,90 por mês para manter o site rodando 24 horas. Pode ser parcelado em até 10 vezes de R$ 49,70."
+      },
+      "ferramentas": [
+        "InfinitePay",
+        "Mercado Pago",
+        "Registro.br"
+      ],
+      "cuidado": "Utilizar links de cobrança que exijam login bancário no celular do cliente cria atrito e faz o pagamento ser adiado ou cancelado."
+    },
+    {
+      "id": "producao",
+      "nome": "Produção do site final e entrega",
+      "chamada": "Inserir materiais oficiais do cliente, configurar o domínio definitivo e publicar a versão final.",
+      "passos": [
+        {
+          "titulo": "Receber fotos reais e solicitações da empresa",
+          "texto": "Após o pagamento, solicite pelo WhatsApp fotos atualizadas da fachada, recepção, veículos e alvarás. Colete os ajustes pontuais solicitados pelo cliente para a versão definitiva.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "00:47:02"
+            }
+          ]
+        },
+        {
+          "titulo": "Tratar e melhorar imagens reais com inteligência artificial",
+          "texto": "Utilize o Gemini para aprimorar a resolução das fotos enviadas pelo cliente, corrigindo iluminação e removendo pequenas imperfeições sem alterar a identidade real do estabelecimento.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "00:28:55"
+            }
+          ]
+        },
+        {
+          "titulo": "Registrar o domínio oficial nos dados da empresa",
+          "texto": "Auxilie o cliente a registrar o domínio no Registro.br cadastrado sob o CPF ou CNPJ dele. Manter o registro no nome da empresa garante transparência e evita disputas futuras.",
+          "fontes": [
+            {
+              "dia": 3,
+              "t": "02:35:31"
+            },
+            {
+              "dia": 10,
+              "t": "02:07:24"
+            }
+          ]
+        },
+        {
+          "titulo": "Apontar servidores DNS na hospedagem da Vercel",
+          "texto": "Configure as entradas de DNS no painel onde o domínio foi adquirido direcionando para a Vercel. A propagação leva poucos minutos e substitui a necessidade de servidores caros.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "02:08:09"
+            },
+            {
+              "dia": 6,
+              "t": "00:54:28"
+            }
+          ]
+        },
+        {
+          "titulo": "Validar certificado de segurança e remover link temporário",
+          "texto": "Aguarde a emissão automática do certificado SSL gratuito na Vercel e remova o subdomínio de testes. O tráfego passa a responder exclusivamente pelo endereço oficial com cadeado de segurança.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "02:09:09"
+            },
+            {
+              "dia": 5,
+              "t": "02:11:15"
+            }
+          ]
+        },
+        {
+          "titulo": "Efetuar a revisão completa antes da entrega oficial",
+          "texto": "Verifique o funcionamento de todos os botões de WhatsApp, links de mapas e a exibição responsiva no celular antes de avisar o cliente sobre a conclusão da entrega.",
+          "fontes": [
+            {
+              "dia": 12,
+              "t": "03:37:07"
+            }
+          ]
+        }
+      ],
+      "script": {
+        "titulo": "Melhorar resolução e detalhes de fotos reais enviadas pelo cliente",
+        "texto": "O cliente enviou algumas fotos atualizadas da fachada da frente da loja, segue em anexo. Vamos criar uma foto pronta e de qualidade para usarmos no site, sem alterar a identidade real do local."
+      },
+      "ferramentas": [
+        "Vercel",
+        "Registro.br",
+        "Gemini"
+      ],
+      "cuidado": "Registrar o domínio da empresa no seu próprio CPF ou CNPJ gera desconfiança do cliente e pode causar problemas burocráticos de transferência."
+    },
+    {
+      "id": "recorrencia",
+      "nome": "Mensalidade e crescimento",
+      "chamada": "Construir receita recorrente mensal previsível e escalar a operação com novas abordagens.",
+      "passos": [
+        {
+          "titulo": "Fixar a taxa de manutenção em R$ 49,90 mensais",
+          "texto": "Estabeleça uma mensalidade de R$ 49,90 por cliente para manter o site atualizado e com suporte contínuo. Essa taxa cria uma receita previsível que acumula a cada nova venda realizada.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "00:20:28"
+            },
+            {
+              "dia": 6,
+              "t": "00:46:10"
+            }
+          ]
+        },
+        {
+          "titulo": "Posicionar a taxa como manutenção e segurança",
+          "texto": "Apresente o valor mensal como serviço de suporte, proteção e pequenas alterações de texto ou fotos, e não como hospedagem. O empresário reconhece o valor de ter um profissional cuidando do seu portal.",
+          "fontes": [
+            {
+              "dia": 5,
+              "t": "00:57:38"
+            },
+            {
+              "dia": 10,
+              "t": "04:25:45"
+            }
+          ]
+        },
+        {
+          "titulo": "Cobrir os custos das ferramentas com as primeiras mensalidades",
+          "texto": "Com apenas dois clientes pagando R$ 49,90 por mês, a receita recorrente de R$ 99,80 já cobre todos os gastos com assinaturas de IA e mantém a operação lucrativa.",
+          "fontes": [
+            {
+              "dia": 11,
+              "t": "02:44:02"
+            },
+            {
+              "dia": 12,
+              "t": "02:44:02"
+            }
+          ]
+        },
+        {
+          "titulo": "Evoluir a esteira para prospecção com mockups visuais",
+          "texto": "Após validar as primeiras vendas e formar caixa, substitua a criação do código completo antes do contato pelo envio de mockups em imagem. Esse método acelera o volume diário de abordagens.",
+          "fontes": [
+            {
+              "dia": 11,
+              "t": "00:08:38"
+            },
+            {
+              "dia": 12,
+              "t": "00:11:01"
+            }
+          ]
+        },
+        {
+          "titulo": "Publicar o seu próprio site oficial com domínio próprio",
+          "texto": "Desenvolva e coloque no ar o seu próprio portal profissional para demonstrar autoridade. Para quem vende presença digital, ter o próprio site oficial é indispensável para conquistar a confiança do mercado.",
+          "fontes": [
+            {
+              "dia": 12,
+              "t": "00:14:03"
+            },
+            {
+              "dia": 12,
+              "t": "00:15:05"
+            }
+          ]
+        }
+      ],
+      "ferramentas": [
+        "InfinitePay",
+        "Mercado Pago",
+        "Vercel"
+      ],
+      "cuidado": "Continuar criando sites completos no código antes da abordagem na fase de escala vira um gargalo operacional que limita o crescimento do negócio."
+    }
+  ],
+  "placar": [
+    {
+      "dia": 1,
+      "marco": "Início do desafio do zero e criação da primeira demonstração com inteligência artificial para a Lavanderia Lords."
+    },
+    {
+      "dia": 2,
+      "marco": "Finalização do primeiro site, ajuste do fluxo na Vercel e disparo da primeira abordagem comercial no WhatsApp."
+    },
+    {
+      "dia": 3,
+      "marco": "Envio da proposta comercial de R$ 497 para a lavanderia e início da demonstração de climatização na esteira."
+    },
+    {
+      "dia": 4,
+      "marco": "Publicação do site da Ijuí Clima, abordagem rápida e alinhamento da negociação por chamada telefônica."
+    },
+    {
+      "dia": 5,
+      "marco": "Conclusão das duas primeiras vendas somando R$ 994 de faturamento, ativação de R$ 99,80 de MRR e conexão de domínio próprio."
+    },
+    {
+      "dia": 6,
+      "marco": "Confirmação de R$ 983,89 líquidos na conta, reajuste da tabela para R$ 799 e desenvolvimento da página da Mais Clima."
+    },
+    {
+      "dia": 8,
+      "marco": "Canal atinge mil inscritos, dono da Mais Clima encaminha o site para consultores e início da prospecção de oficinas."
+    },
+    {
+      "dia": 10,
+      "marco": "Auditoria de DNS inativo no Registro.br, envio de prévia para a diretoria da oficina e escolha do nicho de esquadrias."
+    },
+    {
+      "dia": 11,
+      "marco": "Desenvolvimento do site da Alumi Arte e anúncio da transição da esteira para prospecção com mockups em imagem."
+    },
+    {
+      "dia": 12,
+      "marco": "Saldo acumulado atinge R$ 1.093,80 com o primeiro ciclo de mensalidades e início da criação do próprio site oficial."
+    }
+  ]
+}

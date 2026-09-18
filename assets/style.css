@@ -250,6 +250,76 @@ mark.atual { background: var(--mark-atual); color: #fff; }
 .meta strong { color: var(--texto); }
 .ver { margin-top: auto; color: var(--destaque); font-weight: 600; font-size: .9rem; }
 
+/* página inicial: meta do desafio */
+.meta-desafio { background: var(--card); border: 1px solid var(--borda); border-radius: var(--raio); padding: 16px 18px; margin: 22px 0 6px; }
+.meta-topo, .meta-rodape { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.meta-topo span, .meta-rodape span { color: var(--texto-2); font-size: .9rem; }
+.meta-topo strong { font-size: 1.6rem; }
+.meta-topo small { font-size: .9rem; color: var(--texto-3); font-weight: 500; }
+.meta-rodape strong { color: var(--texto); }
+.meta-barra { height: 12px; border-radius: 999px; background: var(--card-2); border: 1px solid var(--borda); overflow: hidden; margin: 12px 0 10px; }
+.meta-barra span { display: block; height: 100%; background: linear-gradient(90deg, var(--destaque), var(--destaque-2)); border-radius: 999px; }
+
+/* placar dia a dia */
+.placar { list-style: none; margin: 16px 0 0; padding: 0 0 8px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(150px, 1fr); gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; }
+.placar li { scroll-snap-align: start; }
+.placar-dia {
+  display: flex; flex-direction: column; gap: 6px; height: 100%;
+  background: var(--card); border: 1px solid var(--borda); border-radius: var(--raio);
+  padding: 12px; color: var(--texto); text-decoration: none; transition: border-color .2s, transform .2s;
+}
+.placar-dia:hover { border-color: var(--destaque); transform: translateY(-2px); }
+.placar-barra { height: 56px; display: flex; align-items: flex-end; background: var(--card-2); border-radius: 6px; overflow: hidden; }
+.placar-barra span { width: 100%; background: var(--destaque); opacity: .85; }
+.placar-num { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--texto-3); }
+.placar-valor { font-weight: 700; font-size: 1.05rem; }
+.placar-marco { font-size: .85rem; color: var(--texto-2); line-height: 1.45; }
+
+/* jornada */
+.menu-num {
+  display: inline-grid; place-items: center; width: 20px; height: 20px; margin-right: 4px;
+  border-radius: 50%; background: var(--card-2); font-size: .72rem; font-weight: 700; color: var(--texto-2);
+}
+.menu a.atual .menu-num { background: var(--destaque); color: #fff; }
+.etapa { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 18px; position: relative; padding: 26px 0 8px; }
+.etapa::before { content: ""; position: absolute; left: 21px; top: 74px; bottom: -26px; width: 2px; background: var(--borda); }
+.etapa:last-child::before { display: none; }
+.etapa-marcador span {
+  display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%;
+  background: var(--destaque-suave); border: 2px solid var(--destaque); color: var(--destaque-2); font-weight: 800; font-size: 1.1rem;
+}
+.etapa-num { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--destaque); font-weight: 600; margin: 8px 0 4px; }
+.etapa-corpo h3 { font-size: 1.35rem; margin-bottom: 4px; }
+.etapa-chamada { color: var(--texto-2); font-size: 1.02rem; }
+.passos { list-style: none; counter-reset: passo; margin: 14px 0; padding: 0; display: grid; gap: 10px; }
+.passo {
+  counter-increment: passo; position: relative; background: var(--card); border: 1px solid var(--borda);
+  border-radius: var(--raio); padding: 14px 16px 14px 50px; transition: border-color .2s;
+}
+.passo:hover { border-color: var(--borda-forte); }
+.passo::before {
+  content: counter(passo); position: absolute; left: 14px; top: 14px; width: 24px; height: 24px; border-radius: 6px;
+  display: grid; place-items: center; background: var(--card-2); color: var(--texto-2); font-weight: 700; font-size: .8rem;
+}
+.passo h4 { margin: 0 0 4px; }
+.passo p { margin: 0; color: var(--texto-2); font-size: .95rem; }
+.fontes { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.fonte { display: inline-flex; align-items: center; gap: 4px; font-size: .78rem; }
+.fonte > a:first-child { color: var(--texto-2); text-decoration: none; border: 1px solid var(--borda); border-radius: 5px; padding: 1px 7px; }
+.fonte > a:first-child:hover { color: var(--texto); border-color: var(--destaque); }
+.etapa-rodape { display: grid; gap: 8px; margin-top: 4px; }
+.etapa-ferramentas { font-size: .85rem; color: var(--texto-3); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.chip-ferramenta { background: var(--card); border: 1px solid var(--borda); border-radius: 999px; padding: 2px 10px; color: var(--texto-2); }
+.cuidado { margin: 0; padding: 10px 14px; border-radius: 8px; border-left: 3px solid var(--m-preco); background: color-mix(in srgb, var(--m-preco) 10%, transparent); color: var(--texto-2); font-size: .92rem; }
+.cuidado strong { color: var(--m-preco); }
+@media (max-width: 520px) {
+  .etapa { grid-template-columns: 1fr; }
+  .etapa-marcador, .etapa::before { display: none; }
+  .passo { padding-left: 16px; }
+  .passo::before { position: static; display: inline-grid; margin-bottom: 6px; }
+}
+@media print { .placar { grid-auto-flow: row; grid-template-columns: repeat(4, 1fr); overflow: visible; } }
+
 /* navegação e rodapé */
 .navegacao-lives { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 32px 0 8px; }
 .rodape { color: var(--texto-3); font-size: .85rem; padding-top: 24px; }
