@@ -110,6 +110,16 @@
     if (!destino) return;
     if (location.hash !== hash) history.pushState(null, '', hash);
     mostrarCapitulo(destino, true, focar);
+    rolarAteAlvoInterno(hash, destino);
+  }
+  // Quando o link aponta para um trecho dentro do capítulo (ex.: um tema), rola até ele.
+  function rolarAteAlvoInterno(hash, capitulo) {
+    var id;
+    try { id = decodeURIComponent((hash || '').replace(/^#/, '')); } catch (e) { return; }
+    var alvo = id && document.getElementById(id);
+    if (alvo && capitulo && alvo !== capitulo && capitulo.contains(alvo) && alvo.offsetParent !== null) {
+      alvo.scrollIntoView({ block: 'start', behavior: 'instant' });
+    }
   }
   if (capitulos.length) {
     document.documentElement.classList.add('com-capitulos');
@@ -124,7 +134,9 @@
     });
     if (seletor) seletor.addEventListener('change', function () { navegarCapitulo('#' + seletor.value, true); });
     function restaurarCapitulo() {
-      mostrarCapitulo(destinoDoHash(location.hash) || capitulos[0], true, false);
+      var destino = destinoDoHash(location.hash) || capitulos[0];
+      mostrarCapitulo(destino, true, false);
+      rolarAteAlvoInterno(location.hash, destino);
     }
     window.addEventListener('popstate', restaurarCapitulo);
     window.addEventListener('hashchange', restaurarCapitulo);
@@ -161,7 +173,7 @@
 
   // Filtro por momento e busca nas dicas e dúvidas
   var buscaGeral = $('#busca-geral');
-  var chips = $$('.chip');
+  var chips = $$('.chip:not(.chip-tema)');
   var momentoAtual = 'todos';
   function aplicarFiltro() {
     var termo = buscaGeral ? buscaGeral.value.trim() : '';

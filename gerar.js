@@ -356,6 +356,11 @@ ${fecharCapitulo(secoes, 'transcricao')}
 ${rodapeScripts('')}`;
 }
 
+function lerJsonOpcional(nome) {
+  const arq = path.join(PASTA_CONTEUDO, nome);
+  return fs.existsSync(arq) ? JSON.parse(fs.readFileSync(arq, 'utf8')) : null;
+}
+
 function valorReais(s) {
   const m = /R\$\s*([\d.]+)(?:,(\d+))?/.exec(String(s || ''));
   return m ? Number(m[1].replace(/\./g, '')) + (m[2] ? Number('0.' + m[2]) : 0) : 0;
@@ -364,7 +369,9 @@ function reais(n) {
   return 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 });
 }
 
-function paginaIndex(lives, jornada) {
+function paginaIndex(lives, jornada, duvidas) {
+  const temas = (duvidas && duvidas.temas) || [];
+  const totalPrincipais = temas.reduce((a, t) => a + (t.perguntas || []).length, 0);
   const META = 1621;
   const totalDicas = lives.reduce((a, c) => a + (c.dicas || []).length, 0);
   const totalDuvidas = lives.reduce((a, c) => a + (c.duvidas || []).length, 0);
@@ -377,6 +384,7 @@ function paginaIndex(lives, jornada) {
   const capitulos = [
     ['inicio', 'O desafio'],
     ...etapas.map((e, i) => [`etapa-${e.id}`, `Etapa ${i + 1}: ${e.nome}`]),
+    ...(temas.length ? [['duvidas', 'Principais dúvidas']] : []),
     ['lives', 'Todas as lives'],
     ['como-contribuir', 'Como contribuir'],
   ];
@@ -405,6 +413,7 @@ ${barraTopo('index.html')}
   </ul>
   <p class="menu-titulo">Conteúdo</p>
   <ul>
+    ${temas.length ? '<li><a href="#duvidas">Principais dúvidas</a></li>' : ''}
     <li><a href="#lives">Todas as lives</a></li>
     <li><a href="#como-contribuir">Como contribuir</a></li>
   </ul>
@@ -430,6 +439,7 @@ ${abrirCapitulo(capitulos, 'inicio')}
   </div>
   <div class="acoes">
     ${etapas[0] ? `<a class="btn btn-primario" href="#etapa-${esc(etapas[0].id)}">Começar a jornada</a>` : ''}
+    ${temas.length ? '<a class="btn" href="#duvidas">Principais dúvidas</a>' : ''}
     <a class="btn" href="#lives">Ver as lives</a>
   </div>
 </section>
@@ -481,6 +491,27 @@ ${fecharCapitulo(capitulos, 'inicio')}
   </article>
   ${fecharCapitulo(capitulos, `etapa-${e.id}`)}`).join('\n  ')}
 
+${temas.length ? `${abrirCapitulo(capitulos, 'duvidas')}
+<section class="secao principais-duvidas">
+  <h2>Principais dúvidas</h2>
+  <p class="lead">${esc(duvidas.intro || '')}</p>
+  <nav class="temas-duvidas" aria-label="Temas das dúvidas">
+    ${temas.map((t) => `<a class="chip chip-tema" href="#tema-${esc(t.id)}">${esc(t.nome)} <span>${(t.perguntas || []).length}</span></a>`).join('\n    ')}
+  </nav>
+  <div class="barra-acoes">
+    <button class="btn" id="abrir-duvidas" type="button">Abrir todas</button>
+    <button class="btn" id="fechar-duvidas" type="button">Fechar todas</button>
+  </div>
+  ${temas.map((t) => `<div class="tema-duvidas" id="tema-${esc(t.id)}">
+    <h3>${esc(t.nome)}</h3>
+    ${(t.perguntas || []).map((q) => `<details class="duvida">
+      <summary><span>${esc(q.pergunta)}</span></summary>
+      <div class="resposta"><p>${esc(q.resposta)}</p>${(q.fontes || []).length ? `<div class="fontes">${q.fontes.map(fonteLink).join('')}</div>` : ''}</div>
+    </details>`).join('\n    ')}
+  </div>`).join('\n  ')}
+  <p class="nota">São ${totalPrincipais} perguntas escolhidas entre as ${totalDuvidas} respondidas nas lives. As demais estão na aba Dúvidas de cada live.</p>
+</section>
+${fecharCapitulo(capitulos, 'duvidas')}` : ''}
 ${abrirCapitulo(capitulos, 'lives')}
 <section class="secao">
   <h2>Todas as lives</h2>
@@ -569,7 +600,7 @@ function main() {
 
   const arqJornada = path.join(PASTA_CONTEUDO, 'jornada.json');
   const jornada = fs.existsSync(arqJornada) ? JSON.parse(fs.readFileSync(arqJornada, 'utf8')) : null;
-  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada), 'utf8');
+  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada, lerJsonOpcional('duvidas.json')), 'utf8');
   console.log(`index.html com ${lives.length} lives.`);
   if (falhou) {
     console.error('ATENÇÃO: alguma checagem falhou.');

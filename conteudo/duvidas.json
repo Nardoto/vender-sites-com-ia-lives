@@ -1,0 +1,237 @@
+{
+  "intro": "As perguntas que mais apareceram no chat das lives, juntadas por tema. Cada resposta mostra em qual live e em qual minuto foi dada.",
+  "temas": [
+    {
+      "id": "comecar",
+      "nome": "Começando do zero",
+      "perguntas": [
+        {
+          "pergunta": "Preciso saber programar para fazer isso?",
+          "resposta": "Não precisa dominar programação avançada. A IA gera o código. Você precisa entender a lógica básica, orientar as correções e avaliar o visual.",
+          "fontes": [{ "dia": 8, "t": "00:03:23" }]
+        },
+        {
+          "pergunta": "Preciso de um computador potente?",
+          "resposta": "Não. O VS Code é leve e o processamento pesado da IA roda nos servidores, na nuvem.",
+          "fontes": [{ "dia": 11, "t": "03:45:14" }]
+        },
+        {
+          "pergunta": "Para quem está começando, qual negócio você recomenda?",
+          "resposta": "Começar vendendo sites com IA, porque é rápido e acessível. Serve para levantar caixa e montar portfólio, e depois você expande para a área que mais curte.",
+          "fontes": [{ "dia": 2, "t": "01:04:29" }]
+        },
+        {
+          "pergunta": "Esse modelo funciona mesmo? Você tem conseguido vender?",
+          "resposta": "Na primeira semana foram duas propostas enviadas e as duas fecharam. Até o dia 12 eram 5 empresas abordadas, 3 propostas e 2 contratos pagos, uma conversão de 40%.",
+          "fontes": [{ "dia": 5, "t": "00:17:00" }, { "dia": 12, "t": "00:09:58" }]
+        },
+        {
+          "pergunta": "É melhor me apresentar como agência ou como profissional?",
+          "resposta": "Se você trabalha sozinho, use sua marca pessoal. Agência passa uma estrutura que o autônomo não tem e pode afastar o cliente local.",
+          "fontes": [{ "dia": 12, "t": "02:45:38" }]
+        }
+      ]
+    },
+    {
+      "id": "ferramentas",
+      "nome": "Ferramentas de IA",
+      "perguntas": [
+        {
+          "pergunta": "Por que Gemini e Antigravity e não o Claude?",
+          "resposta": "Custo. O Claude é excelente e rápido, mas caro para quem está começando. O Gemini no Antigravity entrega boa qualidade visual com custo muito menor.",
+          "fontes": [{ "dia": 2, "t": "01:06:33" }, { "dia": 3, "t": "02:11:10" }, { "dia": 10, "t": "01:54:16" }, { "dia": 11, "t": "02:27:39" }]
+        },
+        {
+          "pergunta": "Qual modelo e qual plano você usa?",
+          "resposta": "O Gemini Flash no nível médio, que dá para baixar para o nível baixo e economizar limite. O plano é o Google AI Pro de 18 meses, que sai por cerca de R$ 8,32 por mês.",
+          "fontes": [{ "dia": 1, "t": "00:08:28" }, { "dia": 10, "t": "04:45:20" }]
+        },
+        {
+          "pergunta": "E o Lovable ou o WordPress?",
+          "resposta": "O Lovable cobra em dólar e consome créditos rápido. O WordPress precisa de hospedagem paga, sofre com plugins e é mais lento no celular. No VS Code com a Vercel o custo de servidor é zero. Dá para migrar um projeto do Lovable conectando ele ao GitHub.",
+          "fontes": [{ "dia": 6, "t": "01:09:34" }, { "dia": 6, "t": "01:19:03" }, { "dia": 12, "t": "03:33:57" }]
+        },
+        {
+          "pergunta": "Como dividir o trabalho entre o ChatGPT e o Antigravity?",
+          "resposta": "O ChatGPT planeja a página, escreve os textos e monta os prompts. O Antigravity, no VS Code, só gera e ajusta o código. Ele não usa agentes autônomos: acompanha cada etapa.",
+          "fontes": [{ "dia": 8, "t": "00:10:31" }, { "dia": 10, "t": "04:05:46" }]
+        },
+        {
+          "pergunta": "Como você faz um site tão bonito? Tem um prompt padrão?",
+          "resposta": "Não tem prompt padrão. O principal é nunca escrever a ideia direto na IA. Ele monta os prompts com o ChatGPT, manda a logo e referências do Pinterest e pede uma sequência de prompts para executar.",
+          "fontes": [{ "dia": 5, "t": "01:03:56" }, { "dia": 12, "t": "02:50:05" }]
+        },
+        {
+          "pergunta": "Como evitar que o site fique com cara de IA?",
+          "resposta": "Proíba no prompt gradientes roxos, luzes neon e elementos 3D genéricos. Peça paleta sóbria e design limpo.",
+          "fontes": [{ "dia": 10, "t": "04:01:40" }]
+        },
+        {
+          "pergunta": "Como pedir um ajuste sem a IA estragar o resto do site?",
+          "resposta": "Delimite no pedido só a seção que deve mudar e diga que o resto precisa ficar intacto. Ajuda manter um arquivo de instruções do projeto na raiz.",
+          "fontes": [{ "dia": 3, "t": "00:12:22" }]
+        },
+        {
+          "pergunta": "O Antigravity fica pedindo confirmação a cada comando. Como acelerar?",
+          "resposta": "Nos três pontos da extensão, mude o Quick Message para envio imediato e o Security Preset para Turbo Mode.",
+          "fontes": [{ "dia": 10, "t": "01:22:04" }]
+        }
+      ]
+    },
+    {
+      "id": "clientes",
+      "nome": "Encontrar e abordar clientes",
+      "perguntas": [
+        {
+          "pergunta": "Como você encontra os clientes?",
+          "resposta": "No Nexar Hunter, que filtra empresas por cidade e categoria e traz os dados do Google Meu Negócio. Ele escolhe quem tem presença mas não tem site, cria a demonstração e aborda pelo WhatsApp.",
+          "fontes": [{ "dia": 2, "t": "01:09:36" }, { "dia": 6, "t": "00:17:45" }]
+        },
+        {
+          "pergunta": "O que você olha antes de abordar uma empresa?",
+          "resposta": "Três coisas: estrutura física e operação sólidas, potencial claro de retorno com o site e presença ativa nas redes sociais.",
+          "fontes": [{ "dia": 12, "t": "00:35:37" }]
+        },
+        {
+          "pergunta": "Não é melhor abordar antes de fazer o site?",
+          "resposta": "Não. Com a prévia pronta a chance de fechar é bem maior: o cliente vê o resultado e fica sem jeito de dizer não para quem já fez o site. Para quem não tem portfólio, a demonstração zera a desconfiança.",
+          "fontes": [{ "dia": 4, "t": "00:14:57" }, { "dia": 10, "t": "00:11:50" }]
+        },
+        {
+          "pergunta": "Como chegar em quem decide, se quem atende é a secretária?",
+          "resposta": "No comércio local o WhatsApp costuma ser do dono. Quando não for, peça com educação para repassar o link ao responsável, ou faça uma visita rápida se for na sua cidade.",
+          "fontes": [{ "dia": 3, "t": "01:36:13" }, { "dia": 12, "t": "00:13:03" }]
+        },
+        {
+          "pergunta": "De onde tirar fotos da empresa sem falar com ela antes?",
+          "resposta": "Do Instagram, do Facebook ou da ficha do Google Meu Negócio. Se a foto estiver ruim, peça à IA para limpar ou use as partes boas do negócio.",
+          "fontes": [{ "dia": 10, "t": "04:17:26" }, { "dia": 8, "t": "00:13:32" }]
+        },
+        {
+          "pergunta": "Mandei prévias e ninguém responde. O que fazer?",
+          "resposta": "A demonstração continua sendo o melhor caminho sem portfólio. Revise o perfil das empresas abordadas, use fotos reais e veja se o segmento valoriza presença visual.",
+          "fontes": [{ "dia": 8, "t": "00:15:47" }]
+        },
+        {
+          "pergunta": "O cliente recusou. Ligo para insistir?",
+          "resposta": "Não. Recusa faz parte. Agradeça, deixe a porta aberta e passe para o próximo da lista.",
+          "fontes": [{ "dia": 8, "t": "00:26:21" }]
+        },
+        {
+          "pergunta": "Por que não mandar mensagens automáticas em massa?",
+          "resposta": "Disparo em massa bloqueia o chip do WhatsApp e converte muito pouco. A abordagem manual e personalizada dá resultado muito melhor.",
+          "fontes": [{ "dia": 10, "t": "02:03:10" }]
+        }
+      ]
+    },
+    {
+      "id": "preco",
+      "nome": "Preço e pagamento",
+      "perguntas": [
+        {
+          "pergunta": "Quanto cobrar pelo site?",
+          "resposta": "Ele começou com R$ 497 para fechar os primeiros clientes sem portfólio. Depois passou para R$ 799, com parcelamento no cartão. Um site com painel para o cliente editar sozinho sobe para outro patamar de preço.",
+          "fontes": [{ "dia": 2, "t": "00:57:02" }, { "dia": 11, "t": "00:19:48" }, { "dia": 10, "t": "04:25:45" }]
+        },
+        {
+          "pergunta": "Como parcelar sem correr risco de calote?",
+          "resposta": "Com um link de pagamento na InfinitePay ou no Mercado Pago. O cliente parcela em até 10 vezes, a plataforma assume o risco e você recebe o valor com a taxa descontada. Num site de R$ 799 em 10 vezes, sobram cerca de R$ 711.",
+          "fontes": [{ "dia": 3, "t": "02:36:38" }, { "dia": 11, "t": "03:12:14" }]
+        },
+        {
+          "pergunta": "Qual plataforma de pagamento usar?",
+          "resposta": "Ele usa o Mercado Pago, que aceita CPF ou CNPJ. O Pix cai na hora e sem taxa.",
+          "fontes": [{ "dia": 1, "t": "00:39:53" }, { "dia": 10, "t": "02:13:31" }]
+        },
+        {
+          "pergunta": "Precisa emitir nota fiscal?",
+          "resposta": "Nas primeiras vendas ele não emitiu, trabalhando como autônomo no CPF. A recomendação é formalizar quando a receita recorrente pagar o contador.",
+          "fontes": [{ "dia": 10, "t": "02:12:29" }]
+        },
+        {
+          "pergunta": "Dá para vender sites mais caros com esse método?",
+          "resposta": "Sim. Lojas virtuais com catálogo, checkout e frete, e portais com painel administrativo. O mais caro que ele já vendeu foi um portal de obras por R$ 7.600.",
+          "fontes": [{ "dia": 11, "t": "01:30:53" }, { "dia": 12, "t": "03:29:43" }]
+        }
+      ]
+    },
+    {
+      "id": "hospedagem",
+      "nome": "Hospedagem e domínio",
+      "perguntas": [
+        {
+          "pergunta": "A Vercel cobra alguma coisa?",
+          "resposta": "Não para sites institucionais, nem para conectar o domínio do cliente. O único custo é o domínio, cerca de R$ 40 por ano no Registro.br, pago pelo cliente.",
+          "fontes": [{ "dia": 6, "t": "00:54:28" }, { "dia": 8, "t": "00:18:56" }, { "dia": 3, "t": "02:24:55" }]
+        },
+        {
+          "pergunta": "O plano gratuito não vai derrubar os sites?",
+          "resposta": "Não. Sites institucionais consomem muito pouco. Com dezenas de sites no ar, o consumo dele não chegou a 25% da cota gratuita.",
+          "fontes": [{ "dia": 11, "t": "00:25:21" }, { "dia": 10, "t": "04:08:50" }]
+        },
+        {
+          "pergunta": "No nome de quem fica o domínio?",
+          "resposta": "No nome do cliente. Ele cria a conta no Registro.br e paga a anuidade. Você só pede acesso para apontar o DNS.",
+          "fontes": [{ "dia": 10, "t": "02:07:24" }, { "dia": 12, "t": "00:07:54" }]
+        },
+        {
+          "pergunta": "Quanto tempo o domínio leva para funcionar?",
+          "resposta": "O prazo teórico chega a 24 ou 48 horas, mas apontando para a Vercel costuma funcionar entre alguns minutos e duas horas, já com certificado de segurança.",
+          "fontes": [{ "dia": 6, "t": "00:54:28" }]
+        },
+        {
+          "pergunta": "E se o domínio do cliente for de outro provedor, como a HostGator?",
+          "resposta": "O processo é o mesmo: entre na zona de DNS de onde o domínio foi comprado e aponte os registros para a Vercel.",
+          "fontes": [{ "dia": 10, "t": "04:12:14" }]
+        }
+      ]
+    },
+    {
+      "id": "mensalidade",
+      "nome": "Mensalidade",
+      "perguntas": [
+        {
+          "pergunta": "Como funciona a cobrança mensal?",
+          "resposta": "O cliente paga R$ 49,90 por mês. Ele não chama isso de hospedagem, e sim de manutenção mensal. Como a hospedagem é gratuita, o valor vira receita limpa.",
+          "fontes": [{ "dia": 5, "t": "00:57:38" }, { "dia": 12, "t": "00:07:54" }]
+        },
+        {
+          "pergunta": "R$ 49,90 não é pouco?",
+          "resposta": "Para o comércio local o valor quase não pesa. Para quem vende, trinta clientes pagando geram cerca de R$ 1.500 por mês.",
+          "fontes": [{ "dia": 10, "t": "04:12:14" }]
+        },
+        {
+          "pergunta": "E se o cliente achar que não precisa de manutenção?",
+          "resposta": "Apresente como um seguro do site: página monitorada e troca rápida de preços, banners e telefones, por menos de R$ 1,70 por dia. Oficinas mecânicas, por exemplo, entendem bem a ideia de manutenção preventiva.",
+          "fontes": [{ "dia": 6, "t": "01:30:46" }, { "dia": 8, "t": "00:57:48" }]
+        },
+        {
+          "pergunta": "O que dá para vender depois para o mesmo cliente?",
+          "resposta": "Com o cliente na mensalidade, dá para oferecer tráfego pago no Google Ads e otimização para aparecer nas buscas locais.",
+          "fontes": [{ "dia": 6, "t": "01:54:00" }]
+        }
+      ]
+    },
+    {
+      "id": "recusa",
+      "nome": "Quando o cliente não fecha",
+      "perguntas": [
+        {
+          "pergunta": "Perdi o trabalho se a empresa não comprar?",
+          "resposta": "Não. Troque a logo, as cores e o contato e ofereça para outra empresa do mesmo ramo. O projeto também serve de portfólio.",
+          "fontes": [{ "dia": 3, "t": "00:04:06" }, { "dia": 11, "t": "03:59:42" }]
+        },
+        {
+          "pergunta": "Posso usar o nome da empresa que não fechou no portfólio?",
+          "resposta": "Só das que fecharam. Nas demonstrações recusadas, tire a marca e os dados da empresa antes de usar como modelo.",
+          "fontes": [{ "dia": 11, "t": "04:01:54" }]
+        },
+        {
+          "pergunta": "Os clientes pedem muita alteração depois de fechar?",
+          "resposta": "Nos dois primeiros, nada na estrutura, só no conteúdo: um pediu para destacar uma licença que a empresa tem, e o outro mandou fotos novas.",
+          "fontes": [{ "dia": 5, "t": "00:47:02" }]
+        }
+      ]
+    }
+  ]
+}

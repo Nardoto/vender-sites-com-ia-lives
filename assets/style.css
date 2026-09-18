@@ -352,6 +352,18 @@ mark.atual { background: var(--mark-atual); color: #fff; }
 }
 @media print { .placar { grid-template-columns: repeat(4, 1fr); } }
 
+/* principais dúvidas (página inicial) */
+.temas-duvidas { display: flex; flex-wrap: wrap; gap: 6px; margin: 16px 0 14px; }
+.chip-tema { text-decoration: none; }
+.tema-duvidas { margin: 26px 0 8px; scroll-margin-top: calc(var(--topo-h) + 16px); }
+.tema-duvidas h3 { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
+.tema-duvidas h3::before { content: ""; width: 10px; height: 10px; border-radius: 3px; background: var(--destaque); }
+.principais-duvidas .duvida summary span { line-height: 1.4; }
+.capitulo:focus, .capitulo:focus-visible { outline: none; }
+.duvida summary { position: relative; padding-right: 44px; }
+.duvida summary::before { float: none; position: absolute; right: 16px; top: 13px; font-size: 1.1rem; line-height: 1.2; }
+.principais-duvidas .resposta .fontes { margin-top: 8px; }
+
 /* barras de rolagem no tema do site */
 * { scrollbar-width: thin; scrollbar-color: var(--borda-forte) transparent; }
 ::-webkit-scrollbar { width: 8px; height: 8px; }
