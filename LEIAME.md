@@ -56,6 +56,22 @@ Valores aceitos em `tipo`: whatsapp, prompt.
 
 ## Publicar
 
+O site está publicado pelo GitHub Pages:
+
+- Site: http://nardoto.com.br/vender-sites-com-ia-lives/
+- Repositório: https://github.com/Nardoto/vender-sites-com-ia-lives
+
+Para atualizar depois de gerar páginas novas, rode dentro desta pasta:
+
+```
+node gerar.js
+git add -A
+git commit -m "Adiciona dia 7"
+git push
+```
+
+O GitHub Pages republica sozinho em cerca de um minuto.
+
 A pasta inteira é o site. Para publicar na Vercel, suba esta pasta como projeto sem configuração de build. Qualquer hospedagem de arquivos estáticos serve. O site também abre direto pelo duplo clique no `index.html`.
 
 A pasta `conteudo` e o `gerar.js` não precisam ir para a hospedagem, mas não atrapalham se forem.
