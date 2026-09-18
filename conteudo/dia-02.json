@@ -1,7 +1,7 @@
 {
   "dia": 2,
   "slug": "dia-02",
-  "srt": "../../srt/dia 2_EBOOK-VENDER-SITES-IA.srt",
+  "srt": "srt/dia-02.srt",
   "titulo": "Dia 2 | Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA",
   "data": "2026-09-02",
   "duracao": "2:35:15",
@@ -15,78 +15,337 @@
     "Monte um modelo por nicho: se o cliente não aprovar, troque a logo e ofereça para outra empresa do mesmo ramo."
   ],
   "linha_do_tempo": [
-    { "t": "00:01:13", "texto": "Plano do dia: fazer os últimos ajustes, colocar o site no ar e falar com o cliente." },
-    { "t": "00:03:24", "texto": "Decide não refinar demais, porque ainda nem sabe se o cliente vai fechar." },
-    { "t": "00:07:43", "texto": "Corrige um dado inventado pela IA: o site dizia mais de 500 avaliações, e a empresa tinha 15." },
-    { "t": "00:09:53", "texto": "Descobre que a lentidão vem de ter pedido o site em PHP." },
-    { "t": "00:13:48", "texto": "Mostra o setup: VS Code com Gemini, Nexar Hunter para prospectar e ChatGPT para organizar os prompts." },
-    { "t": "00:30:15", "texto": "Faz a conta da meta: quatro sites de R$ 497 já passam do salário mínimo." },
-    { "t": "00:36:37", "texto": "Pesquisa dentistas e clínicas como possíveis próximos clientes." },
-    { "t": "00:51:43", "texto": "Mostra o script de abordagem pelo WhatsApp." },
-    { "t": "00:58:20", "texto": "Responde se já vendeu sites nesse formato e por que não usa o portfólio." },
-    { "t": "01:04:29", "texto": "Aconselha quem está começando a vender sites com IA para fazer caixa e portfólio." },
-    { "t": "01:09:36", "texto": "Pergunta ao ChatGPT qual setor é mais propício para vender um site de R$ 497." },
-    { "t": "01:15:59", "texto": "Encontra a Mais Clima, com site quebrado, e decide focar em climatização." },
-    { "t": "01:48:58", "texto": "Pede ao ChatGPT os prompts completos para o site da Ijuí Clima." },
-    { "t": "02:23:17", "texto": "Depois de várias tentativas, o site da lavanderia finalmente entra no ar." },
-    { "t": "02:28:27", "texto": "Faz a abordagem. A cliente topa ver o modelo e combina de conversar no dia seguinte." }
+    {
+      "t": "00:01:13",
+      "texto": "Plano do dia: fazer os últimos ajustes, colocar o site no ar e falar com o cliente."
+    },
+    {
+      "t": "00:03:24",
+      "texto": "Decide não refinar demais, porque ainda nem sabe se o cliente vai fechar."
+    },
+    {
+      "t": "00:07:43",
+      "texto": "Corrige um dado inventado pela IA: o site dizia mais de 500 avaliações, e a empresa tinha 15."
+    },
+    {
+      "t": "00:09:53",
+      "texto": "Descobre que a lentidão vem de ter pedido o site em PHP."
+    },
+    {
+      "t": "00:13:48",
+      "texto": "Mostra o setup: VS Code com Gemini, Nexar Hunter para prospectar e ChatGPT para organizar os prompts."
+    },
+    {
+      "t": "00:30:15",
+      "texto": "Faz a conta da meta: quatro sites de R$ 497 já passam do salário mínimo."
+    },
+    {
+      "t": "00:36:37",
+      "texto": "Pesquisa dentistas e clínicas como possíveis próximos clientes."
+    },
+    {
+      "t": "00:51:43",
+      "texto": "Mostra o script de abordagem pelo WhatsApp."
+    },
+    {
+      "t": "00:58:20",
+      "texto": "Responde se já vendeu sites nesse formato e por que não usa o portfólio."
+    },
+    {
+      "t": "01:04:29",
+      "texto": "Aconselha quem está começando a vender sites com IA para fazer caixa e portfólio."
+    },
+    {
+      "t": "01:09:36",
+      "texto": "Pergunta ao ChatGPT qual setor é mais propício para vender um site de R$ 497."
+    },
+    {
+      "t": "01:15:59",
+      "texto": "Encontra a Mais Clima, com site quebrado, e decide focar em climatização."
+    },
+    {
+      "t": "01:48:58",
+      "texto": "Pede ao ChatGPT os prompts completos para o site da Ijuí Clima."
+    },
+    {
+      "t": "02:23:17",
+      "texto": "Depois de várias tentativas, o site da lavanderia finalmente entra no ar."
+    },
+    {
+      "t": "02:28:27",
+      "texto": "Faz a abordagem. A cliente topa ver o modelo e combina de conversar no dia seguinte."
+    }
   ],
   "dicas": [
-    { "momento": "mentalidade", "t": "00:30:15", "titulo": "Quebre a meta em vendas", "texto": "A meta é bater o salário mínimo em até trinta dias. Com o site a R$ 497, quatro vendas já passam do objetivo." },
-    { "momento": "mentalidade", "t": "01:05:31", "titulo": "Para quem está começando", "texto": "Ele recomenda começar vendendo sites com IA: é rápido, acessível e serve para levantar caixa e montar portfólio. Depois você expande para a área que mais curte." },
-    { "momento": "mentalidade", "t": "01:02:26", "titulo": "A IA encurtou o trabalho", "texto": "Um site como o da agência levaria no mínimo uns 30 dias programando do jeito antigo. Com a IA, sai muito mais rápido." },
-    { "momento": "prospeccao", "t": "01:09:36", "titulo": "Peça ideias de nicho para a IA", "texto": "Ele perguntou ao ChatGPT qual setor é mais propício para vender um site de R$ 497. Vieram prestadores de serviço, profissionais liberais como psicólogo e nutricionista, corretor de imóveis e serviços de urgência como eletricista e chaveiro." },
-    { "momento": "prospeccao", "t": "01:19:11", "titulo": "Pense na época do ano", "texto": "Ele escolheu instaladores de ar condicionado porque o verão está chegando, e a demanda deles vai subir." },
-    { "momento": "prospeccao", "t": "01:13:52", "titulo": "Prefira quem tem Instagram", "texto": "Na hora de escolher, ele prioriza empresas com Instagram, que mostra que o negócio está ativo e dá material para o site." },
-    { "momento": "prospeccao", "t": "01:10:38", "titulo": "Contato direto sai mais barato", "texto": "O Nexar Hunter filtra por cidade e categoria e traz os dados do Google Meu Negócio para abordar no contato direto, que sai muito mais barato que tráfego pago." },
-    { "momento": "analise", "t": "01:14:55", "titulo": "Site quebrado é oportunidade", "texto": "A Mais Clima tinha um site fora do ar. É um cliente que já reconhece o valor da internet." },
-    { "momento": "analise", "t": "00:41:55", "titulo": "Veja se a clínica é independente", "texto": "Ao pesquisar dentistas, ele descartou uma clínica que era parte de uma rede. Redes costumam ter site da marca." },
-    { "momento": "criacao", "t": "00:13:48", "titulo": "O setup completo", "texto": "VS Code com o Gemini para construir, o Nexar Hunter para prospectar e o ChatGPT para organizar os prompts." },
-    { "momento": "criacao", "t": "00:27:13", "titulo": "Deixe a IA usar a linguagem padrão", "texto": "Pedir o site em PHP deixou a IA muito lenta. Na linguagem padrão, o mesmo ajuste levaria menos de trinta segundos." },
-    { "momento": "criacao", "t": "00:16:00", "titulo": "Publique de graça com GitHub e Vercel", "texto": "Sincronize os arquivos com o GitHub e conecte na Vercel. O site entra no ar na hora, sem custo." },
-    { "momento": "criacao", "t": "00:07:43", "titulo": "Confira os dados que a IA inventa", "texto": "O site dizia que a empresa tinha mais de 500 avaliações, mas eram 15. Revise números e fatos antes de mandar." },
-    { "momento": "criacao", "t": "00:04:25", "titulo": "Peça ideias pontuais de layout", "texto": "Em vez de refazer a página, ele mostra um único elemento ruim e pergunta como melhorar visualmente, corrigindo só aquela seção." },
-    { "momento": "criacao", "t": "01:50:00", "titulo": "Peça os prompts em etapas", "texto": "O ChatGPT propôs não pedir o site inteiro em um único comando, e sim construir em etapas com uma direção visual rígida." },
-    { "momento": "criacao", "t": "01:03:27", "titulo": "Troque de conta quando o limite acabar", "texto": "O Gemini tem um limite a cada cinco horas. Ele desconecta a conta e conecta outra que está com o limite cheio." },
-    { "momento": "whatsapp", "t": "00:57:02", "titulo": "A abordagem é o essencial", "texto": "Ter uma abordagem bem estruturada faz toda a diferença para fechar ou não." },
-    { "momento": "whatsapp", "t": "00:52:45", "titulo": "Mande o link só depois do sim", "texto": "Primeiro ele pergunta se pode enviar a demonstração. O link vai na segunda mensagem, quando o cliente topa." },
-    { "momento": "whatsapp", "t": "00:57:02", "titulo": "Tenha um follow-up pronto", "texto": "O roteiro já inclui uma mensagem de acompanhamento para mandar alguns dias depois, se o cliente não responder." },
-    { "momento": "whatsapp", "t": "01:15:59", "titulo": "Um modelo, vários clientes do mesmo nicho", "texto": "Faça o modelo e aborde o cliente. Se ele não aprovar, troque a logo e ofereça para outra empresa do mesmo ramo, até acertar." },
-    { "momento": "preco", "t": "00:57:02", "titulo": "R$ 497 por um mini site", "texto": "É um preço bem acessível. Na prática é um mini site de uma página, mas bem estruturado." },
-    { "momento": "erros", "t": "00:03:24", "titulo": "Não refine antes de saber se fecha", "texto": "Ele deixou detalhes como ícones e a coroa da logo para depois, porque ainda não sabia se o cliente ia fechar." },
-    { "momento": "erros", "t": "01:40:00", "titulo": "O erro do PHP custou horas", "texto": "O problema foi criado por ele mesmo ao pedir PHP. Com a linguagem padrão, publicar no GitHub e na Vercel leva dois cliques." },
-    { "momento": "erros", "t": "02:13:31", "titulo": "Às vezes refazer é mais rápido", "texto": "Depois de muitas tentativas de corrigir a publicação, ele considerou refazer o site do zero, que seria mais rápido que consertar." }
+    {
+      "momento": "mentalidade",
+      "t": "00:30:15",
+      "titulo": "Quebre a meta em vendas",
+      "texto": "A meta é bater o salário mínimo em até trinta dias. Com o site a R$ 497, quatro vendas já passam do objetivo."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:05:31",
+      "titulo": "Para quem está começando",
+      "texto": "Ele recomenda começar vendendo sites com IA: é rápido, acessível e serve para levantar caixa e montar portfólio. Depois você expande para a área que mais curte."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:02:26",
+      "titulo": "A IA encurtou o trabalho",
+      "texto": "Um site como o da agência levaria no mínimo uns 30 dias programando do jeito antigo. Com a IA, sai muito mais rápido."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:09:36",
+      "titulo": "Peça ideias de nicho para a IA",
+      "texto": "Ele perguntou ao ChatGPT qual setor é mais propício para vender um site de R$ 497. Vieram prestadores de serviço, profissionais liberais como psicólogo e nutricionista, corretor de imóveis e serviços de urgência como eletricista e chaveiro."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:19:11",
+      "titulo": "Pense na época do ano",
+      "texto": "Ele escolheu instaladores de ar condicionado porque o verão está chegando, e a demanda deles vai subir."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:13:52",
+      "titulo": "Prefira quem tem Instagram",
+      "texto": "Na hora de escolher, ele prioriza empresas com Instagram, que mostra que o negócio está ativo e dá material para o site."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:10:38",
+      "titulo": "Contato direto sai mais barato",
+      "texto": "O Nexar Hunter filtra por cidade e categoria e traz os dados do Google Meu Negócio para abordar no contato direto, que sai muito mais barato que tráfego pago."
+    },
+    {
+      "momento": "analise",
+      "t": "01:14:55",
+      "titulo": "Site quebrado é oportunidade",
+      "texto": "A Mais Clima tinha um site fora do ar. É um cliente que já reconhece o valor da internet."
+    },
+    {
+      "momento": "analise",
+      "t": "00:41:55",
+      "titulo": "Veja se a clínica é independente",
+      "texto": "Ao pesquisar dentistas, ele descartou uma clínica que era parte de uma rede. Redes costumam ter site da marca."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:13:48",
+      "titulo": "O setup completo",
+      "texto": "VS Code com o Gemini para construir, o Nexar Hunter para prospectar e o ChatGPT para organizar os prompts."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:27:13",
+      "titulo": "Deixe a IA usar a linguagem padrão",
+      "texto": "Pedir o site em PHP deixou a IA muito lenta. Na linguagem padrão, o mesmo ajuste levaria menos de trinta segundos."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:16:00",
+      "titulo": "Publique de graça com GitHub e Vercel",
+      "texto": "Sincronize os arquivos com o GitHub e conecte na Vercel. O site entra no ar na hora, sem custo."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:07:43",
+      "titulo": "Confira os dados que a IA inventa",
+      "texto": "O site dizia que a empresa tinha mais de 500 avaliações, mas eram 15. Revise números e fatos antes de mandar."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:04:25",
+      "titulo": "Peça ideias pontuais de layout",
+      "texto": "Em vez de refazer a página, ele mostra um único elemento ruim e pergunta como melhorar visualmente, corrigindo só aquela seção."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:50:00",
+      "titulo": "Peça os prompts em etapas",
+      "texto": "O ChatGPT propôs não pedir o site inteiro em um único comando, e sim construir em etapas com uma direção visual rígida."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:03:27",
+      "titulo": "Troque de conta quando o limite acabar",
+      "texto": "O Gemini tem um limite a cada cinco horas. Ele desconecta a conta e conecta outra que está com o limite cheio."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:57:02",
+      "titulo": "A abordagem é o essencial",
+      "texto": "Ter uma abordagem bem estruturada faz toda a diferença para fechar ou não."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:52:45",
+      "titulo": "Mande o link só depois do sim",
+      "texto": "Primeiro ele pergunta se pode enviar a demonstração. O link vai na segunda mensagem, quando o cliente topa."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:57:02",
+      "titulo": "Tenha um follow-up pronto",
+      "texto": "O roteiro já inclui uma mensagem de acompanhamento para mandar alguns dias depois, se o cliente não responder."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "01:15:59",
+      "titulo": "Um modelo, vários clientes do mesmo nicho",
+      "texto": "Faça o modelo e aborde o cliente. Se ele não aprovar, troque a logo e ofereça para outra empresa do mesmo ramo, até acertar."
+    },
+    {
+      "momento": "preco",
+      "t": "00:57:02",
+      "titulo": "R$ 497 por um mini site",
+      "texto": "É um preço bem acessível. Na prática é um mini site de uma página, mas bem estruturado."
+    },
+    {
+      "momento": "erros",
+      "t": "00:03:24",
+      "titulo": "Não refine antes de saber se fecha",
+      "texto": "Ele deixou detalhes como ícones e a coroa da logo para depois, porque ainda não sabia se o cliente ia fechar."
+    },
+    {
+      "momento": "erros",
+      "t": "01:40:00",
+      "titulo": "O erro do PHP custou horas",
+      "texto": "O problema foi criado por ele mesmo ao pedir PHP. Com a linguagem padrão, publicar no GitHub e na Vercel leva dois cliques."
+    },
+    {
+      "momento": "erros",
+      "t": "02:13:31",
+      "titulo": "Às vezes refazer é mais rápido",
+      "texto": "Depois de muitas tentativas de corrigir a publicação, ele considerou refazer o site do zero, que seria mais rápido que consertar."
+    }
   ],
   "scripts": [
-    { "tipo": "whatsapp", "t": "00:51:43", "titulo": "Primeira mensagem para o cliente", "texto": "Olá, tudo bem? Falo com o responsável pela Lavanderia Lords? Meu nome é Júnior, trabalho com a criação de sites para empresas. Encontrei vocês enquanto pesquisava negócios na região, gostei bastante da empresa e percebi uma oportunidade de melhorar a presença de vocês na internet. Inclusive, acabei montando uma demonstração de como poderia ficar um site da Lavanderia Lords. Ficou bem legal. Posso enviar para você dar uma olhada, sem compromisso?" },
-    { "tipo": "whatsapp", "t": "00:52:45", "titulo": "Envio do link depois que o cliente aceita", "texto": "[link do site] Fiz principalmente pensando em deixar a empresa mais profissional no digital, facilitar o contato pelo WhatsApp e apresentar melhor os produtos e serviços da Lords. Dá uma olhada, principalmente pelo celular também. Depois me fala o que achou." },
-    { "tipo": "prompt", "t": "00:04:25", "titulo": "Pedir ideia para um elemento mal posicionado", "texto": "Este card azul que está em cima do mapa está mal posicionado. Alguma ideia de como melhorar visualmente?" },
-    { "tipo": "prompt", "t": "01:48:58", "titulo": "Pedir ao ChatGPT os prompts de um site novo", "texto": "Eu quero criar o prompt completo para fazer um website para uma empresa de instalação de ar condicionado. O nome é Ijuí Clima. O logo eu vou fornecer posteriormente. Vou produzir usando o Gemini junto com o VS Code, então quero que você me dê o prompt completo, pode ser separado por etapas. Preciso que tenha um design profissional, sem cara de IA, como se fosse uma agência de marketing digital sênior, com profissionais de design e de programação. Preciso de um projeto extremamente minimalista, detalhista e de alto padrão." },
-    { "tipo": "prompt", "t": "01:09:36", "titulo": "Pedir sugestão de nicho", "texto": "Qual setor de empresas é mais propício para eu fechar a venda de um website de R$ 497?" }
+    {
+      "tipo": "whatsapp",
+      "t": "00:51:43",
+      "titulo": "Primeira mensagem para o cliente",
+      "texto": "Olá, tudo bem? Falo com o responsável pela Lavanderia Lords? Meu nome é Júnior, trabalho com a criação de sites para empresas. Encontrei vocês enquanto pesquisava negócios na região, gostei bastante da empresa e percebi uma oportunidade de melhorar a presença de vocês na internet. Inclusive, acabei montando uma demonstração de como poderia ficar um site da Lavanderia Lords. Ficou bem legal. Posso enviar para você dar uma olhada, sem compromisso?"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "00:52:45",
+      "titulo": "Envio do link depois que o cliente aceita",
+      "texto": "[link do site] Fiz principalmente pensando em deixar a empresa mais profissional no digital, facilitar o contato pelo WhatsApp e apresentar melhor os produtos e serviços da Lords. Dá uma olhada, principalmente pelo celular também. Depois me fala o que achou."
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:04:25",
+      "titulo": "Pedir ideia para um elemento mal posicionado",
+      "texto": "Este card azul que está em cima do mapa está mal posicionado. Alguma ideia de como melhorar visualmente?"
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:48:58",
+      "titulo": "Pedir ao ChatGPT os prompts de um site novo",
+      "texto": "Eu quero criar o prompt completo para fazer um website para uma empresa de instalação de ar condicionado. O nome é Ijuí Clima. O logo eu vou fornecer posteriormente. Vou produzir usando o Gemini junto com o VS Code, então quero que você me dê o prompt completo, pode ser separado por etapas. Preciso que tenha um design profissional, sem cara de IA, como se fosse uma agência de marketing digital sênior, com profissionais de design e de programação. Preciso de um projeto extremamente minimalista, detalhista e de alto padrão."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:09:36",
+      "titulo": "Pedir sugestão de nicho",
+      "texto": "Qual setor de empresas é mais propício para eu fechar a venda de um website de R$ 497?"
+    }
   ],
   "duvidas": [
-    { "autor": "Renato", "pergunta": "Tem como você me mandar esse script?", "resposta": "Tem sim. Ele enviou o script de abordagem na hora.", "t": "00:54:48" },
-    { "autor": "Renato", "pergunta": "Quanto você cobra pelo site?", "resposta": "R$ 497. É bem acessível, porque na prática é um mini site, mas bem estruturado.", "t": "00:57:02" },
-    { "autor": null, "pergunta": "Você já vendeu algum site nesse formato?", "resposta": "Sim, inclusive muito mais caros. Aqui ele não usa o portfólio da agência, por isso faz a prévia para o cliente: é o desafio de agir como alguém que está começando.", "t": "00:58:20" },
-    { "autor": "Renato", "pergunta": "Para quem está começando como eu, qual negócio você recomenda?", "resposta": "Começar fazendo exatamente isso, sites com IA, porque está em alta, é rápido e acessível. Serve para levantar caixa e portfólio, e depois dá para expandir para a área que você mais curte.", "t": "01:04:29" },
-    { "autor": null, "pergunta": "Qual IA você usa? O Claude vale a pena?", "resposta": "Ele usa o Gemini direto. Acha o Claude sensacional, mas caro demais para quem está começando.", "t": "01:06:33" },
-    { "autor": null, "pergunta": "Para escolher o cliente, qual plataforma você usa?", "resposta": "O Nexar Hunter, ferramenta da própria agência. Ela filtra por cidade e categoria e traz os dados do Google Meu Negócio para abordar no contato direto, que é muito mais barato que tráfego pago.", "t": "01:09:36" }
+    {
+      "autor": "Renato",
+      "pergunta": "Tem como você me mandar esse script?",
+      "resposta": "Tem sim. Ele enviou o script de abordagem na hora.",
+      "t": "00:54:48"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Quanto você cobra pelo site?",
+      "resposta": "R$ 497. É bem acessível, porque na prática é um mini site, mas bem estruturado.",
+      "t": "00:57:02"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você já vendeu algum site nesse formato?",
+      "resposta": "Sim, inclusive muito mais caros. Aqui ele não usa o portfólio da agência, por isso faz a prévia para o cliente: é o desafio de agir como alguém que está começando.",
+      "t": "00:58:20"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Para quem está começando como eu, qual negócio você recomenda?",
+      "resposta": "Começar fazendo exatamente isso, sites com IA, porque está em alta, é rápido e acessível. Serve para levantar caixa e portfólio, e depois dá para expandir para a área que você mais curte.",
+      "t": "01:04:29"
+    },
+    {
+      "autor": null,
+      "pergunta": "Qual IA você usa? O Claude vale a pena?",
+      "resposta": "Ele usa o Gemini direto. Acha o Claude sensacional, mas caro demais para quem está começando.",
+      "t": "01:06:33"
+    },
+    {
+      "autor": null,
+      "pergunta": "Para escolher o cliente, qual plataforma você usa?",
+      "resposta": "O Nexar Hunter, ferramenta da própria agência. Ela filtra por cidade e categoria e traz os dados do Google Meu Negócio para abordar no contato direto, que é muito mais barato que tráfego pago.",
+      "t": "01:09:36"
+    }
   ],
   "ferramentas": [
-    { "nome": "VS Code", "uso": "Editor onde o site é construído." },
-    { "nome": "Gemini", "uso": "IA que programa o site dentro do VS Code." },
-    { "nome": "ChatGPT", "uso": "Organizar os prompts e sugerir nichos." },
-    { "nome": "Nexar Hunter", "uso": "Prospectar empresas por cidade e categoria." },
-    { "nome": "GitHub", "uso": "Guardar os arquivos do site." },
-    { "nome": "Vercel", "uso": "Publicar o site de graça a partir do GitHub." },
-    { "nome": "WhatsApp", "uso": "Abordar o cliente com o script." }
+    {
+      "nome": "VS Code",
+      "uso": "Editor onde o site é construído."
+    },
+    {
+      "nome": "Gemini",
+      "uso": "IA que programa o site dentro do VS Code."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Organizar os prompts e sugerir nichos."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospectar empresas por cidade e categoria."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Guardar os arquivos do site."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Publicar o site de graça a partir do GitHub."
+    },
+    {
+      "nome": "WhatsApp",
+      "uso": "Abordar o cliente com o script."
+    }
   ],
   "frases": [
-    { "t": "00:03:24", "texto": "A gente não vai refinar muito, até porque a gente nem sabe se o cliente vai fechar." },
-    { "t": "00:27:13", "texto": "Foi erro meu mesmo. Pedi uma coisa que não era pra pedir." },
-    { "t": "00:57:02", "texto": "A abordagem é que faz toda a diferença pra você fechar ou não." },
-    { "t": "01:03:27", "texto": "Eu comecei em dois mil e doze. Agora está muito fácil de empreender." },
-    { "t": "01:17:04", "texto": "Faço o modelo, abordo o cliente. Se aprovar, fecha. Se não aprovar, troca a logo e vai pra outro." },
-    { "t": "01:40:00", "texto": "São os perrenguezinhos que podem acontecer." }
+    {
+      "t": "00:03:24",
+      "texto": "A gente não vai refinar muito, até porque a gente nem sabe se o cliente vai fechar."
+    },
+    {
+      "t": "00:27:13",
+      "texto": "Foi erro meu mesmo. Pedi uma coisa que não era pra pedir."
+    },
+    {
+      "t": "00:57:02",
+      "texto": "A abordagem é que faz toda a diferença pra você fechar ou não."
+    },
+    {
+      "t": "01:03:27",
+      "texto": "Eu comecei em dois mil e doze. Agora está muito fácil de empreender."
+    },
+    {
+      "t": "01:17:04",
+      "texto": "Faço o modelo, abordo o cliente. Se aprovar, fecha. Se não aprovar, troca a logo e vai pra outro."
+    },
+    {
+      "t": "01:40:00",
+      "texto": "São os perrenguezinhos que podem acontecer."
+    }
   ]
 }

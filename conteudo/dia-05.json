@@ -1,7 +1,7 @@
 {
   "dia": 5,
   "slug": "dia-05",
-  "srt": "../../srt/extract_dia 5.srt",
+  "srt": "srt/dia-05.srt",
   "titulo": "Dia 5 | Vibe Coding: R$994 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
   "data": "2026-09-05",
   "duracao": "2:45:15",
@@ -15,88 +15,391 @@
     "Nunca despeje a ideia direto na IA. Monte os prompts com o ChatGPT e leve referências do Pinterest para fugir da cara de IA."
   ],
   "linha_do_tempo": [
-    { "t": "00:03:42", "texto": "Anuncia as duas vendas da semana: a Lavanderia Lords e a Ijuí Clima." },
-    { "t": "00:05:43", "texto": "Mostra o saldo na conta, já com as taxas do parcelamento no cartão descontadas." },
-    { "t": "00:08:04", "texto": "Mostra a conversa: a dona da lavanderia autorizou, pagou o site e o domínio." },
-    { "t": "00:09:04", "texto": "Logo depois chama o dono da Ijuí Clima, que também fecha." },
-    { "t": "00:19:27", "texto": "Explica por que aborda com a demonstração pronta em vez do portfólio da agência." },
-    { "t": "00:20:28", "texto": "Revela o segredo: mensalidade de R$ 49,90 por cliente." },
-    { "t": "00:28:55", "texto": "Usa o Gemini para melhorar a foto da fachada que o cliente enviou." },
-    { "t": "00:42:58", "texto": "Gera novas imagens para cada serviço da empresa, com a identidade da marca." },
-    { "t": "00:52:07", "texto": "Mostra o investimento do mês e quanto já faturou." },
-    { "t": "00:57:38", "texto": "Explica a cobrança do domínio e da mensalidade e os limites gratuitos da Vercel." },
-    { "t": "01:03:56", "texto": "Responde como fazer um site bonito: nunca escrever direto na IA e buscar referências no Pinterest." },
-    { "t": "01:25:57", "texto": "Diz que um site assim permitiria cobrar bem mais caro." },
-    { "t": "01:52:48", "texto": "Busca referências no Pinterest para refazer a primeira dobra." },
-    { "t": "02:08:09", "texto": "Conecta o domínio próprio do cliente na Vercel e troca os servidores de DNS na Hostinger." },
-    { "t": "02:11:15", "texto": "O domínio já está no ar com certificado de segurança." },
-    { "t": "02:44:48", "texto": "Encerra: segunda-feira termina os dois sites para entregar na terça." }
+    {
+      "t": "00:03:42",
+      "texto": "Anuncia as duas vendas da semana: a Lavanderia Lords e a Ijuí Clima."
+    },
+    {
+      "t": "00:05:43",
+      "texto": "Mostra o saldo na conta, já com as taxas do parcelamento no cartão descontadas."
+    },
+    {
+      "t": "00:08:04",
+      "texto": "Mostra a conversa: a dona da lavanderia autorizou, pagou o site e o domínio."
+    },
+    {
+      "t": "00:09:04",
+      "texto": "Logo depois chama o dono da Ijuí Clima, que também fecha."
+    },
+    {
+      "t": "00:19:27",
+      "texto": "Explica por que aborda com a demonstração pronta em vez do portfólio da agência."
+    },
+    {
+      "t": "00:20:28",
+      "texto": "Revela o segredo: mensalidade de R$ 49,90 por cliente."
+    },
+    {
+      "t": "00:28:55",
+      "texto": "Usa o Gemini para melhorar a foto da fachada que o cliente enviou."
+    },
+    {
+      "t": "00:42:58",
+      "texto": "Gera novas imagens para cada serviço da empresa, com a identidade da marca."
+    },
+    {
+      "t": "00:52:07",
+      "texto": "Mostra o investimento do mês e quanto já faturou."
+    },
+    {
+      "t": "00:57:38",
+      "texto": "Explica a cobrança do domínio e da mensalidade e os limites gratuitos da Vercel."
+    },
+    {
+      "t": "01:03:56",
+      "texto": "Responde como fazer um site bonito: nunca escrever direto na IA e buscar referências no Pinterest."
+    },
+    {
+      "t": "01:25:57",
+      "texto": "Diz que um site assim permitiria cobrar bem mais caro."
+    },
+    {
+      "t": "01:52:48",
+      "texto": "Busca referências no Pinterest para refazer a primeira dobra."
+    },
+    {
+      "t": "02:08:09",
+      "texto": "Conecta o domínio próprio do cliente na Vercel e troca os servidores de DNS na Hostinger."
+    },
+    {
+      "t": "02:11:15",
+      "texto": "O domínio já está no ar com certificado de segurança."
+    },
+    {
+      "t": "02:44:48",
+      "texto": "Encerra: segunda-feira termina os dois sites para entregar na terça."
+    }
   ],
   "dicas": [
-    { "momento": "mentalidade", "t": "00:54:08", "titulo": "Poucas horas por dia", "texto": "Uma semana trabalhando das três às cinco ou seis da tarde bastou para fechar duas vendas." },
-    { "momento": "mentalidade", "t": "01:02:53", "titulo": "Foram umas quinze horas de trabalho", "texto": "Somando três a quatro horas por dia na semana, o trabalho equivale a um dia e meio de expediente." },
-    { "momento": "mentalidade", "t": "01:01:48", "titulo": "Escolha algo que você gosta de fazer", "texto": "No início você bate cabeça com prompt, mas com o tempo pega o jeito e vai embora." },
-    { "momento": "mentalidade", "t": "00:37:49", "titulo": "Quem faz o trabalho é o prompt", "texto": "Prompt errado gera resultado ruim. O segredo da IA é quem está comandando." },
-    { "momento": "prospeccao", "t": "00:47:02", "titulo": "O caminho que fechou as duas vendas", "texto": "Buscar no Nexar Hunter, coletar Instagram e dados das empresas, produzir o modelo do site, rodar o script de abordagem e enviar o link do protótipo no ar." },
-    { "momento": "analise", "t": "01:09:03", "titulo": "Cliente com identidade forte é mais fácil", "texto": "Empresas com bastante conteúdo e até mascote definido dão menos trabalho. Quando o conteúdo é fraco, é preciso gerar muitas imagens." },
-    { "momento": "criacao", "t": "01:03:56", "titulo": "Nunca escreva direto na IA", "texto": "O principal erro é ter a ideia e despejar tudo na ferramenta. Ela faz o padrão dela, que é igual para todo mundo, e o site sai com cara de IA." },
-    { "momento": "criacao", "t": "01:04:57", "titulo": "Monte os prompts com o ChatGPT", "texto": "Explique que quer um site fora do padrão de IA, com identidade própria focada na marca, mande a logo e peça uma sequência de prompts para executar o projeto." },
-    { "momento": "criacao", "t": "01:06:00", "titulo": "Busque referências no Pinterest", "texto": "Pesquise landing page mais o nicho, como climatização ou lavanderia. Mande as referências para o ChatGPT montar a estrutura." },
-    { "momento": "criacao", "t": "00:28:55", "titulo": "Melhore as fotos reais com IA", "texto": "O cliente mandou fotos da fachada. Ele pediu ao Gemini uma versão de qualidade, sem alterar a identidade real do local." },
-    { "momento": "criacao", "t": "00:42:58", "titulo": "Uma imagem por serviço", "texto": "Para cada serviço, ele pede uma imagem nova com a identidade da marca, saindo das fotos genéricas, como se fosse real." },
-    { "momento": "criacao", "t": "01:08:02", "titulo": "Cada dobra com sua imagem", "texto": "A imagem de uma dobra não pode ser parecida com a da anterior. Cada seção precisa ter a sua identidade." },
-    { "momento": "criacao", "t": "01:16:02", "titulo": "Imagens que geram conexão", "texto": "Uma família no ambiente climatizado cria mais conexão do que mostrar só a empresa." },
-    { "momento": "criacao", "t": "02:25:27", "titulo": "Layout grande vai num prompt só", "texto": "Para refazer um layout inteiro, ele mandou as onze etapas juntas, para a IA não se perder." },
-    { "momento": "criacao", "t": "02:02:07", "titulo": "Dá para desfazer", "texto": "Se a alteração não ficar boa, dá para voltar ao ponto anterior no editor." },
-    { "momento": "criacao", "t": "01:33:16", "titulo": "Use modelo mais leve para tarefa simples", "texto": "Para tarefas simples, ele troca para um modelo mais leve e gasta menos limite." },
-    { "momento": "criacao", "t": "00:59:44", "titulo": "Os limites gratuitos vão longe", "texto": "O plano gratuito da Vercel tem 100 GB de transferência por mês. Quando lotar, dá para criar outra conta e colocar os clientes novos nela." },
-    { "momento": "criacao", "t": "00:59:44", "titulo": "Tire as fotos que não usa", "texto": "O repositório chegou a cerca de 200 MB por causa das fotos. Peça à IA para limpar o que não está sendo usado." },
-    { "momento": "preco", "t": "00:20:28", "titulo": "A mensalidade é o segredo", "texto": "Cada cliente paga R$ 49,90 por mês. Com cinquenta clientes, são cerca de R$ 2.500 por mês de receita recorrente. Se parar de pagar, o site sai do ar." },
-    { "momento": "preco", "t": "00:57:38", "titulo": "Chame de manutenção, não de hospedagem", "texto": "Ele não cobra como hospedagem, e sim como manutenção mensal de R$ 49,90. O domínio o cliente paga uma vez por ano." },
-    { "momento": "preco", "t": "00:22:38", "titulo": "Você define o seu preço", "texto": "Ele cobraria mais, mas escolheu um ticket baixo por causa da meta do salário mínimo." },
-    { "momento": "preco", "t": "01:25:57", "titulo": "Dá para subir o ticket", "texto": "Um site desse nível permitiria cobrar R$ 797, R$ 897 ou mais." },
-    { "momento": "preco", "t": "00:52:07", "titulo": "Custo baixo para começar", "texto": "O investimento é o Nexar Hunter no plano inicial, de R$ 79, mais a assinatura do Gemini." },
-    { "momento": "fechamento", "t": "00:46:02", "titulo": "Parcelamento tem taxa", "texto": "Um cliente parcelou em dez vezes e outro em três. O valor que cai na conta vem com o desconto da taxa." },
-    { "momento": "fechamento", "t": "00:08:04", "titulo": "Feche site e domínio juntos", "texto": "Assim que a cliente aprovou, pagou o site e o domínio, e ele já registrou o domínio." },
-    { "momento": "fechamento", "t": "02:08:09", "titulo": "Domínio próprio em poucos minutos", "texto": "Na Vercel, adicione o domínio já existente. Depois troque os servidores de DNS no registrador. Pode levar até 48 horas, mas costuma ser minutos, e o certificado de segurança é gerado sozinho." },
-    { "momento": "fechamento", "t": "02:09:09", "titulo": "Remova o endereço provisório", "texto": "Depois que o domínio conecta, dá para apagar o endereço da Vercel e ficar só com o ponto com ponto br." },
-    { "momento": "fechamento", "t": "00:48:03", "titulo": "O cliente pede ajuste de conteúdo", "texto": "Nenhum dos dois pediu mudança na estrutura, só no conteúdo. A lavanderia pediu para reforçar uma licença exclusiva que tem para atender clínicas." },
-    { "momento": "erros", "t": "01:13:38", "titulo": "Otimize a produção", "texto": "O site da lavanderia demorou por ter sido feito em PHP. Ele pensa em criar um prompt padrão onde só troca o nome da empresa." }
+    {
+      "momento": "mentalidade",
+      "t": "00:54:08",
+      "titulo": "Poucas horas por dia",
+      "texto": "Uma semana trabalhando das três às cinco ou seis da tarde bastou para fechar duas vendas."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:02:53",
+      "titulo": "Foram umas quinze horas de trabalho",
+      "texto": "Somando três a quatro horas por dia na semana, o trabalho equivale a um dia e meio de expediente."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:01:48",
+      "titulo": "Escolha algo que você gosta de fazer",
+      "texto": "No início você bate cabeça com prompt, mas com o tempo pega o jeito e vai embora."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:37:49",
+      "titulo": "Quem faz o trabalho é o prompt",
+      "texto": "Prompt errado gera resultado ruim. O segredo da IA é quem está comandando."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:47:02",
+      "titulo": "O caminho que fechou as duas vendas",
+      "texto": "Buscar no Nexar Hunter, coletar Instagram e dados das empresas, produzir o modelo do site, rodar o script de abordagem e enviar o link do protótipo no ar."
+    },
+    {
+      "momento": "analise",
+      "t": "01:09:03",
+      "titulo": "Cliente com identidade forte é mais fácil",
+      "texto": "Empresas com bastante conteúdo e até mascote definido dão menos trabalho. Quando o conteúdo é fraco, é preciso gerar muitas imagens."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:03:56",
+      "titulo": "Nunca escreva direto na IA",
+      "texto": "O principal erro é ter a ideia e despejar tudo na ferramenta. Ela faz o padrão dela, que é igual para todo mundo, e o site sai com cara de IA."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:04:57",
+      "titulo": "Monte os prompts com o ChatGPT",
+      "texto": "Explique que quer um site fora do padrão de IA, com identidade própria focada na marca, mande a logo e peça uma sequência de prompts para executar o projeto."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:06:00",
+      "titulo": "Busque referências no Pinterest",
+      "texto": "Pesquise landing page mais o nicho, como climatização ou lavanderia. Mande as referências para o ChatGPT montar a estrutura."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:28:55",
+      "titulo": "Melhore as fotos reais com IA",
+      "texto": "O cliente mandou fotos da fachada. Ele pediu ao Gemini uma versão de qualidade, sem alterar a identidade real do local."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:42:58",
+      "titulo": "Uma imagem por serviço",
+      "texto": "Para cada serviço, ele pede uma imagem nova com a identidade da marca, saindo das fotos genéricas, como se fosse real."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:08:02",
+      "titulo": "Cada dobra com sua imagem",
+      "texto": "A imagem de uma dobra não pode ser parecida com a da anterior. Cada seção precisa ter a sua identidade."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:16:02",
+      "titulo": "Imagens que geram conexão",
+      "texto": "Uma família no ambiente climatizado cria mais conexão do que mostrar só a empresa."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:25:27",
+      "titulo": "Layout grande vai num prompt só",
+      "texto": "Para refazer um layout inteiro, ele mandou as onze etapas juntas, para a IA não se perder."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:02:07",
+      "titulo": "Dá para desfazer",
+      "texto": "Se a alteração não ficar boa, dá para voltar ao ponto anterior no editor."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:33:16",
+      "titulo": "Use modelo mais leve para tarefa simples",
+      "texto": "Para tarefas simples, ele troca para um modelo mais leve e gasta menos limite."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:59:44",
+      "titulo": "Os limites gratuitos vão longe",
+      "texto": "O plano gratuito da Vercel tem 100 GB de transferência por mês. Quando lotar, dá para criar outra conta e colocar os clientes novos nela."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:59:44",
+      "titulo": "Tire as fotos que não usa",
+      "texto": "O repositório chegou a cerca de 200 MB por causa das fotos. Peça à IA para limpar o que não está sendo usado."
+    },
+    {
+      "momento": "preco",
+      "t": "00:20:28",
+      "titulo": "A mensalidade é o segredo",
+      "texto": "Cada cliente paga R$ 49,90 por mês. Com cinquenta clientes, são cerca de R$ 2.500 por mês de receita recorrente. Se parar de pagar, o site sai do ar."
+    },
+    {
+      "momento": "preco",
+      "t": "00:57:38",
+      "titulo": "Chame de manutenção, não de hospedagem",
+      "texto": "Ele não cobra como hospedagem, e sim como manutenção mensal de R$ 49,90. O domínio o cliente paga uma vez por ano."
+    },
+    {
+      "momento": "preco",
+      "t": "00:22:38",
+      "titulo": "Você define o seu preço",
+      "texto": "Ele cobraria mais, mas escolheu um ticket baixo por causa da meta do salário mínimo."
+    },
+    {
+      "momento": "preco",
+      "t": "01:25:57",
+      "titulo": "Dá para subir o ticket",
+      "texto": "Um site desse nível permitiria cobrar R$ 797, R$ 897 ou mais."
+    },
+    {
+      "momento": "preco",
+      "t": "00:52:07",
+      "titulo": "Custo baixo para começar",
+      "texto": "O investimento é o Nexar Hunter no plano inicial, de R$ 79, mais a assinatura do Gemini."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:46:02",
+      "titulo": "Parcelamento tem taxa",
+      "texto": "Um cliente parcelou em dez vezes e outro em três. O valor que cai na conta vem com o desconto da taxa."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:08:04",
+      "titulo": "Feche site e domínio juntos",
+      "texto": "Assim que a cliente aprovou, pagou o site e o domínio, e ele já registrou o domínio."
+    },
+    {
+      "momento": "fechamento",
+      "t": "02:08:09",
+      "titulo": "Domínio próprio em poucos minutos",
+      "texto": "Na Vercel, adicione o domínio já existente. Depois troque os servidores de DNS no registrador. Pode levar até 48 horas, mas costuma ser minutos, e o certificado de segurança é gerado sozinho."
+    },
+    {
+      "momento": "fechamento",
+      "t": "02:09:09",
+      "titulo": "Remova o endereço provisório",
+      "texto": "Depois que o domínio conecta, dá para apagar o endereço da Vercel e ficar só com o ponto com ponto br."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:48:03",
+      "titulo": "O cliente pede ajuste de conteúdo",
+      "texto": "Nenhum dos dois pediu mudança na estrutura, só no conteúdo. A lavanderia pediu para reforçar uma licença exclusiva que tem para atender clínicas."
+    },
+    {
+      "momento": "erros",
+      "t": "01:13:38",
+      "titulo": "Otimize a produção",
+      "texto": "O site da lavanderia demorou por ter sido feito em PHP. Ele pensa em criar um prompt padrão onde só troca o nome da empresa."
+    }
   ],
   "scripts": [
-    { "tipo": "prompt", "t": "00:28:55", "titulo": "Melhorar a foto da fachada enviada pelo cliente", "texto": "O cliente enviou algumas fotos atualizadas da fachada da frente da loja, segue em anexo. Vamos criar uma foto pronta e de qualidade para usarmos no site, sem alterar a identidade real do local." },
-    { "tipo": "prompt", "t": "00:33:04", "titulo": "Corrigir detalhes apagados na imagem", "texto": "Corrija a parte do número da fachada na imagem. A imagem do climatizador soprando o ar está bem apagada. Vamos restaurar para ficar bonito e visível, sem parecer irreal." },
-    { "tipo": "prompt", "t": "00:42:58", "titulo": "Criar imagens para cada serviço", "texto": "Precisamos criar novas imagens para cada um dos temas citados abaixo, trazendo a identidade da marca, mas saindo das fotos genéricas. Precisamos produzir o conteúdo como se fosse real." },
-    { "tipo": "prompt", "t": "01:08:02", "titulo": "Pedir variação de imagem por dobra", "texto": "Preciso de uma variação diferente do que temos. A imagem da dobra nova não pode ser semelhante à da dobra anterior." },
-    { "tipo": "prompt", "t": "01:29:14", "titulo": "Imagens com conexão", "texto": "Seguindo a mesma linha, produza as quatro imagens desta dobra. Gere imagens que transmitam conexão com o cliente, persuasivas e profissionais." },
-    { "tipo": "prompt", "t": "01:36:07", "titulo": "Melhorar a foto da frota", "texto": "Agora vamos ajustar a qualidade da foto da frota. Traga um resultado de três imagens mostrando a frota e a loja, limpa, profissional e de alta qualidade." },
-    { "tipo": "prompt", "t": "01:54:01", "titulo": "Mandar referências para refazer a primeira dobra", "texto": "Seguem em anexo algumas referências para você analisar junto comigo, e trazemos uma solução simples, porém eficaz." }
+    {
+      "tipo": "prompt",
+      "t": "00:28:55",
+      "titulo": "Melhorar a foto da fachada enviada pelo cliente",
+      "texto": "O cliente enviou algumas fotos atualizadas da fachada da frente da loja, segue em anexo. Vamos criar uma foto pronta e de qualidade para usarmos no site, sem alterar a identidade real do local."
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:33:04",
+      "titulo": "Corrigir detalhes apagados na imagem",
+      "texto": "Corrija a parte do número da fachada na imagem. A imagem do climatizador soprando o ar está bem apagada. Vamos restaurar para ficar bonito e visível, sem parecer irreal."
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:42:58",
+      "titulo": "Criar imagens para cada serviço",
+      "texto": "Precisamos criar novas imagens para cada um dos temas citados abaixo, trazendo a identidade da marca, mas saindo das fotos genéricas. Precisamos produzir o conteúdo como se fosse real."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:08:02",
+      "titulo": "Pedir variação de imagem por dobra",
+      "texto": "Preciso de uma variação diferente do que temos. A imagem da dobra nova não pode ser semelhante à da dobra anterior."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:29:14",
+      "titulo": "Imagens com conexão",
+      "texto": "Seguindo a mesma linha, produza as quatro imagens desta dobra. Gere imagens que transmitam conexão com o cliente, persuasivas e profissionais."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:36:07",
+      "titulo": "Melhorar a foto da frota",
+      "texto": "Agora vamos ajustar a qualidade da foto da frota. Traga um resultado de três imagens mostrando a frota e a loja, limpa, profissional e de alta qualidade."
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:54:01",
+      "titulo": "Mandar referências para refazer a primeira dobra",
+      "texto": "Seguem em anexo algumas referências para você analisar junto comigo, e trazemos uma solução simples, porém eficaz."
+    }
   ],
   "duvidas": [
-    { "autor": "Marcos", "pergunta": "Você tem conseguido vender sites dessa forma consistentemente?", "resposta": "Nesta semana foram duas propostas enviadas e as duas fecharam.", "t": "00:17:00" },
-    { "autor": null, "pergunta": "Você define o valor que quer cobrar?", "resposta": "Sim. Ele faria um valor maior, mas escolheu um ticket mais baixo por causa da meta do salário mínimo. Mesmo assim, já passou da metade da meta em uma semana.", "t": "00:21:38" },
-    { "autor": "Renato", "pergunta": "Conseguiu vender?", "resposta": "Sim, fechou com os dois clientes cujos sites produziu. A dona da lavanderia chamou de manhã e o dono da climatização fechou logo em seguida. O dinheiro já está na conta.", "t": "00:45:01" },
-    { "autor": "Renato", "pergunta": "Os clientes pediram para alterar alguma coisa?", "resposta": "Na estrutura, não. Só no conteúdo. A lavanderia pediu para reforçar a licença exclusiva que tem para atender clínicas, e o dono da climatização mandou fotos novas.", "t": "00:47:02" },
-    { "autor": null, "pergunta": "Vai hospedar na Vercel mesmo? Mandou pagar o domínio além da manutenção de R$ 50?", "resposta": "Sim, fica no GitHub com a Vercel. O domínio o cliente paga uma vez por ano. A cobrança mensal ele não chama de hospedagem, e sim de manutenção mensal, de R$ 49,90.", "t": "00:57:38" },
-    { "autor": null, "pergunta": "Como você faz para gerar um site tão bonito? Tem um prompt padrão?", "resposta": "Não tem prompt padrão. O principal é nunca escrever direto na IA. Ele monta os prompts com o ChatGPT, explica que quer fugir do padrão de IA, manda a logo e referências do Pinterest, e pede uma sequência de prompts para executar.", "t": "01:03:56" }
+    {
+      "autor": "Marcos",
+      "pergunta": "Você tem conseguido vender sites dessa forma consistentemente?",
+      "resposta": "Nesta semana foram duas propostas enviadas e as duas fecharam.",
+      "t": "00:17:00"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você define o valor que quer cobrar?",
+      "resposta": "Sim. Ele faria um valor maior, mas escolheu um ticket mais baixo por causa da meta do salário mínimo. Mesmo assim, já passou da metade da meta em uma semana.",
+      "t": "00:21:38"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Conseguiu vender?",
+      "resposta": "Sim, fechou com os dois clientes cujos sites produziu. A dona da lavanderia chamou de manhã e o dono da climatização fechou logo em seguida. O dinheiro já está na conta.",
+      "t": "00:45:01"
+    },
+    {
+      "autor": "Renato",
+      "pergunta": "Os clientes pediram para alterar alguma coisa?",
+      "resposta": "Na estrutura, não. Só no conteúdo. A lavanderia pediu para reforçar a licença exclusiva que tem para atender clínicas, e o dono da climatização mandou fotos novas.",
+      "t": "00:47:02"
+    },
+    {
+      "autor": null,
+      "pergunta": "Vai hospedar na Vercel mesmo? Mandou pagar o domínio além da manutenção de R$ 50?",
+      "resposta": "Sim, fica no GitHub com a Vercel. O domínio o cliente paga uma vez por ano. A cobrança mensal ele não chama de hospedagem, e sim de manutenção mensal, de R$ 49,90.",
+      "t": "00:57:38"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como você faz para gerar um site tão bonito? Tem um prompt padrão?",
+      "resposta": "Não tem prompt padrão. O principal é nunca escrever direto na IA. Ele monta os prompts com o ChatGPT, explica que quer fugir do padrão de IA, manda a logo e referências do Pinterest, e pede uma sequência de prompts para executar.",
+      "t": "01:03:56"
+    }
   ],
   "ferramentas": [
-    { "nome": "Nexar Hunter", "uso": "Prospecção. Ele usa o plano inicial, de R$ 79 por mês." },
-    { "nome": "Gemini", "uso": "Construir o site e editar e criar as imagens." },
-    { "nome": "ChatGPT", "uso": "Montar os prompts e analisar o site em busca de melhorias." },
-    { "nome": "Pinterest", "uso": "Buscar referências gratuitas de landing pages por nicho." },
-    { "nome": "VS Code", "uso": "Editor onde o site é construído." },
-    { "nome": "GitHub", "uso": "Guardar o código dos sites." },
-    { "nome": "Vercel", "uso": "Hospedar os sites no plano gratuito e conectar o domínio." },
-    { "nome": "Hostinger", "uso": "Registrar o domínio e trocar os servidores de DNS." }
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospecção. Ele usa o plano inicial, de R$ 79 por mês."
+    },
+    {
+      "nome": "Gemini",
+      "uso": "Construir o site e editar e criar as imagens."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Montar os prompts e analisar o site em busca de melhorias."
+    },
+    {
+      "nome": "Pinterest",
+      "uso": "Buscar referências gratuitas de landing pages por nicho."
+    },
+    {
+      "nome": "VS Code",
+      "uso": "Editor onde o site é construído."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Guardar o código dos sites."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedar os sites no plano gratuito e conectar o domínio."
+    },
+    {
+      "nome": "Hostinger",
+      "uso": "Registrar o domínio e trocar os servidores de DNS."
+    }
   ],
   "frases": [
-    { "t": "00:05:43", "texto": "Enviamos duas propostas essa semana e deu green nas duas." },
-    { "t": "00:20:28", "texto": "Todo mês eles vão me pagar quarenta e nove e noventa, e isso vai entrar pra mim de forma limpa." },
-    { "t": "00:37:49", "texto": "Errou o prompt, vai sair coisa ruim. O grande segredo da IA é quem está comandando." },
-    { "t": "00:46:02", "texto": "A gente fechou do zero. Não usei o nome da minha agência, não usei meu portfólio." },
-    { "t": "01:03:56", "texto": "Primeiro, nunca escreve direto na IA." },
-    { "t": "01:04:57", "texto": "Você não pode só lançar a ideia e mandar ela fazer, porque ela vai fazer o padrão que faria pra todo mundo." },
-    { "t": "01:25:57", "texto": "Site desses aqui dá pra aumentar o ticket." }
+    {
+      "t": "00:05:43",
+      "texto": "Enviamos duas propostas essa semana e deu green nas duas."
+    },
+    {
+      "t": "00:20:28",
+      "texto": "Todo mês eles vão me pagar quarenta e nove e noventa, e isso vai entrar pra mim de forma limpa."
+    },
+    {
+      "t": "00:37:49",
+      "texto": "Errou o prompt, vai sair coisa ruim. O grande segredo da IA é quem está comandando."
+    },
+    {
+      "t": "00:46:02",
+      "texto": "A gente fechou do zero. Não usei o nome da minha agência, não usei meu portfólio."
+    },
+    {
+      "t": "01:03:56",
+      "texto": "Primeiro, nunca escreve direto na IA."
+    },
+    {
+      "t": "01:04:57",
+      "texto": "Você não pode só lançar a ideia e mandar ela fazer, porque ela vai fazer o padrão que faria pra todo mundo."
+    },
+    {
+      "t": "01:25:57",
+      "texto": "Site desses aqui dá pra aumentar o ticket."
+    }
   ]
 }

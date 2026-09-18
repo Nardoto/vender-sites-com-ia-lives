@@ -1,0 +1,1767 @@
+1
+00:00:11,133 --> 00:00:13,000
+pronto pronto agora sim
+
+2
+00:00:15,666 --> 00:00:16,500
+agora estamos
+
+3
+00:00:17,366 --> 00:00:18,166
+online
+
+4
+00:00:20,300 --> 00:00:21,666
+atrasado galera hoje
+
+5
+00:00:22,266 --> 00:00:24,133
+tá 1 correria doida aqui
+
+6
+00:00:27,300 --> 00:00:28,900
+EU tô bem atrasado
+
+7
+00:00:31,300 --> 00:00:33,600
+bem atrasado mas tá de boa
+
+8
+00:00:36,266 --> 00:00:38,333
+vamos organizar as janelas aqui
+
+9
+00:00:58,300 --> 00:00:59,166
+e aí galera
+
+10
+00:01:10,200 --> 00:01:12,533
+EU preciso organizar 1 pedido aqui
+
+11
+00:01:19,900 --> 00:01:22,300
+i see The fear inside your eyes
+
+12
+00:01:23,066 --> 00:01:23,866
+i see The Pain
+
+13
+00:01:34,300 --> 00:01:36,700
+enquanto isso a galera chega bora lá
+
+14
+00:01:38,166 --> 00:01:38,966
+é
+
+15
+00:01:41,566 --> 00:01:42,366
+galera
+
+16
+00:01:42,800 --> 00:01:44,166
+saiu é a
+
+17
+00:01:46,100 --> 00:01:47,933
+enviei a proposta né pro
+
+18
+00:01:49,600 --> 00:01:50,666
+pra lavanderia
+
+19
+00:01:50,800 --> 00:01:53,866
+estamos aguardando o retorno e agora vamos finalizar
+
+20
+00:01:56,000 --> 00:01:58,966
+esse é website aqui do
+
+21
+00:02:10,600 --> 00:02:13,766
+o website da climatização né
+
+22
+00:02:16,400 --> 00:02:20,966
+acabei de startar aqui o servidor a gente vai subir ele
+
+23
+00:02:23,266 --> 00:02:24,166
+a gente vai subir
+
+24
+00:02:33,966 --> 00:02:35,800
+a gente vai subir ele agora na
+
+25
+00:02:37,066 --> 00:02:40,200
+é na no git hub na versão
+
+26
+00:02:41,166 --> 00:02:44,400
+e aí a gente já vai ó o Renato chegou boa Renato
+
+27
+00:02:44,600 --> 00:02:45,400
+beleza pura
+
+28
+00:02:48,266 --> 00:02:50,133
+aí eu acho que o som tá legal né
+
+29
+00:02:51,100 --> 00:02:52,333
+música tá muito alta
+
+30
+00:02:53,600 --> 00:02:54,400
+tô esperando
+
+31
+00:02:55,000 --> 00:02:57,766
+a confirmação da cliente mas tá bem
+
+32
+00:02:58,933 --> 00:02:59,900
+tá bem avançado viu
+
+33
+00:03:00,166 --> 00:03:01,800
+tenho quase certeza que ela vai fechar
+
+34
+00:03:05,500 --> 00:03:08,133
+tem que arrumar iluminação aqui né galera tá muito
+
+35
+00:03:09,933 --> 00:03:10,966
+tá muito escuro
+
+36
+00:03:15,366 --> 00:03:17,733
+e hoje a gente tem esse aqui para abordar né
+
+37
+00:03:18,133 --> 00:03:19,533
+esse aqui a gente vai abordar
+
+38
+00:03:20,966 --> 00:03:21,866
+praticamente pronto
+
+39
+00:03:23,200 --> 00:03:24,400
+conteúdo gerado
+
+40
+00:03:26,100 --> 00:03:29,500
+agora vamos rodar eu só preciso é finalizar um pedido
+
+41
+00:03:34,000 --> 00:03:34,766
+só preciso
+
+42
+00:03:34,766 --> 00:03:38,066
+finalizar um pedido aqui de um cliente da outra loja
+
+43
+00:03:39,466 --> 00:03:41,000
+e aí a gente vai pra
+
+44
+00:03:45,000 --> 00:03:47,800
+a gente vai pro piloto depois eu vou abordar de novo
+
+45
+00:03:48,733 --> 00:03:50,800
+é a menina da lavanderia lá
+
+46
+00:04:42,300 --> 00:04:45,333
+when The Stars are crashing your Heart is my home
+
+47
+00:04:55,966 --> 00:04:58,600
+e hoje é dia de fechar galera hoje temos que fechar
+
+48
+00:05:02,333 --> 00:05:03,700
+vamos fechar né
+
+49
+00:05:05,600 --> 00:05:07,566
+vamos fechar vendinha hoje hein
+
+50
+00:05:19,933 --> 00:05:21,366
+então que que EU vou fazer
+
+51
+00:05:21,700 --> 00:05:25,166
+é para iniciar vamos criar esse repositório aqui
+
+52
+00:05:26,766 --> 00:05:28,133
+no git hub
+
+53
+00:05:34,200 --> 00:05:36,366
+já vamo colocar no AR esse site
+
+54
+00:07:21,866 --> 00:07:22,966
+bora bora lá
+
+55
+00:07:23,566 --> 00:07:25,500
+o que que eu vou fazer agora vamo criar o
+
+56
+00:07:25,900 --> 00:07:27,333
+repositório aqui né
+
+57
+00:07:27,966 --> 00:07:28,900
+vamo colocar aqui
+
+58
+00:07:31,133 --> 00:07:34,566
+opa já existe
+
+59
+00:07:35,533 --> 00:07:36,333
+deixa EU ver
+
+60
+00:07:36,900 --> 00:07:39,000
+já criar EU criei ontem né
+
+61
+00:07:40,133 --> 00:07:41,200
+achar aqui ele
+
+62
+00:07:42,800 --> 00:07:43,766
+tá aqui ó
+
+63
+00:07:47,466 --> 00:07:50,066
+os tokens estão por resetar
+
+64
+00:07:50,266 --> 00:07:51,700
+a gente tá quase no limite de uso
+
+65
+00:07:53,266 --> 00:07:54,500
+uma hora e um minuto
+
+66
+00:07:55,600 --> 00:07:56,400
+boa
+
+67
+00:09:23,866 --> 00:09:24,733
+bora bora bora
+
+68
+00:09:24,966 --> 00:09:27,500
+bora vamo lá deixa EU copiar esse link aqui ó
+
+69
+00:09:31,300 --> 00:09:32,400
+os arquivos
+
+70
+00:09:35,133 --> 00:09:35,966
+site com
+
+71
+00:09:36,666 --> 00:09:39,566
+este repositório do git
+
+72
+00:09:45,100 --> 00:09:45,900
+bora
+
+73
+00:09:51,133 --> 00:09:53,000
+pera aí galera que EU vou ter que ouvir 1 áudio
+
+74
+00:12:52,400 --> 00:12:56,166
+step The clock is ticking but there's no time for me
+
+75
+00:12:57,333 --> 00:12:59,766
+i've been Flying from Town to Town
+
+76
+00:13:08,300 --> 00:13:10,966
+trying to Protect your Soul
+
+77
+00:13:12,200 --> 00:13:15,133
+we are Heroes tonight
+
+78
+00:13:15,866 --> 00:13:16,666
+we Will
+
+79
+00:13:56,266 --> 00:14:00,300
+EU EU EU EU
+
+80
+00:14:02,566 --> 00:14:05,766
+de cima do Mundo i Need you to listen
+
+81
+00:14:20,466 --> 00:14:23,066
+aí ó repositório atualizado galera
+
+82
+00:14:23,500 --> 00:14:24,366
+EU tô fazendo
+
+83
+00:14:24,500 --> 00:14:25,000
+3 coisas
+
+84
+00:14:25,000 --> 00:14:27,666
+aqui ao mesmo tempo tá mas tô de boa com vocês aqui
+
+85
+00:14:28,300 --> 00:14:29,100
+vamo lá
+
+86
+00:14:29,600 --> 00:14:31,333
+é vamo atualizar aqui
+
+87
+00:14:33,600 --> 00:14:34,900
+aí ó conteúdo
+
+88
+00:14:36,166 --> 00:14:36,966
+aqui
+
+89
+00:14:37,466 --> 00:14:41,533
+agora vamos na vercel já apareceu aqui ó Egi clima
+
+90
+00:14:42,466 --> 00:14:44,933
+vamo importar vamo fazer 1 deploy
+
+91
+00:14:53,266 --> 00:14:55,966
+e esse cleite aqui a gente já vai abordar né já vou
+
+92
+00:14:57,333 --> 00:14:59,533
+é abrir o script aqui
+
+93
+00:15:06,200 --> 00:15:08,933
+se eu abrir o escritório aqui na outra janela
+
+94
+00:15:14,466 --> 00:15:16,666
+escrito aberto a gente já
+
+95
+00:15:17,666 --> 00:15:21,000
+é abortar e já vamos fazer o outro site né
+
+96
+00:15:23,000 --> 00:15:24,766
+vamos ver se ele carregou certinho
+
+97
+00:15:25,966 --> 00:15:27,000
+carregou certinho
+
+98
+00:15:34,533 --> 00:15:35,333
+boa
+
+99
+00:15:36,133 --> 00:15:37,900
+irmão não é melhor abordar antes
+
+100
+00:15:38,066 --> 00:15:39,700
+do cliente de fazer o site
+
+101
+00:15:40,000 --> 00:15:41,133
+então é que na verdade
+
+102
+00:15:42,133 --> 00:15:42,933
+é
+
+103
+00:15:43,200 --> 00:15:44,400
+quando você já faz
+
+104
+00:15:44,966 --> 00:15:46,500
+na verdade aqui é um esboço né
+
+105
+00:15:46,933 --> 00:15:49,466
+então a chance de fechamento é bem maior
+
+106
+00:15:49,800 --> 00:15:50,600
+quando a gente
+
+107
+00:15:50,900 --> 00:15:53,400
+já tem uma prévia né quando o cliente consegue
+
+108
+00:15:53,600 --> 00:15:54,400
+visualizar
+
+109
+00:15:55,000 --> 00:15:57,000
+é um pouco do site então isso
+
+110
+00:15:57,933 --> 00:15:59,300
+vai trazer muito mais
+
+111
+00:16:00,466 --> 00:16:04,166
+é vamos ver fica muito mais persuasivo né então imagina
+
+112
+00:16:04,666 --> 00:16:07,300
+é dois tipos de abordagem primeiro
+
+113
+00:16:08,300 --> 00:16:10,300
+o cliente já consegue visualizar
+
+114
+00:16:11,700 --> 00:16:12,500
+o que
+
+115
+00:16:13,966 --> 00:16:16,100
+o que vai ser de resultados né então
+
+116
+00:16:16,200 --> 00:16:17,100
+ele já consegue ver
+
+117
+00:16:17,333 --> 00:16:18,133
+é muito mais fácil
+
+118
+00:16:19,000 --> 00:16:19,900
+é você comprar
+
+119
+00:16:20,000 --> 00:16:20,566
+um produto
+
+120
+00:16:20,566 --> 00:16:23,133
+quando você vê ele né então você tá vendo o produto
+
+121
+00:16:23,300 --> 00:16:24,333
+então fica muito mais fácil
+
+122
+00:16:25,100 --> 00:16:26,000
+de fechar
+
+123
+00:16:26,566 --> 00:16:28,466
+e outra coisa é que também pega
+
+124
+00:16:29,100 --> 00:16:30,366
+no sentimental né o cara
+
+125
+00:16:30,466 --> 00:16:32,533
+pensa pô o cara já fez até o site pra mim
+
+126
+00:16:32,733 --> 00:16:35,566
+fica ruim dizer não pra ele então o
+
+127
+00:16:36,066 --> 00:16:37,266
+é a estratégia de venda
+
+128
+00:16:37,333 --> 00:16:39,066
+na verdade né e como é simples de fazer
+
+129
+00:16:39,966 --> 00:16:40,700
+então
+
+130
+00:16:40,700 --> 00:16:43,800
+se precisar fazer um site a cada dois dias a gente
+
+131
+00:16:44,133 --> 00:16:45,866
+vai fazer um site a cada dois dias
+
+132
+00:17:23,866 --> 00:17:25,300
+boa Grã boa boa
+
+133
+00:18:18,900 --> 00:18:21,166
+então site no AR conectado
+
+134
+00:18:22,300 --> 00:18:23,933
+tudo funcionando bonitinho
+
+135
+00:18:26,000 --> 00:18:28,200
+vamos olhar no mobile ver como que tá
+
+136
+00:18:29,900 --> 00:18:32,600
+atualizou o telefone vamos ver se atualizou o telefone
+
+137
+00:18:36,533 --> 00:18:38,800
+atualizou o telefone beleza
+
+138
+00:18:42,466 --> 00:18:43,533
+então vamo lá
+
+139
+00:18:54,066 --> 00:18:55,166
+vamo lá vamo lá
+
+140
+00:19:19,966 --> 00:19:23,733
+vamo lá galera já vou acionar aqui ó o cliente
+
+141
+00:19:28,400 --> 00:19:30,700
+EU já quero iniciar 1 Novo projeto
+
+142
+00:19:34,700 --> 00:19:37,066
+nós vamos vamos por etapas vamos
+
+143
+00:19:37,300 --> 00:19:39,666
+abordar o cliente aqui eu acabei de mandar mensagem
+
+144
+00:19:40,933 --> 00:19:43,800
+é só pela questão do número tá galera eu não vou
+
+145
+00:19:44,966 --> 00:19:46,000
+abrir aqui tá
+
+146
+00:19:47,966 --> 00:19:49,133
+bem que o número é público
+
+147
+00:19:49,266 --> 00:19:51,400
+né mas os outros números que tem na
+
+148
+00:19:51,600 --> 00:19:52,800
+na nossa lista do WhatsApp
+
+149
+00:19:53,066 --> 00:19:54,166
+não pelo número do
+
+150
+00:19:55,133 --> 00:19:55,933
+do cliente
+
+151
+00:19:56,200 --> 00:19:57,266
+essa música tá
+
+152
+00:19:57,400 --> 00:20:00,300
+mexendo na minha mente aqui vamos dar uma subida nela
+
+153
+00:20:42,466 --> 00:20:44,000
+mandei mensagem beleza
+
+154
+00:20:50,200 --> 00:20:51,966
+cara que a gente já me respondeu
+
+155
+00:21:14,533 --> 00:21:17,266
+ó acabou de responder então vamo lá
+
+156
+00:21:19,100 --> 00:21:20,400
+vamo fazer a abordagem
+
+157
+00:21:27,366 --> 00:21:29,333
+vamo rodar o script aqui pra ele
+
+158
+00:21:32,333 --> 00:21:35,566
+when The Stars are crashing you're on my own
+
+159
+00:21:37,533 --> 00:21:39,333
+e Goes on and on and on
+
+160
+00:21:40,066 --> 00:21:41,933
+love Goes on and on and on
+
+161
+00:21:42,866 --> 00:21:44,966
+oh yeah oh my darling
+
+162
+00:23:05,800 --> 00:23:08,933
+when The lights are out my Heart is your home
+
+163
+00:23:10,933 --> 00:23:13,733
+when The Stars are crashing your Heart is my
+
+164
+00:23:16,366 --> 00:23:17,933
+Goes on and on and on
+
+165
+00:23:18,666 --> 00:23:21,533
+Goes on and on and on oh
+
+166
+00:23:36,800 --> 00:23:37,266
+a gente
+
+167
+00:23:37,266 --> 00:23:37,933
+respondeu
+
+168
+00:23:37,933 --> 00:23:39,133
+agora vamo lá vou mandar o
+
+169
+00:23:39,200 --> 00:23:41,900
+print aqui ó tô nessa parte aqui só tô reformulando
+
+170
+00:23:42,600 --> 00:23:43,466
+é porque assim
+
+171
+00:23:43,600 --> 00:23:44,166
+aqui eu
+
+172
+00:23:44,166 --> 00:23:47,000
+diz um novo site da empresa né eles não tem site ainda
+
+173
+00:24:24,500 --> 00:24:26,300
+pronto rodamos o script
+
+174
+00:24:57,466 --> 00:25:00,966
+beleza galera já tá rodando aqui ó e
+
+175
+00:25:01,866 --> 00:25:02,666
+é
+
+176
+00:25:03,200 --> 00:25:04,900
+pelo jeito ele é o dono viu
+
+177
+00:25:08,333 --> 00:25:11,333
+pelo jeito ele é o dono vamo ver o que que roda
+
+178
+00:25:28,333 --> 00:25:29,933
+ó tá respondendo
+
+179
+00:25:39,766 --> 00:25:41,733
+vamos ver se teremos objeção
+
+180
+00:25:42,533 --> 00:25:45,000
+ou se ele vai responder aqui ó
+
+181
+00:25:45,366 --> 00:25:46,933
+vamos ver como é que tá o mobile
+
+182
+00:25:56,600 --> 00:25:57,666
+vamos ver se teremos 1
+
+183
+00:25:57,733 --> 00:26:00,066
+objeto não tô mostrando pra vocês né galera EU queria
+
+184
+00:26:00,166 --> 00:26:00,966
+poder
+
+185
+00:26:01,600 --> 00:26:04,066
+mostrar só 1 janela mas é que fica
+
+186
+00:26:05,900 --> 00:26:07,966
+faz a todos os outros números aqui do WhatsApp
+
+187
+00:26:08,200 --> 00:26:09,566
+eu não consigo mostrar para vocês
+
+188
+00:26:11,700 --> 00:26:12,500
+nós vamos ver
+
+189
+00:26:40,400 --> 00:26:40,900
+olha
+
+190
+00:26:40,900 --> 00:26:43,133
+respondeu assim EU acho que você caiu de paraquedas
+
+191
+00:26:43,333 --> 00:26:44,133
+mas pra nós
+
+192
+00:26:44,200 --> 00:26:45,166
+fazer outra coisa
+
+193
+00:26:58,066 --> 00:26:59,700
+olha o quê aí
+
+194
+00:27:12,266 --> 00:27:14,500
+vamo ver vamo tentar entender aqui o que tá
+
+195
+00:27:15,733 --> 00:27:18,466
+não entendi muito bem na verdade a resposta dele
+
+196
+00:27:27,966 --> 00:27:30,000
+ah vou fazer 1 descrição aqui
+
+197
+00:27:34,733 --> 00:27:36,600
+vamo ver o que que ele vai mandar pra gente
+
+198
+00:28:20,133 --> 00:28:20,933
+vamo lá vamo
+
+199
+00:28:58,333 --> 00:29:00,466
+ó galera o cliente pediu pra mim
+
+200
+00:29:01,600 --> 00:29:02,000
+é
+
+201
+00:29:02,000 --> 00:29:05,366
+ligar então o seguinte pra mim conversar com ele então
+
+202
+00:29:06,333 --> 00:29:08,866
+bora conversar com ele vamo ver qual que é a
+
+203
+00:29:09,700 --> 00:29:13,300
+a proposta boa pera aí vou ter que mutar aqui né
+
+204
+00:29:14,566 --> 00:29:16,200
+e aí vamo ver o que que rola
+
+205
+00:39:27,266 --> 00:39:29,466
+i spent The Last two weeks Just swimming
+
+206
+00:44:18,666 --> 00:44:19,766
+vamos
+
+207
+00:45:29,766 --> 00:45:32,366
+não
+
+208
+00:45:41,900 --> 00:45:42,700
+Will GO
+
+209
+00:51:58,066 --> 00:52:00,800
+o mundo inteiro queria te dizer que eu te amo
+
+210
+00:52:12,166 --> 00:52:13,366
+voltei galera voltei
+
+211
+00:52:14,266 --> 00:52:15,700
+batemos 1 papo bacana
+
+212
+00:52:16,733 --> 00:52:18,733
+batemos 1 papo bem bacana aqui
+
+213
+00:52:20,300 --> 00:52:22,900
+não dá é podia ter deixado até aberto
+
+214
+00:52:23,466 --> 00:52:24,366
+o áudio
+
+215
+00:52:24,500 --> 00:52:27,400
+Renato acho que no próximo vou deixar aberto mesmo
+
+216
+00:52:28,733 --> 00:52:29,533
+mas
+
+217
+00:52:30,366 --> 00:52:31,166
+possivelmente
+
+218
+00:52:31,800 --> 00:52:34,700
+é temos mais um cliente potencial aqui hein
+
+219
+00:52:35,733 --> 00:52:37,133
+mais um cliente potencial
+
+220
+00:52:40,333 --> 00:52:41,700
+embora ele vai analisar
+
+221
+00:52:42,366 --> 00:52:43,000
+e amanhã
+
+222
+00:52:43,000 --> 00:52:44,566
+eu falei para ele que ia deixar o link
+
+223
+00:52:44,700 --> 00:52:45,800
+disponível até amanhã
+
+224
+00:52:46,933 --> 00:52:47,733
+e amanhã
+
+225
+00:52:49,133 --> 00:52:50,500
+entrarei em contato
+
+226
+00:52:52,200 --> 00:52:54,400
+e aí amanhã já teremos mais uma
+
+227
+00:52:56,200 --> 00:52:57,100
+1 oferta
+
+228
+00:52:58,566 --> 00:52:59,500
+pra rodar
+
+229
+00:53:00,800 --> 00:53:02,533
+deixa EU organizar aqui
+
+230
+00:53:05,100 --> 00:53:05,933
+pera aí gente
+
+231
+00:53:25,300 --> 00:53:28,200
+pera aí gente vou ter que rodar mais 1 áudio aqui
+
+232
+00:54:13,166 --> 00:54:14,133
+vamo lá vamo lá
+
+233
+00:54:32,933 --> 00:54:35,266
+aí ó aí ó beleza então galera
+
+234
+00:54:36,500 --> 00:54:37,466
+aqui tudo certo
+
+235
+00:54:37,866 --> 00:54:40,666
+ele também pediu é se a gente conseguiria
+
+236
+00:54:41,766 --> 00:54:44,266
+ajustar é esse Instagram aqui
+
+237
+00:54:45,133 --> 00:54:48,100
+então amanhã já tem mais 1 possibilidade de Dar 1 up
+
+238
+00:54:48,533 --> 00:54:49,333
+aqui
+
+239
+00:54:49,600 --> 00:54:51,066
+é no Instagram dele
+
+240
+00:54:52,533 --> 00:54:54,133
+então já vai ser bem bacana
+
+241
+00:54:55,100 --> 00:54:56,966
+é eu acho que vai dar bom viu
+
+242
+00:54:57,933 --> 00:54:58,866
+acho que vai dar bom
+
+243
+00:54:59,533 --> 00:55:00,766
+agora o que que eu vou fazer
+
+244
+00:55:02,000 --> 00:55:03,566
+tô pensando em aproveitar
+
+245
+00:55:04,666 --> 00:55:06,266
+essa estrutura aqui ó
+
+246
+00:55:06,600 --> 00:55:09,266
+porque ontem o que que eu achei aqui no Hunter
+
+247
+00:55:10,600 --> 00:55:12,133
+vamos abrir o Hunter aqui
+
+248
+00:55:16,333 --> 00:55:19,700
+ontem EU achei no Hunter aqui deixa EU fechar essas
+
+249
+00:55:20,266 --> 00:55:21,533
+essas guias aqui
+
+250
+00:55:25,000 --> 00:55:26,566
+e não tá clena
+
+251
+00:55:31,166 --> 00:55:33,766
+achei essa empresa aqui ó
+
+252
+00:55:42,600 --> 00:55:43,966
+se EU acho ela aqui
+
+253
+00:55:45,333 --> 00:55:47,966
+ah EU esqueci de enriquecer né tá
+
+254
+00:55:48,566 --> 00:55:50,366
+mas é essa empresa aqui ó
+
+255
+00:55:53,566 --> 00:55:56,400
+tá com Instagram bem bacana dá pra ver que eles estão
+
+256
+00:55:57,500 --> 00:55:59,933
+é bem atualizado né
+
+257
+00:56:01,666 --> 00:56:03,700
+mas eles não tem site ainda
+
+258
+00:56:04,466 --> 00:56:07,466
+então tem conteúdo aqui ó tem bastante coisa
+
+259
+00:56:07,900 --> 00:56:10,333
+então que que EU tô pensando em fazer
+
+260
+00:56:11,566 --> 00:56:13,200
+é tô pensando em
+
+261
+00:56:14,366 --> 00:56:15,166
+atualizar
+
+262
+00:56:43,000 --> 00:56:45,166
+ó o cliente perguntou se eu tô no escritório
+
+263
+00:56:45,466 --> 00:56:46,500
+daqui de julho
+
+264
+00:56:47,266 --> 00:56:48,466
+esse que a gente acabou de falar
+
+265
+00:56:49,466 --> 00:56:51,866
+pra próxima pra próxima camiseta
+
+266
+00:56:59,933 --> 00:57:01,866
+só tô respondendo outro cliente aqui
+
+267
+00:57:26,700 --> 00:57:28,066
+belo
+
+268
+00:57:30,533 --> 00:57:33,666
+pera aí pera aí então o seguinte eu tô pensando em
+
+269
+00:57:33,800 --> 00:57:34,900
+jogar um pronto
+
+270
+00:57:35,500 --> 00:57:37,700
+aqui ó fazer um site pra
+
+271
+00:57:39,533 --> 00:57:40,700
+pra esse aqui ó
+
+272
+00:57:43,266 --> 00:57:46,000
+eu tenho que fazer um site pra
+
+273
+00:57:46,733 --> 00:57:47,933
+esta empresa
+
+274
+00:57:52,900 --> 00:57:54,533
+localizado na
+
+275
+00:57:55,933 --> 00:57:57,400
+cidade de juí
+
+276
+00:57:58,333 --> 00:57:59,333
+vamos produzir
+
+277
+00:58:01,700 --> 00:58:02,500
+produzir
+
+278
+00:58:03,566 --> 00:58:07,600
+zona gêmeo mais PS code
+
+279
+00:58:08,700 --> 00:58:09,500
+pode
+
+280
+00:58:09,933 --> 00:58:11,666
+é buscar dados
+
+281
+00:58:15,600 --> 00:58:17,666
+na página do Instagram
+
+282
+00:58:19,200 --> 00:58:20,466
+e na web
+
+283
+00:58:21,900 --> 00:58:23,533
+sobre a empresa
+
+284
+00:58:28,900 --> 00:58:29,866
+vamos produzir
+
+285
+00:58:33,100 --> 00:58:34,666
+produzir 1 site
+
+286
+00:58:35,466 --> 00:58:36,266
+profissional
+
+287
+00:58:42,366 --> 00:58:44,533
+sem Cara de iá esses
+
+288
+00:58:44,666 --> 00:58:46,900
+ponte aqui vai ter que deixar pronto né galera tipo
+
+289
+00:58:47,200 --> 00:58:48,466
+pegar 1 ponte base
+
+290
+00:58:48,800 --> 00:58:49,733
+e deixar ele pronto
+
+291
+00:58:51,700 --> 00:58:52,700
+com design
+
+292
+00:58:53,800 --> 00:58:58,666
+com design
+
+293
+00:58:59,366 --> 00:59:02,166
+minimalista e premium
+
+294
+00:59:05,800 --> 00:59:08,500
+1 jogador profissional
+
+295
+00:59:10,300 --> 00:59:11,100
+senhor
+
+296
+00:59:19,566 --> 00:59:20,766
+por etapas
+
+297
+00:59:22,733 --> 00:59:23,533
+é
+
+298
+00:59:26,333 --> 00:59:28,300
+vamo lá deixa eu olhar um negócio aqui galera
+
+299
+00:59:29,100 --> 00:59:31,266
+ó o Guilherme se inscreveu valeu Gui
+
+300
+00:59:33,500 --> 00:59:35,000
+seja bem vindo meu querido
+
+301
+00:59:36,266 --> 00:59:38,366
+então olha só o prompt tá aqui
+
+302
+00:59:39,100 --> 00:59:42,566
+vs code esse vs code aqui ó eu vou já
+
+303
+00:59:43,700 --> 00:59:45,466
+é abrir uma pasta nova
+
+304
+00:59:48,200 --> 00:59:50,133
+deixa EU abrir 1 pasta nova aqui
+
+305
+00:59:55,200 --> 00:59:57,333
+é enjoei é
+
+306
+00:59:58,133 --> 01:00:00,100
+mais clima né beleza
+
+307
+01:00:04,966 --> 01:00:06,166
+mais clima
+
+308
+01:00:12,400 --> 01:00:14,400
+eu quero até vou fazer um teste
+
+309
+01:00:15,533 --> 01:00:16,333
+é
+
+310
+01:00:18,900 --> 01:00:22,566
+pera aí gente que tá tocando o telefone aqui
+
+311
+01:00:29,766 --> 01:00:31,900
+nossa hoje tá o caos aqui hein galera
+
+312
+01:01:24,300 --> 01:01:26,300
+tocou o telefone hoje fez o
+
+313
+01:01:27,366 --> 01:01:28,933
+hoje foi foi corrido
+
+314
+01:01:29,900 --> 01:01:31,266
+então aqui ó mais clima
+
+315
+01:01:31,933 --> 01:01:32,866
+eu tô pensando em
+
+316
+01:01:35,666 --> 01:01:38,533
+e tentar produzir direto no geminais sem
+
+317
+01:01:38,600 --> 01:01:39,400
+estruturar os
+
+318
+01:01:39,466 --> 01:01:39,933
+prontos
+
+319
+01:01:39,933 --> 01:01:40,466
+para ver
+
+320
+01:01:40,466 --> 01:01:43,300
+qual que vai ser a diferença em relação aos outros né
+
+321
+01:01:44,366 --> 01:01:46,100
+eu acho que eu vou tentar fazer isso
+
+322
+01:01:51,733 --> 01:01:52,966
+caso precise
+
+323
+01:01:54,533 --> 01:01:55,733
+caso precise
+
+324
+01:01:56,300 --> 01:01:58,933
+de alguma informação extra
+
+325
+01:02:01,966 --> 01:02:02,800
+pode me
+
+326
+01:02:03,700 --> 01:02:04,866
+solicitar aqui
+
+327
+01:02:09,866 --> 01:02:11,533
+pode me solicitar aqui
+
+328
+01:02:12,266 --> 01:02:13,166
+vamos fazer um teste
+
+329
+01:02:13,400 --> 01:02:15,200
+qualquer coisa a gente exclui o projeto
+
+330
+01:02:16,800 --> 01:02:18,766
+já renovou aqui ó
+
+331
+01:02:19,666 --> 01:02:21,266
+vou colocar no médio
+
+332
+01:02:22,666 --> 01:02:24,333
+colocar aqui no 3 ponto 8
+
+333
+01:02:25,566 --> 01:02:26,666
+vou colocar no médio
+
+334
+01:02:27,266 --> 01:02:30,533
+e vamo por rodar e vamo por rodar aqui também
+
+335
+01:02:33,000 --> 01:02:34,466
+vamos ver o que que ele vai
+
+336
+01:02:35,600 --> 01:02:36,900
+é porque o gemini
+
+337
+01:02:37,600 --> 01:02:39,200
+eu acho que ele pode pesquisar melhor
+
+338
+01:02:39,366 --> 01:02:40,466
+esses dados na internet
+
+339
+01:02:40,800 --> 01:02:41,600
+né então
+
+340
+01:02:42,700 --> 01:02:46,300
+saímos dessa daqui guardamos resposta do cliente
+
+341
+01:02:48,333 --> 01:02:49,933
+e vamos pra essa daqui
+
+342
+01:02:52,100 --> 01:02:53,300
+deixa eu fechar aqui
+
+343
+01:02:54,366 --> 01:02:56,166
+que de momento podemos fechar
+
+344
+01:02:57,366 --> 01:02:58,900
+vamos ver o que que ele vai gerar de pronto
+
+345
+01:02:59,266 --> 01:03:00,066
+aqui pra gente
+
+346
+01:03:58,200 --> 01:03:59,700
+vamos autorizar
+
+347
+01:04:04,933 --> 01:04:07,066
+e lá vamos
+
+348
+01:04:11,900 --> 01:04:14,333
+vamo ver o que que ele vai trazer pra gente
+
+349
+01:04:42,566 --> 01:04:43,366
+vamos rodar
+
+350
+01:04:45,300 --> 01:04:46,966
+o servidor local né
+
+351
+01:04:53,766 --> 01:04:58,000
+vamo lá
+
+352
+01:05:48,100 --> 01:05:49,200
+já tá executando
+
+353
+01:05:50,733 --> 01:05:52,900
+precisa de algumas informações que vão melhorar muito
+
+354
+01:05:54,000 --> 01:05:54,800
+logo
+
+355
+01:05:54,966 --> 01:05:57,566
+exatamente o serviço oferecido eles vendem aparelhos
+
+356
+01:05:57,733 --> 01:05:58,600
+apenas estão
+
+357
+01:05:58,800 --> 01:05:59,600
+tá então
+
+358
+01:05:59,966 --> 01:06:02,166
+o Chad gpt me pediu esses dados
+
+359
+01:06:03,366 --> 01:06:04,266
+vamo ver aqui
+
+360
+01:07:08,466 --> 01:07:09,333
+marcelas
+
+361
+01:07:09,500 --> 01:07:10,300
+aqui eu tô fazendo
+
+362
+01:07:10,333 --> 01:07:12,066
+uma venda aqui galera enquanto isso ali
+
+363
+01:07:12,600 --> 01:07:13,933
+ó o que foi construído
+
+364
+01:07:14,700 --> 01:07:15,866
+construído padrão cê
+
+365
+01:07:16,300 --> 01:07:18,666
+eu não tô botando fé nisso aqui não viu
+
+366
+01:07:23,166 --> 01:07:26,866
+também vamos iniciar só para ver o que que rolou aqui
+
+367
+01:07:28,500 --> 01:07:30,166
+e aí a gente pede para
+
+368
+01:07:33,200 --> 01:07:34,366
+a gente pede para
+
+369
+01:07:35,400 --> 01:07:36,966
+o gpt rodar
+
+370
+01:07:42,200 --> 01:07:44,266
+vai te iniciar no servidor local
+
+371
+01:07:44,733 --> 01:07:46,600
+não tá rodando ainda OU tá
+
+372
+01:07:55,100 --> 01:07:55,900
+visualizar
+
+373
+01:07:57,566 --> 01:07:58,366
+resultado
+
+374
+01:07:58,966 --> 01:08:00,166
+mas foi bem pobre
+
+375
+01:08:00,200 --> 01:08:02,466
+né o eu por último vamos ver o que ele vai produzir
+
+376
+01:08:02,566 --> 01:08:03,366
+aqui
+
+377
+01:08:29,500 --> 01:08:31,100
+cê pode testar ao vivo
+
+378
+01:08:37,700 --> 01:08:39,166
+certo agora
+
+379
+01:08:39,800 --> 01:08:40,600
+agora sim
+
+380
+01:08:42,766 --> 01:08:44,066
+agora a gente tem que
+
+381
+01:08:49,700 --> 01:08:50,500
+sair dessa
+
+382
+01:08:52,300 --> 01:08:53,333
+deixa eu tirar aqui
+
+383
+01:08:55,300 --> 01:08:57,933
+agora a gente tem que sair desse visual de a né
+
+384
+01:09:00,366 --> 01:09:02,066
+ficou mais OU menos viu
+
+385
+01:09:04,266 --> 01:09:05,200
+então vamo lá
+
+386
+01:09:07,066 --> 01:09:10,200
+vamo andar logo do mais clipe vamo por partes
+
+387
+01:09:13,800 --> 01:09:15,666
+mais clima e juí
+
+388
+01:09:18,866 --> 01:09:19,666
+aqui ó
+
+389
+01:09:20,666 --> 01:09:22,066
+já encontrei a louca
+
+390
+01:09:25,900 --> 01:09:33,366
+quais são exatamente os serviços que ela oferece hoje
+
+391
+01:09:39,300 --> 01:09:41,933
+venda e manutenção de climatizadores
+
+392
+01:09:42,933 --> 01:09:43,733
+vamo lá
+
+393
+01:09:44,766 --> 01:09:48,066
+1 2 venda e manutenção
+
+394
+01:09:48,900 --> 01:09:50,266
+de climatizadores
+
+395
+01:09:54,266 --> 01:09:57,900
+venda venda colocar aqui instalação
+
+396
+01:09:59,600 --> 01:10:02,666
+manutenção de climatizadores quais marcas de trabalhos
+
+397
+01:10:02,766 --> 01:10:04,166
+OU são credenciados
+
+398
+01:10:10,466 --> 01:10:13,266
+EU acho que não tem marca credenciada né
+
+399
+01:10:17,066 --> 01:10:18,300
+trabalho qualificado
+
+400
+01:10:21,966 --> 01:10:24,200
+tá não tem marca credenciada
+
+401
+01:10:34,866 --> 01:10:35,666
+4
+
+402
+01:10:36,066 --> 01:10:37,766
+atendem somente e juí
+
+403
+01:10:39,066 --> 01:10:39,866
+4
+
+404
+01:10:41,666 --> 01:10:44,533
+atendimento e juí e região
+
+405
+01:10:47,100 --> 01:10:47,900
+5
+
+406
+01:11:07,866 --> 01:11:08,666
+que saco
+
+407
+01:11:11,533 --> 01:11:14,666
+existe algum diferencial garantia equipe própria
+
+408
+01:11:17,100 --> 01:11:19,166
+orçamento equipe
+
+409
+01:11:19,900 --> 01:11:20,700
+própria
+
+410
+01:11:23,866 --> 01:11:24,733
+parcelamento
+
+411
+01:11:27,733 --> 01:11:28,533
+7
+
+412
+01:11:30,566 --> 01:11:33,200
+9 8 5 8 número vamo ver
+
+413
+01:11:40,966 --> 01:11:41,766
+oi
+
+414
+01:11:42,800 --> 01:11:45,400
+fotos reais do cliente ou nome se utilizar o Instagram
+
+415
+01:11:45,700 --> 01:11:46,500
+como referência
+
+416
+01:11:47,066 --> 01:11:47,866
+vamo lá
+
+417
+01:11:48,733 --> 01:11:50,000
+utilizar o Instagram
+
+418
+01:11:50,700 --> 01:11:51,900
+como referência
+
+419
+01:12:01,700 --> 01:12:02,500
+voa
+
+420
+01:12:17,966 --> 01:12:19,133
+baileis baileis
+
+421
+01:13:36,766 --> 01:13:37,666
+pera aí gente
+
+422
+01:15:04,466 --> 01:15:05,400
+i get higher
+
+423
+01:15:06,000 --> 01:15:08,466
+what IF i start doing Things i know i Will
+
+424
+01:17:41,900 --> 01:17:42,866
+Marisa
+
+425
+01:18:40,766 --> 01:18:42,700
+e eu tô falando mutado aqui galera
+
+426
+01:18:44,166 --> 01:18:44,966
+seguinte
+
+427
+01:18:45,533 --> 01:18:48,133
+vou ter que encerrar a live um pouquinho mais cedo hoje
+
+428
+01:18:49,200 --> 01:18:51,600
+é vou ter que vou ter que acabar saindo
+
+429
+01:18:52,500 --> 01:18:53,400
+mas resumo
+
+430
+01:18:54,333 --> 01:18:55,466
+passamos a proposta
+
+431
+01:18:55,966 --> 01:18:59,866
+da lavanderia daremos o retorno possivelmente amanhã
+
+432
+01:19:00,666 --> 01:19:03,733
+e ela ficou de dar o feedback hoje pra gente
+
+433
+01:19:04,066 --> 01:19:06,800
+e passamos o orçamento do site de climatização
+
+434
+01:19:07,600 --> 01:19:08,200
+amanhã vamos
+
+435
+01:19:08,200 --> 01:19:10,566
+entrar em contato de novo e vamos ver o que
+
+436
+01:19:11,333 --> 01:19:13,766
+vai rodar fechou então amanhã
+
+437
+01:19:13,933 --> 01:19:16,200
+tenho reunião às duas posso atrasar um pouquinho
+
+438
+01:19:16,400 --> 01:19:17,766
+mas até às três e meia
+
+439
+01:19:18,566 --> 01:19:19,366
+estaremos aqui
+
+440
+01:19:20,133 --> 01:19:22,166
+possivelmente com algum fechamento né vamos
+
+441
+01:19:22,400 --> 01:19:23,466
+torcer que dê certo
+
+442
+01:19:23,800 --> 01:19:25,000
+então já é galera até amanhã

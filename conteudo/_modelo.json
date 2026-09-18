@@ -1,0 +1,35 @@
+{
+  "dia": 7,
+  "slug": "dia-07",
+  "srt": "srt/dia-07.srt",
+  "titulo": "Dia 7 | Título da live como está no YouTube",
+  "data": "2026-09-09",
+  "duracao": "2:45:55",
+  "youtube": "https://www.youtube.com/watch?v=ID_DO_VIDEO",
+  "faturamento": "R$ 994",
+  "mrr": "R$ 99,80",
+  "resumo": "Três a cinco frases sobre o que aconteceu na live.",
+  "destaques": [
+    "O maior aprendizado da live.",
+    "O segundo maior aprendizado.",
+    "O terceiro maior aprendizado."
+  ],
+  "linha_do_tempo": [
+    { "t": "00:05:00", "texto": "O que aconteceu nesse momento." }
+  ],
+  "dicas": [
+    { "momento": "prospeccao", "t": "00:12:30", "titulo": "Título curto da dica", "texto": "Uma ou duas frases, concretas." }
+  ],
+  "scripts": [
+    { "tipo": "whatsapp", "t": "00:40:00", "titulo": "Para que serve", "texto": "Texto da mensagem, quase literal." }
+  ],
+  "duvidas": [
+    { "autor": "Nome lido na live ou null", "pergunta": "Pergunta do chat.", "resposta": "Resposta resumida.", "t": "01:02:00" }
+  ],
+  "ferramentas": [
+    { "nome": "Nome da ferramenta", "uso": "Para que foi usada." }
+  ],
+  "frases": [
+    { "t": "00:05:00", "texto": "Frase marcante, quase literal." }
+  ]
+}

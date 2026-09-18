@@ -1,0 +1,7 @@
+# Gerados pelo gerar.js (a Vercel gera a cada publicação)
+index.html
+dia-*.html
+dia-*-transcricao.txt
+
+# Configuração local da Vercel
+.vercel

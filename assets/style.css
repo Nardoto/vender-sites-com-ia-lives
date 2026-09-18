@@ -261,8 +261,7 @@ mark.atual { background: var(--mark-atual); color: #fff; }
 .meta-barra span { display: block; height: 100%; background: linear-gradient(90deg, var(--destaque), var(--destaque-2)); border-radius: 999px; }
 
 /* placar dia a dia */
-.placar { list-style: none; margin: 16px 0 0; padding: 0 0 8px; display: grid; grid-auto-flow: column; grid-auto-columns: minmax(150px, 1fr); gap: 10px; overflow-x: auto; scroll-snap-type: x mandatory; }
-.placar li { scroll-snap-align: start; }
+.placar { list-style: none; margin: 16px 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
 .placar-dia {
   display: flex; flex-direction: column; gap: 6px; height: 100%;
   background: var(--card); border: 1px solid var(--borda); border-radius: var(--raio);
@@ -318,7 +317,17 @@ mark.atual { background: var(--mark-atual); color: #fff; }
   .passo { padding-left: 16px; }
   .passo::before { position: static; display: inline-grid; margin-bottom: 6px; }
 }
-@media print { .placar { grid-auto-flow: row; grid-template-columns: repeat(4, 1fr); overflow: visible; } }
+@media print { .placar { grid-template-columns: repeat(4, 1fr); } }
+
+/* barras de rolagem no tema do site */
+* { scrollbar-width: thin; scrollbar-color: var(--borda-forte) transparent; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--borda-forte); border-radius: 999px; border: 2px solid var(--bg); }
+::-webkit-scrollbar-thumb:hover { background: var(--destaque); }
+::-webkit-scrollbar-button { display: none; height: 0; width: 0; }
+::-webkit-scrollbar-corner { background: transparent; }
+html { scrollbar-color: var(--borda-forte) var(--bg); }
 
 /* navegação e rodapé */
 .navegacao-lives { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 8px; padding: 32px 0 8px; }
