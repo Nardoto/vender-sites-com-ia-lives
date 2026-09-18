@@ -74,8 +74,10 @@ p { margin: 0 0 .8em; }
 .btn-icone {
   background: var(--card); color: var(--texto-2); border: 1px solid var(--borda);
   border-radius: 8px; padding: 6px 12px; font-size: .85rem; cursor: pointer;
+  font-family: inherit; text-decoration: none; min-height: 44px; display: inline-flex; align-items: center; flex-shrink: 0;
 }
 .btn-icone:hover { color: var(--texto); border-color: var(--borda-forte); }
+.contribuir-github { gap: .25em; }
 .so-mobile { display: none; }
 
 /* layout */
@@ -95,7 +97,38 @@ p { margin: 0 0 .8em; }
 .menu a:hover { color: var(--texto); background: var(--card); }
 .menu a.atual { color: var(--texto); background: var(--destaque-suave); border-left-color: var(--destaque); }
 .conteudo { padding: 32px clamp(16px, 4vw, 48px) 80px; max-width: 900px; width: 100%; }
+.conteudo { min-width: 0; overflow-wrap: anywhere; }
 .conteudo-largo { max-width: 1120px; margin: 0 auto; }
+
+/* leitura por capítulos, ativada apenas quando o JavaScript está disponível */
+.apenas-js { display: none; }
+.com-capitulos .apenas-js { display: block; }
+.seletor-capitulos { padding: 12px 16px; margin-bottom: 20px; background: var(--card); border: 1px solid var(--borda); border-radius: var(--raio); }
+.seletor-capitulos label { display: block; margin-bottom: 5px; font-size: .75rem; color: var(--destaque-2); font-weight: 600; text-transform: uppercase; letter-spacing: .06em; }
+.seletor-capitulos select { width: 100%; min-width: 0; min-height: 44px; padding: 8px 32px 8px 10px; font: inherit; font-weight: 600; color: var(--texto); background: var(--card-2); border: 1px solid var(--borda); border-radius: 6px; text-overflow: ellipsis; }
+.capitulo { scroll-margin-top: calc(var(--topo-h) + 16px); }
+.capitulo[hidden] { display: none; }
+.com-capitulos .capitulo-ativo { animation: revelar-capitulo .18s ease-out; }
+.capitulo > .secao:first-child { padding-top: 16px; }
+.capitulo .hero-index { padding-top: 16px; }
+.capitulo .etapa::before { display: none; }
+.etapa-corpo h2 { font-size: 1.55rem; margin-bottom: 8px; }
+.navegacao-capitulos { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px; margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--borda); }
+.capitulo-progresso { grid-column: 1 / -1; margin: 0; color: var(--texto-3); font-size: .8rem; text-align: center; }
+.navegacao-capitulos .btn { min-height: 82px; padding: 14px 18px; flex-direction: column; align-items: flex-start; justify-content: center; gap: 3px; }
+.navegacao-capitulos .btn span { color: var(--texto-3); font-size: .75rem; font-weight: 400; }
+.navegacao-capitulos .capitulo-proximo { border-color: var(--destaque); background: var(--destaque-suave); }
+.busca-capitulos { margin-bottom: 24px; }
+.busca-capitulos .contagem { display: flex; flex-wrap: wrap; gap: 6px 20px; }
+.busca-capitulos .contagem a { padding: 4px 0; text-underline-offset: 3px; }
+.contribuicao-rodape { padding: 18px; margin-bottom: 20px; border: 1px solid var(--borda); border-radius: var(--raio); background: var(--card); color: var(--texto-2); }
+.contribuicao-rodape a { display: inline-block; padding: 6px 0; margin-right: 20px; text-underline-offset: 3px; }
+.contribuir code { font-size: .9em; color: var(--texto); }
+@keyframes revelar-capitulo { from { opacity: .5; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
 
 /* hero */
 .hero { padding: 16px 0 28px; border-bottom: 1px solid var(--borda); margin-bottom: 8px; }
@@ -347,19 +380,36 @@ html { scrollbar-color: var(--borda-forte) var(--bg); }
   .menu {
     position: fixed; top: var(--topo-h); left: 0; bottom: 0; width: 280px; height: auto; z-index: 45;
     background: var(--bg); transform: translateX(-100%); transition: transform .25s;
-    box-shadow: 0 10px 40px rgba(0,0,0,.5);
+    box-shadow: 0 10px 40px rgba(0,0,0,.5); visibility: hidden;
   }
-  .menu.aberto { transform: none; }
+  .menu.aberto { transform: none; visibility: visible; }
+  html:not(.com-capitulos) .menu { position: static; width: auto; transform: none; visibility: visible; box-shadow: none; }
+  html:not(.com-capitulos) #abrir-menu { display: none; }
   .conteudo { padding-top: 20px; }
   .transcricao { max-height: none; }
 }
 @media (max-width: 520px) {
+  .topo { gap: 6px; padding: 0 12px; }
+  .topo .btn-icone { padding: 6px 9px; font-size: .78rem; }
+  .marca { min-width: 0; font-size: .75rem; line-height: 1.2; }
+  .marca strong { display: block; }
+  .github-longo { display: none; }
+  .seletor-capitulos { padding: 10px 12px; }
+  .seletor-capitulos select { font-size: .9rem; }
+  .navegacao-capitulos { grid-template-columns: minmax(0, 1fr); }
+  .navegacao-capitulos .btn { min-height: 72px; }
+  .capitulo-limite { display: none; }
   .grade, .grade-lives { grid-template-columns: 1fr; }
   .barra-transcricao .btn { padding: 7px 10px; }
 }
 
 /* impressão */
 @media print {
+  .capitulo[hidden], .com-capitulos .capitulo, .oculto { display: block !important; }
+  .capitulo { break-before: page; }
+  .capitulo:first-of-type { break-before: auto; }
+  .com-capitulos .apenas-js, .navegacao-capitulos { display: none !important; }
+  .duvida::details-content { display: block; content-visibility: visible; }
   .topo, .menu, .progresso, .filtros, .barra-transcricao, .topo-btn, .btn, .barra-acoes, .navegacao-lives { display: none !important; }
   .layout { display: block; }
   body { background: #fff; color: #000; }

@@ -10,6 +10,7 @@ const RAIZ = __dirname;
 const PASTA_CONTEUDO = path.join(RAIZ, 'conteudo');
 const SERIE = 'Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA';
 const CANAL = 'Junior Lima | MK Digital';
+const REPOSITORIO = 'https://github.com/Nardoto/vender-sites-com-ia-lives';
 
 const MOMENTOS = [
   { id: 'mentalidade', nome: 'Mentalidade e rotina' },
@@ -129,10 +130,44 @@ function cabecalho(titulo, descricao, prefixoAssets) {
 function barraTopo(voltar) {
   return `<div class="progresso" aria-hidden="true"><span id="barra-progresso"></span></div>
 <header class="topo">
-  <button class="btn-icone so-mobile" id="abrir-menu" aria-label="Abrir menu de seções" aria-expanded="false" aria-controls="menu-lateral">Menu</button>
+  <button class="btn-icone so-mobile" id="abrir-menu" aria-label="Abrir índice de capítulos" aria-expanded="false" aria-controls="menu-lateral">Menu</button>
   <a class="marca" href="${voltar}">Lives <strong>Vender Sites com IA</strong></a>
   <button class="btn-icone" id="alternar-tema" aria-label="Alternar tema claro e escuro">Tema</button>
+  <a class="btn-icone contribuir-github" href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer" aria-label="Contribuir no GitHub (abre em nova aba)"><span class="github-longo">Contribuir no </span>GitHub</a>
 </header>`;
+}
+
+function seletorCapitulos(capitulos) {
+  return `<div class="seletor-capitulos apenas-js">
+  <label for="selecionar-capitulo" id="progresso-capitulo">Capítulo 1 de ${capitulos.length}</label>
+  <select id="selecionar-capitulo" aria-label="Escolher capítulo">
+    ${capitulos.map(([id, nome], i) => `<option value="${esc(id)}">${i + 1}. ${esc(nome)}</option>`).join('\n    ')}
+  </select>
+</div>`;
+}
+
+function abrirCapitulo(capitulos, id) {
+  const capitulo = capitulos.find(([chave]) => chave === id);
+  return `<div class="capitulo" id="${esc(id)}" data-capitulo tabindex="-1" role="region" aria-label="${esc(capitulo[1])}">`;
+}
+
+function fecharCapitulo(capitulos, id) {
+  const i = capitulos.findIndex(([chave]) => chave === id);
+  const destino = (capitulo, classe, direcao) => capitulo
+    ? `<a class="btn capitulo-${classe}" href="#${esc(capitulo[0])}"><span>${direcao}</span><strong>${esc(capitulo[1])}</strong></a>`
+    : '<span class="capitulo-limite" aria-hidden="true"></span>';
+  return `<nav class="navegacao-capitulos" aria-label="Navegação entre capítulos">
+  <p class="capitulo-progresso">Capítulo ${i + 1} de ${capitulos.length}</p>
+  ${destino(capitulos[i - 1], 'anterior', 'Anterior')}
+  ${destino(capitulos[i + 1], 'proximo', 'Próximo')}
+</nav>
+</div>`;
+}
+
+function contribuicaoRodape() {
+  return `<div class="contribuicao-rodape"><p>Este site é aberto. Assistiu a uma live que falta aqui ou achou uma dica? Contribua pelo GitHub.</p>
+  <a href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer">Repositório no GitHub</a>
+  <a href="${REPOSITORIO}#como-contribuir" target="_blank" rel="noopener noreferrer">Guia de contribuição</a></div>`;
 }
 
 function rodapeScripts(prefixo) {
@@ -158,12 +193,10 @@ function paginaLive(c, segs, anterior, proxima) {
 
   const secoes = [
     ['resumo', 'Resumo'],
-    ['linha-do-tempo', 'Linha do tempo'],
     ['dicas', `Dicas (${(c.dicas || []).length})`],
     ...((c.scripts || []).length ? [['scripts', `Scripts e prompts (${c.scripts.length})`]] : []),
     ['duvidas', `Dúvidas da galera (${(c.duvidas || []).length})`],
-    ['ferramentas', 'Ferramentas'],
-    ['frases', 'Frases marcantes'],
+    ['ferramentas', 'Ferramentas e frases'],
     ['transcricao', 'Transcrição completa'],
   ];
 
@@ -173,19 +206,27 @@ function paginaLive(c, segs, anterior, proxima) {
 <body>
 ${barraTopo('index.html')}
 <div class="layout">
-<nav class="menu" id="menu-lateral" aria-label="Seções da página">
+<nav class="menu" id="menu-lateral" aria-label="Índice de capítulos">
   <p class="menu-titulo">Dia ${c.dia}</p>
   <ul>
     ${secoes.map(([id, nome]) => `<li><a href="#${id}">${esc(nome)}</a></li>`).join('\n    ')}
   </ul>
   <p class="menu-titulo">Outras lives</p>
   <ul>
-    <li><a href="index.html">Todas as lives</a></li>
+    <li><a href="index.html#lives">Todas as lives</a></li>
     ${anterior ? `<li><a href="${anterior.slug}.html">Dia ${anterior.dia}</a></li>` : ''}
     ${proxima ? `<li><a href="${proxima.slug}.html">Dia ${proxima.dia}</a></li>` : ''}
   </ul>
 </nav>
 <main class="conteudo">
+${seletorCapitulos(secoes)}
+<div class="busca-capitulos apenas-js">
+  <label class="busca"><span class="sr">Buscar nas dicas e dúvidas</span>
+    <input type="search" id="busca-geral" placeholder="Buscar nas dicas e dúvidas (tecla /)" autocomplete="off" aria-describedby="contagem-busca">
+  </label>
+  <p class="contagem" id="contagem-busca" aria-live="polite"><a href="#dicas" id="resultados-dicas"></a><a href="#duvidas" id="resultados-duvidas"></a></p>
+</div>
+${abrirCapitulo(secoes, 'resumo')}
 
 <section class="hero" id="inicio">
   <p class="sobretitulo">${esc(CANAL)} &middot; Live Dia ${c.dia}</p>
@@ -203,7 +244,7 @@ ${barraTopo('index.html')}
   </div>
 </section>
 
-<section id="resumo" class="secao">
+<section class="secao">
   <h2>Resumo da live</h2>
   <p class="lead">${esc(c.resumo || '')}</p>
   ${(c.destaques || []).length ? `<div class="destaques">${c.destaques.map((d, i) => `<div class="destaque"><span class="num">${i + 1}</span><p>${esc(d)}</p></div>`).join('')}</div>` : ''}
@@ -216,17 +257,16 @@ ${barraTopo('index.html')}
   </ol>
 </section>
 
-<section id="dicas" class="secao">
+${fecharCapitulo(secoes, 'resumo')}
+${abrirCapitulo(secoes, 'dicas')}
+<section class="secao">
   <h2>Principais dicas</h2>
   <div class="filtros">
-    <label class="busca"><span class="sr">Buscar nas dicas e dúvidas</span>
-      <input type="search" id="busca-geral" placeholder="Buscar nas dicas e dúvidas (tecla /)" autocomplete="off">
-    </label>
     <div class="chips" role="group" aria-label="Filtrar dicas por momento">
       <button class="chip ativo" data-momento="todos" aria-pressed="true">Todas</button>
       ${dicasPorMomento.map((m) => `<button class="chip m-${m.id}" data-momento="${m.id}" aria-pressed="false">${esc(m.nome)} <span>${m.itens.length}</span></button>`).join('\n      ')}
     </div>
-    <p class="contagem" id="contagem-busca" aria-live="polite"></p>
+    <p class="contagem apenas-js" id="contagem-dicas" aria-live="polite"></p>
   </div>
   ${dicasPorMomento.map((m) => `<div class="grupo-dicas" data-grupo="${m.id}">
     <h3 class="m-${m.id}">${esc(m.nome)}</h3>
@@ -239,8 +279,9 @@ ${barraTopo('index.html')}
     </div>
   </div>`).join('\n  ')}
 </section>
+${fecharCapitulo(secoes, 'dicas')}
 
-${(c.scripts || []).length ? `<section id="scripts" class="secao">
+${(c.scripts || []).length ? `${abrirCapitulo(secoes, 'scripts')}<section class="secao">
   <h2>Scripts de WhatsApp e prompts</h2>
   <p class="nota">Textos ditados ou digitados na live, quase literais. Use o botão para copiar.</p>
   ${c.scripts.map((s, i) => `<div class="script">
@@ -249,9 +290,10 @@ ${(c.scripts || []).length ? `<section id="scripts" class="secao">
     <blockquote id="script-${i}">${esc(s.texto)}</blockquote>
     <button class="btn btn-copiar" data-copiar="script-${i}" aria-label="Copiar: ${esc(s.titulo)}">Copiar</button>
   </div>`).join('\n  ')}
-</section>` : ''}
+</section>${fecharCapitulo(secoes, 'scripts')}` : ''}
 
-<section id="duvidas" class="secao">
+${abrirCapitulo(secoes, 'duvidas')}
+<section class="secao">
   <h2>Principais dúvidas da galera</h2>
   <div class="barra-acoes">
     <button class="btn" id="abrir-duvidas">Abrir todas</button>
@@ -262,8 +304,10 @@ ${(c.scripts || []).length ? `<section id="scripts" class="secao">
     <div class="resposta"><p class="hl">${esc(d.resposta)}</p>${tagTempo(yt, d.t)}</div>
   </details>`).join('\n  ') : '<p class="nota">Nenhuma dúvida do chat foi respondida em voz alta nesta live.</p>'}
 </section>
+${fecharCapitulo(secoes, 'duvidas')}
 
-<section id="ferramentas" class="secao">
+${abrirCapitulo(secoes, 'ferramentas')}
+<section class="secao">
   <h2>Ferramentas citadas</h2>
   <div class="grade grade-ferramentas">
     ${(c.ferramentas || []).map((f) => `<div class="card ferramenta"><h4>${esc(f.nome)}</h4><p>${esc(f.uso)}</p></div>`).join('\n    ')}
@@ -277,7 +321,9 @@ ${(c.scripts || []).length ? `<section id="scripts" class="secao">
   </div>
 </section>
 
-<section id="transcricao" class="secao">
+${fecharCapitulo(secoes, 'ferramentas')}
+${abrirCapitulo(secoes, 'transcricao')}
+<section class="secao">
   <h2>Transcrição completa</h2>
   <p class="nota">Registro integral da live, gerado por legenda automática. Pode conter erros de reconhecimento, principalmente em nomes próprios. Clique no horário para abrir o vídeo naquele ponto.</p>
   <div class="barra-transcricao">
@@ -293,14 +339,16 @@ ${(c.scripts || []).length ? `<section id="scripts" class="secao">
     ${pars.map((p) => `<p class="par">${tagTempo(yt, p.ini)} ${p.segs.map((s) => `<span class="seg">${esc(s.texto)}</span>`).join(' ')}</p>`).join('\n    ')}
   </div>
 </section>
+${fecharCapitulo(secoes, 'transcricao')}
 
 <nav class="navegacao-lives" aria-label="Navegação entre lives">
   ${anterior ? `<a class="btn" href="${anterior.slug}.html">Live anterior: Dia ${anterior.dia}</a>` : '<span></span>'}
-  <a class="btn" href="index.html">Todas as lives</a>
+  <a class="btn" href="index.html#lives">Todas as lives</a>
   ${proxima ? `<a class="btn" href="${proxima.slug}.html">Próxima live: Dia ${proxima.dia}</a>` : '<span></span>'}
 </nav>
 
 <footer class="rodape">
+  ${contribuicaoRodape()}
   <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube. Resumos e dicas extraídos da transcrição automática.</p>
 </footer>
 </main>
@@ -326,6 +374,12 @@ function paginaIndex(lives, jornada) {
   const mrr = Math.max(0, ...lives.map((c) => valorReais(c.mrr)));
   const pct = Math.min(100, Math.round((faturado / META) * 100));
   const etapas = (jornada && jornada.etapas) || [];
+  const capitulos = [
+    ['inicio', 'O desafio'],
+    ...etapas.map((e, i) => [`etapa-${e.id}`, `Etapa ${i + 1}: ${e.nome}`]),
+    ['lives', 'Todas as lives'],
+    ['como-contribuir', 'Como contribuir'],
+  ];
   const marcos = Object.fromEntries(((jornada && jornada.placar) || []).map((p) => [p.dia, p.marco]));
   const titulo = `A jornada completa: ${SERIE}`;
   const descricao = 'Da decisão ao site entregue: a linha do tempo completa para mapear clientes, criar a demonstração com IA, abordar pelo WhatsApp, vender e produzir o site final, com dicas e transcrição de cada live.';
@@ -340,11 +394,10 @@ function paginaIndex(lives, jornada) {
 <body class="pagina-index">
 ${barraTopo('index.html')}
 <div class="layout">
-<nav class="menu" id="menu-lateral" aria-label="Seções da página">
+<nav class="menu" id="menu-lateral" aria-label="Índice de capítulos">
   <p class="menu-titulo">Visão geral</p>
   <ul>
     <li><a href="#inicio">O desafio</a></li>
-    <li><a href="#placar">Placar dia a dia</a></li>
   </ul>
   <p class="menu-titulo">A jornada</p>
   <ul>
@@ -353,11 +406,14 @@ ${barraTopo('index.html')}
   <p class="menu-titulo">Conteúdo</p>
   <ul>
     <li><a href="#lives">Todas as lives</a></li>
+    <li><a href="#como-contribuir">Como contribuir</a></li>
   </ul>
 </nav>
 <main class="conteudo">
+${seletorCapitulos(capitulos)}
+${abrirCapitulo(capitulos, 'inicio')}
 
-<section class="hero hero-index" id="inicio">
+<section class="hero hero-index">
   <p class="sobretitulo">${esc(CANAL)} &middot; desafio ao vivo</p>
   <h1>Como vender sites com IA, do zero ao primeiro salário</h1>
   <p class="lead">${esc((jornada && jornada.intro) || 'Um desafio ao vivo: sair do zero e chegar a um salário mínimo vendendo sites para empresas locais, criados com IA.')}</p>
@@ -395,14 +451,14 @@ ${barraTopo('index.html')}
   </ol>
 </section>
 
-<section class="secao jornada" id="jornada">
-  <h2>A jornada completa</h2>
-  <p class="nota">O processo inteiro, na ordem em que acontece. Cada passo mostra em qual live e em qual minuto ele foi ensinado.</p>
-  ${etapas.map((e, i) => `<article class="etapa" id="etapa-${esc(e.id)}">
+${fecharCapitulo(capitulos, 'inicio')}
+  ${etapas.map((e, i) => `${abrirCapitulo(capitulos, `etapa-${e.id}`)}
+  ${i === 0 ? '<span id="jornada"></span>' : ''}
+  <article class="etapa">
     <div class="etapa-marcador" aria-hidden="true"><span>${i + 1}</span></div>
     <div class="etapa-corpo">
       <p class="etapa-num">Etapa ${i + 1} de ${etapas.length}</p>
-      <h3>${esc(e.nome)}</h3>
+      <h2>${esc(e.nome)}</h2>
       <p class="etapa-chamada">${esc(e.chamada || '')}</p>
       <ol class="passos">
         ${(e.passos || []).map((p) => `<li class="passo">
@@ -422,10 +478,11 @@ ${barraTopo('index.html')}
         ${e.cuidado ? `<p class="cuidado"><strong>Cuidado:</strong> ${esc(e.cuidado)}</p>` : ''}
       </div>
     </div>
-  </article>`).join('\n  ')}
-</section>
+  </article>
+  ${fecharCapitulo(capitulos, `etapa-${e.id}`)}`).join('\n  ')}
 
-<section class="secao" id="lives">
+${abrirCapitulo(capitulos, 'lives')}
+<section class="secao">
   <h2>Todas as lives</h2>
   <p class="nota">Cada página tem resumo, dicas por etapa, scripts, dúvidas da galera e a transcrição completa com busca.</p>
   <div class="grade grade-lives">
@@ -439,7 +496,23 @@ ${barraTopo('index.html')}
     </a>`).join('\n    ')}
   </div>
 </section>
+${fecharCapitulo(capitulos, 'lives')}
+${abrirCapitulo(capitulos, 'como-contribuir')}
+<section class="secao contribuir">
+  <p class="sobretitulo">Uma jornada construída em conjunto</p>
+  <h2>Como contribuir</h2>
+  <p class="lead">Assistiu a uma live que falta aqui ou encontrou uma dica? Ajude a manter este material completo e útil para todo mundo.</p>
+  <ol class="passos">
+    <li class="passo"><h3>Faça um fork</h3><p>Crie sua cópia do <a href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer">repositório no GitHub</a>.</p></li>
+    <li class="passo"><h3>Adicione a legenda</h3><p>Coloque a legenda da live em <code>srt/dia-XX.srt</code>, usando o número do dia no lugar de XX.</p></li>
+    <li class="passo"><h3>Preencha o conteúdo</h3><p>Copie <code>conteudo/_modelo.json</code> para <code>conteudo/dia-XX.json</code> e preencha os dados, as dicas e as dúvidas da live.</p></li>
+    <li class="passo"><h3>Envie um pull request</h3><p>Envie sua contribuição para revisão. Cada pull request passa por uma checagem automática e o site publica sozinho depois de aprovado.</p></li>
+  </ol>
+  <div class="acoes"><a class="btn btn-primario" href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer">Contribuir no GitHub</a><a class="btn" href="${REPOSITORIO}#como-contribuir" target="_blank" rel="noopener noreferrer">Ler o guia de contribuição</a></div>
+</section>
+${fecharCapitulo(capitulos, 'como-contribuir')}
 <footer class="rodape">
+  ${contribuicaoRodape()}
   <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube. Resumos e dicas extraídos da transcrição automática.</p>
 </footer>
 </main>

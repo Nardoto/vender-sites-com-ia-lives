@@ -8,3 +8,7 @@ dia-*-transcricao.txt
 
 .vercel
 .env*
+
+# Arquivos locais de teste e do Studio
+validacao/
+.nardoto/

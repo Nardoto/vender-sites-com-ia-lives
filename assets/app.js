@@ -18,6 +18,7 @@
     if (!termo) { el.textContent = original; return 0; }
     var alvo = normalizar(original);
     var t = normalizar(termo);
+    if (!t) { el.textContent = original; return 0; }
     var partes = [];
     var i = 0, achados = 0, pos;
     while ((pos = alvo.indexOf(t, i)) !== -1) {
@@ -71,23 +72,64 @@
   aoRolar();
   if (topoBtn) topoBtn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
 
-  // Seção atual no menu
-  if (menu && 'IntersectionObserver' in window) {
-    var links = $$('a[href^="#"]', menu);
-    var mapa = {};
-    links.forEach(function (a) { mapa[a.getAttribute('href').slice(1)] = a; });
-    var obs = new IntersectionObserver(function (entradas) {
-      entradas.forEach(function (e) {
-        if (e.isIntersecting && mapa[e.target.id]) {
-          links.forEach(function (a) { a.classList.remove('atual'); });
-          mapa[e.target.id].classList.add('atual');
-        }
-      });
-    }, { rootMargin: '-45% 0px -50% 0px' });
-    Object.keys(mapa).forEach(function (id) {
-      var s = document.getElementById(id);
-      if (s) obs.observe(s);
+  // Capítulos: os links continuam sendo âncoras legíveis sem JavaScript.
+  var capitulos = $$('[data-capitulo]');
+  var seletor = $('#selecionar-capitulo');
+  var capituloAtual;
+  function destinoDoHash(hash) {
+    var id;
+    try { id = decodeURIComponent((hash || '').replace(/^#/, '')); } catch (e) { return null; }
+    var alvo = document.getElementById(id);
+    return alvo && alvo.closest('[data-capitulo]');
+  }
+  function mostrarCapitulo(capitulo, rolar, focar) {
+    if (!capitulo) return;
+    capituloAtual = capitulo;
+    capitulos.forEach(function (c) {
+      c.hidden = c !== capitulo;
+      c.classList.toggle('capitulo-ativo', c === capitulo);
     });
+    if (seletor) seletor.value = capitulo.id;
+    var progresso = $('#progresso-capitulo');
+    if (progresso) progresso.textContent = 'Capítulo ' + (capitulos.indexOf(capitulo) + 1) + ' de ' + capitulos.length;
+    if (menu) $$('a[href^="#"]', menu).forEach(function (a) {
+      var ativo = destinoDoHash(a.hash) === capitulo;
+      a.classList.toggle('atual', ativo);
+      if (ativo) a.setAttribute('aria-current', 'step');
+      else a.removeAttribute('aria-current');
+    });
+    if (focar) capitulo.focus({ preventScroll: true });
+    if (rolar) {
+      var topo = $('.conteudo').getBoundingClientRect().top + window.scrollY - $('.topo').offsetHeight;
+      window.scrollTo({ top: Math.max(0, topo), behavior: 'instant' });
+    }
+    aoRolar();
+  }
+  function navegarCapitulo(hash, focar) {
+    var destino = destinoDoHash(hash);
+    if (!destino) return;
+    if (location.hash !== hash) history.pushState(null, '', hash);
+    mostrarCapitulo(destino, true, focar);
+  }
+  if (capitulos.length) {
+    document.documentElement.classList.add('com-capitulos');
+    if ('scrollRestoration' in history) history.scrollRestoration = 'manual';
+    mostrarCapitulo(destinoDoHash(location.hash) || capitulos[0], false, false);
+    document.addEventListener('click', function (e) {
+      if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+      var a = e.target.closest('a[href^="#"]');
+      if (!a || a.target === '_blank' || !destinoDoHash(a.hash)) return;
+      e.preventDefault();
+      navegarCapitulo(a.hash, true);
+    });
+    if (seletor) seletor.addEventListener('change', function () { navegarCapitulo('#' + seletor.value, true); });
+    function restaurarCapitulo() {
+      mostrarCapitulo(destinoDoHash(location.hash) || capitulos[0], true, false);
+    }
+    window.addEventListener('popstate', restaurarCapitulo);
+    window.addEventListener('hashchange', restaurarCapitulo);
+    // Aguarda a restauração nativa de âncoras ao abrir um link direto.
+    window.addEventListener('load', restaurarCapitulo);
   }
 
   // Copiar scripts
@@ -124,7 +166,7 @@
   function aplicarFiltro() {
     var termo = buscaGeral ? buscaGeral.value.trim() : '';
     if (termo.length < 2) termo = '';
-    var visiveis = 0, total = 0;
+    var dicasVisiveis = 0, duvidasVisiveis = 0;
     $$('.filtravel').forEach(function (el) {
       var alvos = $$('.hl', el);
       var achou = 0;
@@ -134,19 +176,25 @@
       var mostrar = passaMomento && passaBusca;
       el.classList.toggle('oculto', !mostrar);
       if (termo && el.tagName === 'DETAILS') el.open = mostrar;
-      total++;
-      if (mostrar) visiveis++;
+      if (mostrar && el.classList.contains('dica')) dicasVisiveis++;
+      if (mostrar && el.classList.contains('duvida')) duvidasVisiveis++;
     });
     $$('.grupo-dicas').forEach(function (g) {
       var algum = $$('.dica', g).some(function (d) { return !d.classList.contains('oculto'); });
       g.classList.toggle('oculto', !algum);
     });
-    var cont = $('#contagem-busca');
-    if (cont) {
-      cont.textContent = termo || momentoAtual !== 'todos'
-        ? visiveis + ' de ' + total + ' itens visíveis'
-        : '';
+    var resultadoDicas = $('#resultados-dicas'), resultadoDuvidas = $('#resultados-duvidas');
+    var plural = function (n, s, p) { return n + ' ' + (n === 1 ? s : p); };
+    if (resultadoDicas) {
+      resultadoDicas.textContent = termo ? plural(dicasVisiveis, 'resultado em Dicas', 'resultados em Dicas') : '';
+      resultadoDicas.hidden = !termo;
     }
+    if (resultadoDuvidas) {
+      resultadoDuvidas.textContent = termo ? plural(duvidasVisiveis, 'resultado em Dúvidas', 'resultados em Dúvidas') : '';
+      resultadoDuvidas.hidden = !termo;
+    }
+    var cont = $('#contagem-dicas');
+    if (cont) cont.textContent = dicasVisiveis ? dicasVisiveis + ' dicas encontradas' : 'Nenhuma dica encontrada. Tente outro termo ou escolha outro momento.';
   }
   chips.forEach(function (c) {
     c.addEventListener('click', function () {
@@ -162,16 +210,24 @@
   if (buscaGeral) {
     var espera;
     buscaGeral.addEventListener('input', function () {
+      if (capituloAtual && capituloAtual.id !== 'dicas' && capituloAtual.id !== 'duvidas') navegarCapitulo('#dicas', false);
       clearTimeout(espera);
       espera = setTimeout(aplicarFiltro, 120);
     });
+    aplicarFiltro();
   }
 
   // Abrir e fechar dúvidas
   var abrirD = $('#abrir-duvidas'), fecharD = $('#fechar-duvidas');
   if (abrirD) abrirD.addEventListener('click', function () { $$('.duvida').forEach(function (d) { d.open = true; }); });
   if (fecharD) fecharD.addEventListener('click', function () { $$('.duvida').forEach(function (d) { d.open = false; }); });
-  window.addEventListener('beforeprint', function () { $$('.duvida').forEach(function (d) { d.open = true; }); });
+  var duvidasAbertas;
+  window.addEventListener('beforeprint', function () {
+    duvidasAbertas = $$('.duvida').map(function (d) { var aberto = d.open; d.open = true; return aberto; });
+  });
+  window.addEventListener('afterprint', function () {
+    if (duvidasAbertas) $$('.duvida').forEach(function (d, i) { d.open = duvidasAbertas[i]; });
+  });
 
   // Busca na transcrição
   var buscaT = $('#busca-transcricao');
@@ -217,9 +273,14 @@
   document.addEventListener('keydown', function (e) {
     var tag = (e.target.tagName || '').toLowerCase();
     if (e.key === '/' && tag !== 'input' && tag !== 'textarea') {
-      var alvo = buscaGeral || buscaT;
+      var alvo = capituloAtual && capituloAtual.id === 'transcricao' ? buscaT : buscaGeral;
       if (alvo) { e.preventDefault(); alvo.focus(); }
     }
-    if (e.key === 'Escape' && menu) menu.classList.remove('aberto');
+    if (e.key === 'Escape' && menu && abrirMenu) {
+      var estavaAberto = menu.classList.contains('aberto');
+      menu.classList.remove('aberto');
+      abrirMenu.setAttribute('aria-expanded', 'false');
+      if (estavaAberto) abrirMenu.focus();
+    }
   });
 })();
