@@ -128,11 +128,14 @@ function cabecalho(titulo, descricao, prefixoAssets) {
 </head>`;
 }
 
-function barraTopo(voltar) {
+function barraTopo(voltar, lives, atual) {
   return `<div class="progresso" aria-hidden="true"><span id="barra-progresso"></span></div>
 <header class="topo">
   <button class="btn-icone so-mobile" id="abrir-menu" aria-label="Abrir índice de capítulos" aria-expanded="false" aria-controls="menu-lateral">Menu</button>
   <a class="marca" href="${voltar}">Lives <strong>Vender Sites com IA</strong></a>
+  <nav class="topo-lives" aria-label="Lista de lives">
+    ${lives.map((c) => `<a href="${c.slug}.html"${c === atual ? ' aria-current="page"' : ''} title="${esc(`${rotuloLive(c)}: ${nomeCurto(c)}`)}">${esc(rotuloLive(c))}</a>`).join('')}
+  </nav>
   <button class="btn-icone" id="alternar-tema" aria-label="Alternar tema claro e escuro">Tema</button>
   <a class="btn-icone contribuir-github" href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer" aria-label="Contribuir no GitHub (abre em nova aba)"><span class="github-longo">Contribuir no </span>GitHub</a>
 </header>`;
@@ -179,7 +182,7 @@ function rodapeScripts(prefixo) {
 `;
 }
 
-function paginaLive(c, segs, anterior, proxima) {
+function paginaLive(c, segs, anterior, proxima, lives) {
   const yt = c.youtube;
   const limitada = c.fonte_limitada === true;
   const titulo = `${rotuloLive(c)}: ${limitada ? 'vídeo e informações da live' : 'dicas, dúvidas e transcrição da live'} | ${SERIE}`;
@@ -207,7 +210,7 @@ function paginaLive(c, segs, anterior, proxima) {
 
   return `${cabecalho(titulo, descricao, '')}
 <body>
-${barraTopo('index.html')}
+${barraTopo('index.html', lives, c)}
 <div class="layout">
 <nav class="menu" id="menu-lateral" aria-label="Índice de capítulos">
   <p class="menu-titulo">${esc(rotuloLive(c))}</p>
@@ -464,7 +467,7 @@ function paginaIndex(lives, jornada, duvidas, guia) {
 
   return `${cabecalho(titulo, descricao, '')}
 <body class="pagina-index">
-${barraTopo('index.html')}
+${barraTopo('index.html', lives)}
 <div class="layout">
 <nav class="menu" id="menu-lateral" aria-label="Índice de capítulos">
   <p class="menu-titulo">Visão geral</p>
@@ -650,7 +653,7 @@ function main() {
   let falhou = false;
   lives.forEach((c, i) => {
     if (c.fonte_limitada === true) {
-      fs.writeFileSync(path.join(RAIZ, `${c.slug}.html`), paginaLive(c, [], lives[i - 1], lives[i + 1]), 'utf8');
+      fs.writeFileSync(path.join(RAIZ, `${c.slug}.html`), paginaLive(c, [], lives[i - 1], lives[i + 1], lives), 'utf8');
       console.log(`[${rotuloLive(c)}] ${c.slug}.html | somente metadados e vídeo; sem transcrição.`);
       return;
     }
@@ -661,7 +664,7 @@ function main() {
       return;
     }
     const segs = lerSRT(arqSrt);
-    const html = paginaLive(c, segs, lives[i - 1], lives[i + 1]);
+    const html = paginaLive(c, segs, lives[i - 1], lives[i + 1], lives);
     fs.writeFileSync(path.join(RAIZ, `${c.slug}.html`), html, 'utf8');
 
     const txt = segs.map((s) => `[${formatarTempo(s.ini)}] ${s.texto}`).join('\n');

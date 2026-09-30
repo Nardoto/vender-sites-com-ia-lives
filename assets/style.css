@@ -69,7 +69,17 @@ p { margin: 0 0 .8em; }
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--borda);
 }
-.marca { color: var(--texto); text-decoration: none; font-size: .95rem; margin-right: auto; }
+.marca { color: var(--texto); text-decoration: none; font-size: .95rem; flex-shrink: 0; }
+.topo-lives {
+  flex: 1; min-width: 0; display: flex; gap: 4px; overflow-x: auto; scrollbar-width: thin;
+  padding: 4px 0; mask-image: linear-gradient(to right, #000 92%, transparent);
+}
+.topo-lives a {
+  flex-shrink: 0; padding: 6px 10px; border-radius: 8px; font-size: .8rem; white-space: nowrap;
+  color: var(--texto-2); text-decoration: none; background: var(--card); border: 1px solid var(--borda);
+}
+.topo-lives a:hover { color: var(--texto); border-color: var(--borda-forte); }
+.topo-lives a[aria-current="page"] { color: #fff; background: var(--destaque); border-color: var(--destaque); }
 .marca strong { color: var(--destaque); }
 .btn-icone {
   background: var(--card); color: var(--texto-2); border: 1px solid var(--borda);
@@ -404,7 +414,8 @@ html { scrollbar-color: var(--borda-forte) var(--bg); }
 @media (max-width: 520px) {
   .topo { gap: 6px; padding: 0 12px; }
   .topo .btn-icone { padding: 6px 9px; font-size: .78rem; }
-  .marca { min-width: 0; font-size: .75rem; line-height: 1.2; }
+  .marca { min-width: 0; font-size: .75rem; line-height: 1.2; margin-right: auto; }
+  .topo-lives { display: none; }
   .marca strong { display: block; }
   .github-longo { display: none; }
   .seletor-capitulos { padding: 10px 12px; }
