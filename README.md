@@ -15,7 +15,7 @@ Cada live tem dois arquivos:
 | `srt/dia-XX.srt` | A legenda da live, com horários |
 | `conteudo/dia-XX.json` | Resumo, dicas, scripts, dúvidas, ferramentas e frases da live |
 
-A página inicial usa também `conteudo/jornada.json`, com as etapas do processo inteiro.
+Na página inicial, cada live vira um capítulo próprio, com o `nome` curto do `dia-XX.json`. Uma live nova entra no índice sozinha. A página inicial usa também `conteudo/jornada.json` (introdução e marcos do placar) e `conteudo/duvidas.json` (principais dúvidas).
 
 O script `gerar.js` junta tudo e cria as páginas HTML. Você não precisa editar HTML.
 

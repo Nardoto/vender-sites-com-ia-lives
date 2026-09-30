@@ -369,6 +369,8 @@ function reais(n) {
   return 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 });
 }
 
+const nomeCurto = (c) => c.nome || `Live do dia ${c.dia}`;
+
 function paginaIndex(lives, jornada, duvidas) {
   const temas = (duvidas && duvidas.temas) || [];
   const totalPrincipais = temas.reduce((a, t) => a + (t.perguntas || []).length, 0);
@@ -380,17 +382,16 @@ function paginaIndex(lives, jornada, duvidas) {
   const faturado = Math.max(0, ...lives.map((c) => valorReais(c.faturamento)));
   const mrr = Math.max(0, ...lives.map((c) => valorReais(c.mrr)));
   const pct = Math.min(100, Math.round((faturado / META) * 100));
-  const etapas = (jornada && jornada.etapas) || [];
   const capitulos = [
     ['inicio', 'O desafio'],
-    ...etapas.map((e, i) => [`etapa-${e.id}`, `Etapa ${i + 1}: ${e.nome}`]),
+    ...lives.map((c) => [c.slug, `Dia ${c.dia}: ${nomeCurto(c)}`]),
     ...(temas.length ? [['duvidas', 'Principais dúvidas']] : []),
     ['lives', 'Todas as lives'],
     ['como-contribuir', 'Como contribuir'],
   ];
   const marcos = Object.fromEntries(((jornada && jornada.placar) || []).map((p) => [p.dia, p.marco]));
   const titulo = `A jornada completa: ${SERIE}`;
-  const descricao = 'Da decisão ao site entregue: a linha do tempo completa para mapear clientes, criar a demonstração com IA, abordar pelo WhatsApp, vender e produzir o site final, com dicas e transcrição de cada live.';
+  const descricao = 'O desafio live por live: o que aconteceu em cada dia para mapear clientes, criar a demonstração com IA, abordar pelo WhatsApp, vender e entregar o site, com dicas e transcrição de cada live.';
 
   const fonteLink = (f) => {
     const c = porDia[f.dia];
@@ -407,9 +408,9 @@ ${barraTopo('index.html')}
   <ul>
     <li><a href="#inicio">O desafio</a></li>
   </ul>
-  <p class="menu-titulo">A jornada</p>
+  <p class="menu-titulo">Dias de live</p>
   <ul>
-    ${etapas.map((e, i) => `<li><a href="#etapa-${esc(e.id)}"><span class="menu-num">${i + 1}</span> ${esc(e.nome)}</a></li>`).join('\n    ')}
+    ${lives.map((c) => `<li><a href="#${esc(c.slug)}"><span class="menu-num">${c.dia}</span> ${esc(nomeCurto(c))}</a></li>`).join('\n    ')}
   </ul>
   <p class="menu-titulo">Conteúdo</p>
   <ul>
@@ -432,13 +433,12 @@ ${abrirCapitulo(capitulos, 'inicio')}
     <div class="meta-rodape"><span>${pct}% da meta</span>${mrr ? `<span>Receita recorrente: <strong>${reais(mrr)} por mês</strong></span>` : ''}</div>
   </div>
   <div class="fichas">
-    <div class="ficha"><span>Etapas da jornada</span><strong>${etapas.length}</strong></div>
     <div class="ficha"><span>Lives resumidas</span><strong>${lives.length}</strong></div>
     <div class="ficha"><span>Dicas</span><strong>${totalDicas}</strong></div>
     <div class="ficha"><span>Dúvidas respondidas</span><strong>${totalDuvidas}</strong></div>
   </div>
   <div class="acoes">
-    ${etapas[0] ? `<a class="btn btn-primario" href="#etapa-${esc(etapas[0].id)}">Começar a jornada</a>` : ''}
+    ${lives[0] ? `<a class="btn btn-primario" href="#${esc(lives[0].slug)}">Começar pelo Dia ${lives[0].dia}</a>` : ''}
     ${temas.length ? '<a class="btn" href="#duvidas">Principais dúvidas</a>' : ''}
     <a class="btn" href="#lives">Ver as lives</a>
   </div>
@@ -462,34 +462,31 @@ ${abrirCapitulo(capitulos, 'inicio')}
 </section>
 
 ${fecharCapitulo(capitulos, 'inicio')}
-  ${etapas.map((e, i) => `${abrirCapitulo(capitulos, `etapa-${e.id}`)}
-  ${i === 0 ? '<span id="jornada"></span>' : ''}
+  ${lives.map((c, i) => `${abrirCapitulo(capitulos, c.slug)}
   <article class="etapa">
-    <div class="etapa-marcador" aria-hidden="true"><span>${i + 1}</span></div>
+    <div class="etapa-marcador" aria-hidden="true"><span>${c.dia}</span></div>
     <div class="etapa-corpo">
-      <p class="etapa-num">Etapa ${i + 1} de ${etapas.length}</p>
-      <h2>${esc(e.nome)}</h2>
-      <p class="etapa-chamada">${esc(e.chamada || '')}</p>
-      <ol class="passos">
-        ${(e.passos || []).map((p) => `<li class="passo">
-          <h4>${esc(p.titulo)}</h4>
-          <p>${esc(p.texto)}</p>
-          ${(p.fontes || []).length ? `<div class="fontes">${p.fontes.map(fonteLink).join('')}</div>` : ''}
-        </li>`).join('\n        ')}
-      </ol>
-      ${e.script && e.script.texto ? `<div class="script">
-        <div class="card-topo"><span class="tag m-whatsapp">Pronto para copiar</span></div>
-        <h4>${esc(e.script.titulo)}</h4>
-        <blockquote id="script-etapa-${i}">${esc(e.script.texto)}</blockquote>
-        <button class="btn btn-copiar" data-copiar="script-etapa-${i}" aria-label="Copiar: ${esc(e.script.titulo)}">Copiar</button>
-      </div>` : ''}
-      <div class="etapa-rodape">
-        ${(e.ferramentas || []).length ? `<div class="etapa-ferramentas"><span>Ferramentas:</span> ${e.ferramentas.map((f) => `<span class="chip-ferramenta">${esc(f)}</span>`).join(' ')}</div>` : ''}
-        ${e.cuidado ? `<p class="cuidado"><strong>Cuidado:</strong> ${esc(e.cuidado)}</p>` : ''}
+      <p class="etapa-num">Live ${i + 1} de ${lives.length} &middot; ${dataBR(c.data)} &middot; ${esc(c.duracao || '')}</p>
+      <h2>Dia ${c.dia}: ${esc(nomeCurto(c))}</h2>
+      <p class="etapa-chamada">${esc(c.resumo || '')}</p>
+      <div class="fichas">
+        <div class="ficha"><span>Faturamento no dia</span><strong>${esc(c.faturamento || 'Não informado')}</strong></div>
+        ${c.mrr ? `<div class="ficha"><span>Receita recorrente</span><strong>${esc(c.mrr)}</strong></div>` : ''}
+        <div class="ficha"><span>Dicas</span><strong>${(c.dicas || []).length}</strong></div>
+        <div class="ficha"><span>Dúvidas</span><strong>${(c.duvidas || []).length}</strong></div>
+      </div>
+      ${(c.destaques || []).length ? `<div class="destaques">${c.destaques.map((d, j) => `<div class="destaque"><span class="num">${j + 1}</span><p>${esc(d)}</p></div>`).join('')}</div>` : ''}
+      ${(c.linha_do_tempo || []).length ? `<h3>O que aconteceu na live</h3>
+      <ol class="timeline">
+        ${c.linha_do_tempo.map((m) => `<li>${tagTempo(c.youtube, m.t)}<p>${esc(m.texto)}</p></li>`).join('\n        ')}
+      </ol>` : ''}
+      <div class="acoes">
+        <a class="btn btn-primario" href="${c.slug}.html">Dicas, dúvidas e transcrição</a>
+        ${c.youtube ? `<a class="btn" href="${esc(c.youtube)}" target="_blank" rel="noopener">Assistir no YouTube</a>` : ''}
       </div>
     </div>
   </article>
-  ${fecharCapitulo(capitulos, `etapa-${e.id}`)}`).join('\n  ')}
+  ${fecharCapitulo(capitulos, c.slug)}`).join('\n  ')}
 
 ${temas.length ? `${abrirCapitulo(capitulos, 'duvidas')}
 <section class="secao principais-duvidas">

@@ -322,6 +322,7 @@ mark.atual { background: var(--mark-atual); color: #fff; }
 }
 .etapa-num { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--destaque); font-weight: 600; margin: 8px 0 4px; }
 .etapa-corpo h3 { font-size: 1.35rem; margin-bottom: 4px; }
+.etapa-corpo > h3 { margin-top: 24px; }
 .etapa-chamada { color: var(--texto-2); font-size: 1.02rem; }
 .passos { list-style: none; counter-reset: passo; margin: 14px 0; padding: 0; display: grid; gap: 10px; }
 .passo {
