@@ -5,6 +5,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { validarConteudo } = require('./validar-conteudo');
 
 const RAIZ = __dirname;
 const PASTA_CONTEUDO = path.join(RAIZ, 'conteudo');
@@ -180,8 +181,9 @@ function rodapeScripts(prefixo) {
 
 function paginaLive(c, segs, anterior, proxima) {
   const yt = c.youtube;
-  const titulo = `Dia ${c.dia}: dicas, dúvidas e transcrição da live | ${SERIE}`;
-  const descricao = c.resumo ? c.resumo.slice(0, 180) : `Resumo da live Dia ${c.dia}`;
+  const limitada = c.fonte_limitada === true;
+  const titulo = `${rotuloLive(c)}: ${limitada ? 'vídeo e informações da live' : 'dicas, dúvidas e transcrição da live'} | ${SERIE}`;
+  const descricao = resumoLive(c).slice(0, 180);
   const pars = agruparParagrafos(segs);
 
   const dicasPorMomento = MOMENTOS.map((m) => ({
@@ -191,8 +193,9 @@ function paginaLive(c, segs, anterior, proxima) {
   const outrasDicas = (c.dicas || []).filter((d) => !NOME_MOMENTO[d.momento]);
   if (outrasDicas.length) dicasPorMomento.push({ id: 'outros', nome: 'Outras dicas', itens: outrasDicas });
 
-  const secoes = [
+  const secoes = limitada ? [['resumo', 'Sobre a live']] : [
     ['resumo', 'Resumo'],
+    ...((c.como_praticar || []).length ? [['como-praticar', 'Como praticar']] : []),
     ['dicas', `Dicas (${(c.dicas || []).length})`],
     ...((c.scripts || []).length ? [['scripts', `Scripts e prompts (${c.scripts.length})`]] : []),
     ['duvidas', `Dúvidas da galera (${(c.duvidas || []).length})`],
@@ -207,57 +210,73 @@ function paginaLive(c, segs, anterior, proxima) {
 ${barraTopo('index.html')}
 <div class="layout">
 <nav class="menu" id="menu-lateral" aria-label="Índice de capítulos">
-  <p class="menu-titulo">Dia ${c.dia}</p>
+  <p class="menu-titulo">${esc(rotuloLive(c))}</p>
   <ul>
     ${secoes.map(([id, nome]) => `<li><a href="#${id}">${esc(nome)}</a></li>`).join('\n    ')}
   </ul>
   <p class="menu-titulo">Outras lives</p>
   <ul>
     <li><a href="index.html#lives">Todas as lives</a></li>
-    ${anterior ? `<li><a href="${anterior.slug}.html">Dia ${anterior.dia}</a></li>` : ''}
-    ${proxima ? `<li><a href="${proxima.slug}.html">Dia ${proxima.dia}</a></li>` : ''}
+    <li><a href="index.html#guia-iniciante">Comece por aqui</a></li>
+    ${anterior ? `<li><a href="${anterior.slug}.html">${esc(rotuloLive(anterior))}</a></li>` : ''}
+    ${proxima ? `<li><a href="${proxima.slug}.html">${esc(rotuloLive(proxima))}</a></li>` : ''}
   </ul>
 </nav>
 <main class="conteudo">
 ${seletorCapitulos(secoes)}
-<div class="busca-capitulos apenas-js">
+${!limitada ? `<div class="busca-capitulos apenas-js">
   <label class="busca"><span class="sr">Buscar nas dicas e dúvidas</span>
     <input type="search" id="busca-geral" placeholder="Buscar nas dicas e dúvidas (tecla /)" autocomplete="off" aria-describedby="contagem-busca">
   </label>
   <p class="contagem" id="contagem-busca" aria-live="polite"><a href="#dicas" id="resultados-dicas"></a><a href="#duvidas" id="resultados-duvidas"></a></p>
-</div>
+</div>` : ''}
 ${abrirCapitulo(secoes, 'resumo')}
 
 <section class="hero" id="inicio">
-  <p class="sobretitulo">${esc(CANAL)} &middot; Live Dia ${c.dia}</p>
-  <h1>${esc(c.titulo || `Dia ${c.dia}`)}</h1>
+  <p class="sobretitulo">${esc(CANAL)} &middot; Live ${esc(rotuloLive(c))}</p>
+  <h1>${esc(c.titulo || rotuloLive(c))}</h1>
   <div class="fichas">
     <div class="ficha"><span>Data</span><strong>${dataBR(c.data)}</strong></div>
     <div class="ficha"><span>Duração</span><strong>${esc(c.duracao || '')}</strong></div>
-    <div class="ficha"><span>Faturamento no dia</span><strong>${esc(c.faturamento || 'Não informado')}</strong></div>
-    ${c.mrr ? `<div class="ficha"><span>Receita recorrente</span><strong>${esc(c.mrr)}</strong></div>` : ''}
+    <div class="ficha"><span>Acumulado informado</span><strong>${esc(c.faturamento || 'Não informado')}</strong></div>
+    ${c.mrr ? `<div class="ficha"><span>MRR informado (mensal)</span><strong>${esc(c.mrr)}</strong></div>` : ''}
   </div>
   <div class="acoes">
     ${yt ? `<a class="btn btn-primario" href="${esc(yt)}" target="_blank" rel="noopener">Assistir no YouTube</a>` : ''}
-    <a class="btn" href="#dicas">Ir para as dicas</a>
-    <a class="btn" href="#transcricao">Ler a transcrição</a>
+    ${!limitada ? '<a class="btn" href="#dicas">Ir para as dicas</a>' : ''}
+    ${(c.como_praticar || []).length ? '<a class="btn" href="#como-praticar">Como praticar</a>' : ''}
+    ${!limitada ? '<a class="btn" href="#transcricao">Ler a transcrição</a>' : ''}
   </div>
 </section>
 
 <section class="secao">
-  <h2>Resumo da live</h2>
-  <p class="lead">${esc(c.resumo || '')}</p>
+  <h2>${limitada ? 'Sobre esta gravação' : 'Resumo da live'}</h2>
+  <p class="lead">${esc(resumoLive(c))}</p>
   ${(c.destaques || []).length ? `<div class="destaques">${c.destaques.map((d, i) => `<div class="destaque"><span class="num">${i + 1}</span><p>${esc(d)}</p></div>`).join('')}</div>` : ''}
 </section>
 
-<section id="linha-do-tempo" class="secao">
+${!limitada ? `<section id="linha-do-tempo" class="secao">
   <h2>O que aconteceu na live</h2>
   <ol class="timeline">
     ${(c.linha_do_tempo || []).map((m) => `<li>${tagTempo(yt, m.t)}<p>${esc(m.texto)}</p></li>`).join('\n    ')}
   </ol>
-</section>
+</section>` : ''}
 
 ${fecharCapitulo(secoes, 'resumo')}
+${!limitada ? `
+${(c.como_praticar || []).length ? `${abrirCapitulo(secoes, 'como-praticar')}
+<section class="secao">
+  <h2>Como praticar esta live</h2>
+  <p class="nota">Exercícios organizados a partir dos trechos indicados. Para seguir uma ordem de aprendizado, abra o <a href="index.html#guia-iniciante">guia para começar</a>.</p>
+  <ol class="passos pratica-live">
+    ${c.como_praticar.map((p, i) => `<li class="passo" id="pratica-${i + 1}">
+      <h3>${esc(p.titulo)}</h3>
+      <ol>${p.passos.map((s) => `<li>${esc(s)}</li>`).join('')}</ol>
+      <p class="resultado"><strong>Resultado esperado:</strong> ${esc(p.resultado)}</p>
+      <p class="fonte-pratica">Trecho de referência: ${tagTempo(yt, p.fonte_t)}</p>
+    </li>`).join('\n    ')}
+  </ol>
+</section>${fecharCapitulo(secoes, 'como-praticar')}` : ''}
 ${abrirCapitulo(secoes, 'dicas')}
 <section class="secao">
   <h2>Principais dicas</h2>
@@ -340,16 +359,17 @@ ${abrirCapitulo(secoes, 'transcricao')}
   </div>
 </section>
 ${fecharCapitulo(secoes, 'transcricao')}
+` : ''}
 
 <nav class="navegacao-lives" aria-label="Navegação entre lives">
-  ${anterior ? `<a class="btn" href="${anterior.slug}.html">Live anterior: Dia ${anterior.dia}</a>` : '<span></span>'}
+  ${anterior ? `<a class="btn" href="${anterior.slug}.html">Live anterior: ${esc(rotuloLive(anterior))}</a>` : '<span></span>'}
   <a class="btn" href="index.html#lives">Todas as lives</a>
-  ${proxima ? `<a class="btn" href="${proxima.slug}.html">Próxima live: Dia ${proxima.dia}</a>` : '<span></span>'}
+  ${proxima ? `<a class="btn" href="${proxima.slug}.html">Próxima live: ${esc(rotuloLive(proxima))}</a>` : '<span></span>'}
 </nav>
 
 <footer class="rodape">
   ${contribuicaoRodape()}
-  <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube. Resumos e dicas extraídos da transcrição automática.</p>
+  <p>Conteúdo organizado a partir das lives de ${esc(CANAL)} no YouTube.${limitada ? '' : ' Resumos e dicas extraídos da transcrição automática.'}</p>
 </footer>
 </main>
 </div>
@@ -358,33 +378,76 @@ ${rodapeScripts('')}`;
 
 function lerJsonOpcional(nome) {
   const arq = path.join(PASTA_CONTEUDO, nome);
-  return fs.existsSync(arq) ? JSON.parse(fs.readFileSync(arq, 'utf8')) : null;
+  return fs.existsSync(arq) ? JSON.parse(fs.readFileSync(arq, 'utf8').replace(/^\uFEFF/, '')) : null;
 }
 
 function valorReais(s) {
   const m = /R\$\s*([\d.]+)(?:,(\d+))?/.exec(String(s || ''));
-  return m ? Number(m[1].replace(/\./g, '')) + (m[2] ? Number('0.' + m[2]) : 0) : 0;
+  return m ? Number(m[1].replace(/\./g, '')) + (m[2] ? Number('0.' + m[2]) : 0) : null;
 }
 function reais(n) {
   return 'R$ ' + n.toLocaleString('pt-BR', { minimumFractionDigits: n % 1 ? 2 : 0, maximumFractionDigits: 2 });
 }
 
-const nomeCurto = (c) => c.nome || `Live do dia ${c.dia}`;
+const AVISO_FONTE_LIMITADA = 'Resumo e transcrição ainda não disponíveis';
+const resumoLive = (c) => c.fonte_limitada === true ? AVISO_FONTE_LIMITADA : c.resumo || '';
+const nomeCurto = (c) => c.fonte_limitada === true ? `Live do dia ${c.dia}` : c.nome || `Live do dia ${c.dia}`;
+const diasLive = (c) => c.dias || [c.dia];
+const rotuloLive = (c) => c.rotulo || (diasLive(c).length > 1 ? `Dias ${diasLive(c).join(' e ')}` : `Dia ${c.dia}`);
 
-function paginaIndex(lives, jornada, duvidas) {
+function capituloGuia(guia, capitulos, porDia) {
+  const lista = (itens) => `<ul>${itens.map((s) => `<li>${esc(s)}</li>`).join('')}</ul>`;
+  return `${abrirCapitulo(capitulos, 'guia-iniciante')}
+<section class="secao guia">
+  <p class="sobretitulo">Comece por aqui</p>
+  <h2>${esc(guia ? guia.titulo : 'Guia para começar')}</h2>
+  <p class="lead">Esta é uma ordem sugerida para praticar, não uma contagem de dias. Os capítulos das lives continuam seguindo os dias das gravações.</p>
+  ${guia ? `${guia.introducao.split(/\n\s*\n/).map((p) => `<p>${esc(p)}</p>`).join('')}
+  <nav class="roteiro-guia" aria-label="Ordem sugerida de prática"><ol>
+    ${guia.passos.map((p) => `<li><a href="#guia-${esc(p.id)}">${esc(p.titulo)}</a></li>`).join('')}
+  </ol></nav>
+  <p class="nota" id="aviso-checklist">O checklist pode ser marcado e impresso. As marcações são salvas somente neste navegador.</p>
+  <p class="contagem" id="progresso-checklist" role="status" aria-live="polite"></p>
+  <ol class="passos guia-passos">
+    ${guia.passos.map((p) => `<li class="passo" id="guia-${esc(p.id)}">
+      <h3>${esc(p.titulo)}</h3>
+      <p><strong>Objetivo:</strong> ${esc(p.objetivo)}</p>
+      <h4>Pré-requisitos</h4>${p.prerequisitos.length ? lista(p.prerequisitos) : '<p>Nenhum pré-requisito indicado.</p>'}
+      <h4>Como fazer</h4><ol>${p.comoFazer.map((s) => `<li>${esc(s)}</li>`).join('')}</ol>
+      <p class="resultado"><strong>Resultado esperado:</strong> ${esc(p.resultadoEsperado)}</p>
+      <fieldset class="checklist"><legend>Checklist: ${esc(p.titulo)}</legend>
+        ${p.checklist.map((s, i) => `<label><input type="checkbox" data-checklist="${esc(p.id)}:${esc(s)}" id="check-${esc(p.id)}-${i}"><span>${esc(s)}</span></label>`).join('')}
+      </fieldset>
+      <h4>Veja nas lives</h4><ul class="guia-fontes">
+        ${p.fontes.map((f) => { const c = porDia[f.dia]; return `<li><a href="${c.slug}.html">${esc(rotuloLive(c))}</a> ${tagTempo(c.youtube, f.tempo)}<span>${esc(f.assunto)}</span></li>`; }).join('')}
+      </ul>
+      ${(p.referenciasAtuais || []).length ? `<h4>Referências atuais</h4><ul class="guia-referencias-atuais">${p.referenciasAtuais.map((r) => `<li><a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.titulo)}</a></li>`).join('')}</ul>` : ''}
+    </li>`).join('\n    ')}
+  </ol>
+  <section class="glossario" id="guia-glossario"><h3>Glossário</h3><dl>
+    ${guia.glossario.map((g) => `<dt>${esc(g.termo)}</dt><dd>${esc(g.definicao)}</dd>`).join('')}
+  </dl></section>` : '<p class="nota">O conteúdo do guia ainda aguarda a entrega editorial. As lives disponíveis podem ser consultadas no índice.</p><a class="btn" href="#lives">Consultar as lives</a>'}
+</section>
+${fecharCapitulo(capitulos, 'guia-iniciante')}`;
+}
+
+function paginaIndex(lives, jornada, duvidas, guia) {
   const temas = (duvidas && duvidas.temas) || [];
   const totalPrincipais = temas.reduce((a, t) => a + (t.perguntas || []).length, 0);
   const META = 1621;
   const totalDicas = lives.reduce((a, c) => a + (c.dicas || []).length, 0);
   const totalDuvidas = lives.reduce((a, c) => a + (c.duvidas || []).length, 0);
-  const porDia = Object.fromEntries(lives.map((c) => [c.dia, c]));
-  const ultima = lives[lives.length - 1] || {};
-  const faturado = Math.max(0, ...lives.map((c) => valorReais(c.faturamento)));
-  const mrr = Math.max(0, ...lives.map((c) => valorReais(c.mrr)));
-  const pct = Math.min(100, Math.round((faturado / META) * 100));
+  const porDia = Object.fromEntries(lives.flatMap((c) => diasLive(c).map((d) => [d, c])));
+  // São retratos do saldo e do MRR, nunca parcelas para somar entre gravações.
+  const ultimoSaldo = [...lives].reverse().find((c) => valorReais(c.faturamento) !== null);
+  const ultimoMrr = [...lives].reverse().find((c) => valorReais(c.mrr) !== null);
+  const faturado = ultimoSaldo ? valorReais(ultimoSaldo.faturamento) : 0;
+  const mrr = ultimoMrr ? valorReais(ultimoMrr.mrr) : null;
+  const pct = Math.round((faturado / META) * 100);
   const capitulos = [
     ['inicio', 'O desafio'],
-    ...lives.map((c) => [c.slug, `Dia ${c.dia}: ${nomeCurto(c)}`]),
+    ['guia-iniciante', 'Comece por aqui'],
+    ...lives.map((c) => [c.slug, `${rotuloLive(c)}: ${nomeCurto(c)}`]),
     ...(temas.length ? [['duvidas', 'Principais dúvidas']] : []),
     ['lives', 'Todas as lives'],
     ['como-contribuir', 'Como contribuir'],
@@ -396,7 +459,7 @@ function paginaIndex(lives, jornada, duvidas) {
   const fonteLink = (f) => {
     const c = porDia[f.dia];
     if (!c) return '';
-    return `<span class="fonte"><a href="${c.slug}.html" aria-label="Abrir a live do dia ${f.dia}">Dia ${f.dia}</a>${f.t ? tagTempo(c.youtube, f.t) : ''}</span>`;
+    return `<span class="fonte"><a href="${c.slug}.html" aria-label="Abrir a live: ${esc(rotuloLive(c))}">${esc(rotuloLive(c))}</a>${f.t ? tagTempo(c.youtube, f.t) : ''}</span>`;
   };
 
   return `${cabecalho(titulo, descricao, '')}
@@ -407,10 +470,11 @@ ${barraTopo('index.html')}
   <p class="menu-titulo">Visão geral</p>
   <ul>
     <li><a href="#inicio">O desafio</a></li>
+    <li><a href="#guia-iniciante">Comece por aqui</a></li>
   </ul>
   <p class="menu-titulo">Dias de live</p>
   <ul>
-    ${lives.map((c) => `<li><a href="#${esc(c.slug)}"><span class="menu-num">${c.dia}</span> ${esc(nomeCurto(c))}</a></li>`).join('\n    ')}
+    ${lives.map((c) => `<li><a href="#${esc(c.slug)}"><span class="menu-dia">${esc(rotuloLive(c))}</span> ${esc(nomeCurto(c))}</a></li>`).join('\n    ')}
   </ul>
   <p class="menu-titulo">Conteúdo</p>
   <ul>
@@ -421,16 +485,22 @@ ${barraTopo('index.html')}
 </nav>
 <main class="conteudo">
 ${seletorCapitulos(capitulos)}
+<div class="busca-capitulos apenas-js busca-indice">
+  <label class="busca"><span class="sr">Buscar dias de live e assuntos</span><input type="search" id="busca-lives" placeholder="Buscar dias de live e assuntos (tecla /)" autocomplete="off" aria-controls="resultados-lives"></label>
+  <p class="contagem" id="contagem-lives" role="status"></p>
+  <ul id="resultados-lives" hidden>${lives.map((c) => `<li data-busca-live><a href="#${c.slug}">${esc(rotuloLive(c))}: ${esc(nomeCurto(c))}</a><span hidden>${esc(`${c.titulo} ${c.resumo} ${(c.como_praticar || []).map((p) => p.titulo).join(' ')}`)}</span></li>`).join('')}</ul>
+</div>
 ${abrirCapitulo(capitulos, 'inicio')}
 
 <section class="hero hero-index">
   <p class="sobretitulo">${esc(CANAL)} &middot; desafio ao vivo</p>
   <h1>Como vender sites com IA, do zero ao primeiro salário</h1>
   <p class="lead">${esc((jornada && jornada.intro) || 'Um desafio ao vivo: sair do zero e chegar a um salário mínimo vendendo sites para empresas locais, criados com IA.')}</p>
-  <div class="meta-desafio" role="img" aria-label="Faturamento de ${reais(faturado)} de uma meta de ${reais(META)}">
-    <div class="meta-topo"><span>Faturado até o dia ${esc(ultima.dia)}</span><strong>${reais(faturado)} <small>de ${reais(META)}</small></strong></div>
-    <div class="meta-barra"><span style="width:${pct}%"></span></div>
-    <div class="meta-rodape"><span>${pct}% da meta</span>${mrr ? `<span>Receita recorrente: <strong>${reais(mrr)} por mês</strong></span>` : ''}</div>
+  <div class="meta-desafio">
+    <div class="meta-topo"><span>Acumulado informado${ultimoSaldo ? `: ${esc(rotuloLive(ultimoSaldo))}` : ''}</span><strong>${ultimoSaldo ? reais(faturado) : 'Não informado'} <small>de ${reais(META)}</small></strong></div>
+    <div class="meta-barra"><span style="width:${Math.min(100, pct)}%"></span></div>
+    <div class="meta-rodape"><span>${pct}% da meta</span>${mrr !== null ? `<span>MRR informado (${esc(rotuloLive(ultimoMrr))}): <strong>${reais(mrr)} por mês</strong></span>` : ''}</div>
+    <p class="nota">Valores do último registro disponível de cada indicador. O acumulado e o MRR não são somados entre as lives.</p>
   </div>
   <div class="fichas">
     <div class="ficha"><span>Lives resumidas</span><strong>${lives.length}</strong></div>
@@ -438,7 +508,8 @@ ${abrirCapitulo(capitulos, 'inicio')}
     <div class="ficha"><span>Dúvidas respondidas</span><strong>${totalDuvidas}</strong></div>
   </div>
   <div class="acoes">
-    ${lives[0] ? `<a class="btn btn-primario" href="#${esc(lives[0].slug)}">Começar pelo Dia ${lives[0].dia}</a>` : ''}
+    <a class="btn btn-primario" href="#guia-iniciante">Comece por aqui</a>
+    ${lives[0] ? `<a class="btn" href="#${esc(lives[0].slug)}">Ver desde o ${esc(rotuloLive(lives[0]))}</a>` : ''}
     ${temas.length ? '<a class="btn" href="#duvidas">Principais dúvidas</a>' : ''}
     <a class="btn" href="#lives">Ver as lives</a>
   </div>
@@ -446,15 +517,15 @@ ${abrirCapitulo(capitulos, 'inicio')}
 
 <section class="secao" id="placar">
   <h2>Placar dia a dia</h2>
-  <p class="nota">Como o desafio andou, live por live. Clique em um dia para abrir as dicas e a transcrição.</p>
+  <p class="nota">Acumulado informado em cada gravação, sem somar saldos entre lives. Clique no dia para abrir as dicas e a transcrição.</p>
   <ol class="placar">
     ${lives.map((c) => {
       const v = valorReais(c.faturamento);
-      const h = Math.max(4, Math.round((v / META) * 100));
+      const h = Math.min(100, Math.max(4, Math.round(((v || 0) / META) * 100)));
       return `<li><a href="${c.slug}.html" class="placar-dia">
         <span class="placar-barra" aria-hidden="true"><span style="height:${h}%"></span></span>
-        <span class="placar-num">Dia ${c.dia}</span>
-        <span class="placar-valor">${esc(c.faturamento || '')}</span>
+        <span class="placar-num">${esc(rotuloLive(c))}</span>
+        <span class="placar-valor">${esc(c.faturamento || 'Não informado')}</span>
         <span class="placar-marco">${esc(marcos[c.dia] || (c.destaques || [])[0] || '')}</span>
       </a></li>`;
     }).join('\n    ')}
@@ -462,18 +533,19 @@ ${abrirCapitulo(capitulos, 'inicio')}
 </section>
 
 ${fecharCapitulo(capitulos, 'inicio')}
+${capituloGuia(guia, capitulos, porDia)}
   ${lives.map((c, i) => `${abrirCapitulo(capitulos, c.slug)}
   <article class="etapa">
-    <div class="etapa-marcador" aria-hidden="true"><span>${c.dia}</span></div>
+    <div class="etapa-marcador${diasLive(c).length > 1 ? ' combinada' : ''}" aria-hidden="true"><span>${diasLive(c).join('/')}</span></div>
     <div class="etapa-corpo">
       <p class="etapa-num">Live ${i + 1} de ${lives.length} &middot; ${dataBR(c.data)} &middot; ${esc(c.duracao || '')}</p>
-      <h2>Dia ${c.dia}: ${esc(nomeCurto(c))}</h2>
-      <p class="etapa-chamada">${esc(c.resumo || '')}</p>
+      <h2>${esc(rotuloLive(c))}: ${esc(nomeCurto(c))}</h2>
+      <p class="etapa-chamada">${esc(resumoLive(c))}</p>
       <div class="fichas">
-        <div class="ficha"><span>Faturamento no dia</span><strong>${esc(c.faturamento || 'Não informado')}</strong></div>
-        ${c.mrr ? `<div class="ficha"><span>Receita recorrente</span><strong>${esc(c.mrr)}</strong></div>` : ''}
-        <div class="ficha"><span>Dicas</span><strong>${(c.dicas || []).length}</strong></div>
-        <div class="ficha"><span>Dúvidas</span><strong>${(c.duvidas || []).length}</strong></div>
+        <div class="ficha"><span>Acumulado informado</span><strong>${esc(c.faturamento || 'Não informado')}</strong></div>
+        ${c.mrr ? `<div class="ficha"><span>MRR informado (mensal)</span><strong>${esc(c.mrr)}</strong></div>` : ''}
+        ${c.fonte_limitada === true ? '' : `<div class="ficha"><span>Dicas</span><strong>${(c.dicas || []).length}</strong></div>
+        <div class="ficha"><span>Dúvidas</span><strong>${(c.duvidas || []).length}</strong></div>`}
       </div>
       ${(c.destaques || []).length ? `<div class="destaques">${c.destaques.map((d, j) => `<div class="destaque"><span class="num">${j + 1}</span><p>${esc(d)}</p></div>`).join('')}</div>` : ''}
       ${(c.linha_do_tempo || []).length ? `<h3>O que aconteceu na live</h3>
@@ -481,7 +553,8 @@ ${fecharCapitulo(capitulos, 'inicio')}
         ${c.linha_do_tempo.map((m) => `<li>${tagTempo(c.youtube, m.t)}<p>${esc(m.texto)}</p></li>`).join('\n        ')}
       </ol>` : ''}
       <div class="acoes">
-        <a class="btn btn-primario" href="${c.slug}.html">Dicas, dúvidas e transcrição</a>
+        <a class="btn btn-primario" href="${c.slug}.html">${c.fonte_limitada === true ? 'Abrir a live' : 'Dicas, dúvidas e transcrição'}</a>
+        ${(c.como_praticar || []).length ? `<a class="btn" href="${c.slug}.html#como-praticar">Como praticar (${c.como_praticar.length})</a>` : ''}
         ${c.youtube ? `<a class="btn" href="${esc(c.youtube)}" target="_blank" rel="noopener">Assistir no YouTube</a>` : ''}
       </div>
     </div>
@@ -512,14 +585,14 @@ ${fecharCapitulo(capitulos, 'duvidas')}` : ''}
 ${abrirCapitulo(capitulos, 'lives')}
 <section class="secao">
   <h2>Todas as lives</h2>
-  <p class="nota">Cada página tem resumo, dicas por etapa, scripts, dúvidas da galera e a transcrição completa com busca.</p>
+  <p class="nota">As páginas reúnem os vídeos e, quando disponíveis, resumo, dicas, scripts, dúvidas e transcrição completa com busca.</p>
   <div class="grade grade-lives">
     ${lives.map((c) => `<a class="card card-live" href="${c.slug}.html">
-      <div class="card-topo"><span class="tag">Dia ${c.dia}</span><span class="meta">${dataBR(c.data)} &middot; ${esc(c.duracao || '')}</span></div>
-      <h3>${esc(c.titulo || `Dia ${c.dia}`)}</h3>
-      <p class="meta">Faturamento no dia: <strong>${esc(c.faturamento || 'não informado')}</strong>${c.mrr ? ` &middot; Recorrente: <strong>${esc(c.mrr)}</strong>` : ''}</p>
+      <div class="card-topo"><span class="tag">${esc(rotuloLive(c))}</span><span class="meta">${dataBR(c.data)} &middot; ${esc(c.duracao || '')}</span></div>
+      <h3>${esc(c.titulo || rotuloLive(c))}</h3>
+      <p class="meta">Acumulado informado: <strong>${esc(c.faturamento || 'não informado')}</strong>${c.mrr ? ` &middot; MRR mensal: <strong>${esc(c.mrr)}</strong>` : ''}</p>
       <ul>${(c.destaques || []).slice(0, 3).map((d) => `<li>${esc(d)}</li>`).join('')}</ul>
-      <p class="meta">${(c.dicas || []).length} dicas &middot; ${(c.duvidas || []).length} dúvidas &middot; transcrição completa</p>
+      <p class="meta">${c.fonte_limitada === true ? AVISO_FONTE_LIMITADA : `${(c.dicas || []).length} dicas &middot; ${(c.duvidas || []).length} dúvidas &middot; transcrição completa`}</p>
       <span class="ver">Abrir live</span>
     </a>`).join('\n    ')}
   </div>
@@ -559,17 +632,31 @@ function main() {
     .readdirSync(PASTA_CONTEUDO)
     .filter((f) => /^dia-\d+\.json$/.test(f))
     .map((f) => {
-      const c = JSON.parse(fs.readFileSync(path.join(PASTA_CONTEUDO, f), 'utf8'));
+      const c = JSON.parse(fs.readFileSync(path.join(PASTA_CONTEUDO, f), 'utf8').replace(/^\uFEFF/, ''));
       c.slug = c.slug || `dia-${String(c.dia).padStart(2, '0')}`;
       return c;
     })
     .sort((a, b) => a.dia - b.dia);
 
+  const guia = lerJsonOpcional('guia-iniciante.json');
+  const duvidas = lerJsonOpcional('duvidas.json');
+  const verificacao = validarConteudo(lives, guia, RAIZ, duvidas);
+  verificacao.avisos.forEach((a) => console.warn(a));
+  if (verificacao.erros.length) {
+    verificacao.erros.forEach((e) => console.error(e));
+    process.exitCode = 2;
+    return;
+  }
   let falhou = false;
   lives.forEach((c, i) => {
+    if (c.fonte_limitada === true) {
+      fs.writeFileSync(path.join(RAIZ, `${c.slug}.html`), paginaLive(c, [], lives[i - 1], lives[i + 1]), 'utf8');
+      console.log(`[${rotuloLive(c)}] ${c.slug}.html | somente metadados e vídeo; sem transcrição.`);
+      return;
+    }
     const arqSrt = path.resolve(RAIZ, c.srt);
     if (!fs.existsSync(arqSrt)) {
-      console.error(`[Dia ${c.dia}] SRT não encontrado: ${arqSrt}`);
+      console.error(`[${rotuloLive(c)}] SRT não encontrado: ${arqSrt}`);
       falhou = true;
       return;
     }
@@ -580,7 +667,7 @@ function main() {
     const txt = segs.map((s) => `[${formatarTempo(s.ini)}] ${s.texto}`).join('\n');
     fs.writeFileSync(
       path.join(RAIZ, `${c.slug}-transcricao.txt`),
-      `${c.titulo || 'Dia ' + c.dia}\n${c.youtube || ''}\n\n${txt}\n`,
+      `${c.titulo || rotuloLive(c)}\n${c.youtube || ''}\n\n${txt}\n`,
       'utf8'
     );
 
@@ -591,13 +678,12 @@ function main() {
     const ok = noHtml === segs.length && textoHtml === textoSrt;
     if (!ok) falhou = true;
     console.log(
-      `[Dia ${c.dia}] ${c.slug}.html | blocos SRT ${segs.length} / no HTML ${noHtml} | texto idêntico: ${textoHtml === textoSrt ? 'sim' : 'NÃO'} | dicas ${(c.dicas || []).length}, dúvidas ${(c.duvidas || []).length}, scripts ${(c.scripts || []).length}`
+      `[${rotuloLive(c)}] ${c.slug}.html | blocos SRT ${segs.length} / no HTML ${noHtml} | texto idêntico: ${textoHtml === textoSrt ? 'sim' : 'NÃO'} | dicas ${(c.dicas || []).length}, dúvidas ${(c.duvidas || []).length}, scripts ${(c.scripts || []).length}`
     );
   });
 
-  const arqJornada = path.join(PASTA_CONTEUDO, 'jornada.json');
-  const jornada = fs.existsSync(arqJornada) ? JSON.parse(fs.readFileSync(arqJornada, 'utf8')) : null;
-  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada, lerJsonOpcional('duvidas.json')), 'utf8');
+  const jornada = lerJsonOpcional('jornada.json');
+  fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada, duvidas, guia), 'utf8');
   console.log(`index.html com ${lives.length} lives.`);
   if (falhou) {
     console.error('ATENÇÃO: alguma checagem falhou.');

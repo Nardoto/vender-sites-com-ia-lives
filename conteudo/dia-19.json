@@ -1,0 +1,638 @@
+{
+  "dia": 19,
+  "slug": "dia-19",
+  "srt": "srt/dia-19.srt",
+  "titulo": "Dia 19 | Vibe Coding: R$2.990 + MRR: R$199,60 Vendendo Sites com IA",
+  "nome": "Google Analytics, SEO e um orçamento ao vivo",
+  "data": "2026-09-25",
+  "duracao": "3:16:30",
+  "youtube": "https://www.youtube.com/watch?v=pTGRAo8JppQ",
+  "faturamento": "R$ 2.990",
+  "mrr": "R$ 199,60",
+  "resumo": "No décimo nono dia, sexta-feira, o faturamento acumulado do desafio segue em R$ 2.990, com R$ 199,60 de MRR (receita recorrente), e Junior explica de onde vieram esses números. Ele valida o CRM que o Antigravity terminou de construir e dedica o miolo da live ao próprio site: instala o Google Analytics, mostra os visitantes chegando em tempo real, prepara a estrutura de SEO por prompts, envia o sitemap e pede a indexação no Search Console. No meio da live surge um orçamento real de um cliente que quer vender ingressos com agendamento; Junior calcula o valor pela hora de trabalho, negocia por áudio e, sem acordo, sugere uma alternativa mais barata com landing page e pagamento pelo WhatsApp.",
+  "destaques": [
+    "O acumulado de R$ 2.990 vem de quatro sites (dois por R$ 497 e dois por R$ 799) mais uma gestão de Google Meu Negócio de R$ 200 vendida ao mesmo cliente de um dos sites, o que soma R$ 2.792; a diferença é a primeira mensalidade de cada cliente (R$ 199,60), como o CRM mostrado no dia 20 confirma ao registrar R$ 2.991,60. O MRR de R$ 199,60 é a receita recorrente dos meses seguintes e não deve ser somado de novo.",
+    "O passo a passo do Google Analytics é curto: criar conta e propriedade, copiar a tag do Google, pedir ao Antigravity para instalar no site, publicar e testar a instalação. Como a tag já estava no site, o Search Console verificou a propriedade sozinho.",
+    "Para precificar um sistema, Junior estima as horas com o ChatGPT, define quanto quer ganhar por mês, calcula o valor da hora e compara com o que o cliente aceita pagar; se não couber, propõe uma versão mais simples."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:03:53",
+      "texto": "Abre a live e avisa que rodou um prompt de verificação no CRM feito na véspera; anuncia que o dia será de Google Analytics e Search Console."
+    },
+    {
+      "t": "00:04:18",
+      "texto": "Conta que um cliente, para quem já fez um e-commerce, pediu por mensagem um orçamento de outra ferramenta."
+    },
+    {
+      "t": "00:06:49",
+      "texto": "Responde ao total do desafio: R$ 2.990 de vendas e mais R$ 199 de MRR, ainda com o site da Água Pura para finalizar."
+    },
+    {
+      "t": "00:09:11",
+      "texto": "Diz que três dias sem cliente é normal e que o mínimo é abordar cerca de 100 empresas."
+    },
+    {
+      "t": "00:13:16",
+      "texto": "Explica que MRR é receita recorrente mensal e que o objetivo agora é chegar a um MRR equivalente a um salário mínimo."
+    },
+    {
+      "t": "00:13:56",
+      "texto": "Define o que é Search Console e pede que os alunos estudem o assunto se pensam em SEO."
+    },
+    {
+      "t": "00:17:22",
+      "texto": "Mostra o CRM: separação de leads quentes e frios, follow-ups e agendamento por prioridade."
+    },
+    {
+      "t": "00:18:37",
+      "texto": "Fala de uma futura área de membros de valor simbólico, que será decidida junto com a turma no grupo do WhatsApp."
+    },
+    {
+      "t": "00:20:44",
+      "texto": "Discute o que fazer com o dinheiro: tirar um salário, reinvestir em tráfego e abrir CNPJ quando houver receita recorrente."
+    },
+    {
+      "t": "00:23:34",
+      "texto": "O Antigravity termina o CRM com compilação bem-sucedida; Junior testa dashboard, prospecção, novo lead e nova venda."
+    },
+    {
+      "t": "00:27:33",
+      "texto": "Mostra o relatório financeiro e de MRR e lista os custos fixos atuais: Nexar Hunter, ChatGPT Plus e Antigravity já pago por 18 meses."
+    },
+    {
+      "t": "00:29:16",
+      "texto": "Explica, a partir da experiência da agência, por que agência de marketing digital não se enquadra como MEI e programador sim."
+    },
+    {
+      "t": "00:31:19",
+      "texto": "Comenta que não pode mostrar o WhatsApp em live porque o YouTube já removeu uma live dele por isso."
+    },
+    {
+      "t": "00:34:22",
+      "texto": "Pergunta à turma quem já vendeu e quanto; espectadores relatam quatro vendas de R$ 1.200 (R$ 4.800) e uma landing page de R$ 799."
+    },
+    {
+      "t": "00:40:24",
+      "texto": "Explica SEO em linguagem simples, com a diferença entre resultado orgânico e patrocinado."
+    },
+    {
+      "t": "00:41:59",
+      "texto": "Lista os nichos em que já vendeu: lavanderia, oficina mecânica, climatização e engenharia."
+    },
+    {
+      "t": "00:45:02",
+      "texto": "Mostra a busca de referências de sites de oficina mecânica no Pinterest."
+    },
+    {
+      "t": "00:47:42",
+      "texto": "Cria a conta e a propriedade do Google Analytics para o próprio site, passo a passo."
+    },
+    {
+      "t": "00:51:52",
+      "texto": "Copia a tag do Google e pede ao Antigravity para configurá-la no site."
+    },
+    {
+      "t": "00:56:12",
+      "texto": "Confere que a tag apareceu no código do site e mostra os relatórios de um site de cliente com 884 visitas em 28 dias."
+    },
+    {
+      "t": "01:03:17",
+      "texto": "Testa a instalação da tag no Analytics e pede que a audiência entre no site para ver o contador em tempo real."
+    },
+    {
+      "t": "01:11:23",
+      "texto": "Explica por que configurar o Analytics para os clientes e enviar relatórios periódicos, gerados com o Gemini, para vender tráfego pago depois."
+    },
+    {
+      "t": "01:16:48",
+      "texto": "Responde como vender o domínio ao cliente: cadastrar no nome dele, com o e-mail dele para a cobrança."
+    },
+    {
+      "t": "01:18:13",
+      "texto": "Escreve no ChatGPT o prompt de SEO com as palavras-chave da agência e pede prompts para rodar no Antigravity."
+    },
+    {
+      "t": "01:32:15",
+      "texto": "Lê o primeiro prompt gerado (sitemap, robots, rotas e domínio) e roda no Antigravity; o ChatGPT devolveu cinco prompts."
+    },
+    {
+      "t": "01:43:16",
+      "texto": "O Antigravity cria sitemap e robots; segue para a arquitetura da Home e páginas de serviços."
+    },
+    {
+      "t": "01:57:38",
+      "texto": "Abre o áudio do cliente que pede um sistema de ingressos com agendamento e começa a orçar."
+    },
+    {
+      "t": "02:05:31",
+      "texto": "Detalha como se formaram os R$ 2.990 e o MRR de R$ 199,60."
+    },
+    {
+      "t": "02:16:11",
+      "texto": "No Search Console, a propriedade é verificada automaticamente, o sitemap é enviado (7 páginas) e a indexação das páginas é solicitada."
+    },
+    {
+      "t": "02:21:53",
+      "texto": "Calcula o valor do sistema de ingressos: 100 a 160 horas estimadas, salário-alvo de R$ 7.000, cerca de R$ 30 a hora e algo perto de R$ 4.000."
+    },
+    {
+      "t": "02:31:37",
+      "texto": "Decide oferecer parcelamento em 10 vezes e discute repassar a taxa de cerca de 13%; passa o valor de R$ 1.700 ao cliente."
+    },
+    {
+      "t": "02:41:02",
+      "texto": "Ouve o áudio do cliente achando caro e responde defendendo um sistema exclusivo, abaixo do preço de mercado."
+    },
+    {
+      "t": "02:49:31",
+      "texto": "Nota que as páginas de SEO ficaram focadas em Ijuí e pede ajuste, pois a agência atende o Brasil todo."
+    },
+    {
+      "t": "02:55:12",
+      "texto": "Sugere ao cliente uma landing page com vídeo e pagamento pelo WhatsApp, para baixar o custo do sistema."
+    },
+    {
+      "t": "02:57:20",
+      "texto": "Fala do preço do Nexar Hunter (R$ 79 por 30 buscas) e diz que é preciso investir na própria operação."
+    },
+    {
+      "t": "03:04:00",
+      "texto": "Pergunta ao cliente quanto ele pode investir para encontrar uma solução dentro do orçamento; o cliente oferece R$ 500 e Junior recusa."
+    },
+    {
+      "t": "03:12:13",
+      "texto": "Termina os ajustes de SEO no site: a cidade sai do texto (a copy) e permanece no título e na URL das páginas locais."
+    },
+    {
+      "t": "03:15:47",
+      "texto": "Encerra avisando que volta na segunda-feira às 15:15."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:14:27",
+      "titulo": "Vender é difícil e a maioria desiste",
+      "texto": "Ele diz que cerca de 90% desistem e só 10% seguem; persistir é o que separa quem consegue."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:05:53",
+      "titulo": "Organize antes de escalar",
+      "texto": "Não adianta prospectar e fechar sem parar deixando projetos pela metade; ele pausou a prospecção para organizar CRM e clientes antes de vender mais."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:58:07",
+      "titulo": "Invista na própria operação",
+      "texto": "Todo negócio exige investimento; ele cita Antigravity, Nexar Hunter, um celular e um chip só para atendimento, e diz que R$ 79 para 600 contatos é barato se der um cliente."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:47:23",
+      "titulo": "Você vende o que o cliente não sabe que precisa",
+      "texto": "Vender presença digital é apresentar uma necessidade que o empresário ainda não enxerga; a prática constante melhora a argumentação."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:09:11",
+      "titulo": "Três dias sem cliente é normal",
+      "texto": "Antes de desanimar, conte quantas empresas abordou; ele diz que o mínimo é cerca de 100."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:55:16",
+      "titulo": "Sábado também é dia de prospectar",
+      "texto": "O pequeno empreendedor muitas vezes só tem o fim de semana para dar atenção; sábado é bom, domingo ele evita."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:09:00",
+      "titulo": "Follow-up de dois em dois dias",
+      "texto": "Ele faz follow-up a cada dois dias até o cliente responder ou desistir; o site da oficina levou cerca de 12 dias para ser vendido."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:42:42",
+      "titulo": "Evite restrição no WhatsApp",
+      "texto": "Quem prospecta em massa toma restrição; a dica é não disparar muito e alternar números."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:57:20",
+      "titulo": "Nexar Hunter não tem plano gratuito",
+      "texto": "A ferramenta usa a API do Google, que não é gratuita; ele cita R$ 79 para 30 buscas e cerca de 600 contatos e diz que os leads podem ser exportados."
+    },
+    {
+      "momento": "analise",
+      "t": "00:56:44",
+      "titulo": "O que o Analytics mostra",
+      "texto": "Origem do público (Google, Instagram, acesso direto), tempo no site, dispositivo e cidade, em relatórios e em tempo real."
+    },
+    {
+      "momento": "analise",
+      "t": "01:05:36",
+      "titulo": "Dados para decidir o tráfego pago",
+      "texto": "Saber de quais estados e cidades vem o público ajuda a escolher onde anunciar e onde há mais interesse pelo serviço."
+    },
+    {
+      "momento": "analise",
+      "t": "00:42:54",
+      "titulo": "A IA não faz SEO sozinha",
+      "texto": "A IA faz do jeito dela; o resultado é melhor quando um profissional que entende de SEO direciona o trabalho."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:47:42",
+      "titulo": "Analytics em cinco passos",
+      "texto": "Criar a conta, criar a propriedade (uma por site), configurar o fluxo de dados com a URL, copiar a tag do Google e pedir ao Antigravity para instalar no site."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:18:13",
+      "titulo": "SEO começa pelas palavras-chave",
+      "texto": "Liste as buscas em que você quer aparecer (serviço mais cidade) e peça ao ChatGPT, agindo como especialista em SEO, os prompts para rodar no Antigravity."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:20:40",
+      "titulo": "Google Trends para achar termos",
+      "texto": "Se você não sabe as palavras-chave, o Google Trends mostra o que as pessoas buscam; ele preferiu definir pelo próprio conhecimento do negócio."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:16:23",
+      "titulo": "Analytics primeiro, Search Console depois",
+      "texto": "Com a tag do Google já instalada, o Search Console verifica a propriedade automaticamente; sem ela, seria preciso colocar outro código no site."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:17:03",
+      "titulo": "Envie o sitemap e peça a indexação",
+      "texto": "No Search Console, envie o sitemap.xml e use a inspeção de URL para solicitar a indexação de cada página; isso acelera, mas não garante aparecer no dia seguinte."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:15:46",
+      "titulo": "Comece pelo SEO local",
+      "texto": "O SEO local é mais fácil de ranquear; depois se amplia. Ele ajustou as páginas para não limitar a agência à cidade."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:34:40",
+      "titulo": "Assinatura no rodapé dos sites",
+      "texto": "Ele coloca em todos os sites de clientes um link no rodapé com a assinatura da agência."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:55:44",
+      "titulo": "Peça execução autônoma ao agente",
+      "texto": "Para o Antigravity parar de pedir confirmação a toda hora, basta pedir no chat que execute tudo de forma autônoma."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:09:30",
+      "titulo": "Amostra é só mockup",
+      "texto": "Quando o cliente pede amostra, ele envia apenas o mockup e cobra antes de entregar o site."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "03:04:00",
+      "titulo": "Pergunte o orçamento do cliente",
+      "texto": "Em vez de propor várias ideias, pergunte quanto o cliente pretende investir e monte a solução dentro desse valor."
+    },
+    {
+      "momento": "preco",
+      "t": "02:21:53",
+      "titulo": "Preço pela hora de trabalho",
+      "texto": "Peça ao ChatGPT a estimativa de horas do projeto, defina quanto quer ganhar por mês, divida por 30 dias e por 8 horas para achar o valor da hora e multiplique pelas horas."
+    },
+    {
+      "momento": "preco",
+      "t": "02:26:23",
+      "titulo": "Exemplo do cálculo",
+      "texto": "Com salário-alvo de R$ 7.000, o valor da hora fica perto de R$ 30; 140 horas dão cerca de R$ 4.000, e ele mesmo diz que é um valor baixo, pois muita gente cobra R$ 60 a R$ 80 a hora."
+    },
+    {
+      "momento": "preco",
+      "t": "02:32:22",
+      "titulo": "Considere a taxa do parcelamento",
+      "texto": "Ele costuma absorver a taxa do parcelamento; com cerca de 13% de taxa, sobra menos, então cogita cobrar mais para compensar."
+    },
+    {
+      "momento": "preco",
+      "t": "02:41:33",
+      "titulo": "Sistema exclusivo vale mais que adaptação",
+      "texto": "Ao defender o preço, mostra que um sistema feito sob medida gera escassez e experiência única, e que no mercado não se acha por menos de R$ 4.000."
+    },
+    {
+      "momento": "preco",
+      "t": "02:55:12",
+      "titulo": "Alternativa barata: landing page e WhatsApp",
+      "texto": "Quando o sistema completo não cabe no orçamento, ofereça uma landing page com vídeo e faça o pagamento por link ou Pix pelo WhatsApp; o mais caro é o agendamento e o checkout."
+    },
+    {
+      "momento": "fechamento",
+      "t": "01:11:23",
+      "titulo": "Prove resultado com relatório de Analytics",
+      "texto": "Cobrando manutenção, mande relatório mensal ou trimestral do Analytics ao cliente, gerado com o Gemini, para mostrar visitas, origem e dispositivos."
+    },
+    {
+      "momento": "fechamento",
+      "t": "01:12:37",
+      "titulo": "Transforme a objeção em desejo",
+      "texto": "Quando o cliente diz que o mercado está fraco, responda que o site é uma ferramenta para vender mais; todo mundo quer vender mais."
+    },
+    {
+      "momento": "fechamento",
+      "t": "01:16:48",
+      "titulo": "Domínio no nome do cliente",
+      "texto": "Cadastre o domínio no nome do cliente; a cobrança pode ir para o e-mail dele. O domínio é repasse, cerca de R$ 40 por ano no Registro.br."
+    },
+    {
+      "momento": "erros",
+      "t": "01:11:23",
+      "titulo": "Entregar o site sem Analytics",
+      "texto": "Sem Analytics não há como provar ao cliente que o site dá resultado, e a venda de tráfego pago perde argumento."
+    },
+    {
+      "momento": "erros",
+      "t": "02:43:04",
+      "titulo": "Site cheio de animação não converte",
+      "texto": "Ele critica sites 3D com scroll animado: são bonitos, mas o cliente final quer falar direto e resolver o que precisa, e isso quebra a conversão."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "00:52:16",
+      "titulo": "Instalar o Google Analytics no site",
+      "texto": "Vamos configurar o Google Analytics no meu site. (Em seguida, cole o código da tag do Google copiado do Analytics.) (Ditado ao vivo, ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:18:25",
+      "titulo": "Preparar o site para rankear no SEO",
+      "texto": "Agora preciso preparar meu site para rankear no SEO do Google entre os primeiros resultados com as seguintes palavras-chave: [lista de buscas de serviço mais a cidade]. Prepare todo o meu site com uma estrutura completa. Aja como um especialista em SEO e me dê os prompts do que eu preciso para rodar no Antigravity mais VS Code no meu site. (Ditado ao vivo, ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "02:22:23",
+      "titulo": "Pedir estimativa de horas de um sistema",
+      "texto": "Eu preciso criar um sistema para um cliente onde as pessoas vão entrar, criar a conta, comprar um ingresso com agendamento de horário e pagar por Pix ou cartão, com comprovante e aviso ao administrador; serão 10 vagas por dia e, esgotadas, o sistema libera a próxima agenda. Primeiro: quanto tempo eu gastaria usando o Antigravity e o VS Code para construir todo esse sistema? Pode me dar esse tempo em horas? (Áudio ditado ao vivo, resumido a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:10:07",
+      "titulo": "Responder ao cliente que quer algo simples",
+      "texto": "Como envolve pagamento, não tem como ser 100% simples: é preciso um sistema robusto e seguro. Mas já estou orçando e vou ver um modo bem mais em conta; um investimento você vai ter que fazer, e o ideal é fazer a ferramenta para usar mais vezes. (Resposta em áudio ao vivo, resumida a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "03:04:00",
+      "titulo": "Perguntar o orçamento antes de propor",
+      "texto": "Me diz quanto você está disposto a investir nisso, para eu ver qual solução consigo encaixar dentro do seu orçamento; senão vou ter 50 ideias para passar e nenhuma vai te agradar. (Resposta em áudio ao vivo, resumida a partir da transcrição automática.)"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Xavier",
+      "pergunta": "Quando o cliente pede amostra, você já cria o site ou só o mockup?",
+      "resposta": "Somente o mockup.",
+      "t": "00:09:30"
+    },
+    {
+      "autor": "Davi",
+      "pergunta": "Você pensa em criar algo que gere recorrência?",
+      "resposta": "Já tem ferramentas recorrentes e acha válido. O plano do projeto é formar caixa para reinvestir e decidir junto com a turma se criam um SaaS, uma ferramenta ou uma plataforma.",
+      "t": "00:09:38"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você cobra antes ou depois de entregar o site pronto?",
+      "resposta": "Cobra antes.",
+      "t": "00:08:36"
+    },
+    {
+      "autor": null,
+      "pergunta": "Sobre o código do site: ele é seu ou do cliente?",
+      "resposta": "É do cliente. Se ele quiser hospedar por conta própria, você envia o arquivo zip do site.",
+      "t": "00:13:00"
+    },
+    {
+      "autor": "Henrique",
+      "pergunta": "Quais abordagens você usa com os clientes?",
+      "resposta": "O script de vendas está no grupo do WhatsApp, cujo link está na descrição da live.",
+      "t": "00:29:53"
+    },
+    {
+      "autor": null,
+      "pergunta": "Programador e agência de marketing digital podem ser MEI?",
+      "resposta": "Segundo a experiência da agência dele, as profissões de programador e copywriter se enquadram no MEI, mas uma agência de marketing digital não; ele recomenda confirmar com um contador.",
+      "t": "00:30:13"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quais nichos são fáceis de vender?",
+      "resposta": "Pequenas empresas; até agora vendeu para lavanderia, oficina mecânica, empresa de climatização e empresa de engenharia.",
+      "t": "00:41:59"
+    },
+    {
+      "autor": null,
+      "pergunta": "A IA vai otimizar o SEO sozinha?",
+      "resposta": "Ajuda, mas faz do jeito dela; com um especialista direcionando o SEO o resultado é bem melhor.",
+      "t": "00:42:54"
+    },
+    {
+      "autor": "Rodrigo",
+      "pergunta": "Você usa IA para configurar e criar campanhas no Google?",
+      "resposta": "Não, prefere fazer ele mesmo.",
+      "t": "00:55:37"
+    },
+    {
+      "autor": null,
+      "pergunta": "Para usar o Google Search Console é preciso ter o Analytics?",
+      "resposta": "Não é obrigatório, mas dá para validar o site pelo Analytics, que é o método mais simples quando a tag já está instalada.",
+      "t": "01:08:12"
+    },
+    {
+      "autor": "Carlos",
+      "pergunta": "O Analytics fica na minha conta ou na do cliente?",
+      "resposta": "Fica na sua conta; o cliente não vai saber mexer. Depois você pode compartilhar a propriedade com ele.",
+      "t": "01:13:37"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como vender o domínio para o cliente sem ficar cobrando por você?",
+      "resposta": "Cadastre o domínio no nome dele; a cobrança pode chegar ao e-mail dele.",
+      "t": "01:16:48"
+    },
+    {
+      "autor": "Luiz",
+      "pergunta": "Quantos negócios você consegue fechar por mês?",
+      "resposta": "Dá para fechar bastante sem dedicar o tempo todo; com 4 horas por dia, sem ficar 100% em prospecção, fecharam quatro vendas.",
+      "t": "01:33:07"
+    },
+    {
+      "autor": "Yuri",
+      "pergunta": "Você prospecta no fim de semana?",
+      "resposta": "Ele não, mas sábado é um bom dia, porque o pequeno empreendedor costuma ter mais tempo nesse dia.",
+      "t": "01:55:16"
+    },
+    {
+      "autor": "Ed",
+      "pergunta": "Como foram formados os R$ 2.990 do desafio?",
+      "resposta": "Dois sites de R$ 497, dois sites de R$ 799 (um deles da oficina) e uma gestão de Google Meu Negócio de R$ 200 vendida ao mesmo cliente de um dos sites, mais a mensalidade de hospedagem de cada um, que resulta em R$ 199,60 de MRR (a soma dos itens de venda é R$ 2.792; o restante do total citado corresponde à primeira mensalidade).",
+      "t": "02:05:31"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quando chega uma demanda assim, como você calcula o preço?",
+      "resposta": "Estime as horas, defina quanto quer ganhar por mês, calcule o valor da hora e peça ao ChatGPT para simular; a partir disso precifique.",
+      "t": "02:00:46"
+    },
+    {
+      "autor": "Rafael",
+      "pergunta": "Onde você hospeda os sites?",
+      "resposta": "Na Hostinger ou de forma gratuita no GitHub quando é landing page.",
+      "t": "02:07:12"
+    },
+    {
+      "autor": "Loran",
+      "pergunta": "Já são 10 dias e não fechei nenhum cliente; quanto demora o primeiro?",
+      "resposta": "É natural; no início ele também não fechava. Vender é treinar todo dia e a argumentação melhora com a prática.",
+      "t": "02:43:56"
+    },
+    {
+      "autor": "Gabi",
+      "pergunta": "Você roda tráfego pago para anunciar?",
+      "resposta": "Não, por enquanto não.",
+      "t": "01:33:34"
+    },
+    {
+      "autor": null,
+      "pergunta": "O CRM tem WhatsApp com API oficial?",
+      "resposta": "Não, no início será só gestão. A API oficial é muito cara e, mesmo a oficial, dá banimento se disparar demais; há APIs mais baratas.",
+      "t": "03:15:04"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "Google Analytics",
+      "uso": "Configurado ao vivo no site da agência para medir visitas, origem, dispositivo e usuários em tempo real; também mostrado em um site de cliente."
+    },
+    {
+      "nome": "Google Search Console",
+      "uso": "Verificação da propriedade, envio do sitemap e solicitação de indexação das páginas locais do site."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Instalou a tag do Google, criou sitemap, robots e as páginas de serviços do site por meio de prompts."
+    },
+    {
+      "nome": "VS Code",
+      "uso": "Editor do site e do CRM, com o servidor local rodando para conferir o resultado."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Gerou os cinco prompts de SEO, estimou as horas do sistema de ingressos e serviu de calculadora para o orçamento."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospecção por nicho e cidade, com filtro de IA e exportação de leads; sem plano gratuito."
+    },
+    {
+      "nome": "Pinterest",
+      "uso": "Referências de sites de oficina mecânica para inspirar o layout."
+    },
+    {
+      "nome": "Gemini Pro",
+      "uso": "Citado para gerar relatórios de Analytics em PDF para os clientes; a oferta com cupom foi colocada no grupo."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Usado para cobrar e parcelar; também cotado para integrar Pix e cartão no sistema de ingressos."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Domínio repassado ao cliente ao custo de cerca de R$ 40 por ano."
+    },
+    {
+      "nome": "CRM próprio (JRCRM)",
+      "uso": "Sistema de gestão da agência com dashboard, leads, vendas, projetos, relatório financeiro e de MRR."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:14:27",
+      "texto": "Vender não é fácil: 90% desistem e 10% vão para a frente. É natural."
+    },
+    {
+      "t": "00:05:53",
+      "texto": "Não dá para só prospectar, fechar site e deixar os projetos pela metade; vamos organizar tudo que tem aqui."
+    },
+    {
+      "t": "01:12:53",
+      "texto": "O cliente disse que o mercado está ruim; eu disse que o site é uma ferramenta que vai ajudar a vender mais, e assim a objeção vira desejo."
+    },
+    {
+      "t": "02:26:23",
+      "texto": "Pega o valor que quer ganhar por mês, divide por 30 e por 8, e chega no valor da hora."
+    },
+    {
+      "t": "02:43:17",
+      "texto": "Esses sites com animação e efeito são bonitos, mas o cliente quer falar contigo direto e resolver o que precisa."
+    },
+    {
+      "t": "03:00:42",
+      "texto": "Ou você faz dinheiro para você, ou alguém vai te usar para fazer dinheiro para ele."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Instalar o Google Analytics no seu site",
+      "passos": [
+        "Entre no Google Analytics com o seu Gmail e crie uma conta com o nome da sua agência.",
+        "Crie uma propriedade para o site (uma propriedade por site), escolha fuso, setor e objetivos.",
+        "Configure o fluxo de dados com a URL do site e copie a tag do Google.",
+        "Peça ao Antigravity para configurar o Google Analytics no site colando o código, publique e use o teste de instalação."
+      ],
+      "resultado": "Tag detectada no site e usuários aparecendo em tempo real no relatório.",
+      "fonte_t": "00:47:42"
+    },
+    {
+      "titulo": "Preparar a base de SEO local do site",
+      "passos": [
+        "Liste as buscas em que quer aparecer, combinando serviço e cidade.",
+        "Peça ao ChatGPT, como especialista em SEO, os prompts para rodar no Antigravity com essas palavras-chave.",
+        "Rode um prompt de cada vez, conferindo sitemap, robots e páginas de serviço criadas.",
+        "Revise o texto para não limitar o negócio à cidade, se você atende outras regiões."
+      ],
+      "resultado": "Site com sitemap, robots e páginas de serviço voltadas às buscas escolhidas.",
+      "fonte_t": "01:18:13"
+    },
+    {
+      "titulo": "Enviar o site ao Search Console",
+      "passos": [
+        "Abra o Search Console e adicione a URL do site; se a tag do Analytics estiver instalada, a verificação é automática.",
+        "Envie o endereço do sitemap.xml e confira quantas páginas foram encontradas.",
+        "Use a inspeção de URL em cada página importante e solicite a indexação.",
+        "Volte em dois ou três dias para ver os primeiros dados de desempenho."
+      ],
+      "resultado": "Propriedade verificada, sitemap processado e páginas com indexação solicitada.",
+      "fonte_t": "02:16:11"
+    },
+    {
+      "titulo": "Calcular o preço de um projeto pela hora",
+      "passos": [
+        "Descreva o sistema ao ChatGPT e peça a estimativa de horas usando as ferramentas que você utiliza.",
+        "Defina quanto quer ganhar por mês, divida por 30 e depois por 8 para achar o valor da hora.",
+        "Multiplique pelas horas e some a taxa do parcelamento, se você for absorvê-la.",
+        "Prepare uma versão mais simples do projeto para o caso de o cliente não aceitar o valor."
+      ],
+      "resultado": "Um valor de referência e uma alternativa mais barata prontos para negociar.",
+      "fonte_t": "02:21:53"
+    }
+  ]
+}

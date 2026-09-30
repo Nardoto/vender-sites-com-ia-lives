@@ -144,6 +144,45 @@
     window.addEventListener('load', restaurarCapitulo);
   }
 
+  // Busca de lives: os resultados navegam pelos mesmos hashes do índice.
+  var buscaLives = $('#busca-lives');
+  if (buscaLives) {
+    buscaLives.addEventListener('input', function () {
+      var termo = normalizar(buscaLives.value.trim());
+      var total = 0;
+      $$('[data-busca-live]').forEach(function (item) {
+        var mostrar = !!termo && normalizar(item.textContent).includes(termo);
+        item.hidden = !mostrar;
+        if (mostrar) total++;
+      });
+      $('#resultados-lives').hidden = !termo;
+      $('#contagem-lives').textContent = termo ? total + (total === 1 ? ' live encontrada' : ' lives encontradas') : '';
+    });
+  }
+
+  // Checklist local: funciona sem armazenamento e preserva a marcação ao recarregar.
+  var checks = $$('[data-checklist]');
+  function progressoChecklist() {
+    var status = $('#progresso-checklist');
+    if (status) status.textContent = checks.filter(function (c) { return c.checked; }).length + ' de ' + checks.length + ' itens concluídos';
+  }
+  function avisarArmazenamento() {
+    var aviso = $('#aviso-checklist');
+    if (aviso) aviso.textContent = 'O navegador não permitiu salvar as marcações. Você pode usar o checklist nesta página e imprimi-lo.';
+  }
+  checks.forEach(function (c) {
+    var chave = 'lives:guia:v1:' + c.getAttribute('data-checklist');
+    try { c.checked = localStorage.getItem(chave) === '1'; } catch (e) { avisarArmazenamento(); }
+    c.addEventListener('change', function () {
+      try {
+        if (c.checked) localStorage.setItem(chave, '1');
+        else localStorage.removeItem(chave);
+      } catch (e) { avisarArmazenamento(); }
+      progressoChecklist();
+    });
+  });
+  if (checks.length) progressoChecklist();
+
   // Copiar scripts
   $$('.btn-copiar').forEach(function (b) {
     b.addEventListener('click', function () {
@@ -285,7 +324,7 @@
   document.addEventListener('keydown', function (e) {
     var tag = (e.target.tagName || '').toLowerCase();
     if (e.key === '/' && tag !== 'input' && tag !== 'textarea') {
-      var alvo = capituloAtual && capituloAtual.id === 'transcricao' ? buscaT : buscaGeral;
+      var alvo = capituloAtual && capituloAtual.id === 'transcricao' ? buscaT : (buscaGeral || buscaLives);
       if (alvo) { e.preventDefault(); alvo.focus(); }
     }
     if (e.key === 'Escape' && menu && abrirMenu) {

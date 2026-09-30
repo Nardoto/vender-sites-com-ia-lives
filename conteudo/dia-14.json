@@ -1,0 +1,310 @@
+{
+  "dia": 14,
+  "dias": [
+    14,
+    15
+  ],
+  "rotulo": "Dias 14 e 15",
+  "slug": "dia-14",
+  "srt": "srt/dia-14.srt",
+  "titulo": "Dia 14/15 | Vibe Coding: R$2.142 + MRR: R$149,70 Vendendo Sites com IA",
+  "nome": "Meta superada e desenvolvimento do site Água Pura",
+  "data": "2026-09-21",
+  "duracao": "4:01:40",
+  "youtube": "https://www.youtube.com/watch?v=w2Vqhc507z4",
+  "faturamento": "R$ 2.142",
+  "mrr": "R$ 149,70",
+  "resumo": "Nesta transmissão estendida de quatro horas que unifica os dias 14 e 15, Júnior comemora a superação da meta de um salário mínimo (R$ 1.621) ao atingir R$ 2.142 em faturamento acumulado e R$ 149,70 de receita recorrente mensal com três contratos ativos de R$ 49,90. Ele esclarece que a unificação decorreu de um aviso de privacidade do YouTube motivado pela exibição de telas e contatos de WhatsApp em lives passadas, suspendendo a prospecção aberta ao vivo. Toda a transmissão é dedicada à codificação completa da landing page da empresa Água Pura, distribuidora de galões e purificadores. No VS Code com Antigravity (Gemini Pro) e ChatGPT para estruturar prompts e identidade visual, ele desenvolve todas as dobras, tabelas de produtos, botões de pedido e rodapé assinado pela JR Marketing, subindo o repositório privado no GitHub e efetuando o deploy na Vercel.",
+  "destaques": [
+    "Superação da meta original de R$ 1.621 aos 15 dias de desafio, alcançando R$ 2.142 em faturamento acumulado e R$ 149,70 em MRR.",
+    "Desenvolvimento integral e ao vivo no VS Code com Antigravity da landing page comercial para a distribuidora de água mineral Água Pura.",
+    "Adequação das transmissões para preservar dados e privacidade de clientes de acordo com as regras de plataforma."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:00:15",
+      "texto": "Abertura da live com explicação sobre o aviso de privacidade do YouTube e a unificação dos dias 14 e 15."
+    },
+    {
+      "t": "00:08:40",
+      "texto": "Comemoração da meta batida do desafio com R$ 2.142 acumulados e R$ 149,70 em mensalidades recorrentes."
+    },
+    {
+      "t": "00:22:15",
+      "texto": "Abertura do projeto Água Pura no VS Code e configuração do servidor local para desenvolvimento."
+    },
+    {
+      "t": "00:56:35",
+      "texto": "Estruturação dos prompts de geração de imagens e seções por etapas no ChatGPT."
+    },
+    {
+      "t": "01:00:02",
+      "texto": "Explicação do fluxo: prepara o mockup e os prompts no ChatGPT e executa no VS Code com Antigravity."
+    },
+    {
+      "t": "01:36:17",
+      "texto": "Explicação detalhada a Gabriel sobre o conceito de MRR e receita recorrente mensal."
+    },
+    {
+      "t": "01:41:08",
+      "texto": "Orientação a Luiz Fernando sobre hospedagem individual por cliente versus hospedagem centralizada."
+    },
+    {
+      "t": "02:15:04",
+      "texto": "Recapitulação do fluxo de trabalho: mockup no ChatGPT, programação no Antigravity e deploy contínuo."
+    },
+    {
+      "t": "02:18:06",
+      "texto": "Explicação sobre volume de contatos: apenas oito empresas abordadas em 15 dias com alto aproveitamento."
+    },
+    {
+      "t": "02:29:07",
+      "texto": "Resposta a Dudu esclarecendo que a montagem completa da Água Pura ocorreu devido ao forte interesse do cliente."
+    },
+    {
+      "t": "02:42:17",
+      "texto": "Orientação para Birin priorizar empresas que já conhece pessoalmente para destravar as primeiras vendas."
+    },
+    {
+      "t": "03:07:11",
+      "texto": "Análise de tickets para sistemas mais complexos (como imobiliárias e construtoras) a partir de R$ 2.500."
+    },
+    {
+      "t": "03:32:34",
+      "texto": "Comando para gerar logos em alta resolução para cabeçalho e rodapé no ChatGPT."
+    },
+    {
+      "t": "03:39:07",
+      "texto": "Inclusão de créditos de criação no rodapé apontando para a marca JR Marketing."
+    },
+    {
+      "t": "03:59:17",
+      "texto": "Conclusão do deploy na Vercel com a página Água Pura totalmente funcional e pronta para validação."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "02:18:06",
+      "titulo": "Qualidade sobre volume cego",
+      "texto": "Não se iluda com metas de disparar centenas de mensagens por dia; abordar oito empresas bem qualificadas e fechar duas traz resultado muito mais consistente."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:16:56",
+      "titulo": "Suba o sarrafo após a vitória",
+      "texto": "Após superar o salário mínimo de faturamento aos 15 dias, a próxima grande meta é fazer com que a receita recorrente (MRR) atinja o valor de um salário mínimo todo mês."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:42:17",
+      "titulo": "Comece pelo seu ecossistema",
+      "texto": "Se encontrar barreiras nos contatos frios, procure os comércios onde você já consome com frequência; a relação de cliente anterior quebra a desconfiança inicial."
+    },
+    {
+      "momento": "analise",
+      "t": "03:07:11",
+      "titulo": "Diferencie landing page de sistema",
+      "texto": "Landing pages simples de apresentação cobram-se entre R$ 799 e R$ 997; já negócios como imobiliárias precisam de área administrativa e devem custar a partir de R$ 2.500 a R$ 3.500."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:39:07",
+      "titulo": "Assinatura estratégica no rodapé",
+      "texto": "Adicionar créditos de criação com link no rodapé de cada site publicado cria um canal contínuo de captação passiva de novos empresários."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:43:30",
+      "titulo": "Uso de vetores SVG para logos",
+      "texto": "Utilize formatos leves como SVG ou PNG transparente bem otimizado para que a página abra com velocidade instantânea em conexões móveis."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:22:53",
+      "titulo": "Comunicação profissional e individualizada",
+      "texto": "Analise o perfil de cada empresa antes de disparar; uma abordagem personalizada e consultiva gera taxa de fechamento muito superior."
+    },
+    {
+      "momento": "preco",
+      "t": "02:27:46",
+      "titulo": "Cobrança de mensalidade recorrente",
+      "texto": "Utilize plataformas que oferecem cobrança por assinatura no cartão para receber o valor do suporte mensal de forma pontual e automatizada."
+    },
+    {
+      "momento": "preco",
+      "t": "03:02:08",
+      "titulo": "Ticket de transição",
+      "texto": "O preço de R$ 799 é excelente para ganhar tração inicial; à medida que seu portfólio amadurece, posicione suas landing pages completas a R$ 997."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:59:17",
+      "titulo": "Envio com demonstração funcional",
+      "texto": "Apresentar para o cliente o link já funcional na Vercel com os produtos dele configurados praticamente elimina objeções na negociação."
+    },
+    {
+      "momento": "erros",
+      "t": "03:40:01",
+      "titulo": "Exibição indevida de dados na tela",
+      "texto": "Nunca exiba conversas ou números de telefone de terceiros durante transmissões ao vivo para evitar penalidades e avisos de diretrizes nas plataformas."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "03:32:34",
+      "titulo": "Geração de logos no ChatGPT (trecho dito na aula)",
+      "texto": "Gere as logos em alta resolução já prontas para usar no site. Cabeçalho e rodapé."
+    },
+    {
+      "tipo": "prompt",
+      "t": "03:39:07",
+      "titulo": "Inclusão de créditos da criação no rodapé (trecho dito na aula)",
+      "texto": "Adicione também ao final do site os créditos... os créditos da criação. Vamos fazer o nosso marketing, né?"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "03:40:01",
+      "titulo": "Abordagem com site pronto para cliente interessado (exemplo adaptado a partir da aula)",
+      "texto": "[Exemplo adaptado a partir da aula para o caso Água Pura]: 'Olá! Conforme conversamos, montei a página completa da empresa com catálogo de galões, purificadores e botão direto de pedidos no WhatsApp: [link]. Dê uma olhada no celular para ver como ficou prático para os seus clientes fazerem pedidos.'"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Gabriel",
+      "pergunta": "O que é MRR?",
+      "resposta": "MRR é receita mensal recorrente. É tudo aquilo que você recebe todo mês.",
+      "t": "01:36:17"
+    },
+    {
+      "autor": "Breno",
+      "pergunta": "Qual o prompt que você usa para criar o mockup de site e quais informações coloca?",
+      "resposta": "No final de toda a live eu peço um resumão pro ChatGPT e jogo lá no grupo do WhatsApp todos os prompts que usei.",
+      "t": "01:40:03"
+    },
+    {
+      "autor": "Luiz Fernando",
+      "pergunta": "É melhor hospedar cada cliente em uma conta individual ou colocar todos em uma conta só?",
+      "resposta": "Aí fica como você quiser: pode hospedar individual ou pode hospedar numa conta só.",
+      "t": "01:41:08"
+    },
+    {
+      "autor": "Victor",
+      "pergunta": "Qual o fluxo de criação do site?",
+      "resposta": "A gente gera o mockup no ChatGPT, gera os prompts no ChatGPT e usa o Antigravity aqui no VS Code para executar o projeto.",
+      "t": "02:15:04"
+    },
+    {
+      "autor": "Alex",
+      "pergunta": "Tu compra números virtuais, então?",
+      "resposta": "Não, Alex. Eu tô usando um único número só para fazer essa prospecção. Eu não prospecto em massa: abordamos oito empresas em 15 dias.",
+      "t": "02:18:00"
+    },
+    {
+      "autor": "Dudu",
+      "pergunta": "Por que voltou para esse método de prospecção de criar o site antes?",
+      "resposta": "Porque o cliente mostrou interesse e aí eu resolvi aproveitar para montar para ele.",
+      "t": "02:29:07"
+    },
+    {
+      "autor": "Birin",
+      "pergunta": "Já chamei mais de 200 empresas, não fechei nenhuma. O que fazer?",
+      "resposta": "Fecha empresas que você já conheça para iniciar, aumentar teu portfólio e trazer mais confiança.",
+      "t": "02:42:17"
+    },
+    {
+      "autor": "Pacheco",
+      "pergunta": "Qual o seu plano mesmo de IA?",
+      "resposta": "O meu é o Gemini Pro via Antigravity, esse que tá na descrição da live.",
+      "t": "03:00:26"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código fonte onde toda a página da Água Pura foi codificada e testada."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão assistente de código com modelo Gemini Pro para geração ágil de componentes."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Criação de prompts de layout, geração de logotipo conceitual e textos descritivos."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Versionamento do código em repositório privado com conexão automatizada à esteira de deploy."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Serviço de publicação estática na nuvem com emissão de SSL e visualização imediata."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Plataforma para gestão das cobranças avulsas de criação e assinaturas mensais recorrentes."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Mineração de dados de estabelecimentos comerciais sem website para prospecção."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:08:40",
+      "texto": "Faturamento atual: R$ 2.142, MRR R$ 149,70. Começou o desafio: sair do R$ 0 e chegar a R$ 1.621... batemos a meta."
+    },
+    {
+      "t": "02:18:06",
+      "texto": "Eu não prospecto em massa, galera... a gente abordou oito empresas em 15 dias, tá? O segredo não tá em abordar 200."
+    },
+    {
+      "t": "02:35:40",
+      "texto": "MRR é receita mensal recorrente... nós temos três sites vendidos. Isso aqui a gente vai receber dos nossos clientes todo mês."
+    },
+    {
+      "t": "03:02:08",
+      "texto": "Eu acho que o ticket ideal desse tipo de site aqui, galera, que nem a gente tá criando, é 997."
+    },
+    {
+      "t": "03:59:17",
+      "texto": "Aí galera, site no ar, tá? Já tá aqui ó, água pura já tá com o site no ar."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Desenvolvimento de landing page para catálogo de produtos locais",
+      "passos": [
+        "Escolha um comércio da sua vizinhança que dependa de pedidos rápidos (distribuidora de água, gás ou marmitaria)",
+        "No seu editor de código, estruture três blocos: cabeçalho com benefícios de entrega rápida, grade de produtos com foto, nome e preço, e formulário simples",
+        "Configure os botões de cada item para abrir o WhatsApp com a mensagem: 'Olá, gostaria de pedir o produto [Nome]'",
+        "Teste a visualização no celular para garantir que o botão de compra esteja sempre ao alcance do polegar"
+      ],
+      "resultado": "Landing page estruturada com catálogo de produtos, tabela de preços e botões de chamada direta para o WhatsApp.",
+      "fonte_t": "00:22:15"
+    },
+    {
+      "titulo": "Inserção de créditos e marca pessoal no rodapé de projetos",
+      "passos": [
+        "Abra o arquivo HTML do rodapé do seu projeto de portfólio",
+        "Insira uma linha de assinatura com os dizeres: 'Desenvolvido por [Sua Marca]' com link seguro ('target=_blank rel=noopener')",
+        "Estilize o texto de forma elegante com cor neutra para não competir com as informações principais do cliente",
+        "Publique a alteração e confirme se o clique direciona corretamente para a sua página de apresentação"
+      ],
+      "resultado": "Rodapé configurado com créditos de criação e link apontando para a sua página de apresentação.",
+      "fonte_t": "03:39:07"
+    },
+    {
+      "titulo": "Estruturação de plano de assinatura recorrente",
+      "passos": [
+        "Acesse sua plataforma financeira de preferência (como Mercado Pago ou gateway integrado)",
+        "Crie um novo plano de cobrança por assinatura no valor mensal de manutenção",
+        "Defina o título como 'Suporte Técnico e Hospedagem de Website'",
+        "Guarde o link de assinatura pronto para ser enviado junto com a aprovação final do projeto pelo cliente"
+      ],
+      "resultado": "Plano mensal de assinatura cadastrado na plataforma de pagamento com link pronto para envio ao cliente.",
+      "fonte_t": "02:27:46"
+    }
+  ]
+}

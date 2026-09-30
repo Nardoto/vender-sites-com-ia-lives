@@ -1,0 +1,11063 @@
+1
+00:00:01,920 --> 00:00:04,920
+number
+
+2
+00:00:05,440 --> 00:00:08,440
+the
+
+3
+00:00:12,960 --> 00:00:15,960
+number
+
+4
+00:02:33,200 --> 00:02:39,200
+E aí, galera? E aí, vocês estão me
+
+5
+00:02:35,400 --> 00:02:43,599
+ouvindo bem? Mais um dia. Bora,
+
+6
+00:02:39,200 --> 00:02:43,599
+vamos esperar o pessoal colar aqui.
+
+7
+00:02:44,800 --> 00:02:48,840
+Vamos esperar o pessoal colar.
+
+8
+00:03:10,720 --> 00:03:14,400
+Já vamos iniciar, galera. Só esperar o
+
+9
+00:03:12,599 --> 00:03:18,200
+povo chegar aí com a gente. Vamos
+
+10
+00:03:14,400 --> 00:03:18,200
+esperar todo mundo colar.
+
+11
+00:03:21,840 --> 00:03:25,840
+Vamos esperar a galera colar com a
+
+12
+00:03:23,680 --> 00:03:25,840
+gente.
+
+13
+00:03:55,720 --> 00:03:59,959
+Carlos Henrique, Mateus
+
+14
+00:04:01,360 --> 00:04:07,720
+Baouro,
+
+15
+00:04:04,159 --> 00:04:10,519
+U Carlos Santos chegou e deu sub. Valeu,
+
+16
+00:04:07,720 --> 00:04:12,640
+meu querido. Bora, gente. Bora. Vamos
+
+17
+00:04:10,519 --> 00:04:15,040
+começar. Vamos começar. Galera tá
+
+18
+00:04:12,640 --> 00:04:18,920
+chegando.
+
+19
+00:04:15,040 --> 00:04:18,920
+Vamos para mais uma semana.
+
+20
+00:04:19,199 --> 00:04:23,840
+Pera aí, gente. Pera aí, pera aí, pera
+
+21
+00:04:20,840 --> 00:04:23,840
+aí.
+
+22
+00:05:01,639 --> 00:05:10,160
+Fala Cris. Boa tarde gente. Boa tarde.
+
+23
+00:05:05,520 --> 00:05:10,160
+Pera aí que eu vou aparecer de volta.
+
+24
+00:05:11,520 --> 00:05:17,639
+E aí, como é que vocês estão? Vocês
+
+25
+00:05:12,759 --> 00:05:17,639
+estão bom demais? Bom demais.
+
+26
+00:05:22,720 --> 00:05:28,600
+Hoje foi dia de refinar, galera. Eu dei
+
+27
+00:05:25,479 --> 00:05:30,639
+só uma refinada aqui no nosso CRM,
+
+28
+00:05:28,600 --> 00:05:32,680
+porque é o seguinte, estamos chegando ao
+
+29
+00:05:30,639 --> 00:05:35,800
+fim do mês, né? Estamos chegando ao fim
+
+30
+00:05:32,680 --> 00:05:35,800
+do mês.
+
+31
+00:05:38,360 --> 00:05:42,600
+Segunda-feira de muitas vendas. Amém.
+
+32
+00:05:40,720 --> 00:05:44,680
+Amém.
+
+33
+00:05:42,600 --> 00:05:48,440
+E chegou, ó, galera. Já tô conhecendo
+
+34
+00:05:44,680 --> 00:05:50,520
+vocês, hein. Bora.
+
+35
+00:05:48,440 --> 00:05:52,880
+Bora para mais um dia, galera. Hoje eu
+
+36
+00:05:50,520 --> 00:05:55,600
+vou liberar para vocês os prompts do
+
+37
+00:05:52,880 --> 00:05:58,919
+CRM, tá?
+
+38
+00:05:55,600 --> 00:06:01,680
+E aí, o seguinte, vamos falar sobre isso
+
+39
+00:05:58,919 --> 00:06:04,400
+também vai prospectar hoje. Pretendo,
+
+40
+00:06:01,680 --> 00:06:07,840
+Cry, pretendo fazer uma análise do nosso
+
+41
+00:06:04,400 --> 00:06:11,479
+mês, né, para estudar uma estratégia que
+
+42
+00:06:07,840 --> 00:06:11,479
+realmente funcione.
+
+43
+00:06:11,720 --> 00:06:18,280
+Eh,
+
+44
+00:06:14,720 --> 00:06:21,199
+e, né, ter uma
+
+45
+00:06:18,280 --> 00:06:22,400
+uma programação pro mês que vem.
+
+46
+00:06:21,199 --> 00:06:27,120
+Mês que vem a gente vai ter que
+
+47
+00:06:22,400 --> 00:06:27,120
+prospectar e vamos prospectar muito.
+
+48
+00:06:27,479 --> 00:06:34,080
+Vamos prospectar muito.
+
+49
+00:06:31,160 --> 00:06:36,280
+Ã,
+
+50
+00:06:34,080 --> 00:06:38,479
+acho que consegue pegar uns projetos de
+
+51
+00:06:36,280 --> 00:06:41,280
+graça para criar portfólio. Acho que
+
+52
+00:06:38,479 --> 00:06:43,680
+compensa então, meu querido. Compensa
+
+53
+00:06:41,280 --> 00:06:47,400
+sim, mas o que que eu recomendo foi o
+
+54
+00:06:43,680 --> 00:06:50,680
+que a gente fez aqui. Salve, Vini.
+
+55
+00:06:47,400 --> 00:06:53,400
+H, eu recomendo você pegar empresas, né,
+
+56
+00:06:50,680 --> 00:06:56,080
+que você analise e veja que eles têm
+
+57
+00:06:53,400 --> 00:06:58,199
+potencial para te comprar esse site. E
+
+58
+00:06:56,080 --> 00:07:00,360
+aí você faz ele, né, porque o serviço de
+
+59
+00:06:58,199 --> 00:07:04,039
+fazer por fazer, então faz para esse que
+
+60
+00:07:00,360 --> 00:07:05,800
+talvez possa te comprar. Se ele não te
+
+61
+00:07:04,039 --> 00:07:09,599
+comprar, vira portfólio. Se ele te
+
+62
+00:07:05,800 --> 00:07:14,479
+comprar, você já fez o trabalho e eh
+
+63
+00:07:09,599 --> 00:07:16,639
+aproveita, né, para botar o o dindim na
+
+64
+00:07:14,479 --> 00:07:18,960
+conta. A gente vai falar sobre isso
+
+65
+00:07:16,639 --> 00:07:22,440
+hoje, galera, tá? Vamos falar sobre isso
+
+66
+00:07:18,960 --> 00:07:25,560
+mesmo, sobre prospecção, sobre cliente,
+
+67
+00:07:22,440 --> 00:07:27,160
+sobre estratégias. Por isso que
+
+68
+00:07:25,560 --> 00:07:29,919
+eh
+
+69
+00:07:27,160 --> 00:07:31,319
+eu coloquei o CRM hoje no ar, fora da
+
+70
+00:07:29,919 --> 00:07:35,080
+live aqui, pra gente não perder tempo
+
+71
+00:07:31,319 --> 00:07:38,360
+configurando o CRM, né? Inclusive, dei
+
+72
+00:07:35,080 --> 00:07:41,360
+uma mexidinha nele aqui, ó.
+
+73
+00:07:38,360 --> 00:07:41,360
+Ah,
+
+74
+00:07:42,919 --> 00:07:46,639
+vamos dar uma olhada, Vittor, depois.
+
+75
+00:07:45,039 --> 00:07:49,759
+Qual é a melhor para fazer esse site?
+
+76
+00:07:46,639 --> 00:07:52,720
+Porque acaba gastando muitos créditos.
+
+77
+00:07:49,759 --> 00:07:54,800
+Puts, eu uso o Gemini, tá? justamente
+
+78
+00:07:52,720 --> 00:07:56,720
+por isso, pra gente economizar um
+
+79
+00:07:54,800 --> 00:07:59,960
+pouquinho de crédito. Então, o Gemini
+
+80
+00:07:56,720 --> 00:08:04,240
+para mim é a melhor opção. Inclusive tem
+
+81
+00:07:59,960 --> 00:08:04,240
+desconto aí, galera, na
+
+82
+00:08:05,879 --> 00:08:09,680
+descrição da live tem desconto de 18
+
+83
+00:08:08,199 --> 00:08:12,280
+meses, que é o mesmo plano que eu uso
+
+84
+00:08:09,680 --> 00:08:15,280
+aqui, que inclusive tá aqui, ó, o meu
+
+85
+00:08:12,280 --> 00:08:16,639
+limite.
+
+86
+00:08:15,280 --> 00:08:19,120
+Eu não sei se vai aparecer, né, porque a
+
+87
+00:08:16,639 --> 00:08:22,400
+webcam tá bem na frente,
+
+88
+00:08:19,120 --> 00:08:24,720
+mas vai aparecer aqui, ó.
+
+89
+00:08:22,400 --> 00:08:27,319
+H aqui vai aparecer, ó. Eu tô com meu
+
+90
+00:08:24,720 --> 00:08:30,720
+limite semanal que reseta em um dia,
+
+91
+00:08:27,319 --> 00:08:30,720
+quase acabando.
+
+92
+00:08:33,599 --> 00:08:37,120
+Então,
+
+93
+00:08:35,479 --> 00:08:40,440
+Cra,
+
+94
+00:08:37,120 --> 00:08:43,440
+compensa, tá? Só que você fica sem MRR,
+
+95
+00:08:40,440 --> 00:08:46,880
+né? Mas compensa, você vende mais caro e
+
+96
+00:08:43,440 --> 00:08:46,880
+tá tudo certo.
+
+97
+00:08:47,320 --> 00:08:51,519
+Acredito que logo hoje que eu assinei o
+
+98
+00:08:49,040 --> 00:08:53,920
+Google EA Pro, a minha conta bugou. e
+
+99
+00:08:51,519 --> 00:08:56,440
+virou menor de idade.
+
+100
+00:08:53,920 --> 00:08:57,680
+Não acredito, cara. Aí não consegue
+
+101
+00:08:56,440 --> 00:09:00,240
+mesmo. Você vai ter que criar outra
+
+102
+00:08:57,680 --> 00:09:04,360
+conta.
+
+103
+00:09:00,240 --> 00:09:04,360
+Vai ter que criar outra conta.
+
+104
+00:09:06,680 --> 00:09:12,680
+Ã, eu tenho duas contas, né? Esse plano
+
+105
+00:09:09,640 --> 00:09:14,720
+dá direito ao antigravity? Sim. Eh,
+
+106
+00:09:12,680 --> 00:09:16,440
+inclusive tem 20% de desconto com o meu
+
+107
+00:09:14,720 --> 00:09:19,880
+cupom. É o plano que eu uso aqui nas
+
+108
+00:09:16,440 --> 00:09:22,880
+lives, tá? Você integrou o API oficial
+
+109
+00:09:19,880 --> 00:09:29,480
+do WhatsApp no CRM? Ainda não, Cry. Por
+
+110
+00:09:22,880 --> 00:09:29,480
+enquanto tá só organizacional, tá?
+
+111
+00:09:31,079 --> 00:09:34,880
+A o branco tá estourando.
+
+112
+00:09:39,519 --> 00:09:44,120
+Júnior, o que tu acha de sites mais
+
+113
+00:09:41,320 --> 00:09:47,640
+interativos com animação em 3D? Vittor,
+
+114
+00:09:44,120 --> 00:09:51,279
+dá muito trabalho e converte pouco, tá?
+
+115
+00:09:47,640 --> 00:09:54,959
+é bonito, mas a taxa de conversão desse
+
+116
+00:09:51,279 --> 00:09:57,120
+tipo de site é bem baixa. Então, talvez
+
+117
+00:09:54,959 --> 00:10:01,160
+como portfólio, sabe, para você usar no
+
+118
+00:09:57,120 --> 00:10:03,279
+teus teu website, né? Aí vale a pena.
+
+119
+00:10:01,160 --> 00:10:06,360
+Agora para você fazer para cliente, eu
+
+120
+00:10:03,279 --> 00:10:10,600
+acho que não vai trazer tanto resultado,
+
+121
+00:10:06,360 --> 00:10:13,279
+não. Acho, talvez, eh, teria que fazer
+
+122
+00:10:10,600 --> 00:10:16,680
+um teste, né? fazer essa validar, mas eu
+
+123
+00:10:13,279 --> 00:10:16,680
+acho que não
+
+124
+00:10:21,399 --> 00:10:27,760
+dá para colocar outra conta como grupo
+
+125
+00:10:23,680 --> 00:10:27,760
+família nessa que tá criança
+
+126
+00:10:30,040 --> 00:10:34,000
+aí já não sei te dizer
+
+127
+00:10:38,959 --> 00:10:42,639
+como monta o portfólio então, Henrique.
+
+128
+00:10:40,959 --> 00:10:46,240
+A gente fez isso ao vivo nas lives
+
+129
+00:10:42,639 --> 00:10:46,240
+anteriores, né?
+
+130
+00:10:49,320 --> 00:10:54,880
+Tem algum esquema que peça ele de copiar
+
+131
+00:10:51,560 --> 00:10:59,000
+ou clonar? Não tem sirá. Por isso que eu
+
+132
+00:10:54,880 --> 00:11:01,240
+te disse, você vende mais caro e
+
+133
+00:10:59,000 --> 00:11:04,000
+vende mais caro e entrega o código para
+
+134
+00:11:01,240 --> 00:11:08,120
+ele, né?
+
+135
+00:11:04,000 --> 00:11:11,120
+Deixa eu arrumar a música aqui, galera.
+
+136
+00:11:08,120 --> 00:11:11,120
+Você
+
+137
+00:11:24,240 --> 00:11:27,600
+acha que a galera não se impressiona
+
+138
+00:11:26,000 --> 00:11:30,320
+mais vendo essas coisas diferentes do
+
+139
+00:11:27,600 --> 00:11:31,959
+site? Então, Vitor, por impressionar,
+
+140
+00:11:30,320 --> 00:11:34,480
+por ser bonito, show. Mas eu vou te
+
+141
+00:11:31,959 --> 00:11:36,440
+dizer que, por exemplo, eh, uma
+
+142
+00:11:34,480 --> 00:11:39,880
+lavanderia,
+
+143
+00:11:36,440 --> 00:11:41,399
+uma empresa de climatização, uma oficina
+
+144
+00:11:39,880 --> 00:11:43,200
+mecânica, eles não querem muito isso,
+
+145
+00:11:41,399 --> 00:11:45,480
+né? Eles querem que seja direto ao
+
+146
+00:11:43,200 --> 00:11:46,880
+ponto. Se é alguma coisa na área de
+
+147
+00:11:45,480 --> 00:11:49,959
+design, por exemplo, uma loja de
+
+148
+00:11:46,880 --> 00:11:53,839
+imóveis, né? Sei lá, alguma coisa que
+
+149
+00:11:49,959 --> 00:11:55,839
+você que for mais interativa, pelo menos
+
+150
+00:11:53,839 --> 00:12:00,000
+dos meus clientes, galera, todos que eu
+
+151
+00:11:55,839 --> 00:12:04,279
+criei com esses motion e coisa lá 3D, o
+
+152
+00:12:00,000 --> 00:12:04,279
+pessoal pediu para tirar. Tá,
+
+153
+00:12:09,279 --> 00:12:14,440
+não. Ã, eu fiz e funcionou comigo. O
+
+154
+00:12:12,519 --> 00:12:19,680
+Andre falou
+
+155
+00:12:14,440 --> 00:12:21,320
+o André. Boa. Então, gente, olha só. Ã,
+
+156
+00:12:19,680 --> 00:12:23,639
+sexta-feira a gente organizou, né, o
+
+157
+00:12:21,320 --> 00:12:25,680
+nosso SEO.
+
+158
+00:12:23,639 --> 00:12:29,560
+Eh, e dá para ver aqui, ó, que ele já
+
+159
+00:12:25,680 --> 00:12:31,480
+tá. Deixa eu clicar em desempenho.
+
+160
+00:12:29,560 --> 00:12:33,880
+Ele já tá, ele já iniciou a a
+
+161
+00:12:31,480 --> 00:12:37,040
+traqueação, né? Então, em breve a gente
+
+162
+00:12:33,880 --> 00:12:41,760
+já vai ter nossas páginas aqui eh
+
+163
+00:12:37,040 --> 00:12:43,240
+indexadas. Demora, tá? Isso é natural.
+
+164
+00:12:41,760 --> 00:12:45,600
+Aqui a gente já tem um pouquinho do
+
+165
+00:12:43,240 --> 00:12:47,320
+nosso tráfego, né?
+
+166
+00:12:45,600 --> 00:12:50,560
+Então, já temos alguns dados do
+
+167
+00:12:47,320 --> 00:12:51,839
+Analytics. O Analytics ele já traqueia
+
+168
+00:12:50,560 --> 00:12:54,000
+na hora. Inclusive, a gente fez a
+
+169
+00:12:51,839 --> 00:12:56,959
+configuração na live, vocês entraram no
+
+170
+00:12:54,000 --> 00:13:00,519
+site, ele já pegou eh quem tava ao vivo
+
+171
+00:12:56,959 --> 00:13:03,680
+no site, né, de imediato. Então, a gente
+
+172
+00:13:00,519 --> 00:13:05,560
+já tem eh números aqui, tá? Eu vou
+
+173
+00:13:03,680 --> 00:13:07,160
+inclusive colocar o portfólio nos meus
+
+174
+00:13:05,560 --> 00:13:09,560
+vídeos do YouTube, então vai gerar mais
+
+175
+00:13:07,160 --> 00:13:13,000
+tráfego.
+
+176
+00:13:09,560 --> 00:13:13,000
+O som tá baixo?
+
+177
+00:13:14,720 --> 00:13:20,600
+Qual o som, da música ou do microfone?
+
+178
+00:13:17,600 --> 00:13:20,600
+Cacô.
+
+179
+00:13:22,680 --> 00:13:26,399
+Como que tu conecta o Gemini na
+
+180
+00:13:24,519 --> 00:13:29,320
+Antigaravity? Na verdade, Gemini
+
+181
+00:13:26,399 --> 00:13:31,639
+Antigravity é uma ferramenta só, né?
+
+182
+00:13:29,320 --> 00:13:33,560
+Então você, quando você baixa o o
+
+183
+00:13:31,639 --> 00:13:37,639
+antigravity e faz login na tua conta,
+
+184
+00:13:33,560 --> 00:13:37,639
+ele já conecta automaticamente.
+
+185
+00:13:44,040 --> 00:13:47,760
+Ó o fiozeira. Fiz um maneiro para
+
+186
+00:13:46,079 --> 00:13:50,199
+advogado. A estátua da justiça se
+
+187
+00:13:47,760 --> 00:13:51,759
+movimentava. Quando você descia o
+
+188
+00:13:50,199 --> 00:13:55,959
+scroll, o cliente nem ligou. É isso aí,
+
+189
+00:13:51,759 --> 00:13:55,959
+galera. Isso mesmo.
+
+190
+00:14:22,120 --> 00:14:25,120
+Você
+
+191
+00:14:40,160 --> 00:14:45,480
+cobra 3.000 por site, mais 199 mensal.
+
+192
+00:14:43,360 --> 00:14:47,240
+Não, Caco.
+
+193
+00:14:45,480 --> 00:14:50,880
+A gente começou criando o portfólio,
+
+194
+00:14:47,240 --> 00:14:52,440
+então a gente vendeu dois sites por eh
+
+195
+00:14:50,880 --> 00:14:55,160
+497
+
+196
+00:14:52,440 --> 00:14:56,320
+e vendemos mais dois sites por 799.
+
+197
+00:14:55,160 --> 00:15:00,160
+Depois que a gente vendeu os dois
+
+198
+00:14:56,320 --> 00:15:03,440
+primeiros, a gente gerou o portfólio
+
+199
+00:15:00,160 --> 00:15:06,600
+e aumentou o ticket, tá? Então hoje a
+
+200
+00:15:03,440 --> 00:15:11,759
+gente vende a 799 e eu quero aumentar
+
+201
+00:15:06,600 --> 00:15:11,759
+ainda mais esse esse ticket.
+
+202
+00:15:15,639 --> 00:15:19,639
+Para vender site para estética e
+
+203
+00:15:17,720 --> 00:15:22,120
+dentista é melhor site normal ou mais
+
+204
+00:15:19,639 --> 00:15:25,680
+profissional motion? Cara, o pessoal
+
+205
+00:15:22,120 --> 00:15:30,240
+gosta de site bonito, não. Pessoal não
+
+206
+00:15:25,680 --> 00:15:30,240
+gosta de site com muita frescura, tá?
+
+207
+00:15:31,839 --> 00:15:37,839
+Inclusive, vamos falar sobre isso hoje,
+
+208
+00:15:33,480 --> 00:15:37,839
+né, galera? Solta o likezão aí.
+
+209
+00:15:38,120 --> 00:15:41,120
+Ah,
+
+210
+00:15:47,480 --> 00:15:53,079
+os caras inventam, né?
+
+211
+00:15:50,199 --> 00:15:55,560
+Inclusive, gente, eu testei
+
+212
+00:15:53,079 --> 00:15:58,399
+eh eu testei o codex final de semana,
+
+213
+00:15:55,560 --> 00:16:00,639
+né? Mandei para quem quem tava no grupo
+
+214
+00:15:58,399 --> 00:16:03,319
+viu. Quem não tá no grupo do WhatsApp, a
+
+215
+00:16:00,639 --> 00:16:05,040
+descrição tá aqui na o link tá aqui na
+
+216
+00:16:03,319 --> 00:16:08,120
+descrição da live. Então cola lá com a
+
+217
+00:16:05,040 --> 00:16:10,440
+gente no nosso grupo. Eh, e olha só,
+
+218
+00:16:08,120 --> 00:16:12,639
+galera, eu gostei bastante do resultado,
+
+219
+00:16:10,440 --> 00:16:16,560
+só que
+
+220
+00:16:12,639 --> 00:16:19,839
+derreteu nossos tokens. derreteu. É, eu
+
+221
+00:16:16,560 --> 00:16:21,959
+fiz um mocap aqui brincando,
+
+222
+00:16:19,839 --> 00:16:24,880
+é, brincando de uma loja de baterias
+
+223
+00:16:21,959 --> 00:16:28,000
+aqui de Ji. Inclusive, chamei o o rapaz,
+
+224
+00:16:24,880 --> 00:16:29,800
+mandei a proposta para ele, tá em
+
+225
+00:16:28,000 --> 00:16:32,360
+análise, né? Então, tem chance da gente
+
+226
+00:16:29,800 --> 00:16:34,279
+até vender esse site aqui. Mas, tipo,
+
+227
+00:16:32,360 --> 00:16:36,759
+foi bem rápido, gente. Eu consegui fazer
+
+228
+00:16:34,279 --> 00:16:40,600
+esse site em
+
+229
+00:16:36,759 --> 00:16:43,880
+coisa de meia hora, tá?
+
+230
+00:16:40,600 --> 00:16:47,319
+Porém, eh,
+
+231
+00:16:43,880 --> 00:16:47,319
+porém ele
+
+232
+00:16:48,680 --> 00:16:53,480
+derreteu meus tokens, tá? E eu usei a
+
+233
+00:16:50,639 --> 00:16:55,880
+conta da agência, então eu até pensei,
+
+234
+00:16:53,480 --> 00:17:00,040
+eh, vou fazer uma live com vocês aqui
+
+235
+00:16:55,880 --> 00:17:01,600
+testando, né, e até comparando, mas não
+
+236
+00:17:00,040 --> 00:17:03,319
+é viável. Eu conseguiria chegar nesse
+
+237
+00:17:01,600 --> 00:17:05,000
+mesmo resultado com Gemini, bem
+
+238
+00:17:03,319 --> 00:17:08,559
+tranquilo
+
+239
+00:17:05,000 --> 00:17:10,439
+e e não gastaria nem metade do que eu
+
+240
+00:17:08,559 --> 00:17:13,280
+gastei.
+
+241
+00:17:10,439 --> 00:17:17,400
+Caco, a gente cobra R9,90. É o nosso MRR
+
+242
+00:17:13,280 --> 00:17:19,760
+aí, tá? O MRR é a nossa mensalidade.
+
+243
+00:17:17,400 --> 00:17:22,280
+Qual plataforma para achar leads? Estou
+
+244
+00:17:19,760 --> 00:17:23,919
+enviando, mas ainda sem retorno. Então,
+
+245
+00:17:22,280 --> 00:17:26,880
+tem a nossa plataforma da agência, tá
+
+246
+00:17:23,919 --> 00:17:28,880
+aqui na descrição também. O Nexar Hunter
+
+247
+00:17:26,880 --> 00:17:31,919
+é esse que a gente usa para prospectar
+
+248
+00:17:28,880 --> 00:17:31,919
+clientes, tá?
+
+249
+00:17:34,679 --> 00:17:40,280
+Boa tarde, Michel. Boa, galera tá
+
+250
+00:17:37,400 --> 00:17:42,280
+chegando. Isso aí, gente.
+
+251
+00:17:40,280 --> 00:17:45,880
+Tá, então vamos lá, galera. Olha só,
+
+252
+00:17:42,280 --> 00:17:48,160
+vamos fazer uma análise aqui, ó.
+
+253
+00:17:45,880 --> 00:17:51,320
+Eh, eu preenchi os dados aqui no CRM,
+
+254
+00:17:48,160 --> 00:17:54,320
+inclusive eu já vou pedir aqui, ó,
+
+255
+00:17:51,320 --> 00:17:54,320
+eh,
+
+256
+00:17:55,400 --> 00:18:00,000
+vamos organizar um documento.
+
+257
+00:18:57,159 --> 00:19:00,840
+Vamos ficou. aquela automação das
+
+258
+00:18:58,640 --> 00:19:04,720
+postais. Vamos trabalhar nela, Boltinho,
+
+259
+00:19:00,840 --> 00:19:07,200
+já em breve, tá? Já tá aqui na, já tá
+
+260
+00:19:04,720 --> 00:19:08,320
+aqui no meu script.
+
+261
+00:19:07,200 --> 00:19:09,799
+Deixa eu só pedir para ele gerar um
+
+262
+00:19:08,320 --> 00:19:13,480
+documento com os prompts aqui, galera,
+
+263
+00:19:09,799 --> 00:19:17,320
+para mim subir lá no drive do CRM, antes
+
+264
+00:19:13,480 --> 00:19:21,760
+de de eu ir pra tela do do CRM, a gente
+
+265
+00:19:17,320 --> 00:19:21,760
+fazer as coisas lá, tá?
+
+266
+00:19:33,559 --> 00:19:37,919
+Ah, deixa eu ler aqui. Vamos organizar
+
+267
+00:19:34,799 --> 00:19:37,919
+um documento.
+
+268
+00:19:40,559 --> 00:19:49,000
+A sequência de promptes para vocês
+
+269
+00:19:43,520 --> 00:19:49,000
+criarem eh um CRM igual a esse
+
+270
+00:19:49,559 --> 00:19:55,799
+com identidade, estrutura e
+
+271
+00:19:51,840 --> 00:19:55,799
+funcionalidades. Beleza.
+
+272
+00:19:56,799 --> 00:20:01,840
+Ah, quero tentar praticar o valor de 129
+
+273
+00:19:59,720 --> 00:20:03,080
+de hospedagem. Alguém já ficou, cara.
+
+274
+00:20:01,840 --> 00:20:05,880
+Daí você vai ter que oferecer
+
+275
+00:20:03,080 --> 00:20:10,799
+manutenção, tá? Porque eu acho difícil
+
+276
+00:20:05,880 --> 00:20:12,840
+alguém pagar hospedagem de 129. Mas
+
+277
+00:20:10,799 --> 00:20:15,360
+comecei a maratonar a live do dia 1, só
+
+278
+00:20:12,840 --> 00:20:17,520
+fiquei confuso com a parte do Visual
+
+279
+00:20:15,360 --> 00:20:21,400
+Studio Code. Ali eu tenho que baixar a
+
+280
+00:20:17,520 --> 00:20:24,919
+extensão do antigravity e gemini. Então,
+
+281
+00:20:21,400 --> 00:20:28,120
+Gabriel, antigravity é a IDE que você
+
+282
+00:20:24,919 --> 00:20:30,480
+usa o Gemini para codar, tá? Tem um
+
+283
+00:20:28,120 --> 00:20:31,760
+vídeo meu que mostra toda a
+
+284
+00:20:30,480 --> 00:20:33,960
+configuração. Então você não precisa
+
+285
+00:20:31,760 --> 00:20:36,840
+baixar o Gemini, você tem que baixar só
+
+286
+00:20:33,960 --> 00:20:40,240
+o antigravity, porque o antigravity vem
+
+287
+00:20:36,840 --> 00:20:42,280
+com o modelo do Gemini, tá? Antigravity
+
+288
+00:20:40,240 --> 00:20:47,000
+é IDE, é o programa que você vai usar
+
+289
+00:20:42,280 --> 00:20:48,840
+para codar. E o Gemini, ele é o modelo
+
+290
+00:20:47,000 --> 00:20:51,559
+de inteligência artificial que você vai
+
+291
+00:20:48,840 --> 00:20:55,760
+usar, por isso que tem lá o 3.8 flash,
+
+292
+00:20:51,559 --> 00:20:59,320
+3.1 Pro e tudo mais, certo? Então você
+
+293
+00:20:55,760 --> 00:21:01,400
+instala o antigravity no VS Code e aí
+
+294
+00:20:59,320 --> 00:21:03,679
+com o antigravity
+
+295
+00:21:01,400 --> 00:21:09,159
+é você vai codar como eu codo aqui, tá?
+
+296
+00:21:03,679 --> 00:21:09,159
+Vai chegar nessa tela aqui, ó. Certo?
+
+297
+00:21:18,039 --> 00:21:22,600
+Gravity muito bugado na hora de salvar
+
+298
+00:21:19,840 --> 00:21:24,799
+arquivo. Na verdade, nunca tivemos esses
+
+299
+00:21:22,600 --> 00:21:27,679
+problemas.
+
+300
+00:21:24,799 --> 00:21:29,279
+Nunca tive esse problema.
+
+301
+00:21:27,679 --> 00:21:31,480
+Talvez é porque você não tenha dado a
+
+302
+00:21:29,279 --> 00:21:32,960
+permissão, né? Às vezes pode ser isso.
+
+303
+00:21:31,480 --> 00:21:35,720
+Tem a configuração aqui, ó, de
+
+304
+00:21:32,960 --> 00:21:38,640
+permissões, tá? Então você tem que dar
+
+305
+00:21:35,720 --> 00:21:41,799
+permissão para ele. Mas a gente usa o VS
+
+306
+00:21:38,640 --> 00:21:45,840
+Code, certo? Então, se você usa IDE
+
+307
+00:21:41,799 --> 00:21:47,559
+oficial, né, pode
+
+308
+00:21:45,840 --> 00:21:53,600
+ser diferente.
+
+309
+00:21:47,559 --> 00:21:53,600
+O que engloba o MRR, hospedagem, tá?
+
+310
+00:21:58,039 --> 00:22:01,760
+A gente coloca no ar com se fosse uma
+
+311
+00:22:00,360 --> 00:22:04,120
+hospedagem, só que a gente hospeda
+
+312
+00:22:01,760 --> 00:22:07,679
+gratuito, né? Eu hospedo gratuito. E
+
+313
+00:22:04,120 --> 00:22:09,640
+essas land page, né, galera? Eh, agora
+
+314
+00:22:07,679 --> 00:22:12,880
+se você envolve banco de dados, por
+
+315
+00:22:09,640 --> 00:22:15,880
+exemplo, esse CRM aí já envolve banco de
+
+316
+00:22:12,880 --> 00:22:18,720
+dados, já envolve uma hospedagem melhor,
+
+317
+00:22:15,880 --> 00:22:21,720
+tá? Então você precisa eh de um valor
+
+318
+00:22:18,720 --> 00:22:21,720
+diferente.
+
+319
+00:22:22,080 --> 00:22:25,159
+Galera, eu tô vendo que tá subindo o
+
+320
+00:22:23,640 --> 00:22:29,320
+número de inscritos e eu não tô
+
+321
+00:22:25,159 --> 00:22:33,520
+recebendo as notificações, né?
+
+322
+00:22:29,320 --> 00:22:33,520
+Deixa eu ver aqui o que tá rolando.
+
+323
+00:22:34,240 --> 00:22:39,400
+Eu recebi lá no início uma notificação e
+
+324
+00:22:36,200 --> 00:22:43,320
+depois não recebi mais, né?
+
+325
+00:22:39,400 --> 00:22:43,320
+Vamos ver o que tá rolando aqui.
+
+326
+00:22:44,559 --> 00:22:50,400
+E aí a gente já vai
+
+327
+00:22:48,120 --> 00:22:52,480
+já vamos meter meter marcha aqui para
+
+328
+00:22:50,400 --> 00:22:56,720
+organizar, porque a gente já tá
+
+329
+00:22:52,480 --> 00:22:56,720
+praticamente fechando o mês, né?
+
+330
+00:23:13,640 --> 00:23:18,159
+Deixa eu só arrumar aqui os os avisos,
+
+331
+00:23:16,000 --> 00:23:19,640
+gente, da
+
+332
+00:23:18,159 --> 00:23:24,679
+dos novos inscritos para eu ir
+
+333
+00:23:19,640 --> 00:23:24,679
+agradecendo vocês. Vamos ver.
+
+334
+00:23:26,360 --> 00:23:30,240
+Agora vai rodar de boa.
+
+335
+00:23:33,960 --> 00:23:37,880
+Compreendidos o Gabriel. Tamo junto,
+
+336
+00:23:35,880 --> 00:23:39,400
+Gabriel.
+
+337
+00:23:37,880 --> 00:23:41,960
+Então, galera, olha só, vamos lá. Vamos
+
+338
+00:23:39,400 --> 00:23:46,159
+organizar aqui a nossa matemática, tá?
+
+339
+00:23:41,960 --> 00:23:49,520
+Então, a gente abordou eh 25 empresas
+
+340
+00:23:46,159 --> 00:23:52,240
+até até hoje, tá? Eu quero preparar uma
+
+341
+00:23:49,520 --> 00:23:53,840
+lista, inclusive hoje de novas empresas
+
+342
+00:23:52,240 --> 00:23:56,960
+para abordar.
+
+343
+00:23:53,840 --> 00:23:58,640
+Então, abordamos 25 empresas, 11
+
+344
+00:23:56,960 --> 00:24:01,400
+empresas a gente conseguiu enviar
+
+345
+00:23:58,640 --> 00:24:03,919
+proposta, tá? Que foi onde a gente
+
+346
+00:24:01,400 --> 00:24:07,120
+seguiu o script e conseguimos chegar na
+
+347
+00:24:03,919 --> 00:24:09,200
+parte de enviar os valores, tá?
+
+348
+00:24:07,120 --> 00:24:11,679
+Quatro vendas foi o que a gente
+
+349
+00:24:09,200 --> 00:24:14,679
+concretizou.
+
+350
+00:24:11,679 --> 00:24:17,080
+Eu uso Versel.
+
+351
+00:24:14,679 --> 00:24:21,840
+Lumo,
+
+352
+00:24:17,080 --> 00:24:21,840
+tu cobra quanto cada site? 799.
+
+353
+00:24:22,640 --> 00:24:26,159
+Domínio eu compro, mas é o cliente que
+
+354
+00:24:24,640 --> 00:24:29,440
+paga, tá? Inclusive eu cadastro o
+
+355
+00:24:26,159 --> 00:24:30,880
+domínio na eh no nome do cliente.
+
+356
+00:24:29,440 --> 00:24:33,200
+Galera, isso isso vocês t que deixar
+
+357
+00:24:30,880 --> 00:24:34,559
+tudo pronto, tá? Não, o tipo, você já
+
+358
+00:24:33,200 --> 00:24:36,000
+tem que entregar o site pronto pro
+
+359
+00:24:34,559 --> 00:24:38,159
+cliente. Não vai pedir pro cliente
+
+360
+00:24:36,000 --> 00:24:40,360
+contratar hospedagem, não vai pedir pro
+
+361
+00:24:38,159 --> 00:24:42,399
+cliente contratar domínio. Pega o
+
+362
+00:24:40,360 --> 00:24:45,919
+cadastro dele, pega o nome completo,
+
+363
+00:24:42,399 --> 00:24:48,000
+CPF, endereço e você pode cadastrar o
+
+364
+00:24:45,919 --> 00:24:49,840
+domínio da pessoa na tua conta, no nome
+
+365
+00:24:48,000 --> 00:24:53,000
+dela, tá? Tá? Então, se em algum momento
+
+366
+00:24:49,840 --> 00:24:55,880
+ele precisar, você vai lá, pede o a
+
+367
+00:24:53,000 --> 00:24:58,919
+referência e passa a propriedade para
+
+368
+00:24:55,880 --> 00:25:01,279
+ele, tá?
+
+369
+00:24:58,919 --> 00:25:04,840
+Não não façam a bobagem de cadastrar no
+
+370
+00:25:01,279 --> 00:25:07,520
+nome de vocês, porque aí você vai ter em
+
+371
+00:25:04,840 --> 00:25:09,559
+algum momento, sempre que precisar de
+
+372
+00:25:07,520 --> 00:25:11,960
+alguma manutenção, alguma coisa, você
+
+373
+00:25:09,559 --> 00:25:13,559
+vai ter eh o cliente te mandando
+
+374
+00:25:11,960 --> 00:25:15,320
+mensagem, você tendo que fazer essas
+
+375
+00:25:13,559 --> 00:25:17,880
+coisas, esse tipo de coisa. Se bem que
+
+376
+00:25:15,320 --> 00:25:21,080
+dá dá muito pouco, né? Mas pelo menos
+
+377
+00:25:17,880 --> 00:25:22,840
+façam no nome do cliente.
+
+378
+00:25:21,080 --> 00:25:26,840
+E aí, galera, quem é mais antigo aqui
+
+379
+00:25:22,840 --> 00:25:30,640
+sabe, né? A gente prospectou metade, é
+
+380
+00:25:26,840 --> 00:25:33,159
+onde a gente fez o site, depois vendeu e
+
+381
+00:25:30,640 --> 00:25:36,080
+outra metade a gente abordou o cliente
+
+382
+00:25:33,159 --> 00:25:38,720
+para tentar vender, tá?
+
+383
+00:25:36,080 --> 00:25:42,159
+das quatro vendas que a gente fez, três
+
+384
+00:25:38,720 --> 00:25:44,799
+foi na primeira metodologia que foi
+
+385
+00:25:42,159 --> 00:25:47,480
+selecionar a empresa,
+
+386
+00:25:44,799 --> 00:25:51,120
+fazer o site e depois vender o site para
+
+387
+00:25:47,480 --> 00:25:53,880
+essa empresa, tá? Então, eh, a gente fez
+
+388
+00:25:51,120 --> 00:25:56,760
+três vendas assim,
+
+389
+00:25:53,880 --> 00:25:58,960
+fazendo eh abordando o cliente e
+
+390
+00:25:56,760 --> 00:26:01,799
+tentando fechar a venda para depois
+
+391
+00:25:58,960 --> 00:26:03,559
+construir o site. A gente, ó, o Diego
+
+392
+00:26:01,799 --> 00:26:07,320
+Macedo acabou de se inscrever. Valeu,
+
+393
+00:26:03,559 --> 00:26:10,320
+Diego. A gente conseguiu uma venda só
+
+394
+00:26:07,320 --> 00:26:14,039
+e nós disparamos o número de empresas
+
+395
+00:26:10,320 --> 00:26:18,039
+abordadas, né? Inclusive a live 14, 15
+
+396
+00:26:14,039 --> 00:26:22,360
+que o YouTube acabou derrubando foram as
+
+397
+00:26:18,039 --> 00:26:26,120
+que a gente fez isso, né? E aí,
+
+398
+00:26:22,360 --> 00:26:29,440
+eh, dá para ver que a nossa taxa, né,
+
+399
+00:26:26,120 --> 00:26:31,559
+de vendas, eh,
+
+400
+00:26:29,440 --> 00:26:33,840
+não é tão boa quando você aborda o
+
+401
+00:26:31,559 --> 00:26:36,480
+cliente e tenta vender sem mostrar nada
+
+402
+00:26:33,840 --> 00:26:40,320
+visual para eles.
+
+403
+00:26:36,480 --> 00:26:42,320
+Ã, eu quero tentar
+
+404
+00:26:40,320 --> 00:26:45,840
+fechar mais um cliente ainda até o fim
+
+405
+00:26:42,320 --> 00:26:45,840
+do mês, tá?
+
+406
+00:26:48,880 --> 00:26:53,600
+Acho que vou criar outra conta mesmo,
+
+407
+00:26:51,520 --> 00:26:54,919
+Júnior. Pedir o reembolso de Gem. Você
+
+408
+00:26:53,600 --> 00:26:57,480
+não vai conseguir reembolso ebooks
+
+409
+00:26:54,919 --> 00:26:59,039
+depois que ativa.
+
+410
+00:26:57,480 --> 00:27:01,799
+Ruim é que eu tinha tudo cadastrado
+
+411
+00:26:59,039 --> 00:27:05,039
+nessa conta. É, é mais fácil você tentar
+
+412
+00:27:01,799 --> 00:27:07,760
+restaurar tua conta, né, para pegar o
+
+413
+00:27:05,039 --> 00:27:09,440
+histórico do que
+
+414
+00:27:07,760 --> 00:27:10,880
+criar uma nova. Mas se não conseguir,
+
+415
+00:27:09,440 --> 00:27:13,600
+não tem que fazer, tem que criar uma
+
+416
+00:27:10,880 --> 00:27:15,919
+nova.
+
+417
+00:27:13,600 --> 00:27:17,960
+Meu rei, como você faz a prospecção?
+
+418
+00:27:15,919 --> 00:27:21,000
+Artur, eu faço pelo Nexar Hunter, tá?
+
+419
+00:27:17,960 --> 00:27:24,200
+Inclusive tá aberto aqui, ó.
+
+420
+00:27:21,000 --> 00:27:26,360
+É onde eu consigo pesquisar por segmento
+
+421
+00:27:24,200 --> 00:27:28,000
+e por cidade.
+
+422
+00:27:26,360 --> 00:27:30,399
+E aí
+
+423
+00:27:28,000 --> 00:27:32,840
+tem uma Iá aqui que já vai filtrando
+
+424
+00:27:30,399 --> 00:27:36,840
+para mim, tá? Se você vai disparar em
+
+425
+00:27:32,840 --> 00:27:38,399
+massa, tem até a opção de disparo aqui.
+
+426
+00:27:36,840 --> 00:27:41,360
+Então você pode disparar em massa. A
+
+427
+00:27:38,399 --> 00:27:44,120
+gente ainda não tá fazendo isso de eh de
+
+428
+00:27:41,360 --> 00:27:46,240
+disparar em massa, né? Mas vamos fazer,
+
+429
+00:27:44,120 --> 00:27:49,960
+vamos fazer.
+
+430
+00:27:46,240 --> 00:27:49,960
+também tá nos planos.
+
+431
+00:27:51,000 --> 00:27:55,960
+Galera, seguinte, ã,
+
+432
+00:27:56,799 --> 00:28:00,080
+vamos lá.
+
+433
+00:28:04,880 --> 00:28:09,519
+Como que ficou aqui?
+
+434
+00:28:07,960 --> 00:28:13,080
+Então, construímos. Deixa eu ver se ele
+
+435
+00:28:09,519 --> 00:28:16,519
+já liberou. Ai, deu erro aqui. É, o DPT
+
+436
+00:28:13,080 --> 00:28:16,519
+hoje tá bugado, né, gente?
+
+437
+00:28:17,200 --> 00:28:21,240
+Vamos ver se ele vai.
+
+438
+00:28:19,440 --> 00:28:22,600
+Ah,
+
+439
+00:28:21,240 --> 00:28:25,519
+irmão, você podia fazer um grupo de
+
+440
+00:28:22,600 --> 00:28:27,519
+network, mano. Comecei a ver a live,
+
+441
+00:28:25,519 --> 00:28:29,519
+gostei muito do conteúdo. Tô indo por
+
+442
+00:28:27,519 --> 00:28:33,240
+dia,
+
+443
+00:28:29,519 --> 00:28:35,240
+três para assistir. Tem algumas duas.
+
+444
+00:28:33,240 --> 00:28:37,039
+Então, meu querido, a nossa a nossa o
+
+445
+00:28:35,240 --> 00:28:39,799
+nosso grupo de network tá na descrição
+
+446
+00:28:37,039 --> 00:28:42,799
+da live, tá? Só clicar no link ali e
+
+447
+00:28:39,799 --> 00:28:42,799
+participar.
+
+448
+00:28:50,760 --> 00:28:54,000
+Aí, ó.
+
+449
+00:29:08,240 --> 00:29:11,720
+Alguém chegou, gente. Vamos ver quem
+
+450
+00:29:09,720 --> 00:29:14,720
+chegou. Perdi aqui o sub, mas já vamos
+
+451
+00:29:11,720 --> 00:29:14,720
+olhar,
+
+452
+00:29:16,120 --> 00:29:20,600
+tá gente? Então, olha só, esse site aqui
+
+453
+00:29:18,360 --> 00:29:22,960
+eu mandei a proposta até vamos alterar
+
+454
+00:29:20,600 --> 00:29:26,279
+aqui, ó.
+
+455
+00:29:22,960 --> 00:29:29,279
+Eh, vamos alterar aqui nas propostas
+
+456
+00:29:26,279 --> 00:29:29,279
+enviadas
+
+457
+00:29:32,240 --> 00:29:37,039
+porque foram 12 propostas.
+
+458
+00:29:37,240 --> 00:29:40,240
+Olha
+
+459
+00:29:40,480 --> 00:29:44,039
+só, então, fechamos três sites, né,
+
+460
+00:29:42,559 --> 00:29:45,600
+galera? O primeiro foi o da Lord
+
+461
+00:29:44,039 --> 00:29:48,440
+Lavanderia. Vamos fazer um resumão do
+
+462
+00:29:45,600 --> 00:29:51,200
+mês aqui para quem
+
+463
+00:29:48,440 --> 00:29:54,000
+para quem chegou agora.
+
+464
+00:29:51,200 --> 00:29:57,840
+Ã, então vamos lá,
+
+465
+00:29:54,000 --> 00:29:57,840
+vamos fazer esse resumão.
+
+466
+00:30:00,240 --> 00:30:09,919
+Fechamos esse daqui por 497, né?
+
+467
+00:30:05,720 --> 00:30:12,600
+mais R9,90 de hospedagem, tá? Sendo que
+
+468
+00:30:09,919 --> 00:30:15,840
+a gente hospeda de forma gratuita.
+
+469
+00:30:12,600 --> 00:30:20,240
+Então, eu lancei aqui, ó, a gente for
+
+470
+00:30:15,840 --> 00:30:20,240
+venda, ver em vendas aqui.
+
+471
+00:30:29,399 --> 00:30:35,159
+Ah, tá aqui, ó. Loja lavanderia, tá?
+
+472
+00:30:33,080 --> 00:30:36,720
+497.
+
+473
+00:30:35,159 --> 00:30:40,760
+Acho que tá pequeno aí para vocês. Eu
+
+474
+00:30:36,720 --> 00:30:40,760
+vou dar um zoom aqui.
+
+475
+00:30:40,880 --> 00:30:45,360
+Acho que aqui vai ficar melhor para
+
+476
+00:30:42,120 --> 00:30:45,360
+vocês visualizar
+
+477
+00:30:45,880 --> 00:30:50,799
+aí. Luan já fez a boa. É isso aí, Luan.
+
+478
+00:30:48,120 --> 00:30:57,320
+Vamos dar like. Estamos com 100 pessoas
+
+479
+00:30:50,799 --> 00:30:59,120
+aqui e 40 likes. Então, 497 e temos os90
+
+480
+00:30:57,320 --> 00:31:02,519
+de MRR, tá? Então, isso aqui é
+
+481
+00:30:59,120 --> 00:31:04,360
+recorrente até. Eu quero eh sinalizar
+
+482
+00:31:02,519 --> 00:31:09,080
+aqui
+
+483
+00:31:04,360 --> 00:31:09,080
+pra gente ter a cobrança recorrente.
+
+484
+00:31:20,799 --> 00:31:25,120
+Tem vídeo no seu canal ensinando do
+
+485
+00:31:22,399 --> 00:31:27,279
+zero, desde a que utiliza até colocar o
+
+486
+00:31:25,120 --> 00:31:31,039
+site rodando? Tem sim, crônicas. Só
+
+487
+00:31:27,279 --> 00:31:31,039
+pegar a live um lá.
+
+488
+00:31:31,159 --> 00:31:37,799
+E aí, o seguinte, então
+
+489
+00:31:34,360 --> 00:31:40,639
+fechamos esse daqui, 497 + 4990
+
+490
+00:31:37,799 --> 00:31:43,240
+recorrente, tá? Então aqui, ó, MRR
+
+491
+00:31:40,639 --> 00:31:45,200
+vendido, para quem não sabe o que é MRR,
+
+492
+00:31:43,240 --> 00:31:49,200
+receita recorrente mensal, tudo aquilo
+
+493
+00:31:45,200 --> 00:31:51,360
+que você vai eh receber, né, de forma
+
+494
+00:31:49,200 --> 00:31:54,039
+mensal.
+
+495
+00:31:51,360 --> 00:31:56,039
+Depois fechamos o site do Igui Clima.
+
+496
+00:31:54,039 --> 00:32:00,279
+Tudo isso aqui, galera, a gente fez em
+
+497
+00:31:56,039 --> 00:32:02,360
+live, tá? Então, quem não chegou,
+
+498
+00:32:00,279 --> 00:32:05,120
+eh, quem tá chegando agora, só pegar a
+
+499
+00:32:02,360 --> 00:32:09,919
+live um lá e maratonar, tá? Faz um
+
+500
+00:32:05,120 --> 00:32:14,200
+Netflix aí no vezes do que vocês já vão
+
+501
+00:32:09,919 --> 00:32:14,200
+entender toda a história.
+
+502
+00:32:28,960 --> 00:32:34,679
+Então, fechamos esse daqui, né? Foi,
+
+503
+00:32:31,960 --> 00:32:37,679
+esses são os sites que a gente fez. e
+
+504
+00:32:34,679 --> 00:32:40,320
+depois tentou vender, tá? Então,
+
+505
+00:32:37,679 --> 00:32:45,320
+fechamos. Eh, esse site aqui também
+
+506
+00:32:40,320 --> 00:32:46,559
+lancei, tá aqui, ó, e juí clima 497
+
+507
+00:32:45,320 --> 00:32:49,519
+e
+
+508
+00:32:46,559 --> 00:32:53,000
+R9,90, que é o recorrente também, que é
+
+509
+00:32:49,519 --> 00:32:54,919
+a hospedagem, tá? Por que 497, Júnior?
+
+510
+00:32:53,000 --> 00:32:56,440
+Porque a gente não tinha portfólio,
+
+511
+00:32:54,919 --> 00:32:59,399
+então eu não usei o nome da minha
+
+512
+00:32:56,440 --> 00:33:01,279
+agência, não usei eh o portfólio da
+
+513
+00:32:59,399 --> 00:33:07,639
+minha agência, então começamos um
+
+514
+00:33:01,279 --> 00:33:11,600
+negócio do zero, tá, galera? Então, eh,
+
+515
+00:33:07,639 --> 00:33:13,399
+fizemos, eh, isso para gerar portfólio.
+
+516
+00:33:11,600 --> 00:33:16,159
+Vendemos baratinho, construímos o
+
+517
+00:33:13,399 --> 00:33:18,440
+portfólio, certo? E aí, o que que a
+
+518
+00:33:16,159 --> 00:33:20,519
+gente fez? Criamos o nosso site, né?
+
+519
+00:33:18,440 --> 00:33:22,320
+Criamos o nosso site para trazer
+
+520
+00:33:20,519 --> 00:33:24,120
+credibilidade,
+
+521
+00:33:22,320 --> 00:33:26,080
+que era uma coisa muito importante que
+
+522
+00:33:24,120 --> 00:33:29,600
+eu falei para eh que eu falei para
+
+523
+00:33:26,080 --> 00:33:31,960
+vocês, né? Você tá vendendo o website,
+
+524
+00:33:29,600 --> 00:33:34,080
+tá falando da importância do website,
+
+525
+00:33:31,960 --> 00:33:36,039
+mas aí você não tem o website. Aí o cara
+
+526
+00:33:34,080 --> 00:33:38,360
+vai pensar, pô, é tão importante, o cara
+
+527
+00:33:36,039 --> 00:33:39,559
+tá me dizendo que é tão eh faz total
+
+528
+00:33:38,360 --> 00:33:42,279
+diferença na minha empresa ter um
+
+529
+00:33:39,559 --> 00:33:44,559
+website e nem o cara tem o website, né?
+
+530
+00:33:42,279 --> 00:33:46,159
+Então quando você tiver um portfólio,
+
+531
+00:33:44,559 --> 00:33:51,039
+você
+
+532
+00:33:46,159 --> 00:33:53,120
+eh faz o teu website. Se você não vendeu
+
+533
+00:33:51,039 --> 00:33:55,639
+nenhum site, faz isso que eu fiz. vende
+
+534
+00:33:53,120 --> 00:33:58,000
+mais barato, constrói o site. Se a
+
+535
+00:33:55,639 --> 00:34:00,760
+empresa não quiser pagar, tira o logo,
+
+536
+00:33:58,000 --> 00:34:02,639
+tira a identidade visual e coloca como
+
+537
+00:34:00,760 --> 00:34:04,840
+mocap, né? Inclusive, a gente fez isso
+
+538
+00:34:02,639 --> 00:34:07,760
+aqui, ó.
+
+539
+00:34:04,840 --> 00:34:10,760
+Eh, a gente fez isso aqui nos projetos
+
+540
+00:34:07,760 --> 00:34:10,760
+da
+
+541
+00:34:11,960 --> 00:34:15,119
+ente fez isso no projeto, não me lembro
+
+542
+00:34:13,520 --> 00:34:16,520
+qual projeto, inclusive aqui, ó, a gente
+
+543
+00:34:15,119 --> 00:34:19,879
+teve uma alteração na minha página
+
+544
+00:34:16,520 --> 00:34:21,720
+portfólio que tá sem os outros projetos.
+
+545
+00:34:19,879 --> 00:34:24,359
+Vamos ver se lá em serviços eles
+
+546
+00:34:21,720 --> 00:34:24,359
+aparecem.
+
+547
+00:34:24,879 --> 00:34:29,440
+A gente fez isso num site que a gente
+
+548
+00:34:26,800 --> 00:34:31,560
+não vendeu, né? Explorar todos os
+
+549
+00:34:29,440 --> 00:34:37,000
+projetos, tá? Depois temos que ajustar
+
+550
+00:34:31,560 --> 00:34:40,879
+isso aqui. Ah, onde a gente não vendeu e
+
+551
+00:34:37,000 --> 00:34:40,879
+usamos como portfólio.
+
+552
+00:34:41,480 --> 00:34:45,839
+Eu não aborto, aborto as pessoas o nome
+
+553
+00:34:43,520 --> 00:34:48,560
+da da agência, Víor. Eu abordo o nome
+
+554
+00:34:45,839 --> 00:34:50,320
+meu aqui, ó, Júnior Lima.
+
+555
+00:34:48,560 --> 00:34:52,159
+Então, o negócio é já enviar o Mocap
+
+556
+00:34:50,320 --> 00:34:54,800
+junto. Eu acho que sim, Michel. Para mim
+
+557
+00:34:52,159 --> 00:34:57,760
+deu mais diferença.
+
+558
+00:34:54,800 --> 00:34:59,400
+Ã,
+
+559
+00:34:57,760 --> 00:35:01,800
+tem vídeo no seu canal ensinando do
+
+560
+00:34:59,400 --> 00:35:03,480
+zero. Já respondi.
+
+561
+00:35:01,800 --> 00:35:07,079
+Live será sobre o quê? Vamos trocar uma
+
+562
+00:35:03,480 --> 00:35:08,880
+ideia sobre Dinaro hoje.
+
+563
+00:35:07,079 --> 00:35:10,720
+Nexar Hunter é da minha agência aí,
+
+564
+00:35:08,880 --> 00:35:12,359
+caro.
+
+565
+00:35:10,720 --> 00:35:14,599
+Curtindo demais maratonar. Valeu,
+
+566
+00:35:12,359 --> 00:35:16,760
+Otávio. Hoje você aborda falando o nome
+
+567
+00:35:14,599 --> 00:35:19,200
+da agência. Júnior, eh, como você
+
+568
+00:35:16,760 --> 00:35:21,520
+precifica mais ou menos cada site que
+
+569
+00:35:19,200 --> 00:35:24,000
+você gastou? Mais ou menos isso, tá?
+
+570
+00:35:21,520 --> 00:35:27,440
+Como eu tenho eh já alguns anos no
+
+571
+00:35:24,000 --> 00:35:30,960
+mercado, mais ou menos eu decido aqui a
+
+572
+00:35:27,440 --> 00:35:32,760
+no nosso projeto, a gente tinha a ideia
+
+573
+00:35:30,960 --> 00:35:34,280
+que eu troquei o título, tá? Vocês vão
+
+574
+00:35:32,760 --> 00:35:36,880
+ver que lá no início o nosso objetivo
+
+575
+00:35:34,280 --> 00:35:39,200
+era sair do zero e fazer um salário
+
+576
+00:35:36,880 --> 00:35:41,800
+mínimo vendendo sites, tá? Esse era o
+
+577
+00:35:39,200 --> 00:35:43,440
+objetivo inicial do projeto, sem usar o
+
+578
+00:35:41,800 --> 00:35:46,320
+nome da minha agência e sem usar o
+
+579
+00:35:43,440 --> 00:35:49,359
+portfólio da minha agência, tá? começar,
+
+580
+00:35:46,320 --> 00:35:52,160
+como muitos aqui começaram junto do
+
+581
+00:35:49,359 --> 00:35:54,359
+zero, então o objetivo era fazer um
+
+582
+00:35:52,160 --> 00:35:56,520
+salário mínimo, só que aí a gente passou
+
+583
+00:35:54,359 --> 00:35:59,640
+o salário mínimo, né? Hoje estamos aí
+
+584
+00:35:56,520 --> 00:36:01,560
+com praticamente R$ 3.000 e eu ainda
+
+585
+00:35:59,640 --> 00:36:04,680
+quero fechar mais uns tentar fechar mais
+
+586
+00:36:01,560 --> 00:36:06,319
+um site para chegar em 3.500.
+
+587
+00:36:04,680 --> 00:36:08,560
+Então vai muito do teu objetivo, né?
+
+588
+00:36:06,319 --> 00:36:10,000
+Então você, claro que quando você tá
+
+589
+00:36:08,560 --> 00:36:13,359
+iniciando, não adianta você querer
+
+590
+00:36:10,000 --> 00:36:16,359
+cobrar R$ 2.500 num site, né? Talvez por
+
+591
+00:36:13,359 --> 00:36:20,240
+sorte se você pegar algum conhecido ou
+
+592
+00:36:16,359 --> 00:36:24,000
+algo assim. Agora para abordar empresa
+
+593
+00:36:20,240 --> 00:36:26,520
+sem portfólio é difícil você conseguir.
+
+594
+00:36:24,000 --> 00:36:29,560
+Então a gente
+
+595
+00:36:26,520 --> 00:36:31,880
+então a gente precisa ter essa parte do
+
+596
+00:36:29,560 --> 00:36:33,079
+eh do portfólio e construindo o nosso
+
+597
+00:36:31,880 --> 00:36:36,079
+nome. Então é isso que eu tô fazendo
+
+598
+00:36:33,079 --> 00:36:38,839
+aqui. Tô construindo o nome e você tem
+
+599
+00:36:36,079 --> 00:36:40,960
+que ir organizando, vai organizando a
+
+600
+00:36:38,839 --> 00:36:43,200
+empresa, né? Você começa como pessoa
+
+601
+00:36:40,960 --> 00:36:45,960
+física, depois você vai evoluindo.
+
+602
+00:36:43,200 --> 00:36:49,040
+Então, que que eu fiz aqui?
+
+603
+00:36:45,960 --> 00:36:51,319
+Não tinha portfólio, olhei, olhei
+
+604
+00:36:49,040 --> 00:36:53,359
+perfis, né? Usei o Hunter lá, explorei
+
+605
+00:36:51,319 --> 00:36:55,720
+alguns perfis, olhei os Instagram das
+
+606
+00:36:53,359 --> 00:37:00,680
+pessoas, vi se eles tinham o potencial
+
+607
+00:36:55,720 --> 00:37:04,960
+ou não de fechar comigo.
+
+608
+00:37:00,680 --> 00:37:07,079
+Ah, aí eh, analisando esse, fiz o mocap,
+
+609
+00:37:04,960 --> 00:37:10,160
+fiz o site, coloquei no ar e fui vender.
+
+610
+00:37:07,079 --> 00:37:13,880
+Vendi dois sites, 497,
+
+611
+00:37:10,160 --> 00:37:17,800
+fiz um pouquinho de caixa, ã, fiz o meu
+
+612
+00:37:13,880 --> 00:37:22,920
+portfólio, né? Comprei lá o meu domínio
+
+613
+00:37:17,800 --> 00:37:26,720
+e aumentei o ticket, coloquei para 799,
+
+614
+00:37:22,920 --> 00:37:28,960
+tá? E vendi dois sites já 799. Então,
+
+615
+00:37:26,720 --> 00:37:31,680
+agregamos mais ao nosso portfólio.
+
+616
+00:37:28,960 --> 00:37:35,960
+Então, fechamos esses dois sites aqui,
+
+617
+00:37:31,680 --> 00:37:39,680
+ó, a 497
+
+618
+00:37:35,960 --> 00:37:42,480
+e fechamos esse site aqui
+
+619
+00:37:39,680 --> 00:37:44,359
+e esse site aqui, ó, que todos eu
+
+620
+00:37:42,480 --> 00:37:49,560
+construí em live aqui, né, galera.
+
+621
+00:37:44,359 --> 00:37:49,560
+Então, quem chegou agora, maratona lá.
+
+622
+00:37:50,640 --> 00:37:54,720
+Os clientes não pedem nota fiscal, não
+
+623
+00:37:53,160 --> 00:37:58,520
+pediram?
+
+624
+00:37:54,720 --> 00:37:58,520
+Não pediram nota fiscal.
+
+625
+00:37:59,319 --> 00:38:04,200
+Então, Scorpions, pode usar teu número
+
+626
+00:38:01,079 --> 00:38:06,680
+pessoal, sim.
+
+627
+00:38:04,200 --> 00:38:07,880
+Usa teu número pessoal e usa teu
+
+628
+00:38:06,680 --> 00:38:09,400
+Instagram, porque as pessoas já te
+
+629
+00:38:07,880 --> 00:38:11,920
+conhecem, né? É muito mais fácil você
+
+630
+00:38:09,400 --> 00:38:13,960
+vender para uma pessoa que te conheça,
+
+631
+00:38:11,920 --> 00:38:15,440
+que tenha empresa, do que você tentar
+
+632
+00:38:13,960 --> 00:38:18,880
+vender para uma pessoa que não te
+
+633
+00:38:15,440 --> 00:38:20,440
+conheça. Então, é muito importante ter
+
+634
+00:38:18,880 --> 00:38:22,400
+eh
+
+635
+00:38:20,440 --> 00:38:24,280
+usar tua tua presença, porque as pessoas
+
+636
+00:38:22,400 --> 00:38:26,480
+já te conhecem, então você já tem a tua
+
+637
+00:38:24,280 --> 00:38:27,760
+própria autoridade.
+
+638
+00:38:26,480 --> 00:38:29,880
+Uma dúvida, Júnior. Estou no grupo do
+
+639
+00:38:27,760 --> 00:38:32,680
+Whats lá e um cara mandou um prompt para
+
+640
+00:38:29,880 --> 00:38:34,880
+criar a gente no Gemini. Testei, só
+
+641
+00:38:32,680 --> 00:38:37,800
+envie o nome de uma clínica e o Gemini
+
+642
+00:38:34,880 --> 00:38:42,160
+entra com É a mesma coisa. Eu não vi
+
+643
+00:38:37,800 --> 00:38:42,160
+isso. Não vi isso,
+
+644
+00:38:42,359 --> 00:38:48,000
+Júnior. Você eh indica começar usando o
+
+645
+00:38:44,920 --> 00:38:49,960
+número. Já respondi.
+
+646
+00:38:48,000 --> 00:38:53,160
+Site pronto. Vende mais fácil. Vende
+
+647
+00:38:49,960 --> 00:38:53,160
+mais fácil.
+
+648
+00:38:56,079 --> 00:39:00,280
+O que você analisa para fechar? Eu
+
+649
+00:38:57,680 --> 00:39:04,240
+abordei umas sete eh pessoas com
+
+650
+00:39:00,280 --> 00:39:06,359
+potencial, digamos. maioria pede para
+
+651
+00:39:04,240 --> 00:39:10,240
+enviar o mocap, mas depois não responde.
+
+652
+00:39:06,359 --> 00:39:11,839
+Então, Eduardo, o que que eu analiso?
+
+653
+00:39:10,240 --> 00:39:13,800
+Primeiro, como eu tô prospectando só na
+
+654
+00:39:11,839 --> 00:39:15,200
+minha cidade, normalmente eu passo na
+
+655
+00:39:13,800 --> 00:39:17,599
+frente da empresa, dou uma olhada para
+
+656
+00:39:15,200 --> 00:39:19,160
+ver a estrutura, olha o Instagram, olha
+
+657
+00:39:17,599 --> 00:39:21,280
+o Google, meu negócio, veja se o
+
+658
+00:39:19,160 --> 00:39:24,160
+Instagram dele tá atualizado, se o
+
+659
+00:39:21,280 --> 00:39:25,839
+Instagram não tá atualizado, se faz,
+
+660
+00:39:24,160 --> 00:39:27,280
+cara, se faz um ano que o cara não faz
+
+661
+00:39:25,839 --> 00:39:28,800
+um post no Instagram, é muito mais
+
+662
+00:39:27,280 --> 00:39:31,599
+difícil você explicar para esse cara a
+
+663
+00:39:28,800 --> 00:39:35,000
+importância de ter um website, né?
+
+664
+00:39:31,599 --> 00:39:36,680
+Se a pessoa tá postando seguido stories,
+
+665
+00:39:35,000 --> 00:39:39,280
+essas coisas, quer dizer que ele se
+
+666
+00:39:36,680 --> 00:39:43,520
+importa com o digital, né? Então é mais
+
+667
+00:39:39,280 --> 00:39:43,520
+fácil você fechar com essa pessoa.
+
+668
+00:39:44,240 --> 00:39:48,800
+A cobrança eu faço com o Mercado Pago,
+
+669
+00:39:46,280 --> 00:39:51,040
+tá? Tem a cobrança recorrente, onde o
+
+670
+00:39:48,800 --> 00:39:54,359
+cliente cadastra o cartão dele, vai
+
+671
+00:39:51,040 --> 00:39:55,599
+cobrar os R$9,90 de forma automática.
+
+672
+00:39:54,359 --> 00:39:58,160
+Então assim, eu não preciso ficar
+
+673
+00:39:55,599 --> 00:40:00,440
+mandando boleto para ele nem nada. Então
+
+674
+00:39:58,160 --> 00:40:03,880
+ele passou o primeiro pagamento da
+
+675
+00:40:00,440 --> 00:40:06,520
+hospedagem hoje, que é dia 28. Dia 28 do
+
+676
+00:40:03,880 --> 00:40:08,839
+mês que vem o Mercado Pago vai cobrar.
+
+677
+00:40:06,520 --> 00:40:11,359
+Mas isso não precisa você ficar preso ao
+
+678
+00:40:08,839 --> 00:40:14,359
+Mercado Pago, né? Tem várias empresas de
+
+679
+00:40:11,359 --> 00:40:17,680
+pagamento que fazem isso.
+
+680
+00:40:14,359 --> 00:40:20,640
+ASAs faz isso, eh, Infinity Pay faz
+
+681
+00:40:17,680 --> 00:40:23,640
+isso, se eu não me engano, Pag Bank faz
+
+682
+00:40:20,640 --> 00:40:23,640
+isso.
+
+683
+00:40:26,760 --> 00:40:30,400
+Então, Fábio, quando eu não tinha CNPJ e
+
+684
+00:40:28,720 --> 00:40:31,960
+o cliente pedia nota, eu ia na loja de
+
+685
+00:40:30,400 --> 00:40:33,680
+um amigo meu, pagava um imposto para
+
+686
+00:40:31,960 --> 00:40:36,359
+ele, ele fazia uma nota de serviço para
+
+687
+00:40:33,680 --> 00:40:40,480
+mim, porque algumas empresas precisam,
+
+688
+00:40:36,359 --> 00:40:40,480
+né, para lançar na contabilidade,
+
+689
+00:40:41,400 --> 00:40:47,000
+tá, gente? Então, olha só, esses sites
+
+690
+00:40:43,359 --> 00:40:50,119
+aqui, ó, o da MS Engenharia
+
+691
+00:40:47,000 --> 00:40:53,839
+e o da Storm Automotivo,
+
+692
+00:40:50,119 --> 00:40:56,480
+eh, a gente fechou, eu fechei por 799,
+
+693
+00:40:53,839 --> 00:40:58,480
+tá? Eles estão lançados aqui, ó. MS
+
+694
+00:40:56,480 --> 00:41:04,599
+Engenharia
+
+695
+00:40:58,480 --> 00:41:10,079
+799 + R9,90 mensal e Storm Automotivo
+
+696
+00:41:04,599 --> 00:41:12,720
+799 + R9,90 mensais. Isso trouxe pra
+
+697
+00:41:10,079 --> 00:41:18,240
+gente, então
+
+698
+00:41:12,720 --> 00:41:18,240
+ah, deixa eu clicar aqui em visão geral.
+
+699
+00:41:20,560 --> 00:41:29,200
+Isso trouxe 2991
+
+700
+00:41:23,240 --> 00:41:32,280
+com60 em vendas mais 199 com60 de MRR,
+
+701
+00:41:29,200 --> 00:41:33,960
+né, que é a receita recorrente. Então, o
+
+702
+00:41:32,280 --> 00:41:36,280
+mês que vem, se eu não vender mais para
+
+703
+00:41:33,960 --> 00:41:38,920
+ninguém ou se eu não fizer mais nada, eu
+
+704
+00:41:36,280 --> 00:41:40,720
+ainda vou ter R$ 200 para receber. No
+
+705
+00:41:38,920 --> 00:41:46,280
+outro mês também, no outro mês também. E
+
+706
+00:41:40,720 --> 00:41:46,280
+assim, eh, sucessivamente, tá?
+
+707
+00:41:48,240 --> 00:41:54,079
+Então, Otávio, o
+
+708
+00:41:51,920 --> 00:41:57,520
+valor do MRR no bem que não faz,
+
+709
+00:41:54,079 --> 00:42:00,359
+Rodrigo. A recorrente não.
+
+710
+00:41:57,520 --> 00:42:03,240
+Ã, você tem que oferecer algo mais, de
+
+711
+00:42:00,359 --> 00:42:06,079
+repente oferece e alguma coisa de redes
+
+712
+00:42:03,240 --> 00:42:09,040
+sociais, né, alguma coisa de Instagram
+
+713
+00:42:06,079 --> 00:42:13,119
+ou gestão do Google Meu Negócio, né?
+
+714
+00:42:09,040 --> 00:42:13,119
+Então tem tem algumas possibilidades,
+
+715
+00:42:16,040 --> 00:42:21,119
+tem algumas possibilidades que você pode
+
+716
+00:42:17,880 --> 00:42:23,880
+agregar, né? Então eu falei também sexta
+
+717
+00:42:21,119 --> 00:42:25,800
+que a gente não vai focar só em só nos
+
+718
+00:42:23,880 --> 00:42:28,400
+sites, né? A gente vai trazer outras.
+
+719
+00:42:25,800 --> 00:42:33,480
+Inclusive a gente iniciou um projeto ali
+
+720
+00:42:28,400 --> 00:42:35,200
+de um de um um SAS que gera postagens,
+
+721
+00:42:33,480 --> 00:42:37,400
+né, pros clientes pra gente já oferecer
+
+722
+00:42:35,200 --> 00:42:39,280
+esse serviço também.
+
+723
+00:42:37,400 --> 00:42:40,920
+Esse é o CRM. Como você liberou os
+
+724
+00:42:39,280 --> 00:42:44,760
+scripts para fazer? Deixa eu ver se ele
+
+725
+00:42:40,920 --> 00:42:48,359
+já gerou aqui, gente. Aqui, ó.
+
+726
+00:42:44,760 --> 00:42:52,800
+Tá tudo aqui, ó.
+
+727
+00:42:48,359 --> 00:42:52,800
+Vou subir no drive para vocês, tá?
+
+728
+00:42:53,640 --> 00:42:59,240
+Vamos ver se ele gerou certo. Deixa eu
+
+729
+00:42:55,920 --> 00:42:59,240
+baixar aqui.
+
+730
+00:43:03,319 --> 00:43:08,640
+Deixa eu baixar o arquivo aqui.
+
+731
+00:43:06,760 --> 00:43:11,160
+Vou baixar aqui. Já vou, já vou lançar
+
+732
+00:43:08,640 --> 00:43:15,160
+com todas as funcionalidades, tá? Depois
+
+733
+00:43:11,160 --> 00:43:15,160
+vocês vão adaptando ele.
+
+734
+00:43:16,760 --> 00:43:21,040
+Manda no grupo. Vamos, vou colocar no
+
+735
+00:43:18,480 --> 00:43:22,880
+drive. Rodrigo
+
+736
+00:43:21,040 --> 00:43:25,880
+J. Tô chegando agora. Você entrega um
+
+737
+00:43:22,880 --> 00:43:25,880
+site,
+
+738
+00:43:27,119 --> 00:43:34,680
+não é? Entrega um site estático, tá?
+
+739
+00:43:32,680 --> 00:43:38,599
+Não, repositório eu não posso, Rafa. Tá
+
+740
+00:43:34,680 --> 00:43:38,599
+com os dados dos clientes.
+
+741
+00:43:39,760 --> 00:43:43,640
+Repositório. Eu não posso.
+
+742
+00:43:44,520 --> 00:43:52,800
+Vamos ver aqui se ele,
+
+743
+00:43:46,960 --> 00:43:52,800
+ó. Git hub Super Base Versel Rotina.
+
+744
+00:43:58,040 --> 00:44:04,119
+Então tá tudo aqui. Financeiro, Mrr.
+
+745
+00:44:09,480 --> 00:44:12,480
+Relatórios.
+
+746
+00:44:19,440 --> 00:44:24,319
+Rotina de evolução, próxima produção.
+
+747
+00:44:21,720 --> 00:44:28,000
+Beleza, galera. Vou subir no drive lá
+
+748
+00:44:24,319 --> 00:44:28,000
+para vocês. Já
+
+749
+00:44:31,000 --> 00:44:37,640
+vamos subir já no drive. Vamos subir
+
+750
+00:44:34,640 --> 00:44:41,839
+aqui em prompts
+
+751
+00:44:37,640 --> 00:44:43,440
+e já vamos subir já para vocês.
+
+752
+00:44:41,839 --> 00:44:47,480
+Quem não tá no grupo, galera, entra no
+
+753
+00:44:43,440 --> 00:44:47,480
+grupo lá que tá fixado.
+
+754
+00:44:51,520 --> 00:44:57,680
+Os dados fica no banco de dados,
+
+755
+00:44:55,640 --> 00:45:01,280
+mas tem um backup do banco dentro do
+
+756
+00:44:57,680 --> 00:45:01,280
+repositório, Rafa.
+
+757
+00:45:05,000 --> 00:45:08,559
+Mateus, os prontos para gerar a imagem
+
+758
+00:45:06,839 --> 00:45:10,520
+do mocap tá dentro do drive ali.
+
+759
+00:45:08,559 --> 00:45:12,119
+Qualquer
+
+760
+00:45:10,520 --> 00:45:15,880
+qualquer live aqui, ó, que você abrir,
+
+761
+00:45:12,119 --> 00:45:20,280
+ó, vai ter os o prompt inicial aqui, ó,
+
+762
+00:45:15,880 --> 00:45:23,920
+que é de geral o sistema visual, ó.
+
+763
+00:45:20,280 --> 00:45:23,920
+Ó aqui, ó.
+
+764
+00:45:28,960 --> 00:45:33,640
+Então, pelo promp você consegue já.
+
+765
+00:45:34,800 --> 00:45:40,280
+Então, na verdade, eh,
+
+766
+00:45:42,839 --> 00:45:48,000
+não tem um segmento, né, galera, que é
+
+767
+00:45:46,079 --> 00:45:49,119
+perfeito.
+
+768
+00:45:48,000 --> 00:45:52,760
+Na verdade, tem que analisar o
+
+769
+00:45:49,119 --> 00:45:52,760
+potencial, né?
+
+770
+00:46:14,720 --> 00:46:20,240
+postou isso no grupo de membros. Isso
+
+771
+00:46:16,720 --> 00:46:22,319
+mesmo, no grupo do WhatsApp.
+
+772
+00:46:20,240 --> 00:46:23,880
+Eu
+
+773
+00:46:22,319 --> 00:46:25,599
+acho que não tem, né, galera? Até hoje
+
+774
+00:46:23,880 --> 00:46:28,040
+eu quero fazer uma prospecção aqui de
+
+775
+00:46:25,599 --> 00:46:31,599
+novo com vocês para vocês ver a análise
+
+776
+00:46:28,040 --> 00:46:33,680
+do do que a gente faz, do que eu faço,
+
+777
+00:46:31,599 --> 00:46:35,160
+né? E agora, mês que vem, a gente vai
+
+778
+00:46:33,680 --> 00:46:38,079
+prospectar muito mais, né? Porque a
+
+779
+00:46:35,160 --> 00:46:40,400
+gente tem que escalar a nossa operação.
+
+780
+00:46:38,079 --> 00:46:42,920
+Então, a gente vai precisar
+
+781
+00:46:40,400 --> 00:46:42,920
+focar aqui.
+
+782
+00:47:12,400 --> 00:47:15,880
+H, vamos lá. Deixa eu ver aqui o que
+
+783
+00:47:14,000 --> 00:47:18,079
+mais. Nos vídeos dos primeiros dias eu
+
+784
+00:47:15,880 --> 00:47:22,280
+encontro tudo. Júnior, vou voltar lá
+
+785
+00:47:18,079 --> 00:47:23,440
+assistir. Encontra, encontra tudo.
+
+786
+00:47:22,280 --> 00:47:25,400
+Como funciona um pouco mais sobre a
+
+787
+00:47:23,440 --> 00:47:27,920
+implementação? Me explica porque precisa
+
+788
+00:47:25,400 --> 00:47:32,160
+de banco de dados. Então, eh, banco de
+
+789
+00:47:27,920 --> 00:47:32,160
+dados é só no CRM, tá?
+
+790
+00:47:32,680 --> 00:47:36,240
+Só no CRM.
+
+791
+00:47:39,559 --> 00:47:43,839
+Se você for desenvolver algum sistema,
+
+792
+00:47:41,280 --> 00:47:46,720
+né?
+
+793
+00:47:43,839 --> 00:47:50,760
+Isso mesmo. É o CRM.
+
+794
+00:47:46,720 --> 00:47:50,760
+Eu joguei lá no drive, tá?
+
+795
+00:47:51,119 --> 00:47:57,160
+Joguei lá no Drive até eu ia
+
+796
+00:47:52,920 --> 00:47:57,160
+compartilhar lá. O pessoal já
+
+797
+00:47:57,240 --> 00:48:04,240
+o pessoal já mandou lá.
+
+798
+00:48:01,000 --> 00:48:06,200
+Tá, gente? Agora vamos falar o seguinte.
+
+799
+00:48:04,240 --> 00:48:07,720
+Estamos pertos de fechar o primeiro mês.
+
+800
+00:48:06,200 --> 00:48:10,599
+Batemos a meta que era um salário
+
+801
+00:48:07,720 --> 00:48:13,280
+mínimo. Chegamos praticamente a dois
+
+802
+00:48:10,599 --> 00:48:16,960
+salários mínimos e aí a gente tem que
+
+803
+00:48:13,280 --> 00:48:18,520
+organizar, certo? Já fizemos o quê?
+
+804
+00:48:16,960 --> 00:48:20,800
+Sexta-feira, para quem não viu,
+
+805
+00:48:18,520 --> 00:48:22,920
+organizamos o SEO do nosso site, né,
+
+806
+00:48:20,800 --> 00:48:26,359
+para começar a arranquear quando alguém
+
+807
+00:48:22,920 --> 00:48:28,960
+pesquisa por eh criação de websites,
+
+808
+00:48:26,359 --> 00:48:31,240
+agência de marketing digital. Então, já
+
+809
+00:48:28,960 --> 00:48:33,000
+organizamos o SEO local, organizamos o
+
+810
+00:48:31,240 --> 00:48:35,520
+Google Analytics aqui para ver da onde o
+
+811
+00:48:33,000 --> 00:48:39,720
+pessoal vem, para no futuro a gente ter
+
+812
+00:48:35,520 --> 00:48:42,599
+essa volumetria aqui, eh, a gente ter
+
+813
+00:48:39,720 --> 00:48:44,599
+essa volumetria para rodar tráfego, né,
+
+814
+00:48:42,599 --> 00:48:46,119
+para entender da onde o pessoal vem, se
+
+815
+00:48:44,599 --> 00:48:48,800
+é mais homem, se é mais mulher, qual que
+
+816
+00:48:46,119 --> 00:48:52,280
+é a faixa etária. Então o Google
+
+817
+00:48:48,800 --> 00:48:54,119
+Analytics, tá? Essa análise, galera,
+
+818
+00:48:52,280 --> 00:48:56,000
+é uma das coisas mais importantes que a
+
+819
+00:48:54,119 --> 00:48:57,960
+gente tem que ter, tá? Para entender
+
+820
+00:48:56,000 --> 00:49:00,640
+quem é o nosso público, para entender
+
+821
+00:48:57,960 --> 00:49:02,280
+quem tem maior chance de fechar. Então,
+
+822
+00:49:00,640 --> 00:49:03,839
+até se você, ah, Júnior, eu não sei
+
+823
+00:49:02,280 --> 00:49:06,079
+fazer essa análise, não tem problema.
+
+824
+00:49:03,839 --> 00:49:10,880
+Hoje tem o chat de aptí que você joga os
+
+825
+00:49:06,079 --> 00:49:14,640
+dados lá e ele faz a análise para você,
+
+826
+00:49:10,880 --> 00:49:16,960
+tá? Eh, e aí o seguinte, por que que a
+
+827
+00:49:14,640 --> 00:49:18,920
+gente tem um gestor financeiro agora?
+
+828
+00:49:16,960 --> 00:49:20,240
+Então, CRM,
+
+829
+00:49:18,920 --> 00:49:21,720
+a gente tem que saber quanto a gente
+
+830
+00:49:20,240 --> 00:49:24,760
+gasta, quando a gente ganha, né, galera?
+
+831
+00:49:21,720 --> 00:49:27,400
+Ó, aqui, ó. É contas a pagar. O que que
+
+832
+00:49:24,760 --> 00:49:30,960
+a gente teve aqui, ó, de despesa.
+
+833
+00:49:27,400 --> 00:49:32,640
+Eu não lancei ainda o Nexar Hunter. Vou
+
+834
+00:49:30,960 --> 00:49:35,520
+lançar agora aqui com vocês, né, que eu
+
+835
+00:49:32,640 --> 00:49:37,599
+pago R$ 79,
+
+836
+00:49:35,520 --> 00:49:41,760
+que é o plano starter. Então, já vou
+
+837
+00:49:37,599 --> 00:49:45,240
+lançar aqui, ó, Nexar Hunter. Vamos lá.
+
+838
+00:49:41,760 --> 00:49:45,240
+Plano starter.
+
+839
+00:49:46,319 --> 00:49:54,599
+Ah, vamos lá. Marketing, valor total 79.
+
+840
+00:49:52,040 --> 00:49:58,440
+Parcelamento, não.
+
+841
+00:49:54,599 --> 00:50:01,599
+Forma de pagamento, cartão.
+
+842
+00:49:58,440 --> 00:50:01,599
+Vamos cadastrar,
+
+843
+00:50:01,839 --> 00:50:05,640
+tá? Já vou pagar porque eu já paguei,
+
+844
+00:50:03,799 --> 00:50:07,880
+né?
+
+845
+00:50:05,640 --> 00:50:12,319
+Então, isso aqui é mensal.
+
+846
+00:50:07,880 --> 00:50:14,319
+Eh, eu pago também,
+
+847
+00:50:12,319 --> 00:50:18,559
+eu paguei também o Gemini, esse mesmo
+
+848
+00:50:14,319 --> 00:50:21,599
+Gemini que tá aí, eh, Gemini,
+
+849
+00:50:18,559 --> 00:50:23,240
+eh, plano pro IA, né? É o mesmo que tá
+
+850
+00:50:21,599 --> 00:50:25,559
+na descrição, só que eu ainda paguei
+
+851
+00:50:23,240 --> 00:50:27,960
+mais caro, né? Porque eu paguei R$ 150.
+
+852
+00:50:25,559 --> 00:50:32,640
+Depois a gente conseguiu
+
+853
+00:50:27,960 --> 00:50:35,799
+eh Depois a gente conseguiu
+
+854
+00:50:32,640 --> 00:50:37,559
+colocar operacional aqui, ó, 149. Depois
+
+855
+00:50:35,799 --> 00:50:41,400
+eu consegui o cupom, né?
+
+856
+00:50:37,559 --> 00:50:41,400
+Isso aqui eu paguei no Pix,
+
+857
+00:50:42,319 --> 00:50:47,200
+então já vou clicar aqui para pagar
+
+858
+00:50:44,200 --> 00:50:47,200
+também.
+
+859
+00:50:48,000 --> 00:50:53,119
+Então,
+
+860
+00:50:50,119 --> 00:50:53,119
+pagamos.
+
+861
+00:50:53,200 --> 00:50:58,359
+Ã, mais, galera? Tem um, eu tenho um GPT
+
+862
+00:50:56,599 --> 00:51:00,119
+Plus aqui, mas não, não vou incluir
+
+863
+00:50:58,359 --> 00:51:04,520
+porque eu já tinha essa assinatura antes
+
+864
+00:51:00,119 --> 00:51:04,520
+e com o free você consegue.
+
+865
+00:51:06,040 --> 00:51:11,359
+Vamos lá. MR já cobra no primeiro mês?
+
+866
+00:51:08,720 --> 00:51:13,040
+Já cobra no primeiro mês. Universo, eu
+
+867
+00:51:11,359 --> 00:51:15,319
+já cobro de cara junto com o valor do
+
+868
+00:51:13,040 --> 00:51:17,680
+site, porque é onde tem que hospedar o
+
+869
+00:51:15,319 --> 00:51:21,319
+site, né? Hoje se você vai contratar
+
+870
+00:51:17,680 --> 00:51:23,200
+Hostinger, Hostator, não tem como você
+
+871
+00:51:21,319 --> 00:51:24,400
+pegar hospedagem e pagar daqui 30 dias,
+
+872
+00:51:23,200 --> 00:51:26,920
+né? A não ser que você faça no seu
+
+873
+00:51:24,400 --> 00:51:28,359
+cartão, você tem que ser paga na hora
+
+874
+00:51:26,920 --> 00:51:30,599
+para eles liberar o acesso. Então você
+
+875
+00:51:28,359 --> 00:51:32,559
+tem que cobrar, gente, não pode ter medo
+
+876
+00:51:30,599 --> 00:51:34,240
+de cobrar do cliente de vocês, tá? Vocês
+
+877
+00:51:32,559 --> 00:51:35,880
+t que cobrar, pô. Ninguém trabalha de
+
+878
+00:51:34,240 --> 00:51:39,000
+graça. Eles cobram do cliente deles,
+
+879
+00:51:35,880 --> 00:51:41,079
+você cobra deles também.
+
+880
+00:51:39,000 --> 00:51:43,160
+Tem alguma live que você fez e usou bem
+
+881
+00:51:41,079 --> 00:51:44,960
+o Nexar Hunter? Estou fazendo bem
+
+882
+00:51:43,160 --> 00:51:47,040
+formiguinha por fora. Google Maps.
+
+883
+00:51:44,960 --> 00:51:49,599
+Então, Mateus, a gente prospectou
+
+884
+00:51:47,040 --> 00:51:52,400
+bastante na a partir da live 13, se eu
+
+885
+00:51:49,599 --> 00:51:54,079
+não 12, se eu não me engano, teve uma
+
+886
+00:51:52,400 --> 00:51:57,400
+live especial que foi a que a gente
+
+887
+00:51:54,079 --> 00:51:58,920
+prospectou a live toda, só que eu tava
+
+888
+00:51:57,400 --> 00:52:01,880
+prospectando o WhatsApp e YouTube
+
+889
+00:51:58,920 --> 00:52:03,920
+derrubou a live porque deu como conteúdo
+
+890
+00:52:01,880 --> 00:52:06,359
+sensível, né? Até a galera tava todo
+
+891
+00:52:03,920 --> 00:52:09,079
+mundo aí estava quase 200 pessoas na
+
+892
+00:52:06,359 --> 00:52:11,799
+live e
+
+893
+00:52:09,079 --> 00:52:14,119
+a live caiu, eu voltei, a live caiu de
+
+894
+00:52:11,799 --> 00:52:17,280
+novo depois que o YouTube foi me falar
+
+895
+00:52:14,119 --> 00:52:22,799
+que não pode mostrar isso, então não
+
+896
+00:52:17,280 --> 00:52:22,799
+podemos mostrar prospecção ao vivo, tá?
+
+897
+00:52:27,640 --> 00:52:31,640
+A vantagem do Nexar Hunter é que, tipo,
+
+898
+00:52:30,000 --> 00:52:33,200
+você além de disparar em massa, a gente
+
+899
+00:52:31,640 --> 00:52:36,400
+não usa ainda, mas nós vamos disparar em
+
+900
+00:52:33,200 --> 00:52:38,799
+massa também em algum momento. Ah, tem a
+
+901
+00:52:36,400 --> 00:52:41,599
+IA que filtra já as empresas, né? Então
+
+902
+00:52:38,799 --> 00:52:44,480
+dá menos trabalho.
+
+903
+00:52:41,599 --> 00:52:46,839
+Tamon. Salve Gabriel. Qual esse site de
+
+904
+00:52:44,480 --> 00:52:49,599
+registrar seu gasto e pagamentos? Então,
+
+905
+00:52:46,839 --> 00:52:54,240
+Avante Automóveis é um CRM que a gente
+
+906
+00:52:49,599 --> 00:52:56,200
+fez em live, tá? A gente fez na live.
+
+907
+00:52:54,240 --> 00:52:57,599
+Como abordar pessoas? Fiz papo de 20
+
+908
+00:52:56,200 --> 00:53:03,000
+sites para clínicos ou comércios
+
+909
+00:52:57,599 --> 00:53:04,599
+pequenos. Até tive pessoas eh tem um
+
+910
+00:53:03,000 --> 00:53:06,720
+tem um script de vendas lá no grupo do
+
+911
+00:53:04,599 --> 00:53:08,480
+WhatsApp. Tá,
+
+912
+00:53:06,720 --> 00:53:13,319
+galera, vamos deixar o like. Somos mais
+
+913
+00:53:08,480 --> 00:53:15,680
+de 100 pessoas aí, só 65 likes.
+
+914
+00:53:13,319 --> 00:53:17,240
+Quando o cliente não aceita o projeto,
+
+915
+00:53:15,680 --> 00:53:18,799
+você envia um link de pagamento para
+
+916
+00:53:17,240 --> 00:53:21,799
+ele. Quando o cliente aceita. E isso
+
+917
+00:53:18,799 --> 00:53:24,000
+mesmo, quando o cliente aceita o
+
+918
+00:53:21,799 --> 00:53:25,720
+projeto, eu já envio para ele o link de
+
+919
+00:53:24,000 --> 00:53:29,480
+pagamento, ele paga e depois que ele
+
+920
+00:53:25,720 --> 00:53:29,480
+paga a gente dá sequência.
+
+921
+00:53:30,880 --> 00:53:36,079
+Ã, sei lá, não consigo cobrar direto, me
+
+922
+00:53:33,720 --> 00:53:37,839
+sinto meio mal. É isso aí que vai, isso
+
+923
+00:53:36,079 --> 00:53:40,480
+aí acontece com todo mundo e é isso aí
+
+924
+00:53:37,839 --> 00:53:41,839
+que trava tuas vendas, sabia?
+
+925
+00:53:40,480 --> 00:53:44,920
+Vendedor tem que perder o medo de
+
+926
+00:53:41,839 --> 00:53:47,160
+cobrar, tá? A gente tem que cobrar.
+
+927
+00:53:44,920 --> 00:53:48,680
+A gente vai no mercado,
+
+928
+00:53:47,160 --> 00:53:50,960
+menina do caixa não deixa a gente sair.
+
+929
+00:53:48,680 --> 00:53:52,359
+Icora, valeu pelo sub. Menina do caixa,
+
+930
+00:53:50,960 --> 00:53:56,119
+menina do caixa não deixa a gente sair
+
+931
+00:53:52,359 --> 00:53:57,960
+sem pagar, né? Não com as compras. Então
+
+932
+00:53:56,119 --> 00:54:03,119
+esse é o mercado financeiro. A gente tem
+
+933
+00:53:57,960 --> 00:54:03,119
+que Xavier chegou. Boa.
+
+934
+00:54:06,200 --> 00:54:11,680
+Como abordar as pessoas, pega o
+
+935
+00:54:07,880 --> 00:54:14,000
+scriptinho lá para você ter uma base.
+
+936
+00:54:11,680 --> 00:54:16,760
+E, galera, o script vocês vão eh
+
+937
+00:54:14,000 --> 00:54:19,160
+melhorando ele, né?
+
+938
+00:54:16,760 --> 00:54:20,880
+Tá? Vocês vão vão usando ele e vão
+
+939
+00:54:19,160 --> 00:54:24,000
+aprimorando. Eu lancei a versão um,
+
+940
+00:54:20,880 --> 00:54:27,680
+depois eu coloquei lá eh a versão dois,
+
+941
+00:54:24,000 --> 00:54:27,680
+né? E assim vai.
+
+942
+00:54:33,400 --> 00:54:37,400
+É isso que a gente tem que fazer.
+
+943
+00:54:39,920 --> 00:54:46,799
+Então, gente, vamos voltar aqui pro pro
+
+944
+00:54:41,920 --> 00:54:49,720
+MR e pros dados aqui pra gente entender.
+
+945
+00:54:46,799 --> 00:54:54,720
+Ã, então, por que que eu gastei acho que
+
+946
+00:54:49,720 --> 00:54:58,680
+duas lives pra gente fazer o CRM?
+
+947
+00:54:54,720 --> 00:54:58,680
+Porque a gente tem,
+
+948
+00:54:59,799 --> 00:55:04,440
+deixa eu só responder o pessoal do grupo
+
+949
+00:55:01,440 --> 00:55:04,440
+lá,
+
+950
+00:55:13,119 --> 00:55:17,440
+porque a gente tem que saber, galera,
+
+951
+00:55:15,559 --> 00:55:20,000
+eh, educação financeira, né? a gente tem
+
+952
+00:55:17,440 --> 00:55:23,240
+que saber quanto a gente gasta
+
+953
+00:55:20,000 --> 00:55:25,760
+e quanto a gente
+
+954
+00:55:23,240 --> 00:55:28,680
+ganha, tá?
+
+955
+00:55:25,760 --> 00:55:32,039
+Aqui na visão geral,
+
+956
+00:55:28,680 --> 00:55:32,039
+deixa eu ver,
+
+957
+00:55:32,599 --> 00:55:37,440
+ou no fluxo de caixa. Deixa eu olhar
+
+958
+00:55:34,359 --> 00:55:39,640
+aqui. Aqui, ó.
+
+959
+00:55:37,440 --> 00:55:43,920
+Então aqui tá o nosso no nosso fluxo de
+
+960
+00:55:39,640 --> 00:55:46,920
+caixa a gente tem todos os dados, né, de
+
+961
+00:55:43,920 --> 00:55:51,760
+quanto a gente ganhou, quanto a gente
+
+962
+00:55:46,920 --> 00:55:51,760
+gastou e quanto é lucro, certo?
+
+963
+00:55:56,599 --> 00:56:03,319
+Vendemos 2991
+
+964
+00:55:59,119 --> 00:56:05,480
+por enquanto, né? Gastamos R5
+
+965
+00:56:03,319 --> 00:56:10,359
+de despesa, então tivemos um lucro aí de
+
+966
+00:56:05,480 --> 00:56:12,240
+R$ 2.500, tá? Eh,
+
+967
+00:56:10,359 --> 00:56:15,240
+é um resultado bom, né, gente? Tem muita
+
+968
+00:56:12,240 --> 00:56:17,640
+gente que trabalha, eh, de segunda a
+
+969
+00:56:15,240 --> 00:56:20,119
+sábado ou segunda a sexta, 8 horas por
+
+970
+00:56:17,640 --> 00:56:22,400
+dia para ganhar um salário mínimo que é
+
+971
+00:56:20,119 --> 00:56:25,799
+1621.
+
+972
+00:56:22,400 --> 00:56:28,280
+A gente aqui trabalhou eh 20 dias hoje,
+
+973
+00:56:25,799 --> 00:56:29,760
+né, tá dando 20 dias. Claro que a gente
+
+974
+00:56:28,280 --> 00:56:31,400
+não prospectou cliente todo dia,
+
+975
+00:56:29,760 --> 00:56:34,319
+inclusive a gente prospectou muito pouco
+
+976
+00:56:31,400 --> 00:56:37,319
+cliente, né? A gente prospectou aí 25
+
+977
+00:56:34,319 --> 00:56:37,319
+clientes.
+
+978
+00:56:37,839 --> 00:56:43,359
+Ah, prospectamos 25 clientes, então
+
+979
+00:56:41,440 --> 00:56:45,599
+daria para prospectar muito mais, mas a
+
+980
+00:56:43,359 --> 00:56:48,559
+gente tá estruturando, né? Então,
+
+981
+00:56:45,599 --> 00:56:51,880
+fizemos live montando o nosso portfólio,
+
+982
+00:56:48,559 --> 00:56:55,240
+fizemos live eh analisando o site de
+
+983
+00:56:51,880 --> 00:56:58,200
+vocês, fizemos live criando CRM, fizemos
+
+984
+00:56:55,240 --> 00:57:01,039
+live criando o nosso outro eh o nosso
+
+985
+00:56:58,200 --> 00:57:03,160
+SAS lá de geração para de conteúdo para
+
+986
+00:57:01,039 --> 00:57:05,720
+redes sociais.
+
+987
+00:57:03,160 --> 00:57:07,880
+Eh, então isso
+
+988
+00:57:05,720 --> 00:57:09,480
+consumiu, né, o nosso tempo. Deixa eu só
+
+989
+00:57:07,880 --> 00:57:12,240
+ver se eu tô na playlist certa, galera,
+
+990
+00:57:09,480 --> 00:57:14,440
+senão
+
+991
+00:57:12,240 --> 00:57:16,240
+eh, senão o YouTube marcha aqui com a
+
+992
+00:57:14,440 --> 00:57:19,000
+gente.
+
+993
+00:57:16,240 --> 00:57:20,640
+Pronto.
+
+994
+00:57:19,000 --> 00:57:22,319
+Então, a gente não prospectou cliente
+
+995
+00:57:20,640 --> 00:57:23,960
+todo dia, né? A gente fez uma
+
+996
+00:57:22,319 --> 00:57:27,039
+prospecção, vendemos, teve o tempo
+
+997
+00:57:23,960 --> 00:57:28,880
+também de criação dos websites, né? Teve
+
+998
+00:57:27,039 --> 00:57:31,440
+esse tempo aí que a gente ficou criando,
+
+999
+00:57:28,880 --> 00:57:33,960
+desenvolvendo, aprimorando, trocando
+
+1000
+00:57:31,440 --> 00:57:35,640
+ideia, né? Conversa um pouco, responde
+
+1001
+00:57:33,960 --> 00:57:39,240
+as dúvidas.
+
+1002
+00:57:35,640 --> 00:57:42,440
+Então, eh,
+
+1003
+00:57:39,240 --> 00:57:44,559
+trabalhamos aí 4 horas por dia e fizemos
+
+1004
+00:57:42,440 --> 00:57:46,559
+esse resultado.
+
+1005
+00:57:44,559 --> 00:57:50,480
+Tudo isso foi com venda de site. Tudo
+
+1006
+00:57:46,559 --> 00:57:50,480
+isso foi com venda de site.
+
+1007
+00:57:52,160 --> 00:57:55,440
+Confesso que tenho dificuldade de
+
+1008
+00:57:53,400 --> 00:57:57,200
+prospectar por conta disso. Fico travado
+
+1009
+00:57:55,440 --> 00:57:58,799
+por não saber se vou cometer algum erro.
+
+1010
+00:57:57,200 --> 00:58:01,000
+Cara, isso é prática, não tem o que
+
+1011
+00:57:58,799 --> 00:58:03,480
+fazer.
+
+1012
+00:58:01,000 --> 00:58:07,640
+Tá cobrando por qual plataforma? Tô
+
+1013
+00:58:03,480 --> 00:58:07,640
+cobrando pelo Mercado Pago.
+
+1014
+00:58:12,839 --> 00:58:16,880
+Júnior, você costuma abordar quantas
+
+1015
+00:58:15,400 --> 00:58:20,039
+pessoas por dia no WhatsApp para evitar
+
+1016
+00:58:16,880 --> 00:58:23,359
+o bano número? Não, mais de 15 pessoas,
+
+1017
+00:58:20,039 --> 00:58:25,400
+Júnior, mas eu tenho abordado menos, tá?
+
+1018
+00:58:23,359 --> 00:58:28,440
+Entrei no grupo agora. O script fica nos
+
+1019
+00:58:25,400 --> 00:58:30,520
+arquivos, fica dentro do drive, tá?
+
+1020
+00:58:28,440 --> 00:58:32,359
+Eh, se não aparecer o link ali para
+
+1021
+00:58:30,520 --> 00:58:34,520
+você, pede pra galera reenviar que eles
+
+1022
+00:58:32,359 --> 00:58:37,880
+te reenviam lá, que é tudo gente maneira
+
+1023
+00:58:34,520 --> 00:58:37,880
+lá no grupo.
+
+1024
+00:58:38,119 --> 00:58:42,280
+Mas essas despesas não é cobradas do
+
+1025
+00:58:40,000 --> 00:58:44,000
+cliente, domínio e hospedagem, sim, mas
+
+1026
+00:58:42,280 --> 00:58:46,000
+domínio e hospedagem não tá como despesa
+
+1027
+00:58:44,000 --> 00:58:48,240
+aqui, né?
+
+1028
+00:58:46,000 --> 00:58:51,480
+Aqui a gente tá com despesa o plano de
+
+1029
+00:58:48,240 --> 00:58:54,599
+que a gente contratou, Nexar Hunter.
+
+1030
+00:58:51,480 --> 00:58:57,160
+Essas taxas de venda aqui, ó, é a
+
+1031
+00:58:54,599 --> 00:59:01,799
+maquininha do cartão, né, que é o taxa
+
+1032
+00:58:57,160 --> 00:59:04,559
+que a gente teve eh do Mercado Pago,
+
+1033
+00:59:01,799 --> 00:59:08,119
+tá? Aqui o domínio foi o Junior Web
+
+1034
+00:59:04,559 --> 00:59:09,760
+design que a gente comprou, R$9,90.
+
+1035
+00:59:08,119 --> 00:59:12,680
+Então a gente dá para ver, galera, que
+
+1036
+00:59:09,760 --> 00:59:14,880
+olha só, a gente gastou
+
+1037
+00:59:12,680 --> 00:59:18,520
+em, vamos dizer, não, não é gastou, tá?
+
+1038
+00:59:14,880 --> 00:59:23,880
+a gente investiu menos de R$ 500 para
+
+1039
+00:59:18,520 --> 00:59:23,880
+faturar três conto, né?
+
+1040
+00:59:24,799 --> 00:59:30,079
+Então aí eu pergunto para vocês,
+
+1041
+00:59:26,440 --> 00:59:32,079
+trabalhando 4 horas por dia, no dia 13 a
+
+1042
+00:59:30,079 --> 00:59:34,160
+gente já tinha batido
+
+1043
+00:59:32,079 --> 00:59:36,359
+o salário mínimo, eu acho, ou até antes,
+
+1044
+00:59:34,160 --> 00:59:40,160
+não me lembro agora mais. O que que
+
+1045
+00:59:36,359 --> 00:59:40,160
+vocês acham? Vale a pena?
+
+1046
+00:59:42,559 --> 00:59:47,440
+Faço tudo na minha conta, Doug.
+
+1047
+00:59:47,960 --> 00:59:51,880
+Tomei uma ignorada e vou mandar de novo.
+
+1048
+00:59:50,039 --> 00:59:54,520
+Manda ali para ter certeza que não foi
+
+1049
+00:59:51,880 --> 00:59:57,000
+proposito no caso de uma cidade muito
+
+1050
+00:59:54,520 --> 01:00:00,000
+velha que a galera não usa site, o que
+
+1051
+00:59:57,000 --> 01:00:03,319
+faria? Acho que é a melhor oportunidade.
+
+1052
+01:00:00,000 --> 01:00:06,480
+Se a pessoa não usa site, não eh não tem
+
+1053
+01:00:03,319 --> 01:00:08,319
+concorrência, né? Mas aí você precisa
+
+1054
+01:00:06,480 --> 01:00:10,480
+provar pro cara que aquilo ali vai
+
+1055
+01:00:08,319 --> 01:00:12,319
+trazer resultados.
+
+1056
+01:00:10,480 --> 01:00:14,880
+Aí você tem que ver quais são as
+
+1057
+01:00:12,319 --> 01:00:17,000
+objeções, né? O que que o pessoal tá tá
+
+1058
+01:00:14,880 --> 01:00:20,559
+colocando como objeção para você já ter
+
+1059
+01:00:17,000 --> 01:00:22,480
+uma maneira de contornar.
+
+1060
+01:00:20,559 --> 01:00:26,280
+O tempo gasto no projeto entra como
+
+1061
+01:00:22,480 --> 01:00:28,359
+custo. Então, David, com certeza é tua
+
+1062
+01:00:26,280 --> 01:00:30,599
+mão de obra, né? Mas aí o tempo gasto
+
+1063
+01:00:28,359 --> 01:00:32,920
+vai ser o teu salário. Então você vai
+
+1064
+01:00:30,599 --> 01:00:34,520
+ter que definir quanto você desses 2500
+
+1065
+01:00:32,920 --> 01:00:37,200
+aqui. Eu ainda não defini, galera. Não
+
+1066
+01:00:34,520 --> 01:00:39,079
+sei quanto eu vou pegar para mim desse
+
+1067
+01:00:37,200 --> 01:00:40,960
+desse valor,
+
+1068
+01:00:39,079 --> 01:00:44,880
+mas a princípio a ideia é reinvestir,
+
+1069
+01:00:40,960 --> 01:00:48,599
+né? Reinvestir, talvez usar para
+
+1070
+01:00:44,880 --> 01:00:51,680
+eh usar para tráfego.
+
+1071
+01:00:48,599 --> 01:00:56,839
+Acho que sim, né,
+
+1072
+01:00:51,680 --> 01:00:59,119
+Gaspar? Conheço as usa na agência, sim.
+
+1073
+01:00:56,839 --> 01:01:01,960
+Eh, quase nada de taxa porque é boleto,
+
+1074
+01:00:59,119 --> 01:01:04,760
+né? cartão,
+
+1075
+01:01:01,960 --> 01:01:07,480
+mas a eh eu tenho plano, eu tenho taxas
+
+1076
+01:01:04,760 --> 01:01:09,400
+boas no Mercado Pago
+
+1077
+01:01:07,480 --> 01:01:11,880
+e a vantagem para mim do Mercado Pago é
+
+1078
+01:01:09,400 --> 01:01:14,440
+que eu já recebo na hora, né? Então
+
+1079
+01:01:11,880 --> 01:01:18,160
+vende o site e a grana já tá na na conta
+
+1080
+01:01:14,440 --> 01:01:18,160
+disponível para usar.
+
+1081
+01:01:21,799 --> 01:01:26,559
+Mas esse desconto e esse ganho desse
+
+1082
+01:01:24,520 --> 01:01:29,200
+terreno foi manualmente ou já tá com
+
+1083
+01:01:26,559 --> 01:01:32,520
+automação? manualmente. Eu lancei tudo,
+
+1084
+01:01:29,200 --> 01:01:32,520
+tudo manual.
+
+1085
+01:01:33,480 --> 01:01:37,160
+Eu moro num conjunto de cidades que só
+
+1086
+01:01:35,280 --> 01:01:41,039
+tem velho.
+
+1087
+01:01:37,160 --> 01:01:42,920
+Então, eh, mas tem umas sempre atrás
+
+1088
+01:01:41,039 --> 01:01:45,240
+daquela galera mais experiente, tem uma
+
+1089
+01:01:42,920 --> 01:01:46,920
+geração nova, né? Aí o que que você tem
+
+1090
+01:01:45,240 --> 01:01:49,599
+que fazer? Analisa o Instagram das
+
+1091
+01:01:46,920 --> 01:01:51,359
+lojas. O Instagram é a melhor forma.
+
+1092
+01:01:49,599 --> 01:01:54,200
+Vale a pena vender nos Estados Unidos no
+
+1093
+01:01:51,359 --> 01:01:56,520
+ticket de 800? Não faço ideia. vendas.
+
+1094
+01:01:54,200 --> 01:01:58,440
+Nunca usei.
+
+1095
+01:01:56,520 --> 01:02:01,440
+O que Nexar Hunter dá? Não entendi.
+
+1096
+01:01:58,440 --> 01:02:01,440
+João,
+
+1097
+01:02:09,880 --> 01:02:14,720
+é, galera, não precisa se limitar à tua
+
+1098
+01:02:12,319 --> 01:02:17,160
+cidade, né? Pode, é o Brasil todo onde
+
+1099
+01:02:14,720 --> 01:02:19,880
+você pode prospectar,
+
+1100
+01:02:17,160 --> 01:02:23,079
+tá gente? Então assim, o mês não acabou,
+
+1101
+01:02:19,880 --> 01:02:26,480
+eu quero prospectar mais clientes, mas a
+
+1102
+01:02:23,079 --> 01:02:28,839
+gente já tem eh aqui
+
+1103
+01:02:26,480 --> 01:02:30,920
+uma gestão da nossa agência, tá? Então a
+
+1104
+01:02:28,839 --> 01:02:34,480
+gente já sabe quanto a gente tem despesa
+
+1105
+01:02:30,920 --> 01:02:36,799
+no mês que vai reduzir, né? Porque o
+
+1106
+01:02:34,480 --> 01:02:39,960
+Gemini a gente pagou R$ 150, que foi o
+
+1107
+01:02:36,799 --> 01:02:44,079
+nosso nossa maior despesa é para 18
+
+1108
+01:02:39,960 --> 01:02:45,880
+meses. Então eu não vou eh precisar mais
+
+1109
+01:02:44,079 --> 01:02:49,880
+gastar isso aqui. Então mês que vem a
+
+1110
+01:02:45,880 --> 01:02:52,720
+gente vai ter eh domínio aqui, ó, que eu
+
+1111
+01:02:49,880 --> 01:02:56,240
+paguei também não. Então a gente vai ter
+
+1112
+01:02:52,720 --> 01:02:59,720
+despesa, custo, na verdade fixo, a gente
+
+1113
+01:02:56,240 --> 01:03:01,799
+vai ter só o 79 do Hunter, né?
+
+1114
+01:02:59,720 --> 01:03:03,520
+Se você não vai prospectar com Nexar
+
+1115
+01:03:01,799 --> 01:03:05,720
+Hut, se você quer prospectar direto no
+
+1116
+01:03:03,520 --> 01:03:11,440
+Google Meu Negócio, aí você não vai ter
+
+1117
+01:03:05,720 --> 01:03:11,440
+despesa nenhuma, o que é mais legal, né?
+
+1118
+01:03:24,599 --> 01:03:27,640
+Subiu o like, galera. Subiu o like. que
+
+1119
+01:03:26,160 --> 01:03:29,279
+olha só, outra coisa que vocês tinham me
+
+1120
+01:03:27,640 --> 01:03:31,160
+pedido,
+
+1121
+01:03:29,279 --> 01:03:33,839
+eh,
+
+1122
+01:03:31,160 --> 01:03:36,039
+a gente, o YouTube ainda não liberou a
+
+1123
+01:03:33,839 --> 01:03:37,240
+área de membros, tá? Então, esses dias
+
+1124
+01:03:36,039 --> 01:03:39,079
+alguém tinha comentado para mim
+
+1125
+01:03:37,240 --> 01:03:41,720
+organizar um live Pix aí pra galera.
+
+1126
+01:03:39,079 --> 01:03:45,119
+Então, tá aí o Live Pix. Se você quer
+
+1127
+01:03:41,720 --> 01:03:47,359
+que eu responda algo muito específico,
+
+1128
+01:03:45,119 --> 01:03:50,680
+manda o Live Pix que daí aparece na tela
+
+1129
+01:03:47,359 --> 01:03:52,480
+aqui e eu já respondo direto, tá?
+
+1130
+01:03:50,680 --> 01:03:54,880
+Nem sei se eu tipoi valor mínimo, mas
+
+1131
+01:03:52,480 --> 01:03:57,880
+acho que é R$ 1, gente.
+
+1132
+01:03:54,880 --> 01:04:01,559
+Eh, até vou olhar aqui, mas eu acho que
+
+1133
+01:03:57,880 --> 01:04:04,359
+é R 1. Eu não, acho que era o mínimo que
+
+1134
+01:04:01,559 --> 01:04:07,359
+que podia, né? Vamos ver aqui.
+
+1135
+01:04:04,359 --> 01:04:07,359
+Incentivos.
+
+1136
+01:04:09,319 --> 01:04:15,319
+Valor mínimo é R$ 2, galera. Esse é o
+
+1137
+01:04:12,039 --> 01:04:15,319
+valor mínimo.
+
+1138
+01:04:15,359 --> 01:04:21,000
+Então, então tá aí. Depois quando a
+
+1139
+01:04:18,200 --> 01:04:22,319
+gente
+
+1140
+01:04:21,000 --> 01:04:25,440
+depois quando a gente organizar a
+
+1141
+01:04:22,319 --> 01:04:29,599
+comunidade, aí nós vamos ter
+
+1142
+01:04:25,440 --> 01:04:29,599
+eh vamos ter alguma coisa diferente.
+
+1143
+01:04:40,920 --> 01:04:46,279
+Pronto,
+
+1144
+01:04:43,000 --> 01:04:46,279
+já respondi.
+
+1145
+01:04:48,599 --> 01:04:53,720
+Já respondi em mestre online sempre tem,
+
+1146
+01:04:51,279 --> 01:04:55,839
+né, galera?
+
+1147
+01:04:53,720 --> 01:04:58,200
+Vamos lá.
+
+1148
+01:04:55,839 --> 01:04:59,359
+Qual que é o nosso próximo passo, gente?
+
+1149
+01:04:58,200 --> 01:05:01,039
+Então, agora o que que nós temos que
+
+1150
+01:04:59,359 --> 01:05:02,799
+fazer? Já organizamos o financeiro, já
+
+1151
+01:05:01,039 --> 01:05:07,000
+temos o nosso portfólio, já temos o
+
+1152
+01:05:02,799 --> 01:05:09,480
+nosso site, tem que organizar aqui. Eh,
+
+1153
+01:05:07,000 --> 01:05:13,279
+esses clientes aqui, eu não criei ainda
+
+1154
+01:05:09,480 --> 01:05:16,240
+Google Analytics, não criei eh
+
+1155
+01:05:13,279 --> 01:05:19,920
+configuração básica de SEO, a gente fez
+
+1156
+01:05:16,240 --> 01:05:23,000
+na última aula para pro meu site. E aí
+
+1157
+01:05:19,920 --> 01:05:25,799
+eu quero também testar mais pra frente
+
+1158
+01:05:23,000 --> 01:05:27,279
+eh o Codex, talvez. Vamos ver, vamos
+
+1159
+01:05:25,799 --> 01:05:29,359
+ver. Eu não tô coragem de gastar esse
+
+1160
+01:05:27,279 --> 01:05:31,960
+dinheiro num numa assinatura do Côx não
+
+1161
+01:05:29,359 --> 01:05:36,160
+ainda. Do Conix ainda. Galera, o que é o
+
+1162
+01:05:31,960 --> 01:05:36,160
+Nexar Hunter? Nexar Hunter.
+
+1163
+01:05:36,839 --> 01:05:42,119
+O Nexar Hunter é a nossa ferramenta de
+
+1164
+01:05:39,680 --> 01:05:44,279
+prospecção de elites, que é esse aqui,
+
+1165
+01:05:42,119 --> 01:05:46,279
+ó,
+
+1166
+01:05:44,279 --> 01:05:47,640
+que eu quero.
+
+1167
+01:05:46,279 --> 01:05:50,960
+Eh, hoje eu acho que eu vou fazer isso,
+
+1168
+01:05:47,640 --> 01:05:54,920
+galera. Vamos pegar uma próxima empresa
+
+1169
+01:05:50,960 --> 01:05:58,480
+para pra gente abordar aqui. Eu até dei
+
+1170
+01:05:54,920 --> 01:06:02,279
+uma olhada no nosso histórico aqui,
+
+1171
+01:05:58,480 --> 01:06:02,279
+mas eu tô dando uma analisada.
+
+1172
+01:06:02,400 --> 01:06:07,279
+Você assina o chat EPT? Assino. Vale a
+
+1173
+01:06:05,000 --> 01:06:09,119
+pena. Esse plano do Google e a
+
+1174
+01:06:07,279 --> 01:06:11,319
+Proguenta? Cara, para mim aqui tem
+
+1175
+01:06:09,119 --> 01:06:15,720
+aguentado até tô pertinho do limite
+
+1176
+01:06:11,319 --> 01:06:15,720
+aqui, ó. Eu
+
+1177
+01:06:17,480 --> 01:06:22,000
+tô pertinho do do limite,
+
+1178
+01:06:22,599 --> 01:06:27,799
+ó. Ã,
+
+1179
+01:06:25,200 --> 01:06:29,640
+tem o limite diário que eu pr nunca
+
+1180
+01:06:27,799 --> 01:06:31,720
+consigo usar todo e tem o limite semanal
+
+1181
+01:06:29,640 --> 01:06:34,599
+que eu tô com 13%.
+
+1182
+01:06:31,720 --> 01:06:36,279
+Vai renovar daqui um dia e se e 6 horas.
+
+1183
+01:06:34,599 --> 01:06:39,000
+Então esse essa vai ser a primeira vez
+
+1184
+01:06:36,279 --> 01:06:41,920
+eu acho que eu vou eh estourar. Mas é
+
+1185
+01:06:39,000 --> 01:06:45,720
+porque eu tava criando outros sites e
+
+1186
+01:06:41,920 --> 01:06:45,720
+coisas na mesma conta.
+
+1187
+01:06:53,640 --> 01:07:01,359
+Corex ainda, mas melhor é Cloud. É,
+
+1188
+01:06:56,440 --> 01:07:03,599
+Cloud é bom, né? Mas é muito caro.
+
+1189
+01:07:01,359 --> 01:07:06,960
+Eu consigo, Gaspar, mas o plus não dá
+
+1190
+01:07:03,599 --> 01:07:09,279
+nem graça. Você mal
+
+1191
+01:07:06,960 --> 01:07:11,880
+manda. Não consigo fazer uma land page
+
+1192
+01:07:09,279 --> 01:07:14,880
+com o Corex no Plus. Vai, vai
+
+1193
+01:07:11,880 --> 01:07:14,880
+derretendo.
+
+1194
+01:07:17,119 --> 01:07:21,400
+Vai derretendo.
+
+1195
+01:07:19,520 --> 01:07:23,839
+Gente, esse daqui eu mandei a prospecção
+
+1196
+01:07:21,400 --> 01:07:27,079
+pro cliente, tá? Eh, vamos ver o que que
+
+1197
+01:07:23,839 --> 01:07:30,920
+ele vai trazer.
+
+1198
+01:07:27,079 --> 01:07:32,880
+Tem aquele do Água Pura, né,
+
+1199
+01:07:30,920 --> 01:07:35,559
+que ainda não deu retorno, que é que a
+
+1200
+01:07:32,880 --> 01:07:38,559
+gente fez. Vai virar
+
+1201
+01:07:35,559 --> 01:07:38,559
+portfólio.
+
+1202
+01:07:42,039 --> 01:07:47,400
+Ó, o Xavier disses que tá pensando em
+
+1203
+01:07:44,000 --> 01:07:50,000
+começar e quer comprar um MacBook. Boa,
+
+1204
+01:07:47,400 --> 01:07:51,599
+cara. Se você tem condições do MacBook,
+
+1205
+01:07:50,000 --> 01:07:54,160
+inclusive eu tô com o meu aqui. O meu é
+
+1206
+01:07:51,599 --> 01:07:57,920
+velhinho, gente. O meu é 2020.
+
+1207
+01:07:54,160 --> 01:08:00,799
+Pegar ele aqui, ó. O meu é 2020, tá? É
+
+1208
+01:07:57,920 --> 01:08:03,480
+uma ferramenta sensacional, sensacional
+
+1209
+01:08:00,799 --> 01:08:06,000
+mesmo. Eh, até para você fazer a
+
+1210
+01:08:03,480 --> 01:08:08,039
+apresentação, tá? Ele te traz um uma
+
+1211
+01:08:06,000 --> 01:08:10,520
+autoridade muito, é muito mais legal
+
+1212
+01:08:08,039 --> 01:08:12,960
+você chegar com MacBook, eh, do que
+
+1213
+01:08:10,520 --> 01:08:15,200
+chegar com um computador qualquer, né?
+
+1214
+01:08:12,960 --> 01:08:16,719
+Mas eu tenho, eu tenho Mac e tenho o meu
+
+1215
+01:08:15,200 --> 01:08:19,759
+outro aqui com Windows que eu uso
+
+1216
+01:08:16,719 --> 01:08:22,400
+também. Ambos são bons, só que o sistema
+
+1217
+01:08:19,759 --> 01:08:25,679
+da o Macos é fenomenal, né, galera?
+
+1218
+01:08:22,400 --> 01:08:28,520
+Deixa eu botar ele de volta aqui.
+
+1219
+01:08:25,679 --> 01:08:30,640
+O Macos ele é fenomenal. Se se tem
+
+1220
+01:08:28,520 --> 01:08:33,359
+condições, com certeza vale a pena. Vale
+
+1221
+01:08:30,640 --> 01:08:35,600
+a pena e vale muito a pena.
+
+1222
+01:08:33,359 --> 01:08:37,279
+Porém, não é obrigatório, né? Não é
+
+1223
+01:08:35,600 --> 01:08:39,520
+obrigatório.
+
+1224
+01:08:37,279 --> 01:08:42,839
+Você pode começar aí com Eu tenho, eu
+
+1225
+01:08:39,520 --> 01:08:45,120
+tenho meu note aqui, ó. Também tem um,
+
+1226
+01:08:42,839 --> 01:08:48,120
+um notebookzinho aqui, ó, com Windows
+
+1227
+01:08:45,120 --> 01:08:50,880
+que eu uso, até uso bastante ele aqui. A
+
+1228
+01:08:48,120 --> 01:08:53,080
+minha máquina grande é com Windows
+
+1229
+01:08:50,880 --> 01:08:57,319
+também. Então você pode começar aí até
+
+1230
+01:08:53,080 --> 01:08:59,480
+com com qualquer qualquer equipamento.
+
+1231
+01:08:57,319 --> 01:09:04,560
+O importante, o mais importante é
+
+1232
+01:08:59,480 --> 01:09:04,560
+começar, né? Mais importante é começar.
+
+1233
+01:09:08,880 --> 01:09:13,000
+Se eu quisesse começar hoje com alguma
+
+1234
+01:09:10,719 --> 01:09:15,679
+IA, qual tu recomendaria adquirir até
+
+1235
+01:09:13,000 --> 01:09:20,600
+uns 110, 120? O Antigravity tá aqui na
+
+1236
+01:09:15,679 --> 01:09:21,880
+descrição da live. 18 meses por 119 e
+
+1237
+01:09:20,600 --> 01:09:24,920
+alguma coisa, eu acho. Com um com o
+
+1238
+01:09:21,880 --> 01:09:27,799
+nosso cupom vale a pena. É o que eu uso,
+
+1239
+01:09:24,920 --> 01:09:30,560
+né? Aumenta o volume do live Pix na
+
+1240
+01:09:27,799 --> 01:09:32,279
+live, S. Não, tá baixo. Tá, pera aí.
+
+1241
+01:09:30,560 --> 01:09:35,440
+Então, vamos aumentar aqui. Vamos mandar
+
+1242
+01:09:32,279 --> 01:09:35,440
+de volta.
+
+1243
+01:10:05,239 --> 01:10:09,840
+Ah, é por causa da música, né, gente?
+
+1244
+01:10:08,000 --> 01:10:12,199
+Eu
+
+1245
+01:10:09,840 --> 01:10:17,040
+acho que é por causa da música. Tu usa o
+
+1246
+01:10:12,199 --> 01:10:23,120
+Gem 3.1 no low? Eu uso 3.8 flash no
+
+1247
+01:10:17,040 --> 01:10:27,159
+médio e uso 3.1 Pro no low. Se Mas o
+
+1248
+01:10:23,120 --> 01:10:27,159
+flash já dá conta, tá?
+
+1249
+01:10:28,199 --> 01:10:32,719
+Vamos testar aqui, galera. Vamos ver.
+
+1250
+01:10:36,560 --> 01:10:42,760
+Pier mandou R$ 5 e começando pensando em
+
+1251
+01:10:40,239 --> 01:10:45,040
+comprar um barão trabalhado e apresentar
+
+1252
+01:10:42,760 --> 01:10:46,400
+os projetos mais.
+
+1253
+01:10:45,040 --> 01:10:49,159
+>> Como é que ficou o som agora, gente?
+
+1254
+01:10:46,400 --> 01:10:50,679
+Ficou bom?
+
+1255
+01:10:49,159 --> 01:10:53,679
+Ah, senão eu tenho que parar a música,
+
+1256
+01:10:50,679 --> 01:10:53,679
+né?
+
+1257
+01:11:24,080 --> 01:11:28,640
+Um pouco baixo ainda. Não sei se é só
+
+1258
+01:11:25,640 --> 01:11:28,640
+aqui,
+
+1259
+01:11:30,640 --> 01:11:34,760
+ó. O Carlos não falei do segredo,
+
+1260
+01:11:32,640 --> 01:11:36,679
+galera. Vou falar hoje do segredo de
+
+1261
+01:11:34,760 --> 01:11:40,360
+sexta-feira. Quem tava aí? Vocês estão
+
+1262
+01:11:36,679 --> 01:11:40,360
+bom de memória, né?
+
+1263
+01:11:41,719 --> 01:11:46,800
+Você faz o site antes de mandar a
+
+1264
+01:11:43,679 --> 01:11:50,280
+proposta, mestre. A gente testou
+
+1265
+01:11:46,800 --> 01:11:52,600
+essas duas opções e
+
+1266
+01:11:50,280 --> 01:11:54,239
+e deu bom, cara. Deu bom. Gente, eu vou
+
+1267
+01:11:52,600 --> 01:11:56,960
+aumentar o som. Deixa eu só fazer um
+
+1268
+01:11:54,239 --> 01:11:59,040
+teste aqui, tá?
+
+1269
+01:11:56,960 --> 01:12:03,719
+Deixa eu fazer um teste aqui para ver se
+
+1270
+01:11:59,040 --> 01:12:03,719
+vai aumentar o volume do Live Pix.
+
+1271
+01:12:15,480 --> 01:12:20,280
+Júnior, tô usando a skill do Mocap, mas
+
+1272
+01:12:18,280 --> 01:12:25,000
+tô sentindo que tá vindo carregado de
+
+1273
+01:12:20,280 --> 01:12:25,000
+texto. Carregado de texto. Um mocap.
+
+1274
+01:12:26,280 --> 01:12:29,520
+Então, Júnior, o cliente não precisa
+
+1275
+01:12:27,840 --> 01:12:31,360
+autorizar, tá? Porque é um produto que
+
+1276
+01:12:29,520 --> 01:12:33,000
+eu tô vendendo para ele personalizado,
+
+1277
+01:12:31,360 --> 01:12:34,639
+entendeu?
+
+1278
+01:12:33,000 --> 01:12:36,600
+Então, eu não tô cobrando pelo site
+
+1279
+01:12:34,639 --> 01:12:40,040
+antes, tipo, é que nem você ganhar um
+
+1280
+01:12:36,600 --> 01:12:42,719
+presente, eh, um presente personalizado,
+
+1281
+01:12:40,040 --> 01:12:45,920
+tá? Por exemplo, se você eh ganhar um
+
+1282
+01:12:42,719 --> 01:12:48,280
+presente com a logo da tua empresa,
+
+1283
+01:12:45,920 --> 01:12:51,719
+tá? Você vai ficar feliz. Então, não tem
+
+1284
+01:12:48,280 --> 01:12:55,760
+como você autorizar antes de saber, né?
+
+1285
+01:12:51,719 --> 01:12:55,760
+Ninguém liga para isso, tá?
+
+1286
+01:12:56,600 --> 01:13:00,639
+E agora,
+
+1287
+01:12:57,360 --> 01:13:02,400
+>> Xavier Dev mandou R$ 5. Tu começando
+
+1288
+01:13:00,639 --> 01:13:05,040
+pensando em comprar um MacBook para
+
+1289
+01:13:02,400 --> 01:13:08,199
+trabalhar e apresentar os projetos, acha
+
+1290
+01:13:05,040 --> 01:13:08,199
+que vale?
+
+1291
+01:13:46,960 --> 01:13:51,679
+Agora sim, galera. Agora ficou bom, não
+
+1292
+01:13:48,440 --> 01:13:53,280
+ficou top, né? E o volume da música,
+
+1293
+01:13:51,679 --> 01:13:54,800
+como é que tá o volume da música, gente?
+
+1294
+01:13:53,280 --> 01:13:56,280
+Agora eu só preciso ajustar o volume da
+
+1295
+01:13:54,800 --> 01:13:58,120
+música. Ajuda eu aí pra gente dar
+
+1296
+01:13:56,280 --> 01:14:00,080
+sequência.
+
+1297
+01:13:58,120 --> 01:14:02,320
+Porque você não faz tráfego pago,
+
+1298
+01:14:00,080 --> 01:14:04,239
+ganharia muito mais cliente e faria mais
+
+1299
+01:14:02,320 --> 01:14:07,480
+dinheiro. Vamos trabalhar lá antum. Mas
+
+1300
+01:14:04,239 --> 01:14:11,480
+a gente começou com R$ 0, né? Com R$ 0
+
+1301
+01:14:07,480 --> 01:14:11,480
+não dá para fazer tráfego pago.
+
+1302
+01:14:16,159 --> 01:14:20,520
+Gente, o antigravity tá aqui na
+
+1303
+01:14:25,120 --> 01:14:29,080
+Então, Júnior Duarte, essa questão foi
+
+1304
+01:14:27,120 --> 01:14:30,920
+que eu falei nas outras lives. Viu? A
+
+1305
+01:14:29,080 --> 01:14:33,480
+gente gastou tempo, torrotou aqui e o
+
+1306
+01:14:30,920 --> 01:14:36,000
+cliente não quis. A gente tira a marca
+
+1307
+01:14:33,480 --> 01:14:40,480
+do cara, tira logo, tira todas as
+
+1308
+01:14:36,000 --> 01:14:42,600
+referências que vão pro cara e fica de
+
+1309
+01:14:40,480 --> 01:14:45,560
+portfólio, entendeu? Fica de portfólio.
+
+1310
+01:14:42,600 --> 01:14:47,360
+Ou você pode fazer até um site Mocap
+
+1311
+01:14:45,560 --> 01:14:50,360
+para vender para empresas do mesmo
+
+1312
+01:14:47,360 --> 01:14:50,360
+segmento.
+
+1313
+01:14:51,000 --> 01:14:55,600
+Como você encontrou o cliente Água Pura
+
+1314
+01:14:53,360 --> 01:14:58,600
+passando na frente da loja dele aí,
+
+1315
+01:14:55,600 --> 01:14:58,600
+Cris?
+
+1316
+01:14:58,960 --> 01:15:02,320
+Tô querendo um Mac justamente para ter
+
+1317
+01:15:00,639 --> 01:15:04,400
+essa facilidade de apresentar as coisas.
+
+1318
+01:15:02,320 --> 01:15:06,920
+Boa, cara. Notebook é bacana porque você
+
+1319
+01:15:04,400 --> 01:15:10,120
+pode ir fisicamente, né? A conversão
+
+1320
+01:15:06,920 --> 01:15:13,560
+física, galera, é muito mais alta, né?
+
+1321
+01:15:10,120 --> 01:15:17,639
+Então você converte muito mais.
+
+1322
+01:15:13,560 --> 01:15:17,639
+Você converte muito mais.
+
+1323
+01:15:46,080 --> 01:15:50,000
+Gente, fala para mim a música.
+
+1324
+01:15:55,800 --> 01:15:59,880
+Então, Cris, eu falei sobre esse cliente
+
+1325
+01:15:57,560 --> 01:16:01,920
+quando a gente fez o site, tá? Mandei a
+
+1326
+01:15:59,880 --> 01:16:04,320
+prospecção, ele ia falar com a esposa e
+
+1327
+01:16:01,920 --> 01:16:05,840
+tudo mais. Então, estamos aguardando.
+
+1328
+01:16:04,320 --> 01:16:07,960
+Você vende a hospedagem pro cliente na
+
+1329
+01:16:05,840 --> 01:16:10,960
+Versel, alterando só o domínio? Isso
+
+1330
+01:16:07,960 --> 01:16:10,960
+mesmo.
+
+1331
+01:16:12,199 --> 01:16:18,080
+Água Pura não tinha site. Eh, eu passei
+
+1332
+01:16:14,560 --> 01:16:20,560
+lá na frente, fui pesquisar o perfil e
+
+1333
+01:16:18,080 --> 01:16:23,400
+eles não tinham site. Tá legal o volume,
+
+1334
+01:16:20,560 --> 01:16:27,639
+então top, gente. Valeu. E a música não
+
+1335
+01:16:23,400 --> 01:16:27,639
+tá muito alta. Fala para mim.
+
+1336
+01:16:36,560 --> 01:16:43,199
+Então, a gente tem esse aqui, eh, tem
+
+1337
+01:16:38,840 --> 01:16:47,679
+esses dois aqui, ó, que ainda tá, né?
+
+1338
+01:16:43,199 --> 01:16:47,679
+Ainda tá meio meio.
+
+1339
+01:16:49,760 --> 01:16:54,239
+A geração dos mocaps, João, a gente usa
+
+1340
+01:16:52,199 --> 01:16:57,360
+o,
+
+1341
+01:16:54,239 --> 01:16:59,520
+a gente usa o
+
+1342
+01:16:57,360 --> 01:17:02,120
+chatt para criar. Não tô pagando,
+
+1343
+01:16:59,520 --> 01:17:02,120
+Xavier.
+
+1344
+01:17:02,159 --> 01:17:05,000
+Não estou pagando.
+
+1345
+01:17:36,920 --> 01:17:44,120
+Tá, gente? Então assim, eh, temos uma
+
+1346
+01:17:40,639 --> 01:17:46,960
+possibilidade gigante aí, né?
+
+1347
+01:17:44,120 --> 01:17:48,800
+Uma como você usa música na live sem
+
+1348
+01:17:46,960 --> 01:17:50,040
+eles derrubarem. Aqui se eu coloco
+
+1349
+01:17:48,800 --> 01:17:53,120
+qualquer coisa dá ruim, porque as
+
+1350
+01:17:50,040 --> 01:17:55,639
+músicas são sem direitos autorais, né? O
+
+1351
+01:17:53,120 --> 01:17:58,760
+segredo é esse. Bora, galera. Deixa o
+
+1352
+01:17:55,639 --> 01:18:01,760
+likezão aí. Deixa o likezão e vamos para
+
+1353
+01:17:58,760 --> 01:18:01,760
+cima.
+
+1354
+01:18:02,760 --> 01:18:07,120
+Sim, João. A gente gera tudo separado,
+
+1355
+01:18:04,520 --> 01:18:09,239
+tá? A gente, como que funciona, galera?
+
+1356
+01:18:07,120 --> 01:18:11,840
+Quem chegou aí, eu vou explicar de novo.
+
+1357
+01:18:09,239 --> 01:18:14,800
+Pessoal que tá seguindo a tempo aqui já
+
+1358
+01:18:11,840 --> 01:18:18,040
+sabe como funciona. A gente vai lá no
+
+1359
+01:18:14,800 --> 01:18:20,639
+chat EPT, coloca logo do cara, eu mando
+
+1360
+01:18:18,040 --> 01:18:22,800
+print do Instagram, maratonem depois as
+
+1361
+01:18:20,639 --> 01:18:24,080
+lives anteriores que vocês vão entender.
+
+1362
+01:18:22,800 --> 01:18:26,040
+E aí a gente pede para ele fazer um
+
+1363
+01:18:24,080 --> 01:18:29,360
+mocap do site. Então ele vai dar um
+
+1364
+01:18:26,040 --> 01:18:32,040
+mocap. Vamos pegar aqui, ó, por exemplo,
+
+1365
+01:18:29,360 --> 01:18:34,360
+o da água pura.
+
+1366
+01:18:32,040 --> 01:18:36,639
+Vamos pegar aqui o
+
+1367
+01:18:34,360 --> 01:18:40,480
+da água pura. Cadê o água pura? Aqui é o
+
+1368
+01:18:36,639 --> 01:18:43,080
+água pura, ó. Mocap do site,
+
+1369
+01:18:40,480 --> 01:18:45,440
+tá? Isso aqui
+
+1370
+01:18:43,080 --> 01:18:49,239
+a gente gerou
+
+1371
+01:18:45,440 --> 01:18:51,840
+no chat GPT, tá?
+
+1372
+01:18:49,239 --> 01:18:54,320
+Gera no chat GPT,
+
+1373
+01:18:51,840 --> 01:18:57,560
+pede para ele gerar todas as imagens,
+
+1374
+01:18:54,320 --> 01:19:03,000
+né? pede para ele gerar todas as imagens
+
+1375
+01:18:57,560 --> 01:19:05,760
+que você que você vai usar no site
+
+1376
+01:19:03,000 --> 01:19:09,600
+e os prompts. E aí eu venho aqui no VS
+
+1377
+01:19:05,760 --> 01:19:11,440
+Code e rodo os prompts,
+
+1378
+01:19:09,600 --> 01:19:14,520
+tá? Inclusive eu quero organizar aqui,
+
+1379
+01:19:11,440 --> 01:19:18,360
+ó, que no meu
+
+1380
+01:19:14,520 --> 01:19:23,320
+no meu portfólio ali eu preciso
+
+1381
+01:19:18,360 --> 01:19:23,320
+tudo TXT. Vamos salvar isso aqui.
+
+1382
+01:19:26,280 --> 01:19:31,760
+Ah, no meu portfólio lá, ele sumiu o
+
+1383
+01:19:28,760 --> 01:19:31,760
+botão.
+
+1384
+01:19:35,960 --> 01:19:41,120
+Júnior, quando você prospecta, você
+
+1385
+01:19:37,800 --> 01:19:43,159
+manda o mocap somente uma uma mensagem.
+
+1386
+01:19:41,120 --> 01:19:45,120
+Então, tem todo o script lá. Eu primeiro
+
+1387
+01:19:43,159 --> 01:19:47,719
+dou bom dia para gerar curiosidade,
+
+1388
+01:19:45,120 --> 01:19:51,360
+depois eu me apresento.
+
+1389
+01:19:47,719 --> 01:19:55,080
+É. E daí?
+
+1390
+01:19:51,360 --> 01:19:55,080
+E daí você pode,
+
+1391
+01:19:55,679 --> 01:20:03,239
+pode dando sequência na conversa, né?
+
+1392
+01:20:00,280 --> 01:20:05,199
+Ó, ele já saiu rodando aqui, ó.
+
+1393
+01:20:03,239 --> 01:20:07,440
+Vamos lá na página. Vamos pedir para ele
+
+1394
+01:20:05,199 --> 01:20:09,880
+arrumar já isso aqui na página de
+
+1395
+01:20:07,440 --> 01:20:16,400
+portfólio.
+
+1396
+01:20:09,880 --> 01:20:20,920
+Sumiu o botão mostrar mais que levaria
+
+1397
+01:20:16,400 --> 01:20:25,040
+para o carregamento
+
+1398
+01:20:20,920 --> 01:20:28,639
+dos demais sites do portfólio.
+
+1399
+01:20:25,040 --> 01:20:28,639
+Vamos pedir para ele arrumar.
+
+1400
+01:20:37,400 --> 01:20:41,320
+Vamos pedir para ele arrumar, né?
+
+1401
+01:20:51,920 --> 01:20:55,199
+Galera, não esquece de se inscrever e
+
+1402
+01:20:53,280 --> 01:20:56,840
+deixar o likezão pra gente, tá? Isso é
+
+1403
+01:20:55,199 --> 01:20:58,760
+importantíssimo.
+
+1404
+01:20:56,840 --> 01:21:00,600
+E quem quiser dar uma moral, Live Pix tá
+
+1405
+01:20:58,760 --> 01:21:02,400
+aí. Agora temos live pics, né? Vocês que
+
+1406
+01:21:00,600 --> 01:21:04,600
+deram a sugestão,
+
+1407
+01:21:02,400 --> 01:21:06,520
+temos live.
+
+1408
+01:21:04,600 --> 01:21:09,000
+Faz um vídeo pro canal de como aplicar e
+
+1409
+01:21:06,520 --> 01:21:13,000
+usar corretamente as skills de Mocap.
+
+1410
+01:21:09,000 --> 01:21:14,880
+Faço, Gabriel. Faço sim.
+
+1411
+01:21:13,000 --> 01:21:17,600
+Como você divulga seu produto e sua
+
+1412
+01:21:14,880 --> 01:21:20,719
+empresa? Usa IA para isso também? Eh,
+
+1413
+01:21:17,600 --> 01:21:22,480
+usamos IA, sim, usamos IA. Por enquanto
+
+1414
+01:21:20,719 --> 01:21:24,239
+a gente tá prospectando o cliente. Agora
+
+1415
+01:21:22,480 --> 01:21:26,360
+que a gente fez a configuração de SEO,
+
+1416
+01:21:24,239 --> 01:21:29,800
+vamos trabalhar com o ranqueamento do
+
+1417
+01:21:26,360 --> 01:21:32,639
+Google e vamos testar o tráfego pago
+
+1418
+01:21:29,800 --> 01:21:34,679
+também em algum momento.
+
+1419
+01:21:32,639 --> 01:21:38,400
+Fala, Jefferson. Cheguei de paraquedas
+
+1420
+01:21:34,679 --> 01:21:42,520
+na live. Você criava 190 no site ou
+
+1421
+01:21:38,400 --> 01:21:47,760
+2990? Ih, vamos lá, Jeferson. 2990 foram
+
+1422
+01:21:42,520 --> 01:21:47,760
+os valores dos websites vendidos.
+
+1423
+01:21:53,840 --> 01:21:58,679
+E o MRR é hospedagem.
+
+1424
+01:22:19,199 --> 01:22:24,199
+Tô indo pra primeira prospecção. Você
+
+1425
+01:22:21,920 --> 01:22:26,400
+acha que já devo começar com chip novo?
+
+1426
+01:22:24,199 --> 01:22:29,719
+Eu comecei com o Chip Novo, Vittor.
+
+1427
+01:22:26,400 --> 01:22:32,159
+Comecei com o Chip Novo. Só é primeiro
+
+1428
+01:22:29,719 --> 01:22:35,400
+dia entra noss grupos aí de WhatsApp
+
+1429
+01:22:32,159 --> 01:22:38,120
+para gerar uma interação e não dispara
+
+1430
+01:22:35,400 --> 01:22:41,960
+muito. Começa enviando cinco mensagens,
+
+1431
+01:22:38,120 --> 01:22:44,120
+depois envia sete no outro dia e vai
+
+1432
+01:22:41,960 --> 01:22:49,920
+subindo, tá? Mas eu não recomendo nunca
+
+1433
+01:22:44,120 --> 01:22:49,920
+jamais enviar mais de 20 num dia, tá?
+
+1434
+01:22:54,159 --> 01:23:00,000
+Ó, estou arrumando umas coisas minhas
+
+1435
+01:22:56,239 --> 01:23:03,000
+para começar a pegar esses projetos.
+
+1436
+01:23:00,000 --> 01:23:05,159
+Vou fazer alguns para mim para pegar a
+
+1437
+01:23:03,000 --> 01:23:07,880
+parte do Google, oferecer por aqui pela
+
+1438
+01:23:05,159 --> 01:23:09,679
+cidade Nexar Hunter. Boa, Carlos. Vai
+
+1439
+01:23:07,880 --> 01:23:11,800
+dar certo, galera? Vocês viram desde o
+
+1440
+01:23:09,679 --> 01:23:15,120
+início aí. Quem não viu, vai lá, começa
+
+1441
+01:23:11,800 --> 01:23:18,280
+pela pela live um e vem vindo que você
+
+1442
+01:23:15,120 --> 01:23:19,920
+vai ver que a evolução é constante. E
+
+1443
+01:23:18,280 --> 01:23:22,560
+vocês também tem que O prazo mais
+
+1444
+01:23:19,920 --> 01:23:24,120
+difícil é começar, galera, tá? Na real,
+
+1445
+01:23:22,560 --> 01:23:28,199
+o mais difícil é começar. Depois que
+
+1446
+01:23:24,120 --> 01:23:28,199
+você começa, já era.
+
+1447
+01:23:29,320 --> 01:23:32,320
+Então, eu não sei como é que é o mercado
+
+1448
+01:23:30,560 --> 01:23:35,239
+europeu, na verdade, eu nunca vendi para
+
+1449
+01:23:32,320 --> 01:23:37,120
+fora, tá? Mas eu acredito que a lógica
+
+1450
+01:23:35,239 --> 01:23:40,120
+deva ser a mesma, né? Que muda o idioma
+
+1451
+01:23:37,120 --> 01:23:40,120
+apenas.
+
+1452
+01:23:41,679 --> 01:23:46,120
+Agora que eu vi que eu escrevi tudo
+
+1453
+01:23:43,120 --> 01:23:46,120
+errado.
+
+1454
+01:23:49,440 --> 01:23:53,880
+Não, deu para entender de boa. Deu para
+
+1455
+01:23:51,040 --> 01:23:55,560
+entender de boa.
+
+1456
+01:23:53,880 --> 01:23:57,840
+Eu peguei um chip novo, inclusive, né,
+
+1457
+01:23:55,560 --> 01:24:00,840
+galera? Peguei um chip novo para
+
+1458
+01:23:57,840 --> 01:24:00,840
+prospectar.
+
+1459
+01:24:04,320 --> 01:24:07,920
+Fiz o WhatsApp novo. Na verdade, eu
+
+1460
+01:24:05,840 --> 01:24:10,320
+tinha eu fiz com a ideia de mostrar tudo
+
+1461
+01:24:07,920 --> 01:24:13,280
+aqui para vocês, né? Só que aí tomei um
+
+1462
+01:24:10,320 --> 01:24:15,440
+puxão de orelha do YouTube, mas a ideia
+
+1463
+01:24:13,280 --> 01:24:18,360
+era fazer tudo
+
+1464
+01:24:15,440 --> 01:24:22,480
+tudo online aqui junto com vocês.
+
+1465
+01:24:18,360 --> 01:24:23,960
+E galera, olha só, eh o YouTube já tá
+
+1466
+01:24:22,480 --> 01:24:26,600
+analisando o nosso canal, né, para
+
+1467
+01:24:23,960 --> 01:24:28,880
+liberar a monetização. Batemos lá as
+
+1468
+01:24:26,600 --> 01:24:32,000
+3.000 horas iniciais, precisa de mais
+
+1469
+01:24:28,880 --> 01:24:33,719
+quatro mais 1000 horas, né? eh batemos o
+
+1470
+01:24:32,000 --> 01:24:36,639
+número mínimo de inscritos, então vamos
+
+1471
+01:24:33,719 --> 01:24:39,119
+ter a nossa área de membros.
+
+1472
+01:24:36,639 --> 01:24:41,400
+Eh, área de membros vai ser legal porque
+
+1473
+01:24:39,119 --> 01:24:42,840
+vai ter uns conteúdos exclusivos e vai
+
+1474
+01:24:41,400 --> 01:24:44,480
+ser mais filtrado, né? Então acho que eu
+
+1475
+01:24:42,840 --> 01:24:46,280
+vou poder ajudar de forma mais
+
+1476
+01:24:44,480 --> 01:24:49,080
+individual.
+
+1477
+01:24:46,280 --> 01:24:51,679
+Aí eu tô pensando também
+
+1478
+01:24:49,080 --> 01:24:54,040
+em
+
+1479
+01:24:51,679 --> 01:24:57,520
+também tô pensando em criar uma uma área
+
+1480
+01:24:54,040 --> 01:24:59,360
+de membros do canal, tá? onde você, para
+
+1481
+01:24:57,520 --> 01:25:01,119
+quem for membro vai ter acesso lá pra
+
+1482
+01:24:59,360 --> 01:25:02,760
+gente fazer meet, vai ter uns vídeos
+
+1483
+01:25:01,119 --> 01:25:05,199
+exclusivos,
+
+1484
+01:25:02,760 --> 01:25:07,440
+um conteúdo mais
+
+1485
+01:25:05,199 --> 01:25:08,920
+direcionado para vocês, né? Porque aqui
+
+1486
+01:25:07,440 --> 01:25:10,679
+eu acabo respondendo um pouquinho de
+
+1487
+01:25:08,920 --> 01:25:13,199
+todo mundo,
+
+1488
+01:25:10,679 --> 01:25:16,360
+mas não temos uma direção, mas acho que
+
+1489
+01:25:13,199 --> 01:25:18,800
+já tem um conteúdo bem legal, né?
+
+1490
+01:25:16,360 --> 01:25:20,400
+Tô chegando hoje, Gabriel chegou, já deu
+
+1491
+01:25:18,800 --> 01:25:22,239
+like, já se inscreveu no canal. Conta
+
+1492
+01:25:20,400 --> 01:25:26,000
+para mim.
+
+1493
+01:25:22,239 --> 01:25:28,920
+Foi 2990 em 20 dias. Isso mesmo, 2990 em
+
+1494
+01:25:26,000 --> 01:25:31,760
+20 dias.
+
+1495
+01:25:28,920 --> 01:25:33,600
+O que significa vibe coding? Vibe coding
+
+1496
+01:25:31,760 --> 01:25:35,639
+é você
+
+1497
+01:25:33,600 --> 01:25:38,600
+eh
+
+1498
+01:25:35,639 --> 01:25:42,679
+produzir sistemas, sites sem saber
+
+1499
+01:25:38,600 --> 01:25:44,199
+programar, tá? Eh,
+
+1500
+01:25:42,679 --> 01:25:46,400
+é como se fosse uma linguagem de
+
+1501
+01:25:44,199 --> 01:25:49,520
+programação, onde você envia os prompts
+
+1502
+01:25:46,400 --> 01:25:54,199
+e ele executa para você, você tem um um
+
+1503
+01:25:49,520 --> 01:25:54,199
+agente para fazer as coisas para você.
+
+1504
+01:25:57,199 --> 01:26:00,560
+Depois tira um tempinho para usar
+
+1505
+01:25:58,400 --> 01:26:02,520
+aquelas extensões que borra o WhatsApp.
+
+1506
+01:26:00,560 --> 01:26:06,080
+Deixa só mostrando o campo. É, eu vou
+
+1507
+01:26:02,520 --> 01:26:06,080
+ver isso daí, Mateus.
+
+1508
+01:26:09,800 --> 01:26:13,560
+Cara, eu acho top demais essa atenção.
+
+1509
+01:26:11,560 --> 01:26:16,320
+Valeu, Xavier.
+
+1510
+01:26:13,560 --> 01:26:18,840
+A ideia aqui é que a gente cresça junto
+
+1511
+01:26:16,320 --> 01:26:21,600
+todo mundo, né? Vocês me vocês se
+
+1512
+01:26:18,840 --> 01:26:24,920
+inscrevem no canal e dão o incentivo, o
+
+1513
+01:26:21,600 --> 01:26:27,920
+like aqui para mim. Já já é a troca e eu
+
+1514
+01:26:24,920 --> 01:26:30,719
+entrego um conteúdo que eu queria ter
+
+1515
+01:26:27,920 --> 01:26:32,600
+tido esse conteúdo quando eu iniciei. Na
+
+1516
+01:26:30,719 --> 01:26:34,239
+verdade, até de em algum momento pode
+
+1517
+01:26:32,600 --> 01:26:35,760
+ser que tenha e eu não encontrei ele,
+
+1518
+01:26:34,239 --> 01:26:38,040
+né?
+
+1519
+01:26:35,760 --> 01:26:41,560
+Tem o valor em mentre para cobrar, cara.
+
+1520
+01:26:38,040 --> 01:26:41,560
+Não sei, gente.
+
+1521
+01:26:46,600 --> 01:26:51,199
+Ó o quem que chegou? Crian dev. Tive que
+
+1522
+01:26:49,520 --> 01:26:53,199
+criar essa conta aqui, Ju. Não teve
+
+1523
+01:26:51,199 --> 01:26:55,040
+jeito. É o Gemini não reembolossa porque
+
+1524
+01:26:53,199 --> 01:26:58,960
+depois que você ativa, né, a conta não
+
+1525
+01:26:55,040 --> 01:27:02,080
+tem como pedir reembolso.
+
+1526
+01:26:58,960 --> 01:27:05,440
+Perdeu, não, leva como investimento, pô.
+
+1527
+01:27:02,080 --> 01:27:08,000
+E o valor é baixíssimo. A hora que você
+
+1528
+01:27:05,440 --> 01:27:10,880
+uma venda aí você já tira 5 anos de
+
+1529
+01:27:08,000 --> 01:27:14,320
+Gemini. Vai prospectar ao vivo. Vou dar
+
+1530
+01:27:10,880 --> 01:27:16,360
+uma olhada em alguns perfis hoje. Sim,
+
+1531
+01:27:14,320 --> 01:27:17,760
+vou olhar.
+
+1532
+01:27:16,360 --> 01:27:19,360
+Você mesmo que paga diretamente o
+
+1533
+01:27:17,760 --> 01:27:22,119
+provedor de hospedagem ou o cliente que
+
+1534
+01:27:19,360 --> 01:27:24,159
+paga? O cliente que paga. Eu cobro dele
+
+1535
+01:27:22,119 --> 01:27:27,639
+usando programa de afiliados. Não, tô
+
+1536
+01:27:24,159 --> 01:27:29,840
+hospedando gratuito e repassando o valor
+
+1537
+01:27:27,639 --> 01:27:34,040
+pro cliente.
+
+1538
+01:27:29,840 --> 01:27:34,040
+Vamos esperar ele finalizar aqui.
+
+1539
+01:27:34,440 --> 01:27:39,400
+E aí, vamos,
+
+1540
+01:27:36,400 --> 01:27:43,320
+gente, enquanto ele finaliza aqui, ó. Eu
+
+1541
+01:27:39,400 --> 01:27:43,320
+vou ali pegar uma aguinha, tá?
+
+1542
+01:27:43,440 --> 01:27:47,119
+Vão deixando as dúvidas de vocês aí que
+
+1543
+01:27:45,040 --> 01:27:50,440
+eu já olho.
+
+1544
+01:27:47,119 --> 01:27:54,600
+know you understand
+
+1545
+01:27:50,440 --> 01:27:59,320
+you if you take my
+
+1546
+01:27:54,600 --> 01:27:59,320
+go out of my
+
+1547
+01:28:00,560 --> 01:28:03,960
+for you
+
+1548
+01:28:04,320 --> 01:28:07,800
+for you
+
+1549
+01:30:21,520 --> 01:30:27,960
+Tô de volta, gente. Tô de volta. Vamos
+
+1550
+01:30:23,960 --> 01:30:27,960
+ver se ele arrumou aqui. He.
+
+1551
+01:31:07,119 --> 01:31:12,239
+mostrou, né? Restaurado o bloco com o
+
+1552
+01:31:10,000 --> 01:31:14,960
+botão
+
+1553
+01:31:12,239 --> 01:31:16,719
+status e modal
+
+1554
+01:31:14,960 --> 01:31:18,920
+testado localmente ao servidor. O fluxo
+
+1555
+01:31:16,719 --> 01:31:21,040
+revelação dos card de aberturas modais
+
+1556
+01:31:18,920 --> 01:31:22,320
+de detalhes está funcionando sem erros.
+
+1557
+01:31:21,040 --> 01:31:25,560
+Está funcionando, mas cadê que eu não
+
+1558
+01:31:22,320 --> 01:31:25,560
+vejo ele?
+
+1559
+01:31:30,040 --> 01:31:36,880
+Vamos perguntar para ele. Cadê?
+
+1560
+01:31:33,600 --> 01:31:36,880
+Eh Ah.
+
+1561
+01:32:17,480 --> 01:32:23,679
+Tá, gente, deixa eu abrir o site aqui.
+
+1562
+01:32:21,679 --> 01:32:26,159
+Tem o valor em mente para cobrar o
+
+1563
+01:32:23,679 --> 01:32:29,440
+canal. Tá, Vittor, vamos falar sobre
+
+1564
+01:32:26,159 --> 01:32:32,679
+isso. Não, não pensei em um valor exato
+
+1565
+01:32:29,440 --> 01:32:34,320
+ainda pra área de membros.
+
+1566
+01:32:32,679 --> 01:32:35,719
+Ah, mas acho que tinha que ser um valor
+
+1567
+01:32:34,320 --> 01:32:38,040
+acessível, né? O que que é um valor
+
+1568
+01:32:35,719 --> 01:32:40,560
+acessível para vocês, galera?
+
+1569
+01:32:38,040 --> 01:32:43,320
+Mas tipo, pensando assim: "Ah, Júnior,
+
+1570
+01:32:40,560 --> 01:32:44,800
+eh, eu tenho, eu tenho esse projeto
+
+1571
+01:32:43,320 --> 01:32:46,360
+aqui, eu quero que você analise e me
+
+1572
+01:32:44,800 --> 01:32:48,280
+ajude."
+
+1573
+01:32:46,360 --> 01:32:52,239
+O que que vocês acham que é um valor
+
+1574
+01:32:48,280 --> 01:32:52,239
+justo para isso?
+
+1575
+01:32:58,679 --> 01:33:03,560
+Primeiro mês R 19$,90, em seguido
+
+1576
+01:33:00,800 --> 01:33:07,840
+R$9,90, porque duvido que em 30 dias não
+
+1577
+01:33:03,560 --> 01:33:11,920
+vai ter resultado com tudo isso.
+
+1578
+01:33:07,840 --> 01:33:15,360
+Qual o link desse site eh da Água Pura?
+
+1579
+01:33:11,920 --> 01:33:15,360
+Ele tá na Versel.
+
+1580
+01:33:21,639 --> 01:33:27,239
+Hum.
+
+1581
+01:33:23,480 --> 01:33:27,239
+Abrir a Verscel aqui,
+
+1582
+01:33:28,480 --> 01:33:34,800
+se eu não me engano, é águapura ejuí.
+
+1583
+01:33:30,560 --> 01:33:34,800
+Vercel. Tá.
+
+1584
+01:33:34,840 --> 01:33:39,440
+Ã, aqui, ó.
+
+1585
+01:33:40,480 --> 01:33:44,320
+Águaapura traçudan.
+
+1586
+01:33:50,400 --> 01:33:55,119
+Os 1520 é bom. Tá, entendi.
+
+1587
+01:33:59,040 --> 01:34:02,880
+Tô com projeto que tava querendo ajuda
+
+1588
+01:34:00,800 --> 01:34:05,760
+na parte de marketing. Pois é, gente. É
+
+1589
+01:34:02,880 --> 01:34:09,239
+isso que eu é isso que eu tô vendo. Só
+
+1590
+01:34:05,760 --> 01:34:13,880
+que o problema é o seguinte, tá?
+
+1591
+01:34:09,239 --> 01:34:17,440
+Ah, esse valor de 20, 30, infelizmente
+
+1592
+01:34:13,880 --> 01:34:19,840
+eu não consigo parar as minhas coisas e
+
+1593
+01:34:17,440 --> 01:34:23,320
+dar uma tensão um a um, tá? seria
+
+1594
+01:34:19,840 --> 01:34:25,639
+impossível, inviável, né? Até porque,
+
+1595
+01:34:23,320 --> 01:34:27,440
+como você sabe, eu tenho meus outros
+
+1596
+01:34:25,639 --> 01:34:31,080
+afazeres,
+
+1597
+01:34:27,440 --> 01:34:33,119
+porém a gente pode fazer um valor onde
+
+1598
+01:34:31,080 --> 01:34:35,920
+vocês colocam as dúvidas e eu gravo um
+
+1599
+01:34:33,119 --> 01:34:39,080
+conteúdo sobre isso. Ou a gente faz tipo
+
+1600
+01:34:35,920 --> 01:34:41,239
+um dia live só para membro, para
+
+1601
+01:34:39,080 --> 01:34:43,719
+membros, né? E aí a gente junta todo
+
+1602
+01:34:41,239 --> 01:34:46,080
+mundo,
+
+1603
+01:34:43,719 --> 01:34:48,080
+porque individual nesse valor é
+
+1604
+01:34:46,080 --> 01:34:51,920
+impossível. Não tem como. Gostaria
+
+1605
+01:34:48,080 --> 01:34:51,920
+muito, mas não tem como.
+
+1606
+01:35:01,800 --> 01:35:06,440
+Não, Carlos Domini Pay. Não,
+
+1607
+01:35:13,199 --> 01:35:19,239
+vamos ver se ele vai ajustar aqui, ó,
+
+1608
+01:35:14,880 --> 01:35:19,239
+porque eu vi que sumiu.
+
+1609
+01:35:22,639 --> 01:35:26,360
+Mas se uma plataforma que clona site em
+
+1610
+01:35:24,400 --> 01:35:28,119
+C. Aí você só muda as fotos e as
+
+1611
+01:35:26,360 --> 01:35:30,159
+informações do site da pessoa que vai
+
+1612
+01:35:28,119 --> 01:35:33,040
+vender. É interessante,
+
+1613
+01:35:30,159 --> 01:35:34,840
+mas eu prefiro é fazer mesmo. Eu prefiro
+
+1614
+01:35:33,040 --> 01:35:39,119
+construir.
+
+1615
+01:35:34,840 --> 01:35:39,119
+Acho que fica mais personalizado.
+
+1616
+01:35:41,000 --> 01:35:45,800
+Ó, pera aí que o cara dá
+
+1617
+01:35:55,880 --> 01:36:01,000
+cara da mecânica tá mandando mensagem.
+
+1618
+01:35:58,000 --> 01:36:01,000
+Galera,
+
+1619
+01:36:01,400 --> 01:36:06,400
+eu vou ter que abrir aqui o meu e-mail,
+
+1620
+01:36:02,880 --> 01:36:08,600
+ver se eu recebi o invite dele do do
+
+1621
+01:36:06,400 --> 01:36:11,800
+domínio, que era o que tava faltando ele
+
+1622
+01:36:08,600 --> 01:36:11,800
+me mandar.
+
+1623
+01:36:17,080 --> 01:36:20,840
+Deixa eu só ver aqui
+
+1624
+01:36:30,119 --> 01:36:32,840
+em live mesmo.
+
+1625
+01:36:40,280 --> 01:36:46,520
+Vamos ver se troca uma spam.
+
+1626
+01:36:43,520 --> 01:36:46,520
+Não,
+
+1627
+01:36:51,719 --> 01:36:55,960
+tô com trava para fazer mais vendas.
+
+1628
+01:36:53,639 --> 01:36:57,440
+Isso é natural, gente.
+
+1629
+01:36:55,960 --> 01:37:00,440
+Gente, deixa eu abrir minha conta aqui
+
+1630
+01:36:57,440 --> 01:37:00,440
+da
+
+1631
+01:37:00,920 --> 01:37:07,520
+Chegou a abrir, deixa eu ver minha conta
+
+1632
+01:37:03,199 --> 01:37:07,520
+do registro.br aqui.
+
+1633
+01:37:10,400 --> 01:37:13,600
+Ah, chegou.
+
+1634
+01:37:16,840 --> 01:37:23,239
+Quem deixou o sub? GGBR deixou o sub.
+
+1635
+01:37:19,840 --> 01:37:24,560
+Valeu, meu querido.
+
+1636
+01:37:23,239 --> 01:37:26,280
+Vamos ver o que o cliente mandou aqui.
+
+1637
+01:37:24,560 --> 01:37:29,239
+Eu vou ouvir primeiro, depois eu ver se
+
+1638
+01:37:26,280 --> 01:37:29,239
+posso mostrar para vocês.
+
+1639
+01:39:22,119 --> 01:39:28,639
+Galera, era o registro aqui do
+
+1640
+01:39:26,080 --> 01:39:31,679
+era os dados do registro.br. Tá, não vou
+
+1641
+01:39:28,639 --> 01:39:35,239
+conseguir mostrar o áudio, mas ele só
+
+1642
+01:39:31,679 --> 01:39:38,599
+eh passou aqui o contato técnico e agora
+
+1643
+01:39:35,239 --> 01:39:38,599
+eu já consigo.
+
+1644
+01:39:40,080 --> 01:39:45,159
+Deixa eu só confirmar aqui para ele que
+
+1645
+01:39:41,840 --> 01:39:45,159
+deu certinho.
+
+1646
+01:39:50,679 --> 01:39:55,320
+Vamos lá. Você já fez uma venda de site
+
+1647
+01:39:53,000 --> 01:39:59,639
+com pagamento integrado?
+
+1648
+01:39:55,320 --> 01:40:03,880
+Mercado Pago eu uso. Dá para fazer com
+
+1649
+01:39:59,639 --> 01:40:03,880
+pagamento integrado, mas não.
+
+1650
+01:40:17,800 --> 01:40:22,920
+Ó,
+
+1651
+01:40:19,480 --> 01:40:26,960
+o GGBR tá com trava nas vendas. Parou em
+
+1652
+01:40:22,920 --> 01:40:28,040
+2K. Vamos destravar isso daí, então.
+
+1653
+01:40:26,960 --> 01:40:30,400
+Vamos ver o que que ele mandou aqui pra
+
+1654
+01:40:28,040 --> 01:40:32,800
+gente. Você está testando o servidor
+
+1655
+01:40:30,400 --> 01:40:36,920
+local. Seu navegador parou em cash na
+
+1656
+01:40:32,800 --> 01:40:36,920
+versão anterior. É isso mesmo.
+
+1657
+01:40:40,840 --> 01:40:47,960
+Então tá, parou em cash. Vamos dar um
+
+1658
+01:40:43,599 --> 01:40:47,960
+contrl shift R aqui. Mas
+
+1659
+01:40:54,480 --> 01:40:59,440
+por enquanto tá travado ainda.
+
+1660
+01:40:57,719 --> 01:41:03,719
+Deixa eu só fazer o login aqui, gente.
+
+1661
+01:40:59,440 --> 01:41:06,440
+ver se tá tudo certo com o
+
+1662
+01:41:03,719 --> 01:41:08,280
+ã
+
+1663
+01:41:06,440 --> 01:41:12,639
+Storm Automotive. Vamos ver se eu
+
+1664
+01:41:08,280 --> 01:41:12,639
+consigo trocar os DNS aqui.
+
+1665
+01:41:12,920 --> 01:41:18,960
+Consigo. Então já é, já temos um serviço
+
+1666
+01:41:16,440 --> 01:41:21,840
+eh para amanhã colocar o site da Store
+
+1667
+01:41:18,960 --> 01:41:23,960
+no ar.
+
+1668
+01:41:21,840 --> 01:41:27,480
+Se você está visualizando o site
+
+1669
+01:41:23,960 --> 01:41:27,480
+publicar na internet.
+
+1670
+01:41:27,560 --> 01:41:30,480
+OK.
+
+1671
+01:41:31,960 --> 01:41:40,360
+OK. Mas nem no local, nem no
+
+1672
+01:41:37,360 --> 01:41:40,360
+ã
+
+1673
+01:41:42,920 --> 01:41:46,360
+não vejo as alterações.
+
+1674
+01:42:06,000 --> 01:42:09,040
+É isso que eu tô falando, mano. Duas
+
+1675
+01:42:07,280 --> 01:42:12,199
+horas de conteúdo dá para filtrar,
+
+1676
+01:42:09,040 --> 01:42:13,960
+encaixar em 20, 30 minutos. Eu entendo
+
+1677
+01:42:12,199 --> 01:42:15,679
+que tem tudo na live, mas fica mais
+
+1678
+01:42:13,960 --> 01:42:18,520
+fácil construir se a intenção for
+
+1679
+01:42:15,679 --> 01:42:22,560
+realmente ajudar.
+
+1680
+01:42:18,520 --> 01:42:22,560
+Ó a ideia do Micael aí.
+
+1681
+01:42:24,520 --> 01:42:28,080
+Você está conseguindo clientes por onde,
+
+1682
+01:42:25,880 --> 01:42:30,520
+João? Estamos usando o Nexar Hunter para
+
+1683
+01:42:28,080 --> 01:42:34,480
+prospectar cliente.
+
+1684
+01:42:30,520 --> 01:42:36,159
+Galera, 2660 inscritos. Valeu, tamo
+
+1685
+01:42:34,480 --> 01:42:39,560
+junto. Hoje eu acho que vai dar para
+
+1686
+01:42:36,159 --> 01:42:42,000
+bater os 2700 inscritos. Será?
+
+1687
+01:42:39,560 --> 01:42:43,719
+Eu
+
+1688
+01:42:42,000 --> 01:42:46,000
+estava pesquisando no Versel disse que
+
+1689
+01:42:43,719 --> 01:42:50,840
+os sites grátis não podem vender ou ser
+
+1690
+01:42:46,000 --> 01:42:50,840
+comercial. Não pode, Kiron.
+
+1691
+01:42:54,960 --> 01:43:00,360
+Tem um monte de coisa nesse mundão aí
+
+1692
+01:42:57,040 --> 01:43:00,360
+que não pode.
+
+1693
+01:43:13,040 --> 01:43:16,920
+É, galera, a gente pode fazer até uma
+
+1694
+01:43:15,199 --> 01:43:18,400
+área de membros. Aí, ó, tem gente que
+
+1695
+01:43:16,920 --> 01:43:20,599
+não tava inscrito, ó. O Lauro, valeu,
+
+1696
+01:43:18,400 --> 01:43:22,119
+Lauro, pelo sub.
+
+1697
+01:43:20,599 --> 01:43:24,920
+Prospecta vendia depois que começava o
+
+1698
+01:43:22,119 --> 01:43:27,679
+site. Agora pros prospecta cria, mostra
+
+1699
+01:43:24,920 --> 01:43:29,159
+uma prévia, vende e finaliza. Falando
+
+1700
+01:43:27,679 --> 01:43:31,520
+nisso, eu quero chamar o advogado.
+
+1701
+01:43:29,159 --> 01:43:35,000
+Aquele.
+
+1702
+01:43:31,520 --> 01:43:35,000
+Deixa eu ver aqui.
+
+1703
+01:43:37,000 --> 01:43:42,239
+Vou mandar para ele. Vamos ver.
+
+1704
+01:43:56,080 --> 01:43:59,920
+E aquele advogado lá que ficou, né, ele
+
+1705
+01:43:57,960 --> 01:44:03,119
+queria marcar comigo, depois ele no
+
+1706
+01:43:59,920 --> 01:44:07,080
+final teve uma audiência, não conseguiu
+
+1707
+01:44:03,119 --> 01:44:08,880
+me atender e eu não
+
+1708
+01:44:07,080 --> 01:44:11,639
+falei mais com ele e agora que eu
+
+1709
+01:44:08,880 --> 01:44:15,119
+lembrei de chamar ele. Então, temos mais
+
+1710
+01:44:11,639 --> 01:44:17,560
+uma chance de fechar ainda.
+
+1711
+01:44:15,119 --> 01:44:19,480
+Acabei de conhecer o canal. É legal
+
+1712
+01:44:17,560 --> 01:44:22,920
+demais. Uma dúvida, por onde tem abordar
+
+1713
+01:44:19,480 --> 01:44:24,679
+os clientes? Pelo WhatsApp, meu querido.
+
+1714
+01:44:22,920 --> 01:44:26,639
+Direto pelo WhatsApp. Uma ideia para
+
+1715
+01:44:24,679 --> 01:44:28,320
+vocês. Ao invés de construir o site todo
+
+1716
+01:44:26,639 --> 01:44:30,159
+para prospectar, cria sua primeira
+
+1717
+01:44:28,320 --> 01:44:32,920
+dobra. Cria um mocap, né? É o que a
+
+1718
+01:44:30,159 --> 01:44:34,719
+gente faz aqui, ó. Deixa eu mostrar para
+
+1719
+01:44:32,920 --> 01:44:37,639
+vocês.
+
+1720
+01:44:34,719 --> 01:44:41,000
+Deixa eu fechar isso aqui.
+
+1721
+01:44:37,639 --> 01:44:41,000
+Aqui, ó.
+
+1722
+01:44:42,119 --> 01:44:49,280
+aqui, ó, galera. Tá, vamos lá,
+
+1723
+01:44:46,320 --> 01:44:51,360
+ó. Ã,
+
+1724
+01:44:49,280 --> 01:44:54,639
+manda as informações da empresa, tira
+
+1725
+01:44:51,360 --> 01:44:57,520
+print aqui, ó, das redes sociais, tá?
+
+1726
+01:44:54,639 --> 01:45:00,760
+E manda o promptinho,
+
+1727
+01:44:57,520 --> 01:45:03,719
+tá? O prompt
+
+1728
+01:45:00,760 --> 01:45:07,440
+e ele gera o mocap. E aí você mostra
+
+1729
+01:45:03,719 --> 01:45:09,239
+isso aqui pro cliente, entendeu?
+
+1730
+01:45:07,440 --> 01:45:12,239
+Mostra isso aqui pro cliente. Funciona
+
+1731
+01:45:09,239 --> 01:45:12,239
+bem.
+
+1732
+01:46:11,560 --> 01:46:14,960
+Ó, o advogado respondeu, diz ele, cara,
+
+1733
+01:46:13,480 --> 01:46:17,360
+hoje não consigo pensar nisso, tá
+
+1734
+01:46:14,960 --> 01:46:19,679
+corrido. Eu disse para ele, tá beleza,
+
+1735
+01:46:17,360 --> 01:46:22,520
+segundamos e fim de mês, acumula tudo,
+
+1736
+01:46:19,679 --> 01:46:23,800
+né? Ele nem me fale. Pra e prazo. Eu
+
+1737
+01:46:22,520 --> 01:46:26,639
+disse para ele. Isso aí, marcha, que eu
+
+1738
+01:46:23,800 --> 01:46:28,639
+vou tentar dar um jeito aqui. Ah, até
+
+1739
+01:46:26,639 --> 01:46:31,040
+quando você acha que consegue espiar? Aí
+
+1740
+01:46:28,639 --> 01:46:33,159
+vou tentar segurar a oferta. Deixa
+
+1741
+01:46:31,040 --> 01:46:36,639
+comigo. Ó, ele mandou até quarta, máximo
+
+1742
+01:46:33,159 --> 01:46:38,520
+até quarta. Show. Vou segurar
+
+1743
+01:46:36,639 --> 01:46:42,520
+a vaga
+
+1744
+01:46:38,520 --> 01:46:42,520
+para até quarto. Então,
+
+1745
+01:46:42,679 --> 01:46:47,360
+a te chamo, te chamo de manhã.
+
+1746
+01:46:49,119 --> 01:46:53,520
+Quarta é dia 30, então fechou.
+
+1747
+01:46:53,719 --> 01:47:00,639
+Tá bom, porque ainda é antes do
+
+1748
+01:46:56,520 --> 01:47:00,639
+fechamento do mês,
+
+1749
+01:47:00,920 --> 01:47:08,639
+depois da virada.
+
+1750
+01:47:03,679 --> 01:47:08,639
+Virada já fica difícil para eu segurar.
+
+1751
+01:47:10,560 --> 01:47:13,560
+Eu
+
+1752
+01:47:16,840 --> 01:47:20,080
+vou voltar pro chat, galera.
+
+1753
+01:48:11,239 --> 01:48:15,280
+Voltei pro chat aqui, ó.
+
+1754
+01:48:25,800 --> 01:48:30,679
+Tu paga qual o plano de A, Cris? Eu pago
+
+1755
+01:48:28,239 --> 01:48:35,400
+esse que tá na descrição da live aí, ó.
+
+1756
+01:48:30,679 --> 01:48:35,400
+O Gemini pro IR 18 meses.
+
+1757
+01:48:38,320 --> 01:48:42,800
+Eh, você fica só pelo zap reunião em
+
+1758
+01:48:40,920 --> 01:48:46,639
+outra app? E como você faz as reuniões?
+
+1759
+01:48:42,800 --> 01:48:46,639
+Reuniões eu faço pelo Meet, tá?
+
+1760
+01:48:51,119 --> 01:48:55,679
+Então, Hostinger tem uns planos bem bem
+
+1761
+01:48:53,840 --> 01:49:01,119
+bacana, né? Hostinger aí tem uns
+
+1762
+01:48:55,679 --> 01:49:03,040
+planinhos de R$ 29,90, né? R$ 30.
+
+1763
+01:49:01,119 --> 01:49:06,760
+É bem interessante com banco de dados,
+
+1764
+01:49:03,040 --> 01:49:09,239
+com tudo. É bacana. Eu confesso, gente,
+
+1765
+01:49:06,760 --> 01:49:12,520
+que eu uso nesses projetos de LP, eu uso
+
+1766
+01:49:09,239 --> 01:49:15,320
+Git Hubase
+
+1767
+01:49:12,520 --> 01:49:19,000
+gratuito. O nosso CRM, por exemplo, tá
+
+1768
+01:49:15,320 --> 01:49:22,800
+no Super Base com o GitHub,
+
+1769
+01:49:19,000 --> 01:49:24,080
+rodando muito de boa, tá?
+
+1770
+01:49:22,800 --> 01:49:27,280
+Vamos ver o que que ele respondeu aqui
+
+1771
+01:49:24,080 --> 01:49:27,280
+pra gente.
+
+1772
+01:49:46,400 --> 01:49:51,760
+Ele tá pedindo aqui, mas nem no local tá
+
+1773
+01:49:48,239 --> 01:49:51,760
+aparecendo, pô.
+
+1774
+01:49:56,000 --> 01:50:00,480
+Vamos ver onde ele tá jogando esse
+
+1775
+01:49:57,480 --> 01:50:00,480
+botão.
+
+1776
+01:50:14,119 --> 01:50:17,159
+Porque não estava aparecendo o seu
+
+1777
+01:50:15,360 --> 01:50:18,880
+navegador local. Ajustei os log do
+
+1778
+01:50:17,159 --> 01:50:23,639
+servidor, tá? O seu servidor não está
+
+1779
+01:50:18,880 --> 01:50:23,639
+ativo, exclusivamente na porta 8080.
+
+1780
+01:50:23,800 --> 01:50:28,800
+Vamos testar.
+
+1781
+01:50:26,119 --> 01:50:32,400
+Vamos lá.
+
+1782
+01:50:28,800 --> 01:50:35,239
+8080 aqui, gente. Ver mais projetos.
+
+1783
+01:50:32,400 --> 01:50:38,599
+Boa.
+
+1784
+01:50:35,239 --> 01:50:38,599
+Agora sim.
+
+1785
+01:50:39,320 --> 01:50:44,840
+Vamos rodar o commit aqui do GitHub que
+
+1786
+01:50:41,679 --> 01:50:44,840
+ele pediu.
+
+1787
+01:50:48,719 --> 01:50:54,159
+Na verdade tá aqui os três comits aqui
+
+1788
+01:50:50,880 --> 01:50:57,119
+embaixo sincronizando. Só clicar.
+
+1789
+01:50:54,159 --> 01:51:00,880
+Já usou o Cloud Fire? Usei. É bom. É
+
+1790
+01:50:57,119 --> 01:51:00,880
+bom. Concordo contigo.
+
+1791
+01:51:03,040 --> 01:51:09,440
+A gente usa na agência inclusive em
+
+1792
+01:51:05,320 --> 01:51:12,079
+alguns projetos. Eu
+
+1793
+01:51:09,440 --> 01:51:15,880
+uso Fire Base também é bom. Também é
+
+1794
+01:51:12,079 --> 01:51:18,119
+bom. Muito top, cara. Essas soluções
+
+1795
+01:51:15,880 --> 01:51:20,040
+gratuitas aí a gente tem que usufruir,
+
+1796
+01:51:18,119 --> 01:51:23,719
+né? Aí, galera, tá aqui, ó. Ver mais
+
+1797
+01:51:20,040 --> 01:51:23,719
+projetos, ó.
+
+1798
+01:51:25,159 --> 01:51:31,920
+Fui eu aqui que
+
+1799
+01:51:27,920 --> 01:51:35,639
+Fui eu aqui que dormi no ponto.
+
+1800
+01:51:31,920 --> 01:51:35,639
+Ã, vamos lá.
+
+1801
+01:51:37,560 --> 01:51:41,000
+Ó, boa dica do Xavier lá. Não crie o
+
+1802
+01:51:39,360 --> 01:51:44,239
+site antes de ter confirmado o interesse
+
+1803
+01:51:41,000 --> 01:51:44,239
+do cliente,
+
+1804
+01:51:46,280 --> 01:51:51,440
+principalmente quem usa cloud, né, que é
+
+1805
+01:51:48,239 --> 01:51:54,040
+um codex.
+
+1806
+01:51:51,440 --> 01:51:58,040
+Como que você faz para abrir o teste no
+
+1807
+01:51:54,040 --> 01:52:03,159
+celular? No VS Code
+
+1808
+01:51:58,040 --> 01:52:04,920
+tem o tem a extensão, né?
+
+1809
+01:52:03,159 --> 01:52:09,760
+Aqui, ó.
+
+1810
+01:52:04,920 --> 01:52:09,760
+tem a extensão do mobile mobile.
+
+1811
+01:52:12,079 --> 01:52:16,199
+E aí eu abro aqui, ó.
+
+1812
+01:52:17,040 --> 01:52:22,040
+Ó, aí eu já tô com o preview no celular.
+
+1813
+01:52:20,599 --> 01:52:23,639
+Inclusive, eu sempre falo, né, galera, o
+
+1814
+01:52:22,040 --> 01:52:26,800
+preview do celular é o principal, porque
+
+1815
+01:52:23,639 --> 01:52:29,280
+o cliente vai abrir o site,
+
+1816
+01:52:26,800 --> 01:52:31,480
+eh,
+
+1817
+01:52:29,280 --> 01:52:33,360
+vai abrir o site no celular no primeiro
+
+1818
+01:52:31,480 --> 01:52:35,840
+momento. Muito raro o cliente já abrir
+
+1819
+01:52:33,360 --> 01:52:38,599
+no computador, né? Só se ele tiver com
+
+1820
+01:52:35,840 --> 01:52:41,679
+WhatsApp Web, mas se ele tiver na rua,
+
+1821
+01:52:38,599 --> 01:52:43,560
+ele não vai,
+
+1822
+01:52:41,679 --> 01:52:45,079
+tá? E aqui no navegador tem a extensão,
+
+1823
+01:52:43,560 --> 01:52:46,800
+né?
+
+1824
+01:52:45,079 --> 01:52:49,079
+Tem extensão mobile aqui, o que você
+
+1825
+01:52:46,800 --> 01:52:52,079
+pode ir também
+
+1826
+01:52:49,079 --> 01:52:52,079
+eh
+
+1827
+01:52:52,199 --> 01:52:56,440
+conferir aqui o site, ó.
+
+1828
+01:53:02,079 --> 01:53:09,119
+Só pesquisar por eh mobile preview no no
+
+1829
+01:53:07,320 --> 01:53:10,840
+Google Chrome que você já vai encontrar,
+
+1830
+01:53:09,119 --> 01:53:14,199
+tá,
+
+1831
+01:53:10,840 --> 01:53:14,199
+essa extensão.
+
+1832
+01:53:19,719 --> 01:53:23,199
+Vamos ver se
+
+1833
+01:53:21,599 --> 01:53:24,599
+eh
+
+1834
+01:53:23,199 --> 01:53:27,599
+vamos ver se eu esqueci de responder
+
+1835
+01:53:24,599 --> 01:53:27,599
+alguém.
+
+1836
+01:53:45,679 --> 01:53:51,440
+Tá, gente, então ajustamos aqui,
+
+1837
+01:53:48,480 --> 01:53:53,320
+organizamos o nosso CRM. Eu acho que a
+
+1838
+01:53:51,440 --> 01:53:56,280
+gente vai fechar mais um site ainda até
+
+1839
+01:53:53,320 --> 01:53:58,360
+o final do mês, com certeza.
+
+1840
+01:53:56,280 --> 01:54:01,440
+Tá, tem essa galera aqui, ó, que tá, tem
+
+1841
+01:53:58,360 --> 01:54:03,560
+o Água Pura, que tá interessado, mas
+
+1842
+01:54:01,440 --> 01:54:06,800
+ainda não fechou. Tem esse advogado que
+
+1843
+01:54:03,560 --> 01:54:08,960
+tá interessado e ainda não fechou.
+
+1844
+01:54:06,800 --> 01:54:11,800
+Tem o da bateria que eu enviei hoje.
+
+1845
+01:54:08,960 --> 01:54:15,159
+Vamos ver qual que vai ser. E aí, gente,
+
+1846
+01:54:11,800 --> 01:54:17,480
+o que que eu quero fazer agora?
+
+1847
+01:54:15,159 --> 01:54:21,679
+Vamos dar uma buscada de leads, só que
+
+1848
+01:54:17,480 --> 01:54:24,480
+eu não tenho ideia do que é.
+
+1849
+01:54:21,679 --> 01:54:26,920
+Ó lá, o Xavier tá com 400 de MR, ó. fez
+
+1850
+01:54:24,480 --> 01:54:28,679
+fez um SAS boa.
+
+1851
+01:54:26,920 --> 01:54:32,079
+O celular perde um pouco da magia.
+
+1852
+01:54:28,679 --> 01:54:35,520
+Então, perde um pouco da magia, mas hoje
+
+1853
+01:54:32,079 --> 01:54:37,840
+70%, né, do dos
+
+1854
+01:54:35,520 --> 01:54:42,679
+da visualização do site são por
+
+1855
+01:54:37,840 --> 01:54:44,280
+dispositivos móveis. Então é importante.
+
+1856
+01:54:42,679 --> 01:54:46,719
+Para a empresa, o melhor desenvolver
+
+1857
+01:54:44,280 --> 01:54:48,960
+sais com fundo claro ou escuro. Então,
+
+1858
+01:54:46,719 --> 01:54:50,880
+Lucas, depende do da identidade da
+
+1859
+01:54:48,960 --> 01:54:55,440
+empresa, tá?
+
+1860
+01:54:50,880 --> 01:54:57,560
+Eh, eu procuro sempre eh produzir com
+
+1861
+01:54:55,440 --> 01:55:01,079
+fundo claro, eu acho que fica melhor,
+
+1862
+01:54:57,560 --> 01:55:04,840
+tá? Mas às vezes a gente faz um uns
+
+1863
+01:55:01,079 --> 01:55:07,560
+negocinho diferente, né?
+
+1864
+01:55:04,840 --> 01:55:09,320
+O meu aqui eu produzi com fundo escuro.
+
+1865
+01:55:07,560 --> 01:55:11,960
+O do Paulinho eu fiz com fundo escuro.
+
+1866
+01:55:09,320 --> 01:55:15,000
+Da guapura é claro. Do MS é claro. Da
+
+1867
+01:55:11,960 --> 01:55:17,400
+Storn é claro.
+
+1868
+01:55:15,000 --> 01:55:21,560
+Jui Clima é claro.
+
+1869
+01:55:17,400 --> 01:55:21,560
+Mandadeiria Lords também é claro.
+
+1870
+01:55:22,480 --> 01:55:26,360
+Ô Philip comecei a seguir você há pouco
+
+1871
+01:55:24,320 --> 01:55:29,599
+tempo. Tô animado para iniciar. Você
+
+1872
+01:55:26,360 --> 01:55:33,360
+disponibiliza o pronto? Sim, Felipe. Tá
+
+1873
+01:55:29,599 --> 01:55:35,560
+na descrição do da live aqui o nosso
+
+1874
+01:55:33,360 --> 01:55:37,159
+o nosso grupo do WhatsApp, tá? Daí lá no
+
+1875
+01:55:35,560 --> 01:55:40,320
+grupo do WhatsApp tem o link do nosso
+
+1876
+01:55:37,159 --> 01:55:43,199
+drive que tá tudo aqui, ó, os prompts
+
+1877
+01:55:40,320 --> 01:55:44,840
+eh script de vendas, tá? Inclusive aqui,
+
+1878
+01:55:43,199 --> 01:55:48,440
+ó.
+
+1879
+01:55:44,840 --> 01:55:48,440
+Ah, o guia do CRM.
+
+1880
+01:55:51,040 --> 01:55:54,199
+Eu quero,
+
+1881
+01:55:56,520 --> 01:56:00,360
+queria mover ele,
+
+1882
+01:56:00,920 --> 01:56:07,360
+baixar, abrir com fazer uma cópia. Não
+
+1883
+01:56:04,199 --> 01:56:11,040
+tem como mover, não.
+
+1884
+01:56:07,360 --> 01:56:11,040
+Vamos fazer uma cópia.
+
+1885
+01:56:12,239 --> 01:56:16,840
+Ele não deixa mover. Eita.
+
+1886
+01:56:20,159 --> 01:56:24,000
+Mas acho que ele deixa assim.
+
+1887
+01:56:26,199 --> 01:56:29,199
+Pronto.
+
+1888
+01:56:31,119 --> 01:56:37,440
+E aí, galera? ideias de nichos paraa
+
+1889
+01:56:33,679 --> 01:56:37,440
+gente dar uma prospectada
+
+1890
+01:56:39,480 --> 01:56:43,400
+paraa gente vender mais um sitezinho.
+
+1891
+01:56:48,679 --> 01:56:51,679
+eem
+
+1892
+01:57:08,520 --> 01:57:13,360
+clínica odontológica. O problema da
+
+1893
+01:57:10,199 --> 01:57:16,679
+clínica odontológica, eu até tenho um
+
+1894
+01:57:13,360 --> 01:57:20,679
+conhecido que é dentista, né?
+
+1895
+01:57:16,679 --> 01:57:23,119
+Não tem um nicho mais fácil, né? Mas faz
+
+1896
+01:57:20,679 --> 01:57:25,880
+para odonto prospecto nicho relacionado
+
+1897
+01:57:23,119 --> 01:57:28,199
+à relojaria.
+
+1898
+01:57:25,880 --> 01:57:29,679
+Ó, tem uns
+
+1899
+01:57:28,199 --> 01:57:31,360
+obrigado pelo retorno, parabéns pela
+
+1900
+01:57:29,679 --> 01:57:35,280
+iniciativa. Tamo junto, meu querido.
+
+1901
+01:57:31,360 --> 01:57:40,040
+Valeu pelo like, pelo sub.
+
+1902
+01:57:35,280 --> 01:57:40,040
+Odontologia é um negócio legal, galera.
+
+1903
+01:57:41,400 --> 01:57:45,199
+Odontologia.
+
+1904
+01:57:42,960 --> 01:57:48,800
+Eu vou pesquisar por odontologia porque
+
+1905
+01:57:45,199 --> 01:57:52,239
+vai aparecer clínica, né?
+
+1906
+01:57:48,800 --> 01:57:52,239
+Vamos dar uma olhadinha.
+
+1907
+01:57:57,480 --> 01:58:02,840
+Consultório odontológico. Dr. Luciano.
+
+1908
+01:57:59,920 --> 01:58:05,079
+Aqui ele já deu pra gente, ó, eh, com o
+
+1909
+01:58:02,840 --> 01:58:07,119
+IA, né? Ele já filtrou aqui. Quem não
+
+1910
+01:58:05,079 --> 01:58:12,199
+tem site,
+
+1911
+01:58:07,119 --> 01:58:15,679
+eh, quem tem site, ele já deixou fora.
+
+1912
+01:58:12,199 --> 01:58:15,679
+Aqui eu tenho,
+
+1913
+01:58:19,199 --> 01:58:23,480
+aqui tem Instagram no Google, meu
+
+1914
+01:58:20,880 --> 01:58:25,800
+negócio.
+
+1915
+01:58:23,480 --> 01:58:30,119
+Ó, tem tem conteúdo interessante, né? Eu
+
+1916
+01:58:25,800 --> 01:58:30,119
+não sei se vou conseguir ver o store.
+
+1917
+01:58:30,199 --> 01:58:34,079
+Vamos ver.
+
+1918
+01:58:31,960 --> 01:58:38,280
+Tem um link free aqui. Vamos ver o que
+
+1919
+01:58:34,079 --> 01:58:38,280
+que tem aqui. Só os agendamentos.
+
+1920
+01:58:42,199 --> 01:58:48,239
+Ó, eu sempre analiso, galera, o perfil,
+
+1921
+01:58:44,480 --> 01:58:50,119
+tá? Então você sempre olha o perfil e vê
+
+1922
+01:58:48,239 --> 01:58:55,360
+se tem potencial. Ó, tem um número legal
+
+1923
+01:58:50,119 --> 01:58:56,880
+de seguidores, tá? E produzindo stories.
+
+1924
+01:58:55,360 --> 01:58:58,599
+Eu
+
+1925
+01:58:56,880 --> 01:59:00,639
+ia falar que o problema da clínica é que
+
+1926
+01:58:58,599 --> 01:59:03,040
+você nunca consegue chegar diretamente
+
+1927
+01:59:00,639 --> 01:59:05,280
+no dono, né? É mais difícil. Você vai
+
+1928
+01:59:03,040 --> 01:59:08,199
+cair na secretária e daí da secretária
+
+1929
+01:59:05,280 --> 01:59:11,199
+vai encaminhar para proutor, doutora,
+
+1930
+01:59:08,199 --> 01:59:11,199
+tá?
+
+1931
+01:59:13,239 --> 01:59:17,760
+Clínica estética, energia solar é uma
+
+1932
+01:59:15,760 --> 01:59:21,320
+boa energia solar, inclusive eu já dei
+
+1933
+01:59:17,760 --> 01:59:21,320
+uma olhada, tá?
+
+1934
+01:59:21,560 --> 01:59:27,760
+Então, Nick, a gente usa aqui o VS Code
+
+1935
+01:59:24,199 --> 01:59:30,000
+mais o antigravity, tá? Tá, tem vídeo
+
+1936
+01:59:27,760 --> 01:59:32,880
+aqui no canal sobre, tem desconto aqui
+
+1937
+01:59:30,000 --> 01:59:35,320
+no no
+
+1938
+01:59:32,880 --> 01:59:39,960
+antigravity.
+
+1939
+01:59:35,320 --> 01:59:39,960
+Barbearia. Barbearia. Interessante.
+
+1940
+01:59:40,639 --> 01:59:45,199
+Só não pesquisa
+
+1941
+01:59:42,719 --> 01:59:48,679
+uma fria atrás da outra. Prospectei uns
+
+1942
+01:59:45,199 --> 01:59:51,239
+150 consultórios, zero vendas.
+
+1943
+01:59:48,679 --> 01:59:54,440
+É metalúrgica. Metalúrgica. A gente
+
+1944
+01:59:51,239 --> 01:59:57,599
+olhou alguma coisa,
+
+1945
+01:59:54,440 --> 02:00:00,599
+mas não prospectamos, né? Ó, energia
+
+1946
+01:59:57,599 --> 02:00:02,360
+solar.
+
+1947
+02:00:00,599 --> 02:00:04,320
+Já que eu gastei um token aqui do
+
+1948
+02:00:02,360 --> 02:00:06,560
+Hunter, vamos dar uma olhada. Vamos
+
+1949
+02:00:04,320 --> 02:00:08,599
+analisar esse essa galera aqui da
+
+1950
+02:00:06,560 --> 02:00:10,719
+Odonto,
+
+1951
+02:00:08,599 --> 02:00:13,520
+né? Vamos dar uma olhada nessa galera do
+
+1952
+02:00:10,719 --> 02:00:17,320
+Donto aqui, gente.
+
+1953
+02:00:13,520 --> 02:00:17,320
+Eh, vamos lá.
+
+1954
+02:00:17,719 --> 02:00:24,440
+Ó,
+
+1955
+02:00:19,639 --> 02:00:24,440
+vamos olhar o maps aqui, por exemplo.
+
+1956
+02:00:27,280 --> 02:00:32,119
+Vamos ver se tem
+
+1957
+02:00:29,920 --> 02:00:34,400
+Instagram.
+
+1958
+02:00:32,119 --> 02:00:37,000
+Ó, tem Instagram, tem Facebook, mas não
+
+1959
+02:00:34,400 --> 02:00:40,560
+tem site.
+
+1960
+02:00:37,000 --> 02:00:43,119
+Vamos dar uma olhada no Instagram.
+
+1961
+02:00:40,560 --> 02:00:46,119
+117 posts, ó. Então, tem bastante
+
+1962
+02:00:43,119 --> 02:00:46,119
+conteúdo.
+
+1963
+02:00:47,440 --> 02:00:55,920
+Inclusive essa essa dentista aqui, ela é
+
+1964
+02:00:51,400 --> 02:00:55,920
+vizinha de escritório da minha empresa.
+
+1965
+02:00:56,440 --> 02:01:00,880
+Ela é no 10º andar, a minha outra
+
+1966
+02:00:58,079 --> 02:01:05,239
+empresa é no sétimo.
+
+1967
+02:01:00,880 --> 02:01:05,239
+Ó, ela só tem WhatsApp, tá?
+
+1968
+02:01:08,119 --> 02:01:12,199
+Isso aqui eu conseguiria o contato dela
+
+1969
+02:01:09,679 --> 02:01:14,560
+até no grupo do condomínio direto, né,
+
+1970
+02:01:12,199 --> 02:01:19,440
+se fosse o caso.
+
+1971
+02:01:14,560 --> 02:01:19,440
+Ã, dá para ver que o
+
+1972
+02:01:21,840 --> 02:01:26,400
+Instagram dela tem bastante post.
+
+1973
+02:01:30,040 --> 02:01:34,079
+Restaurante, ó, restaurante é
+
+1974
+02:01:31,840 --> 02:01:36,199
+interessante também. Churrascaria, na
+
+1975
+02:01:34,079 --> 02:01:38,560
+verdade, né?
+
+1976
+02:01:36,199 --> 02:01:40,599
+Nesse caso de quando o perfil é alguma
+
+1977
+02:01:38,560 --> 02:01:43,679
+coisa certo é fazer o site focar na
+
+1978
+02:01:40,599 --> 02:01:45,679
+doutora ou na clínica em si. Depende.
+
+1979
+02:01:43,679 --> 02:01:47,960
+Depende. Às vezes depende o que que ela
+
+1980
+02:01:45,679 --> 02:01:50,000
+apresenta, o que que a pessoa apresenta
+
+1981
+02:01:47,960 --> 02:01:53,400
+no Instagram dela, né? no Google meu
+
+1982
+02:01:50,000 --> 02:01:55,400
+negócio, porque aqui, ó, aqui ela ela tá
+
+1983
+02:01:53,400 --> 02:01:58,920
+colocando dentista Camila Amaral, então
+
+1984
+02:01:55,400 --> 02:02:00,440
+ela tá promovendo, né, o nome dela.
+
+1985
+02:01:58,920 --> 02:02:03,760
+Então, não tá promovendo o nome da
+
+1986
+02:02:00,440 --> 02:02:06,040
+clínica, então a gente trabalha em cima
+
+1987
+02:02:03,760 --> 02:02:09,639
+do
+
+1988
+02:02:06,040 --> 02:02:09,639
+nome dela, tá?
+
+1989
+02:02:11,719 --> 02:02:18,360
+Ó, eu prospectaria, talvez. Molhar
+
+1990
+02:02:14,880 --> 02:02:23,040
+outros perfis aqui,
+
+1991
+02:02:18,360 --> 02:02:23,040
+Gabriela. Vamos ver essa daqui, ó.
+
+1992
+02:02:27,440 --> 02:02:30,440
+Pesquisar,
+
+1993
+02:02:32,639 --> 02:02:37,040
+ó. Médicos Brasil.
+
+1994
+02:02:35,000 --> 02:02:40,840
+Conselho Nacional, estabelecimento de
+
+1995
+02:02:37,040 --> 02:02:43,040
+saúde. Vamos olhar aqui o perfil do
+
+1996
+02:02:40,840 --> 02:02:46,679
+restaurante. É bom, já fecha 50% em
+
+1997
+02:02:43,040 --> 02:02:50,000
+permuta. Boa, né?
+
+1998
+02:02:46,679 --> 02:02:52,840
+Ó, aqui dá para ver que
+
+1999
+02:02:50,000 --> 02:02:56,440
+é um pouco específico em clínica e
+
+2000
+02:02:52,840 --> 02:02:56,440
+infantil, né?
+
+2001
+02:02:57,639 --> 02:03:03,679
+Perfil tá bem bagunçado, inclusive. Tem
+
+2002
+02:02:59,880 --> 02:03:03,679
+de tudo mais um pouco.
+
+2003
+02:03:04,040 --> 02:03:10,159
+Acho que não. Não tá. Esse aqui tá mais
+
+2004
+02:03:07,079 --> 02:03:12,560
+profissional, apesar de também tá
+
+2005
+02:03:10,159 --> 02:03:16,079
+bagunçado.
+
+2006
+02:03:12,560 --> 02:03:18,119
+Não gostei de nenhum. Tipo, se eu fosse
+
+2007
+02:03:16,079 --> 02:03:21,000
+disparar em massa, galera, eu dispararia
+
+2008
+02:03:18,119 --> 02:03:24,000
+para todo mundo, tá?
+
+2009
+02:03:21,000 --> 02:03:26,560
+Ah, mas como a gente vai?
+
+2010
+02:03:24,000 --> 02:03:28,320
+Ó, aqui tem é Kriger odonto, ó. Então
+
+2011
+02:03:26,560 --> 02:03:31,960
+aqui tá um pouco diferente. Vamos ver
+
+2012
+02:03:28,320 --> 02:03:35,920
+como é que é esse.
+
+2013
+02:03:31,960 --> 02:03:35,920
+Vamos ver o perfil do Instagramologia
+
+2014
+02:03:48,480 --> 02:03:51,480
+avançada.
+
+2015
+02:03:55,559 --> 02:04:04,960
+É, ó, aqui também, né? Tá uma mistura,
+
+2016
+02:04:01,079 --> 02:04:07,280
+um pouco de cada coisa.
+
+2017
+02:04:04,960 --> 02:04:10,280
+Bagunçado, né, gente? Mas aqui o
+
+2018
+02:04:07,280 --> 02:04:10,280
+seguinte,
+
+2019
+02:04:15,480 --> 02:04:20,280
+o link do WhatsAppirou aqui. Tá
+
+2020
+02:04:17,440 --> 02:04:22,639
+precisando, né, de uma
+
+2021
+02:04:20,280 --> 02:04:25,239
+de uma ajudinha.
+
+2022
+02:04:22,639 --> 02:04:27,239
+aqui tá precisando de uma ajudinha, mas
+
+2023
+02:04:25,239 --> 02:04:28,920
+tipo assim, a foto do perfil dá para ver
+
+2024
+02:04:27,239 --> 02:04:34,639
+que
+
+2025
+02:04:28,920 --> 02:04:34,639
+eh já tem, né, algo,
+
+2026
+02:04:36,159 --> 02:04:42,040
+mas tipo, não tem conteúdo muito sobre
+
+2027
+02:04:38,719 --> 02:04:44,360
+dentista mesmo, né? Tá com uma
+
+2028
+02:04:42,040 --> 02:04:47,360
+uma mistura um pouco de um pouco de cada
+
+2029
+02:04:44,360 --> 02:04:47,360
+coisa.
+
+2030
+02:04:49,719 --> 02:04:55,360
+E aqui não tem. Vamos ver se no Google
+
+2031
+02:04:51,760 --> 02:04:55,360
+meu negócio tem.
+
+2032
+02:04:56,360 --> 02:05:03,040
+Tem telefone. Tem telefone. Deixa eu ver
+
+2033
+02:04:59,239 --> 02:05:04,559
+se esse perfil aqui é é válido.
+
+2034
+02:05:03,040 --> 02:05:07,559
+Vamos ver se esse número tá certo,
+
+2035
+02:05:04,559 --> 02:05:07,559
+gente.
+
+2036
+02:05:08,840 --> 02:05:13,239
+Eh,
+
+2037
+02:05:10,559 --> 02:05:16,679
+não. Olha só o número do número do
+
+2038
+02:05:13,239 --> 02:05:19,880
+Google. Meu negócio já tá errado.
+
+2039
+02:05:16,679 --> 02:05:22,880
+Vamos ver se tem um um cartão aqui em
+
+2040
+02:05:19,880 --> 02:05:26,599
+algum momento.
+
+2041
+02:05:22,880 --> 02:05:30,040
+Cartão com número ou algo assim.
+
+2042
+02:05:26,599 --> 02:05:32,199
+É, eu não tem. Então o lixo, nicho
+
+2043
+02:05:30,040 --> 02:05:35,679
+bagunçado aqui na minha cidade. Esse de
+
+2044
+02:05:32,199 --> 02:05:35,679
+odonto, galera,
+
+2045
+02:05:35,800 --> 02:05:41,040
+tem imagem até para um alinhamento de
+
+2046
+02:05:37,559 --> 02:05:41,040
+perfil. Exatamente.
+
+2047
+02:05:43,679 --> 02:05:48,920
+Tô usando o novo método. Cliente
+
+2048
+02:05:46,400 --> 02:05:51,520
+perguntou como funciona.
+
+2049
+02:05:48,920 --> 02:05:54,960
+Então, explica para ele como funciona.
+
+2050
+02:05:51,520 --> 02:05:57,199
+Eh, fala sobre a presença digital no
+
+2051
+02:05:54,960 --> 02:05:59,360
+Google, que as pessoas vão com um
+
+2052
+02:05:57,199 --> 02:06:01,440
+website, ela vai começar ou ele vai
+
+2053
+02:05:59,360 --> 02:06:03,679
+começar a aparecer no Google. Isso vai
+
+2054
+02:06:01,440 --> 02:06:06,679
+atrair novos clientes, vai gerar novas
+
+2055
+02:06:03,679 --> 02:06:06,679
+vendas.
+
+2056
+02:06:08,639 --> 02:06:12,280
+Então não tem,
+
+2057
+02:06:17,119 --> 02:06:20,920
+não tem, não tem,
+
+2058
+02:06:26,199 --> 02:06:29,599
+tem nem legenda.
+
+2059
+02:06:30,679 --> 02:06:36,320
+Vamos olhar mais. É consultório odonto.
+
+2060
+02:06:34,040 --> 02:06:40,480
+Aqui eu tenho um consultório.
+
+2061
+02:06:36,320 --> 02:06:40,480
+Vamos ver o que que a gente tem aqui.
+
+2062
+02:06:44,440 --> 02:06:49,440
+Vamos ver o que que a gente tem aqui.
+
+2063
+02:06:59,520 --> 02:07:05,239
+É, aqui já tem um perfil mais
+
+2064
+02:07:01,639 --> 02:07:05,239
+profissional, né?
+
+2065
+02:07:11,119 --> 02:07:15,239
+Tem um perfil mais profissional,
+
+2066
+02:07:21,360 --> 02:07:27,000
+então, talvez. Aqui é interessante, ó.
+
+2067
+02:07:24,880 --> 02:07:30,960
+que é interessante.
+
+2068
+02:07:27,000 --> 02:07:30,960
+Deixa eu ver se o número funciona.
+
+2069
+02:07:37,199 --> 02:07:45,719
+Vamos ver se o número funciona, gente.
+
+2070
+02:07:41,040 --> 02:07:45,719
+Ah, o perfil do WhatsApp tá funcionando.
+
+2071
+02:07:51,760 --> 02:07:55,719
+Só que aqui, galera, quando a gente vai
+
+2072
+02:07:53,599 --> 02:07:58,440
+mandar para clínicas, a gente tem que
+
+2073
+02:07:55,719 --> 02:08:03,199
+melhorar, né, o nosso script de vendas,
+
+2074
+02:07:58,440 --> 02:08:05,280
+porque a gente não tá eh batendo direto
+
+2075
+02:08:03,199 --> 02:08:07,920
+no responsável pela empresa. Então, a
+
+2076
+02:08:05,280 --> 02:08:14,040
+gente tem que comunicar com o pessoal do
+
+2077
+02:08:07,920 --> 02:08:14,040
+atendimento para chegar eh no principal.
+
+2078
+02:08:15,599 --> 02:08:19,760
+É bom mostrar o site antes de vender. É,
+
+2079
+02:08:17,960 --> 02:08:21,760
+é bom. É o que mais funcionou aqui pra
+
+2080
+02:08:19,760 --> 02:08:25,599
+gente, tá?
+
+2081
+02:08:21,760 --> 02:08:27,440
+É o que mais funcionou aqui pra gente.
+
+2082
+02:08:25,599 --> 02:08:30,559
+Tem um dentista, gente, que inclusive é
+
+2083
+02:08:27,440 --> 02:08:33,559
+o que eu vou. Ele não tem site. Vamos
+
+2084
+02:08:30,559 --> 02:08:33,559
+ver.
+
+2085
+02:08:41,239 --> 02:08:44,239
+Ja.
+
+2086
+02:08:57,199 --> 02:09:02,280
+Ah, vamos ver o que que tem aqui no link
+
+2087
+02:08:59,280 --> 02:09:02,280
+dele.
+
+2088
+02:09:02,559 --> 02:09:08,079
+WhatsApp, telefone fixo, centro,
+
+2089
+02:09:05,239 --> 02:09:12,040
+localização do consultório, no modelo e
+
+2090
+02:09:08,079 --> 02:09:15,679
+no centro. Ele tem dois consultórios.
+
+2091
+02:09:12,040 --> 02:09:15,679
+Interessante, né?
+
+2092
+02:09:16,040 --> 02:09:22,119
+H tem a logo aqui, tem o atendimento.
+
+2093
+02:09:32,840 --> 02:09:37,360
+Bem interessante.
+
+2094
+02:09:35,040 --> 02:09:40,400
+Esse aqui é é interessante de abordar,
+
+2095
+02:09:37,360 --> 02:09:43,719
+né? que eu já conheço ele. Então
+
+2096
+02:09:40,400 --> 02:09:46,119
+temos boas chances de de fechamento.
+
+2097
+02:09:43,719 --> 02:09:47,719
+Boas chances de fechamento.
+
+2098
+02:09:46,119 --> 02:09:51,280
+Já conseguiu fechar quantos projetos?
+
+2099
+02:09:47,719 --> 02:09:51,280
+Tem quatro fechados.
+
+2100
+02:09:55,239 --> 02:10:00,679
+Temos quatro projetos fechados aqui, mas
+
+2101
+02:09:57,440 --> 02:10:04,280
+eu quero fechar o quinto. E aí o mês que
+
+2102
+02:10:00,679 --> 02:10:05,760
+vem a gente vai focar em prospectar, né?
+
+2103
+02:10:04,280 --> 02:10:08,760
+Aí a gente vai ver o que que a gente vai
+
+2104
+02:10:05,760 --> 02:10:10,880
+fazer. Vamos fazer um, vamos ampliar o
+
+2105
+02:10:08,760 --> 02:10:13,480
+nosso CRM, vamos colocar um disparo
+
+2106
+02:10:10,880 --> 02:10:15,159
+automático, vamos fazer o upgrade aqui
+
+2107
+02:10:13,480 --> 02:10:18,159
+no Nexar Hunter e vamos disparar
+
+2108
+02:10:15,159 --> 02:10:18,159
+automático.
+
+2109
+02:10:18,400 --> 02:10:21,679
+Ah, não é marmelado. Por que que você
+
+2110
+02:10:19,719 --> 02:10:23,599
+não vai vender? Por que que você não
+
+2111
+02:10:21,679 --> 02:10:27,840
+vende paraos seus conhecidos? Por que
+
+2112
+02:10:23,599 --> 02:10:30,880
+não, né? É, é. Você você tem que vender
+
+2113
+02:10:27,840 --> 02:10:32,880
+pros conhecidos também, né?
+
+2114
+02:10:30,880 --> 02:10:36,119
+Muito mais fácil de fechar do que fechar
+
+2115
+02:10:32,880 --> 02:10:36,119
+com estranho.
+
+2116
+02:10:36,760 --> 02:10:41,840
+E os conhecidos também precisam de site.
+
+2117
+02:10:48,119 --> 02:10:55,040
+Thago, estamos dando uma olhada aqui em
+
+2118
+02:10:51,400 --> 02:10:55,040
+consultório odontológico.
+
+2119
+02:10:57,199 --> 02:11:01,320
+Vamos aproveitar, galera, para dar uma
+
+2120
+02:10:58,559 --> 02:11:05,119
+olhada como é que tá o site dessa galera
+
+2121
+02:11:01,320 --> 02:11:05,119
+que já tem site.
+
+2122
+02:11:05,159 --> 02:11:10,000
+Vamos olhar aqui, ó,
+
+2123
+02:11:07,480 --> 02:11:13,920
+quem já tem site.
+
+2124
+02:11:10,000 --> 02:11:13,920
+Só para ver como que tá.
+
+2125
+02:11:15,960 --> 02:11:21,320
+Tem outro dentista que eu conheço
+
+2126
+02:11:17,679 --> 02:11:23,760
+também. Vamos ver se
+
+2127
+02:11:21,320 --> 02:11:26,760
+ó, instituto, ó. Esse daqui eu acho que
+
+2128
+02:11:23,760 --> 02:11:26,760
+tem.
+
+2129
+02:11:46,760 --> 02:11:53,520
+Vamos ver o link Twitter site
+
+2130
+02:11:50,320 --> 02:11:53,520
+ih, não tá funcionando.
+
+2131
+02:11:58,239 --> 02:12:02,960
+Ó, esse daqui tá bom. Comé. Passei o
+
+2132
+02:12:00,119 --> 02:12:06,320
+feed com dor de Ah, não, Thaago. Dor de
+
+2133
+02:12:02,960 --> 02:12:09,320
+dente não dá, cara. Dor de dente é
+
+2134
+02:12:06,320 --> 02:12:09,320
+enroscado.
+
+2135
+02:12:09,599 --> 02:12:14,880
+Ó, tem um aqui, cara, que tá com o site
+
+2136
+02:12:11,880 --> 02:12:14,880
+quebrado.
+
+2137
+02:12:17,280 --> 02:12:20,920
+Dinheiro no bolso limpo, é o que
+
+2138
+02:12:18,679 --> 02:12:22,920
+importa. dos conhecidos. Chicoteia mais
+
+2139
+02:12:20,920 --> 02:12:26,000
+que estranha.
+
+2140
+02:12:22,920 --> 02:12:27,400
+É, mas eu eu
+
+2141
+02:12:26,000 --> 02:12:29,800
+penso em fechar também. Eu mandei, eu
+
+2142
+02:12:27,400 --> 02:12:32,040
+prospectei alguns clientes aqui
+
+2143
+02:12:29,800 --> 02:12:34,159
+conhecidos, né? Nem e não fechei. Eu
+
+2144
+02:12:32,040 --> 02:12:36,559
+acho que com conhecido. Deixa eu ver com
+
+2145
+02:12:34,159 --> 02:12:39,400
+quem que eu fechei. O da MS Engenharia é
+
+2146
+02:12:36,559 --> 02:12:41,000
+meu conhecido. Esse eu fechei,
+
+2147
+02:12:39,400 --> 02:12:42,639
+ó. Esse aqui, ó, que tá com o site
+
+2148
+02:12:41,000 --> 02:12:46,320
+quebrado.
+
+2149
+02:12:42,639 --> 02:12:46,320
+Deixa eu chamar ele.
+
+2150
+02:12:48,639 --> 02:12:51,840
+Vamos lá.
+
+2151
+02:13:15,880 --> 02:13:22,360
+perguntar para ele, ó. Eu eu chamei ele
+
+2152
+02:13:18,719 --> 02:13:25,679
+porque eh eu já fui lá, né? Já já já
+
+2153
+02:13:22,360 --> 02:13:28,840
+extraí um dente lá com ele
+
+2154
+02:13:25,679 --> 02:13:32,239
+e eu já mandei para ele um boa tarde
+
+2155
+02:13:28,840 --> 02:13:32,239
+e agora eu
+
+2156
+02:13:33,280 --> 02:13:40,239
+mandei para ele aqui um print
+
+2157
+02:13:36,199 --> 02:13:40,239
+eh do site dele,
+
+2158
+02:13:45,239 --> 02:13:50,239
+ó. Daí eu mandei para ele aqui, ó. Deixa
+
+2159
+02:13:46,840 --> 02:13:50,239
+eu te perguntar.
+
+2160
+02:13:51,159 --> 02:13:55,559
+Que que rolou aqui?
+
+2161
+02:13:53,760 --> 02:13:58,880
+Vamos pedir para ele o que aconteceu com
+
+2162
+02:13:55,559 --> 02:13:58,880
+o teu site.
+
+2163
+02:13:59,320 --> 02:14:03,159
+Com o site de vocês.
+
+2164
+02:14:07,320 --> 02:14:12,280
+Vamos fazer uma prospecção aqui ao vivo.
+
+2165
+02:14:23,320 --> 02:14:26,679
+Deixa eu perguntar aqui para ele o que
+
+2166
+02:14:24,880 --> 02:14:32,000
+que aconteceu. Mandei o print aqui,
+
+2167
+02:14:26,679 --> 02:14:35,800
+galera, do eh do site dele.
+
+2168
+02:14:32,000 --> 02:14:35,800
+E o erro aqui, né?
+
+2169
+02:14:35,840 --> 02:14:39,960
+Ele já me respondeu. Vamos ver o que que
+
+2170
+02:14:37,599 --> 02:14:43,119
+ele vai
+
+2171
+02:14:39,960 --> 02:14:47,239
+que que ele vai mandar pra gente aqui.
+
+2172
+02:14:43,119 --> 02:14:47,239
+Tá respondendo. Tá rápido.
+
+2173
+02:14:49,119 --> 02:14:54,440
+Deve ter perdido a hospedagem. Mas tem
+
+2174
+02:14:51,440 --> 02:14:54,440
+outro.
+
+2175
+02:14:56,320 --> 02:14:59,679
+Ah, boa.
+
+2176
+02:15:15,800 --> 02:15:19,639
+Ó, ele diz que tem outro.
+
+2177
+02:15:21,679 --> 02:15:27,760
+Vamos ver aqui.
+
+2178
+02:15:24,199 --> 02:15:27,760
+Ave Maria.
+
+2179
+02:15:28,679 --> 02:15:35,920
+Ah, não, não, não.
+
+2180
+02:15:31,320 --> 02:15:35,920
+Vou mandar para ele. Ah, não, não, não.
+
+2181
+02:15:40,840 --> 02:15:45,360
+É melhor o outro fora do ar.
+
+2182
+02:15:45,760 --> 02:15:48,760
+Eu
+
+2183
+02:16:01,239 --> 02:16:06,040
+tô brincando. É o seguinte, é que eu
+
+2184
+02:16:03,719 --> 02:16:08,440
+tenho agência de marketing, né? E eu tô
+
+2185
+02:16:06,040 --> 02:16:11,760
+olhando alguns sites aqui do dos
+
+2186
+02:16:08,440 --> 02:16:13,559
+conhecidos mais próximos, porque a gente
+
+2187
+02:16:11,760 --> 02:16:16,840
+tá com fechamento de mesa aqui na
+
+2188
+02:16:13,559 --> 02:16:19,360
+agência e
+
+2189
+02:16:16,840 --> 02:16:21,079
+e aí eu tô olhando, a gente tá com 50%
+
+2190
+02:16:19,360 --> 02:16:24,679
+de desconto na criação dos sites
+
+2191
+02:16:21,079 --> 02:16:27,599
+profissionais e sobrou alguma eh algumas
+
+2192
+02:16:24,679 --> 02:16:31,280
+vaguinhas. Aí eu tô chamando os mais
+
+2193
+02:16:27,599 --> 02:16:33,679
+próximos para para oferecer, né, uma 50%
+
+2194
+02:16:31,280 --> 02:16:36,000
+de desconto num sitezinho moderno,
+
+2195
+02:16:33,679 --> 02:16:41,120
+atualizado, que vai atrair mais cliente,
+
+2196
+02:16:36,000 --> 02:16:41,120
+faz total diferença, né?
+
+2197
+02:17:00,359 --> 02:17:06,479
+Mandei o áudio aqui, galera. Vocês vocês
+
+2198
+02:17:02,679 --> 02:17:06,479
+ouviram o áudio, né?
+
+2199
+02:17:22,359 --> 02:17:26,639
+Não, então eu entrei no da clínica e aí
+
+2200
+02:17:24,920 --> 02:17:29,120
+eu vi que tinha o link tree e fui olhar,
+
+2201
+02:17:26,639 --> 02:17:34,120
+né? Eu disse: "Pô, vamos ver se se o
+
+2202
+02:17:29,120 --> 02:17:35,479
+site tá tá online para mim falar com com
+
+2203
+02:17:34,120 --> 02:17:37,080
+o Rafa." Eu não tinha olhado no teu
+
+2204
+02:17:35,479 --> 02:17:38,880
+perfil,
+
+2205
+02:17:37,080 --> 02:17:40,040
+na verdade. Eu tô no Instagram da
+
+2206
+02:17:38,880 --> 02:17:44,319
+América. Eu acho que no Instagram da
+
+2207
+02:17:40,040 --> 02:17:44,319
+América eu não eu não te sigo.
+
+2208
+02:17:59,960 --> 02:18:03,399
+Agora vamos lá pro pro pit, né? Ele tem,
+
+2209
+02:18:02,200 --> 02:18:05,599
+ó, esse aqui é o site dele, galera.
+
+2210
+02:18:03,399 --> 02:18:08,639
+Deixa eu voltar para pro para vocês
+
+2211
+02:18:05,599 --> 02:18:11,679
+aqui. O Dia não como faz para apontar no
+
+2212
+02:18:08,639 --> 02:18:13,559
+registro Versel us Hub? Cara, consigo
+
+2213
+02:18:11,679 --> 02:18:15,639
+sim.
+
+2214
+02:18:13,559 --> 02:18:19,439
+Bora vender no site e fazer um canal,
+
+2215
+02:18:15,639 --> 02:18:21,599
+Thaago. Ó lá, ó lá. Eles eh já mostrou
+
+2216
+02:18:19,439 --> 02:18:25,280
+como faz o dashboard?
+
+2217
+02:18:21,599 --> 02:18:29,599
+>> Já. Já. Thaago.
+
+2218
+02:18:25,280 --> 02:18:33,800
+Você mostra um site ou genérico.
+
+2219
+02:18:29,599 --> 02:18:37,120
+Site deve ter até link pro Orcut.
+
+2220
+02:18:33,800 --> 02:18:37,120
+Ai, ai.
+
+2221
+02:18:42,240 --> 02:18:45,760
+Eu até vou pegar o Insta da clínica e
+
+2222
+02:18:44,080 --> 02:18:48,639
+apagar esse negócio, porque eu sempre
+
+2223
+02:18:45,760 --> 02:18:52,120
+tento fortalecer o meu nome. Eu ia falar
+
+2224
+02:18:48,639 --> 02:18:52,120
+disso mesmo.
+
+2225
+02:18:56,439 --> 02:19:00,399
+Deixa eu pesquisar aqui.
+
+2226
+02:19:09,639 --> 02:19:14,479
+Então, Rafael, eu ia falar isso mesmo,
+
+2227
+02:19:11,120 --> 02:19:16,240
+porque pesquisando eh no Google, eu não
+
+2228
+02:19:14,479 --> 02:19:20,359
+consegui encontrar pelo teu nome, por
+
+2229
+02:19:16,240 --> 02:19:23,960
+isso que eu fui no eh na no da clínica,
+
+2230
+02:19:20,359 --> 02:19:25,359
+né? Era é só se cavocar lá. Agora eu
+
+2231
+02:19:23,960 --> 02:19:27,240
+consegui dar umas cavocadas aqui, mas
+
+2232
+02:19:25,359 --> 02:19:29,960
+porque eu já sabia do link do teu site.
+
+2233
+02:19:27,240 --> 02:19:33,559
+Aí eu consegui consegui encontrar. Deixa
+
+2234
+02:19:29,960 --> 02:19:35,200
+eu te falar, eh, se tu tiver interesse,
+
+2235
+02:19:33,559 --> 02:19:36,519
+eu te apresento uma proposta aqui pra
+
+2236
+02:19:35,200 --> 02:19:39,800
+gente deixar o teu site bem
+
+2237
+02:19:36,519 --> 02:19:42,559
+profissional, bem atrativo. Eh, eu tenho
+
+2238
+02:19:39,800 --> 02:19:44,519
+experiência desde 2012 nessa área. Eu
+
+2239
+02:19:42,559 --> 02:19:47,280
+até posso te mandar meu portfólio aqui
+
+2240
+02:19:44,519 --> 02:19:50,560
+já das empresas daqui de J. tem algumas
+
+2241
+02:19:47,280 --> 02:19:52,240
+conhecidas que eu que eu atendo. Eh,
+
+2242
+02:19:50,560 --> 02:19:55,000
+então, de repente, se tu tiver
+
+2243
+02:19:52,240 --> 02:19:59,240
+interesse, dá um deixar deixar teu site
+
+2244
+02:19:55,000 --> 02:20:02,439
+mais atualizadinho, mais atrativo, né?
+
+2245
+02:19:59,240 --> 02:20:06,240
+Trazer uma maneira de agendar mais
+
+2246
+02:20:02,439 --> 02:20:09,600
+consultas, de repente a tá com valor,
+
+2247
+02:20:06,240 --> 02:20:11,560
+olha, 50% de desconto tá muito acessível
+
+2248
+02:20:09,600 --> 02:20:15,160
+e a gente faz um resultado aí com
+
+2249
+02:20:11,560 --> 02:20:15,160
+certeza muito bom.
+
+2250
+02:20:16,000 --> 02:20:20,960
+Vamos prospectar, gente, ao vivo aqui,
+
+2251
+02:20:17,960 --> 02:20:20,960
+ó.
+
+2252
+02:20:23,120 --> 02:20:29,120
+Deixa eu seguir ele aqui.
+
+2253
+02:20:26,800 --> 02:20:30,760
+Tá só a conversa, né, galera, que eu não
+
+2254
+02:20:29,120 --> 02:20:33,880
+vai mandar o prompt no grupo. Thaago, o
+
+2255
+02:20:30,760 --> 02:20:36,000
+prompt tá tá no drive já. Tá, coloquei
+
+2256
+02:20:33,880 --> 02:20:39,640
+no drive.
+
+2257
+02:20:36,000 --> 02:20:42,240
+Cara, tem uns sites aqui, ó.
+
+2258
+02:20:39,640 --> 02:20:46,120
+Realmente
+
+2259
+02:20:42,240 --> 02:20:47,880
+esse aqui dá pra gente abordar.
+
+2260
+02:20:46,120 --> 02:20:52,560
+Deixa eu faoritar aqui, ó. Ó, esse aqui
+
+2261
+02:20:47,880 --> 02:20:52,560
+tá bem, tá bem bacana, ó.
+
+2262
+02:21:17,200 --> 02:21:22,000
+Ó, eu falei para ele aqui, ó, e mandei o
+
+2263
+02:21:19,600 --> 02:21:23,840
+áudio, né? Então, e mandei para ele, ó,
+
+2264
+02:21:22,000 --> 02:21:26,840
+posso fazer um mocap, o modelo sem
+
+2265
+02:21:23,840 --> 02:21:26,840
+compromisso?
+
+2266
+02:21:39,439 --> 02:21:42,439
+Vamos ver o que ele vai mandar pra
+
+2267
+02:21:40,680 --> 02:21:44,720
+gente. Alguém se inscreveu, galera. Eu
+
+2268
+02:21:42,439 --> 02:21:46,840
+tava no WhatsApp aqui, eu não consegui
+
+2269
+02:21:44,720 --> 02:21:51,280
+agradecer.
+
+2270
+02:21:46,840 --> 02:21:51,280
+em média, quanto está saindo o site?
+
+2271
+02:21:55,160 --> 02:22:02,000
+Então, Rafa, o site eh o nosso valor
+
+2272
+02:21:58,319 --> 02:22:03,680
+aqui, ele é a partir de R$ 1600, um site
+
+2273
+02:22:02,000 --> 02:22:07,040
+normal, tá?
+
+2274
+02:22:03,680 --> 02:22:09,439
+eh com padrão do Google para você já com
+
+2275
+02:22:07,040 --> 02:22:12,040
+um SEO, né, que é o adaptação para você
+
+2276
+02:22:09,439 --> 02:22:13,640
+aparecer nos resultados de buscas, não
+
+2277
+02:22:12,040 --> 02:22:15,840
+com o teu nome, porque quem não te
+
+2278
+02:22:13,640 --> 02:22:19,720
+conhece não vai pesquisar pelo teu nome,
+
+2279
+02:22:15,840 --> 02:22:22,880
+né? Vai pesquisar por cirurgião PUCO
+
+2280
+02:22:19,720 --> 02:22:24,319
+aqui em Injui e hoje quando pesquisa, eu
+
+2281
+02:22:22,880 --> 02:22:26,319
+não consegui te encontrar, consegui te
+
+2282
+02:22:24,319 --> 02:22:28,399
+encontrar só pelo teu nome, tá? Mas quem
+
+2283
+02:22:26,319 --> 02:22:30,399
+não te conhece não vai conseguir te
+
+2284
+02:22:28,399 --> 02:22:32,920
+encontrar. Então o site hoje o valor
+
+2285
+02:22:30,399 --> 02:22:37,000
+normal dele é R$00.
+
+2286
+02:22:32,920 --> 02:22:40,160
+Só que eu tô com 50% off eh na criação
+
+2287
+02:22:37,000 --> 02:22:42,880
+do site e você ainda pode parcelar em 10
+
+2288
+02:22:40,160 --> 02:22:44,760
+vezes. Então isso vai te dar 10 vezes de
+
+2289
+02:22:42,880 --> 02:22:47,200
+R$9,90.
+
+2290
+02:22:44,760 --> 02:22:49,600
+Como tu já tem uma hospedagem, a gente
+
+2291
+02:22:47,200 --> 02:22:51,479
+pode usar essa tua mesma hospedagem, né?
+
+2292
+02:22:49,600 --> 02:22:53,800
+Se for uma hospedagem boa, a gente pode
+
+2293
+02:22:51,479 --> 02:22:55,600
+usar essa mesma. Se não for tão boa, a
+
+2294
+02:22:53,800 --> 02:22:58,040
+gente substitui. Não sei quanto tu paga
+
+2295
+02:22:55,600 --> 02:22:59,880
+de hospedagem hoje. Deve girar uma
+
+2296
+02:22:58,040 --> 02:23:02,000
+hospedagem boa aí hoje tá em torno de
+
+2297
+02:22:59,880 --> 02:23:04,479
+4990, que é a hospedagem que eu uso
+
+2298
+02:23:02,000 --> 02:23:08,359
+aqui.
+
+2299
+02:23:04,479 --> 02:23:11,000
+Agora eu recebi o Pedro Rafael deu sub,
+
+2300
+02:23:08,359 --> 02:23:15,600
+ó, gente. Então vamos mandar aqui, ó.
+
+2301
+02:23:11,000 --> 02:23:15,600
+Deixa eu mandar aqui a oferta para ele.
+
+2302
+02:23:19,399 --> 02:23:23,760
+Vamos mandar aqui a oferta para ele.
+
+2303
+02:23:21,240 --> 02:23:26,640
+Deixa eu pegar inclusive a oferta que eu
+
+2304
+02:23:23,760 --> 02:23:29,640
+mandei aqui, ó,
+
+2305
+02:23:26,640 --> 02:23:29,640
+pro
+
+2306
+02:23:32,240 --> 02:23:38,240
+Deixa eu pegar aqui o script que eu
+
+2307
+02:23:34,080 --> 02:23:41,520
+tenho salvo aqui, galera. Eu nem vou
+
+2308
+02:23:38,240 --> 02:23:41,520
+aqui, ó.
+
+2309
+02:23:49,359 --> 02:23:57,479
+Deixa eu só arrumar aqui, ó. Criação eh
+
+2310
+02:23:52,200 --> 02:23:57,479
+de website 10 x 79 no cartão.
+
+2311
+02:23:57,880 --> 02:24:02,880
+Ah, inclui cadastro no Google, versão
+
+2312
+02:24:00,200 --> 02:24:07,000
+para celular, contato pelo WhatsApp.
+
+2313
+02:24:02,880 --> 02:24:13,600
+hospedagem R9,90 por mês. O prazo de
+
+2314
+02:24:07,000 --> 02:24:13,600
+entrega é de 7 dias. Eu vou pôr aqui, ó,
+
+2315
+02:24:13,720 --> 02:24:22,439
+logo após a aprovação do layout. Então,
+
+2316
+02:24:16,840 --> 02:24:22,439
+vamos lá. Aqui, ó, vamos colar.
+
+2317
+02:24:59,000 --> 02:25:05,160
+Vamos mandar aqui, ó. Eh, esse daqui
+
+2318
+02:25:07,040 --> 02:25:15,240
+vamos mandar aqui uns sitezinhos eh
+
+2319
+02:25:09,399 --> 02:25:17,880
+legais. Vamos pegar aqui, ó. Ju clima.
+
+2320
+02:25:15,240 --> 02:25:21,760
+Ju clima.
+
+2321
+02:25:17,880 --> 02:25:24,760
+Pegar aqui storm. Vou pegar aqui a
+
+2322
+02:25:21,760 --> 02:25:24,760
+imagem.
+
+2323
+02:25:37,800 --> 02:25:42,640
+Vamos ver se ele vai responder pra
+
+2324
+02:25:39,640 --> 02:25:42,640
+gente.
+
+2325
+02:25:52,560 --> 02:25:56,479
+Se tu já tem uma hospedagem boa, né, a
+
+2326
+02:25:54,439 --> 02:26:00,279
+gente mantém a tua hospedagem. Se se a
+
+2327
+02:25:56,479 --> 02:26:02,319
+hospedagem não é eh tão boa, né, aí a
+
+2328
+02:26:00,279 --> 02:26:04,840
+gente migra paraa outra hospedagem. Mas
+
+2329
+02:26:02,319 --> 02:26:06,840
+isso eu faço tudo para ti. Eh, a gente
+
+2330
+02:26:04,840 --> 02:26:09,840
+organiza tudo aqui e te entrega tudo
+
+2331
+02:26:06,840 --> 02:26:09,840
+prontinho.
+
+2332
+02:26:18,880 --> 02:26:22,240
+Deixa eu voltar agora aqui, gente, pro
+
+2333
+02:26:20,520 --> 02:26:23,920
+chat.
+
+2334
+02:26:22,240 --> 02:26:25,399
+Onde vejo os prompts do Google Drive?
+
+2335
+02:26:23,920 --> 02:26:28,479
+Cheguei agora na live. Tô procurando
+
+2336
+02:26:25,399 --> 02:26:33,800
+conteúdo deste tipo. Fala, Pedro. Entra
+
+2337
+02:26:28,479 --> 02:26:38,200
+no nosso grupo do WhatsApp que tem todo
+
+2338
+02:26:33,800 --> 02:26:38,200
+o nosso drive lá, o link do drive.
+
+2339
+02:26:38,479 --> 02:26:43,800
+Você quer ver o vídeo de animação que eu
+
+2340
+02:26:40,720 --> 02:26:45,439
+criei usando Opos? Fala, meu querido.
+
+2341
+02:26:43,800 --> 02:26:48,439
+Hoje a gente não tá analisando o
+
+2342
+02:26:45,439 --> 02:26:48,439
+conteúdo.
+
+2343
+02:26:48,800 --> 02:26:57,080
+Você faz as artes do seu da agência com
+
+2344
+02:26:51,920 --> 02:26:57,080
+IA? Não, não sou eu que cuido, Luiz.
+
+2345
+02:26:58,200 --> 02:27:03,920
+vai mandar o prompt no grupo já tá lá
+
+2346
+02:27:00,279 --> 02:27:03,920
+dentro do nosso drive.
+
+2347
+02:27:30,479 --> 02:27:36,000
+Chegou aí, deixou o likezão, já se
+
+2348
+02:27:31,880 --> 02:27:37,800
+inscreveu. Isso é importante, né, gente?
+
+2349
+02:27:36,000 --> 02:27:39,359
+Bora,
+
+2350
+02:27:37,800 --> 02:27:40,720
+bora deixar o likezão. Vamos ver como é
+
+2351
+02:27:39,359 --> 02:27:43,520
+que tá o likezão. Deixa eu atualizar
+
+2352
+02:27:40,720 --> 02:27:45,520
+aqui. 266
+
+2353
+02:27:43,520 --> 02:27:47,840
+inscritos no canal. Onde tá hospedando
+
+2354
+02:27:45,520 --> 02:27:51,800
+Rostinger ou Versel? Versel. Tu vende
+
+2355
+02:27:47,840 --> 02:27:54,120
+LP? Vendemos LP.
+
+2356
+02:27:51,800 --> 02:27:55,800
+125 likes. Valeu, galera. Mas tem gente
+
+2357
+02:27:54,120 --> 02:27:58,800
+aqui na live ainda que não deu likezão,
+
+2358
+02:27:55,800 --> 02:27:58,800
+hein?
+
+2359
+02:28:02,479 --> 02:28:06,840
+>> Ah, tem um negócio que eu queria mostrar
+
+2360
+02:28:04,399 --> 02:28:11,160
+para vocês, gente. Mas não vai dar tempo
+
+2361
+02:28:06,840 --> 02:28:11,160
+hoje, então eu vou mostrar amanhã.
+
+2362
+02:28:27,120 --> 02:28:32,720
+Vamos ver se ele respondeu pra gente.
+
+2363
+02:28:29,479 --> 02:28:32,720
+Ainda não.
+
+2364
+02:28:35,080 --> 02:28:39,240
+Então, temos mais uma possibilidade
+
+2365
+02:28:36,680 --> 02:28:43,760
+aqui, né?
+
+2366
+02:28:39,240 --> 02:28:43,760
+Vamos mais uma possibilidade aqui.
+
+2367
+02:28:45,600 --> 02:28:49,160
+Por isso que é bom, né, galera, a gente
+
+2368
+02:28:46,920 --> 02:28:53,240
+ir prospectando aqui, ó, porque vai
+
+2369
+02:28:49,160 --> 02:28:57,160
+surgindo, né, lembrança, ó. Tipo, essa
+
+2370
+02:28:53,240 --> 02:28:57,160
+galera aqui, ó.
+
+2371
+02:28:58,960 --> 02:29:04,479
+Eu tô pensando em
+
+2372
+02:29:02,520 --> 02:29:07,200
+abortar, porque aqui tá precisando de um
+
+2373
+02:29:04,479 --> 02:29:11,160
+sitezinho novo, né?
+
+2374
+02:29:07,200 --> 02:29:11,160
+Vamos ver se o número é válido.
+
+2375
+02:29:21,479 --> 02:29:24,479
+Aqui
+
+2376
+02:29:30,479 --> 02:29:34,000
+o é válido.
+
+2377
+02:29:39,359 --> 02:29:44,800
+Só vamos ver se é do local certo, né?
+
+2378
+02:29:47,080 --> 02:29:50,359
+Bem interessante.
+
+2379
+02:29:57,439 --> 02:30:02,359
+Mandar um oi. Boa tarde. Tudo bem aqui?
+
+2380
+02:30:08,120 --> 02:30:13,040
+Você acha útil útil ter chatbot nos
+
+2381
+02:30:10,720 --> 02:30:16,319
+sites? Então, no chat no sites acho que
+
+2382
+02:30:13,040 --> 02:30:18,640
+não. Na verdade, acho que a conexão com
+
+2383
+02:30:16,319 --> 02:30:21,319
+o WhatsApp é gera muito mais
+
+2384
+02:30:18,640 --> 02:30:25,399
+credibilidade, né? Hoje ninguém quer ser
+
+2385
+02:30:21,319 --> 02:30:26,960
+atendido por chatbot na real.
+
+2386
+02:30:25,399 --> 02:30:29,359
+E o segredo que você ia revelar, então,
+
+2387
+02:30:26,960 --> 02:30:32,439
+Carlos, na verdade é uma ferramenta, né,
+
+2388
+02:30:29,359 --> 02:30:35,439
+que eu uso no meus sites,
+
+2389
+02:30:32,439 --> 02:30:35,439
+eh,
+
+2390
+02:30:37,319 --> 02:30:43,160
+uma ferramenta que eu uso no meus sites.
+
+2391
+02:30:40,920 --> 02:30:45,760
+Deixa eu ver se eu consigo mostrar algum
+
+2392
+02:30:43,160 --> 02:30:48,359
+aqui para vocês.
+
+2393
+02:30:45,760 --> 02:30:52,359
+Deixa eu ver se eu ten algum projeto.
+
+2394
+02:30:48,359 --> 02:30:55,760
+Pera aí que o Clint respondeu.
+
+2395
+02:30:52,359 --> 02:30:55,760
+Oi, boa tarde.
+
+2396
+02:32:03,720 --> 02:32:10,399
+Partiu maratonar canal. Boa, boa.
+
+2397
+02:32:07,840 --> 02:32:12,439
+Então, live um até hoje tem muito
+
+2398
+02:32:10,399 --> 02:32:15,240
+conteúdo, galera. Muito conteúdo bom
+
+2399
+02:32:12,439 --> 02:32:17,359
+mesmo. Tá, vamos voltar aqui, ó. Eu tô
+
+2400
+02:32:15,240 --> 02:32:19,279
+tentando abrir um projeto aqui. Deixa eu
+
+2401
+02:32:17,359 --> 02:32:21,880
+ver qual que eu posso. É que é tudo
+
+2402
+02:32:19,279 --> 02:32:23,439
+projeto da agência, né?
+
+2403
+02:32:21,880 --> 02:32:25,720
+Mas deixa eu ver se tem algum projeto
+
+2404
+02:32:23,439 --> 02:32:27,399
+aqui que eu possa
+
+2405
+02:32:25,720 --> 02:32:31,560
+eh
+
+2406
+02:32:27,399 --> 02:32:34,040
+que eu possa mexer aqui com vocês
+
+2407
+02:32:31,560 --> 02:32:37,040
+ou a gente vai instalar no nosso próprio
+
+2408
+02:32:34,040 --> 02:32:37,040
+site.
+
+2409
+02:32:37,720 --> 02:32:41,160
+Vamos ver aqui.
+
+2410
+02:32:43,160 --> 02:32:47,840
+Aqui, ó. Vamos pegar um projeto.
+
+2411
+02:32:49,399 --> 02:32:52,319
+Vamos ver.
+
+2412
+02:32:53,840 --> 02:32:58,760
+Vamos ver se tem algum projeto aqui que
+
+2413
+02:32:55,600 --> 02:32:58,760
+eu possa
+
+2414
+02:33:01,840 --> 02:33:06,560
+que eu possa usar com vocês aqui para
+
+2415
+02:33:03,920 --> 02:33:09,040
+mostrar. Eu acho que não.
+
+2416
+02:33:06,560 --> 02:33:12,319
+Mas vamos fazer o seguinte, ó. Deixa eu
+
+2417
+02:33:09,040 --> 02:33:14,359
+abrir uma aba nova aqui.
+
+2418
+02:33:12,319 --> 02:33:16,800
+Eh,
+
+2419
+02:33:14,359 --> 02:33:19,880
+vamos colocar aqui, ó, Microsoft
+
+2420
+02:33:16,800 --> 02:33:22,920
+Clarity. Quem conhece o Microsoft
+
+2421
+02:33:19,880 --> 02:33:24,560
+Clarity, galera, coloque aí no chat. E o
+
+2422
+02:33:22,920 --> 02:33:27,880
+script de vendas, tá onde? Está no
+
+2423
+02:33:24,560 --> 02:33:30,560
+grupo. Eh, lá no grupo você pega os
+
+2424
+02:33:27,880 --> 02:33:33,960
+dados do
+
+2425
+02:33:30,560 --> 02:33:33,960
+drive, tá?
+
+2426
+02:33:34,800 --> 02:33:42,800
+Já ia falar. Diz o Carlos. Quem conhece
+
+2427
+02:33:36,840 --> 02:33:42,800
+aqui, galera, o Clarity.
+
+2428
+02:33:53,160 --> 02:33:58,560
+Quem conhece o Clarit, fala para mim.
+
+2429
+02:33:57,120 --> 02:34:02,279
+Eu vou ali pegar uma água e vocês vão
+
+2430
+02:33:58,560 --> 02:34:02,279
+respondendo aí no chat.
+
+2431
+02:34:08,399 --> 02:34:13,240
+All because of you
+
+2432
+02:34:16,000 --> 02:34:22,399
+in the skies
+
+2433
+02:34:18,600 --> 02:34:22,399
+only you
+
+2434
+02:34:22,760 --> 02:34:26,000
+make me
+
+2435
+02:34:32,880 --> 02:34:35,120
+make
+
+2436
+02:34:37,880 --> 02:34:40,160
+Make
+
+2437
+02:35:07,080 --> 02:35:09,960
+for
+
+2438
+02:35:15,319 --> 02:35:18,319
+holding
+
+2439
+02:35:27,080 --> 02:35:34,080
+the sky
+
+2440
+02:35:29,240 --> 02:35:34,080
+all because of you
+
+2441
+02:35:34,240 --> 02:35:36,720
+ding
+
+2442
+02:35:36,840 --> 02:35:42,399
+in the skies
+
+2443
+02:35:39,399 --> 02:35:42,399
+only
+
+2444
+02:35:43,600 --> 02:35:46,840
+make me
+
+2445
+02:35:48,640 --> 02:35:51,880
+make me
+
+2446
+02:35:53,720 --> 02:35:58,760
+make me
+
+2447
+02:35:55,600 --> 02:36:02,000
+make me
+
+2448
+02:35:58,760 --> 02:36:02,000
+make Eu
+
+2449
+02:36:19,319 --> 02:36:25,080
+uso nas minhas páginas. Clipe de vendas
+
+2450
+02:36:21,880 --> 02:36:28,000
+está onde? Não conheço.
+
+2451
+02:36:25,080 --> 02:36:30,319
+É, maioria não conhece, né? O Clarity.
+
+2452
+02:36:28,000 --> 02:36:32,680
+Ó, o Adriano é o que conhece por
+
+2453
+02:36:30,319 --> 02:36:36,760
+enquanto aqui. Quem mais conhece,
+
+2454
+02:36:32,680 --> 02:36:36,760
+galera? Quem mais conhece o Clarity?
+
+2455
+02:36:45,600 --> 02:36:51,160
+Não, não, não. Então, o que que o
+
+2456
+02:36:48,120 --> 02:36:54,160
+Clarity faz, galera? O Clarity,
+
+2457
+02:36:51,160 --> 02:36:56,760
+ele acompanha eh o comportamento dos
+
+2458
+02:36:54,160 --> 02:36:58,279
+usuários no teu site. Como assim o
+
+2459
+02:36:56,760 --> 02:37:00,720
+comportamento?
+
+2460
+02:36:58,279 --> 02:37:03,080
+Ele grava o cursor do mouse, grava em
+
+2461
+02:37:00,720 --> 02:37:05,960
+vídeo o que as pessoas fazem dentro do
+
+2462
+02:37:03,080 --> 02:37:08,720
+teu site. Então, se você tem eh
+
+2463
+02:37:05,960 --> 02:37:11,240
+serviços, você pode ver em tempo real,
+
+2464
+02:37:08,720 --> 02:37:14,439
+inclusive o que a pessoa tá fazendo
+
+2465
+02:37:11,240 --> 02:37:17,160
+dentro do teu site. Vamos aproveitar
+
+2466
+02:37:14,439 --> 02:37:22,040
+e vamos criar o nosso projeto aqui, ó.
+
+2467
+02:37:17,160 --> 02:37:27,520
+Já vamos configurar no nosso site aqui,
+
+2468
+02:37:22,040 --> 02:37:27,520
+marketing digital. Vou pegar aqui, ó.
+
+2469
+02:37:34,279 --> 02:37:40,279
+Vamos pegar aqui
+
+2470
+02:37:36,479 --> 02:37:40,279
+tecnologia e telecomunicações.
+
+2471
+02:37:43,399 --> 02:37:47,439
+Uso sem chute livre.
+
+2472
+02:37:48,200 --> 02:37:56,640
+E vamos criar um novo projeto
+
+2473
+02:37:51,200 --> 02:38:00,240
+quase lá. Aí ele vem aqui, ó, em sedí
+
+2474
+02:37:56,640 --> 02:38:05,399
+clica aqui em configuração, tá? Vamos
+
+2475
+02:38:00,240 --> 02:38:09,520
+instalar o código manualmente. Copiamos
+
+2476
+02:38:05,399 --> 02:38:13,240
+e aí vem aqui no V Code, ó.
+
+2477
+02:38:09,520 --> 02:38:15,760
+Eh, pede para ele, ó, adicione no rede
+
+2478
+02:38:13,240 --> 02:38:19,720
+do nosso site.
+
+2479
+02:38:15,760 --> 02:38:19,720
+Site este código.
+
+2480
+02:38:20,920 --> 02:38:26,840
+Mumuzinho, né?
+
+2481
+02:38:23,840 --> 02:38:26,840
+Mumuzinho.
+
+2482
+02:38:27,160 --> 02:38:34,040
+Opa, faltou eu enviar o código, né?
+
+2483
+02:38:30,479 --> 02:38:34,040
+Vai pedir agora.
+
+2484
+02:38:36,640 --> 02:38:42,720
+Ótimo pro time de suporte quando o
+
+2485
+02:38:38,359 --> 02:38:44,920
+usuário dá um É muito bom mesmo, Cik.
+
+2486
+02:38:42,720 --> 02:38:49,040
+Muito bom mesmo.
+
+2487
+02:38:44,920 --> 02:38:53,120
+Deixa eu pausar aqui, ó,
+
+2488
+02:38:49,040 --> 02:38:53,120
+que eu não colei o código, né?
+
+2489
+02:38:55,000 --> 02:38:58,920
+Aí, ó. Agora sim,
+
+2490
+02:39:00,319 --> 02:39:04,760
+galera, não esquece de deixar o likezão
+
+2491
+02:39:01,840 --> 02:39:08,479
+e se inscrever no canal, tá?
+
+2492
+02:39:04,760 --> 02:39:10,880
+Bora bater os 2700 inscritos.
+
+2493
+02:39:08,479 --> 02:39:13,880
+Vamos quase lá.
+
+2494
+02:39:10,880 --> 02:39:15,560
+Quase, quase lá,
+
+2495
+02:39:13,880 --> 02:39:18,200
+tá? Então, eu pedi para ele rodar aqui,
+
+2496
+02:39:15,560 --> 02:39:21,399
+ó, eh,
+
+2497
+02:39:18,200 --> 02:39:23,319
+o código.
+
+2498
+02:39:21,399 --> 02:39:25,040
+E aí, o seguinte, ó. Temos mais
+
+2499
+02:39:23,319 --> 02:39:28,040
+configurações aqui que a gente pode
+
+2500
+02:39:25,040 --> 02:39:28,040
+fazer,
+
+2501
+02:39:29,880 --> 02:39:34,240
+que é, eh, integrar com o Google
+
+2502
+02:39:32,080 --> 02:39:37,000
+Analytics, né?
+
+2503
+02:39:34,240 --> 02:39:39,840
+Integração com Google Analytics. Vamos
+
+2504
+02:39:37,000 --> 02:39:41,600
+já fazer essa integração.
+
+2505
+02:39:39,840 --> 02:39:43,880
+Eu já tô logado na conta do Google
+
+2506
+02:39:41,600 --> 02:39:46,880
+Analytics, então ele já vai fazer
+
+2507
+02:39:43,880 --> 02:39:46,880
+automático.
+
+2508
+02:39:50,800 --> 02:39:57,880
+Hum. Já pegou aqui, ó.
+
+2509
+02:39:54,479 --> 02:39:57,880
+Já tá conectado
+
+2510
+02:39:59,279 --> 02:40:03,000
+aqui. Já tá OK.
+
+2511
+02:40:03,240 --> 02:40:08,040
+convidar a equipe. Não tem, não tá, tá
+
+2512
+02:40:05,359 --> 02:40:09,880
+quase lá, ó.
+
+2513
+02:40:08,040 --> 02:40:13,600
+Mano, grave tá demorando para caramba
+
+2514
+02:40:09,880 --> 02:40:17,399
+para fazer as coisas simples.
+
+2515
+02:40:13,600 --> 02:40:19,680
+Já vou mostrar o que que isso aqui faz.
+
+2516
+02:40:17,399 --> 02:40:22,120
+Então, depende da, às vezes ele tá
+
+2517
+02:40:19,680 --> 02:40:24,040
+sobrecarregado mesmo, ele demora, mas
+
+2518
+02:40:22,120 --> 02:40:25,600
+tentas
+
+2519
+02:40:24,040 --> 02:40:27,399
+tenta não usar no alto quando é
+
+2520
+02:40:25,600 --> 02:40:30,120
+alterações simples, né? usa sempre no
+
+2521
+02:40:27,399 --> 02:40:32,760
+médio ou no baixo, principalmente, além
+
+2522
+02:40:30,120 --> 02:40:34,680
+de você economizar token,
+
+2523
+02:40:32,760 --> 02:40:39,200
+você consegue
+
+2524
+02:40:34,680 --> 02:40:39,200
+eh executar mais rápido, né?
+
+2525
+02:40:57,359 --> 02:41:01,240
+Mas em resumo, eh, como eu falei lá no
+
+2526
+02:40:59,640 --> 02:41:04,279
+início, o que que isso aqui faz? A gente
+
+2527
+02:41:01,240 --> 02:41:08,200
+vai conseguir ver o comportamento das
+
+2528
+02:41:04,279 --> 02:41:08,200
+pessoas dentro do site.
+
+2529
+02:41:08,800 --> 02:41:13,200
+É isso aqui que a gente faz em tempo, em
+
+2530
+02:41:10,960 --> 02:41:18,399
+tempo real, tá?
+
+2531
+02:41:13,200 --> 02:41:18,399
+Eh, vamos ver se tem algum.
+
+2532
+02:41:18,520 --> 02:41:25,720
+Vamos ver se ele subiu aqui já.
+
+2533
+02:41:21,760 --> 02:41:25,720
+Não, ele tá adicionando ainda.
+
+2534
+02:41:27,960 --> 02:41:31,479
+Vamos deixar ele adicionar.
+
+2535
+02:41:33,520 --> 02:41:36,359
+Então, a gente consegue ver o
+
+2536
+02:41:34,880 --> 02:41:38,439
+comportamento. Tudo isso aqui, ó, que eu
+
+2537
+02:41:36,359 --> 02:41:42,520
+tô fazendo aqui, ó, gente, ó. mexendo o
+
+2538
+02:41:38,439 --> 02:41:45,080
+mouse, clicando nos botões, acessando as
+
+2539
+02:41:42,520 --> 02:41:49,760
+páginas, tudo isso aqui vai ficar
+
+2540
+02:41:45,080 --> 02:41:51,880
+gravado eh aqui dentro do Clarity, tá? E
+
+2541
+02:41:49,760 --> 02:41:54,279
+aí no aqui em gravações aqui tá
+
+2542
+02:41:51,880 --> 02:41:57,000
+bloqueado porque a gente recém tá
+
+2543
+02:41:54,279 --> 02:42:00,040
+instalando o código, né? Demora alguns
+
+2544
+02:41:57,000 --> 02:42:02,479
+alguns minutos para começar a traquear.
+
+2545
+02:42:00,040 --> 02:42:05,080
+Então você consegue ver tudo, todo o
+
+2546
+02:42:02,479 --> 02:42:07,720
+comportamento que a pessoa fez dentro do
+
+2547
+02:42:05,080 --> 02:42:11,720
+teu site, onde o, quais são as zonas de
+
+2548
+02:42:07,720 --> 02:42:14,120
+calor, onde o pessoal acessa páginas,
+
+2549
+02:42:11,720 --> 02:42:17,000
+inclusive ao vivo você consegue ver.
+
+2550
+02:42:14,120 --> 02:42:19,399
+Então é bem bacana, uma ferramenta bem
+
+2551
+02:42:17,000 --> 02:42:21,399
+bacana de usar e muito simples de
+
+2552
+02:42:19,399 --> 02:42:24,800
+configurar, né?
+
+2553
+02:42:21,399 --> 02:42:26,560
+Simples mesmo de configurar.
+
+2554
+02:42:24,800 --> 02:42:29,359
+Então, é uma ferramenta que eu curto
+
+2555
+02:42:26,560 --> 02:42:33,040
+bastante e eu instalo em todos os sites,
+
+2556
+02:42:29,359 --> 02:42:35,479
+inclusive pros clientes, porque eh
+
+2557
+02:42:33,040 --> 02:42:38,240
+quando você vai mostrar para ele, né?
+
+2558
+02:42:35,479 --> 02:42:40,080
+Então você pode mostrar para ele onde o
+
+2559
+02:42:38,240 --> 02:42:43,160
+pessoal tá chegando no site, onde tá
+
+2560
+02:42:40,080 --> 02:42:46,160
+tendo mais fluxo, qual o conteúdo que
+
+2561
+02:42:43,160 --> 02:42:48,279
+atrai mais, tá? Além de trazer os dados
+
+2562
+02:42:46,160 --> 02:42:52,040
+do Analytics, você pode mostrar os
+
+2563
+02:42:48,279 --> 02:42:54,200
+vídeos para ele. Então isso, né, gera
+
+2564
+02:42:52,040 --> 02:42:57,680
+todo um pósvenda aí pro teu cliente que
+
+2565
+02:42:54,200 --> 02:43:01,240
+é que é bem bacana.
+
+2566
+02:42:57,680 --> 02:43:01,240
+Olha isso aqui.
+
+2567
+02:43:07,479 --> 02:43:11,520
+Esse site não parece ser muito antigo,
+
+2568
+02:43:09,279 --> 02:43:11,520
+viu?
+
+2569
+02:43:14,359 --> 02:43:17,800
+foi feito com
+
+2570
+02:43:18,399 --> 02:43:23,760
+esse odonto aqui em cima não mente, né?
+
+2571
+02:43:21,240 --> 02:43:29,240
+É, eu até achei já de cara assim que
+
+2572
+02:43:23,760 --> 02:43:29,240
+tinha um uns cards aqui, ó.
+
+2573
+02:43:30,359 --> 02:43:36,479
+Ai, ai.
+
+2574
+02:43:32,600 --> 02:43:36,479
+Pois eu vou olhar essa aqui.
+
+2575
+02:43:39,560 --> 02:43:42,560
+Caraca,
+
+2576
+02:43:46,479 --> 02:43:52,439
+ele não deixa o site mais lento, não.
+
+2577
+02:43:48,720 --> 02:43:52,439
+Não deixa, Ludo.
+
+2578
+02:43:54,760 --> 02:44:00,000
+Nunca percebi. Olha que a gente instala
+
+2579
+02:43:56,399 --> 02:44:00,000
+em todos os nossos projetos.
+
+2580
+02:44:01,279 --> 02:44:04,720
+Os Italo, os melhores nichos para
+
+2581
+02:44:03,279 --> 02:44:08,040
+prospectar é aquele que você consegue
+
+2582
+02:44:04,720 --> 02:44:11,080
+chegar no proprietário primeiro.
+
+2583
+02:44:08,040 --> 02:44:12,720
+Se você conseguir desviar atendimento e
+
+2584
+02:44:11,080 --> 02:44:14,160
+chegar no proprietário, vai ser o melhor
+
+2585
+02:44:12,720 --> 02:44:15,840
+nicho. Normalmente é prestador de
+
+2586
+02:44:14,160 --> 02:44:18,080
+serviço, né?
+
+2587
+02:44:15,840 --> 02:44:20,600
+onde você aquele microempreendedor
+
+2588
+02:44:18,080 --> 02:44:22,359
+mesmo, que esse é o cara você consegue
+
+2589
+02:44:20,600 --> 02:44:26,160
+muitas vezes chamar no WhatsApp, você já
+
+2590
+02:44:22,359 --> 02:44:26,160
+tá falando com o dono.
+
+2591
+02:44:41,840 --> 02:44:47,800
+Vamos ver se ele finalizou aqui,
+
+2592
+02:44:44,800 --> 02:44:50,080
+tá? rodando ainda.
+
+2593
+02:44:47,800 --> 02:44:53,000
+Agora finalizou,
+
+2594
+02:44:50,080 --> 02:44:57,279
+testado e finalizado.
+
+2595
+02:44:53,000 --> 02:44:57,279
+Vamos sincronizar aqui no Git.
+
+2596
+02:44:58,680 --> 02:45:06,960
+Pronto,
+
+2597
+02:45:01,479 --> 02:45:06,960
+o código já tá no no site.
+
+2598
+02:45:14,600 --> 02:45:19,920
+Já tá aqui o a tag do Clarity, ó.
+
+2599
+02:45:23,720 --> 02:45:27,800
+Para esse micro empresário, precisor de
+
+2600
+02:45:25,680 --> 02:45:30,680
+serviço, qual o valor mínimo indica para
+
+2601
+02:45:27,800 --> 02:45:34,319
+não perder a venda? 799,
+
+2602
+02:45:30,680 --> 02:45:36,080
+Ítalo. Depende do teu portfólio, né?
+
+2603
+02:45:34,319 --> 02:45:38,720
+Se você já tem a agência, se tem o
+
+2604
+02:45:36,080 --> 02:45:40,680
+portfólio. Na verdade, o valor você tem
+
+2605
+02:45:38,720 --> 02:45:43,200
+que decidir, né? O que é viável para
+
+2606
+02:45:40,680 --> 02:45:48,840
+você trabalhar? Até qual que é o mínimo
+
+2607
+02:45:43,200 --> 02:45:48,840
+viável para você atender esse cliente?
+
+2608
+02:45:52,560 --> 02:45:57,720
+Então, Kelbin, isso é normal, tá?
+
+2609
+02:46:00,439 --> 02:46:03,920
+Na questão de parecer golpe, você tem,
+
+2610
+02:46:02,279 --> 02:46:06,760
+você pode mostrar os teus trabalhos, né?
+
+2611
+02:46:03,920 --> 02:46:10,080
+se você não tem o portfólio ou quem sabe
+
+2612
+02:46:06,760 --> 02:46:11,439
+eh você faz um mocape,
+
+2613
+02:46:10,080 --> 02:46:13,040
+tá? Vem com ele, ah, se você tem
+
+2614
+02:46:11,439 --> 02:46:15,800
+interesse mesmo, eu vou fazer uma prévia
+
+2615
+02:46:13,040 --> 02:46:17,640
+de como seria o site para você entender.
+
+2616
+02:46:15,800 --> 02:46:20,960
+E aí você espera dois dias, manda a
+
+2617
+02:46:17,640 --> 02:46:22,840
+prévia para ele e aí ele vai entender.
+
+2618
+02:46:20,960 --> 02:46:24,560
+Coloca no ar, como a gente fez aqui lá
+
+2619
+02:46:22,840 --> 02:46:26,800
+no início, né, dos projetos, coloca no
+
+2620
+02:46:24,560 --> 02:46:29,760
+ar pro cara acessar, vê que é real, vê
+
+2621
+02:46:26,800 --> 02:46:32,680
+que não é golpe. Agora quando eh não
+
+2622
+02:46:29,760 --> 02:46:35,920
+interessa e bloqueia, é a vida que
+
+2623
+02:46:32,680 --> 02:46:37,680
+segue, né? É os, é a rotina do vendedor,
+
+2624
+02:46:35,920 --> 02:46:41,560
+tá?
+
+2625
+02:46:37,680 --> 02:46:41,560
+É a rotina do vendedor.
+
+2626
+02:46:48,399 --> 02:46:52,160
+Ó, o André, a skill do mocap que você
+
+2627
+02:46:50,399 --> 02:46:54,120
+disponibilizou no grupo é muito boa. Fiz
+
+2628
+02:46:52,160 --> 02:46:56,600
+um aqui de teste e o resultado foi
+
+2629
+02:46:54,120 --> 02:46:59,520
+excelente. Valeu, André. Essa skill fui
+
+2630
+02:46:56,600 --> 02:47:01,960
+eu que eu que criei ela, né?
+
+2631
+02:46:59,520 --> 02:47:03,800
+Então, é exatamente a mesma que é a
+
+2632
+02:47:01,960 --> 02:47:07,960
+mesma configuração que eu uso aqui para
+
+2633
+02:47:03,800 --> 02:47:09,840
+gerar os os mocaps dos meus clientes.
+
+2634
+02:47:07,960 --> 02:47:11,840
+E a recorrência devo colocar no plano
+
+2635
+02:47:09,840 --> 02:47:15,200
+anual junto com a implementação. Eu
+
+2636
+02:47:11,840 --> 02:47:15,200
+cobro mensal.
+
+2637
+02:47:18,359 --> 02:47:25,080
+Kelbem. A média é uma resposta a cada 50
+
+2638
+02:47:22,080 --> 02:47:25,080
+prospectados.
+
+2639
+02:47:27,319 --> 02:47:32,520
+O stit é bom. O Stitch é bom, mas eu
+
+2640
+02:47:29,359 --> 02:47:34,840
+confesso que eu tive resultados melhores
+
+2641
+02:47:32,520 --> 02:47:38,120
+no chat GPT, porque ele já tá acostumado
+
+2642
+02:47:34,840 --> 02:47:40,160
+comigo, né?
+
+2643
+02:47:38,120 --> 02:47:42,720
+Ele já entende o meu padrão de design
+
+2644
+02:47:40,160 --> 02:47:45,760
+que eu gosto, então ele já ele me
+
+2645
+02:47:42,720 --> 02:47:48,600
+entrega o stit, eu teria que treinar
+
+2646
+02:47:45,760 --> 02:47:51,399
+ele, né, para ele trazer a identidade
+
+2647
+02:47:48,600 --> 02:47:53,920
+que eu gosto de usar. Como o chat GPT já
+
+2648
+02:47:51,399 --> 02:47:55,720
+faz isso para mim meio que já
+
+2649
+02:47:53,920 --> 02:47:58,279
+automático,
+
+2650
+02:47:55,720 --> 02:48:02,840
+então não tem necessidade de não teria
+
+2651
+02:47:58,279 --> 02:48:02,840
+necessidade de de eu fazer.
+
+2652
+02:48:08,560 --> 02:48:14,120
+Eu queria ver se
+
+2653
+02:48:11,840 --> 02:48:16,319
+o Clarity já,
+
+2654
+02:48:14,120 --> 02:48:19,319
+ó, o Clarity já começou a rodar, galera,
+
+2655
+02:48:16,319 --> 02:48:19,319
+ó.
+
+2656
+02:48:21,120 --> 02:48:26,640
+aqui, ó. Dá uma olhada aí, ó.
+
+2657
+02:48:32,319 --> 02:48:36,920
+Vamos pegar aqui,
+
+2658
+02:48:34,479 --> 02:48:40,800
+ó. Olha só que massa. Ele já tá
+
+2659
+02:48:36,920 --> 02:48:40,800
+mostrando aqui, ó.
+
+2660
+02:48:42,240 --> 02:48:47,200
+Aqui tá inativo, tá? Vamos ver aqui.
+
+2661
+02:49:00,279 --> 02:49:05,880
+Deixa eu atualizar aqui. Vamos pedir
+
+2662
+02:49:02,160 --> 02:49:05,880
+para assistir agora,
+
+2663
+02:49:09,319 --> 02:49:14,240
+ó. Então eu já consigo. É claro que aqui
+
+2664
+02:49:12,680 --> 02:49:17,960
+sou eu, né?
+
+2665
+02:49:14,240 --> 02:49:22,200
+Mas tipo, ele já mostra
+
+2666
+02:49:17,960 --> 02:49:24,560
+eh as as páginas visitadas, onde tá o
+
+2667
+02:49:22,200 --> 02:49:27,239
+cursor do mouse,
+
+2668
+02:49:24,560 --> 02:49:29,080
+os cliques.
+
+2669
+02:49:27,239 --> 02:49:31,720
+Isso para bolar a estratégia, galera, é
+
+2670
+02:49:29,080 --> 02:49:34,200
+bem é bem bacana, tá?
+
+2671
+02:49:31,720 --> 02:49:36,359
+É bem bacana.
+
+2672
+02:49:34,200 --> 02:49:39,000
+E aí agora ele tá ainda fazendo a
+
+2673
+02:49:36,359 --> 02:49:41,080
+leitura, obviamente, né? Mas ele tem
+
+2674
+02:49:39,000 --> 02:49:44,920
+opção de você
+
+2675
+02:49:41,080 --> 02:49:44,920
+eh de você ver ao vivo, tá?
+
+2676
+02:49:46,560 --> 02:49:50,479
+Esse daqui, Gabriel, não tem back, tá?
+
+2677
+02:49:48,319 --> 02:49:53,920
+Mas, por exemplo, nosso CRM, a gente usa
+
+2678
+02:49:50,479 --> 02:49:58,239
+super base, tá? CRM que a gente criou
+
+2679
+02:49:53,920 --> 02:49:58,239
+que prospecta tem super base.
+
+2680
+02:50:06,080 --> 02:50:12,399
+É de graça. É de graça, sim. É só entrar
+
+2681
+02:50:07,920 --> 02:50:12,399
+lá, ó. Clarity aqui, ó.
+
+2682
+02:50:13,200 --> 02:50:19,160
+Só entrar. Vou mandar no grupo lá do
+
+2683
+02:50:15,760 --> 02:50:19,160
+WhatsApp também.
+
+2684
+02:50:28,920 --> 02:50:35,239
+Aí, ó, galera, é gratuito, tá?
+
+2685
+02:50:33,279 --> 02:50:37,279
+Então, é bem bacana para vocês analisar
+
+2686
+02:50:35,239 --> 02:50:39,439
+e ver o comportamento. Ó, aqui ele
+
+2687
+02:50:37,279 --> 02:50:42,200
+mostrou aqui, ele ele pegou o que eu
+
+2688
+02:50:39,439 --> 02:50:46,399
+tava fazendo antes, ó. Olha
+
+2689
+02:50:42,200 --> 02:50:50,040
+aqui, esses riscos aqui são os eh é o
+
+2690
+02:50:46,399 --> 02:50:52,359
+rastro do meu mouse, tá?
+
+2691
+02:50:50,040 --> 02:50:56,760
+Vamos esperar ele aí. Pode ver que a
+
+2692
+02:50:52,359 --> 02:50:56,760
+barrinha tá passando ali, ó.
+
+2693
+02:51:02,680 --> 02:51:09,399
+Eu uso o meu número mesmo, Itítalo.
+
+2694
+02:51:06,319 --> 02:51:12,120
+Eu peguei um chip novo e criei um
+
+2695
+02:51:09,399 --> 02:51:12,120
+WhatsApp.
+
+2696
+02:51:16,560 --> 02:51:22,600
+me apresento como web design, eu mesmo,
+
+2697
+02:51:19,279 --> 02:51:22,600
+sem agência.
+
+2698
+02:51:23,279 --> 02:51:29,800
+Olha ali o vídeo, galera. Olha só,
+
+2699
+02:51:27,680 --> 02:51:33,120
+tem a opção aqui que você pode ocultar
+
+2700
+02:51:29,800 --> 02:51:37,560
+inatividade, mas ele ainda tá tá fazendo
+
+2701
+02:51:33,120 --> 02:51:39,520
+a leitura, né? Ó, rolando a página aqui.
+
+2702
+02:51:37,560 --> 02:51:43,479
+Então, é bem bacana para vocês
+
+2703
+02:51:39,520 --> 02:51:46,040
+analisarem o comportamento do
+
+2704
+02:51:43,479 --> 02:51:47,520
+dos clientes de vocês. Fechou, gente?
+
+2705
+02:51:46,040 --> 02:51:50,399
+Falta só mais um inscrito pra gente
+
+2706
+02:51:47,520 --> 02:51:53,120
+fechar 2670.
+
+2707
+02:51:50,399 --> 02:51:56,120
+Eu queria chegar a 2700, mas não rolou
+
+2708
+02:51:53,120 --> 02:51:56,120
+hoje.
+
+2709
+02:51:59,080 --> 02:52:04,359
+O Clarity é massa, né? O Clarity é muito
+
+2710
+02:52:01,359 --> 02:52:04,359
+show.
+
+2711
+02:52:04,800 --> 02:52:10,080
+A gente usa já h um bom tempo com o
+
+2712
+02:52:07,080 --> 02:52:10,080
+Clarity
+
+2713
+02:52:12,080 --> 02:52:16,680
+e ele demora uns minutinhos, né, para
+
+2714
+02:52:14,439 --> 02:52:18,479
+para mostrar em tempo real tudo mais.
+
+2715
+02:52:16,680 --> 02:52:20,520
+Depois ele vai ter o painel aqui onde
+
+2716
+02:52:18,479 --> 02:52:24,479
+vocês vão conseguir
+
+2717
+02:52:20,520 --> 02:52:28,560
+eh olhar melhor, tá? Olhar datas
+
+2718
+02:52:24,479 --> 02:52:31,840
+anteriores, olhar todo toda a jornada do
+
+2719
+02:52:28,560 --> 02:52:35,960
+do usuário, né? Toda a experiência vocês
+
+2720
+02:52:31,840 --> 02:52:35,960
+conseguem acompanhar por aqui.
+
+2721
+02:52:37,600 --> 02:52:46,520
+Vou querer uma Coca depois. Ih, Henrique
+
+2722
+02:52:43,040 --> 02:52:51,000
+tá osso, hein? Tem água aqui.
+
+2723
+02:52:46,520 --> 02:52:51,000
+Fim do mês a gente tá só com a água.
+
+2724
+02:52:54,920 --> 02:53:01,720
+Tá, gente, eu acho que por hoje a gente
+
+2725
+02:52:58,080 --> 02:53:04,600
+fechou o CRM, falamos sobre prospecção,
+
+2726
+02:53:01,720 --> 02:53:06,560
+mostrei para vocês aqui a
+
+2727
+02:53:04,600 --> 02:53:09,760
+o Clarity, né, que eu tinha prometido na
+
+2728
+02:53:06,560 --> 02:53:11,880
+sexta. Então, Clarity é bem bacana.
+
+2729
+02:53:09,760 --> 02:53:14,160
+Instalem aí no site de vocês, instalem
+
+2730
+02:53:11,880 --> 02:53:18,840
+no site dos clientes.
+
+2731
+02:53:14,160 --> 02:53:22,120
+Amanhã eu volto, eh, vou organizar
+
+2732
+02:53:18,840 --> 02:53:24,960
+todos os search console. e o Google
+
+2733
+02:53:22,120 --> 02:53:27,200
+Analytic dos nossos clientes. Vamos
+
+2734
+02:53:24,960 --> 02:53:29,479
+organizar
+
+2735
+02:53:27,200 --> 02:53:31,560
+eh o nosso CRM aqui. Eu tenho que
+
+2736
+02:53:29,479 --> 02:53:33,520
+cadastrar acho que uma taxa eu não
+
+2737
+02:53:31,560 --> 02:53:35,800
+cadastrei agora. Eu tava lembrando,
+
+2738
+02:53:33,520 --> 02:53:38,200
+tenho que cadastrar aqui. E aí vamos
+
+2739
+02:53:35,800 --> 02:53:40,000
+focar nessas prospecções, né? Agora a
+
+2740
+02:53:38,200 --> 02:53:42,960
+gente precisa vender. Primeiro eu quero
+
+2741
+02:53:40,000 --> 02:53:45,160
+focar nessa galera que tá pendente,
+
+2742
+02:53:42,960 --> 02:53:47,120
+tá? Então, temos quatro pendentes.
+
+2743
+02:53:45,160 --> 02:53:50,399
+Então, eu vou focar, gastar as energias
+
+2744
+02:53:47,120 --> 02:53:52,760
+aqui nesses e tentar fechar já pra gente
+
+2745
+02:53:50,399 --> 02:53:56,040
+começar a construir.
+
+2746
+02:53:52,760 --> 02:53:57,760
+Ele não respondeu ainda. Eu vou avisar
+
+2747
+02:53:56,040 --> 02:53:59,439
+lá, eu vou mostrar lá no grupo, tá
+
+2748
+02:53:57,760 --> 02:54:02,439
+gente? Assim que se tiver algum
+
+2749
+02:53:59,439 --> 02:54:05,200
+fechamento offline aí eu jogo as
+
+2750
+02:54:02,439 --> 02:54:08,399
+informações lá no
+
+2751
+02:54:05,200 --> 02:54:10,760
+no nosso grupo do WhatsApp. Quem não tá
+
+2752
+02:54:08,399 --> 02:54:13,920
+no nosso grupo do WhatsApp, então por
+
+2753
+02:54:10,760 --> 02:54:16,960
+favor, tá na descrição da da live, só
+
+2754
+02:54:13,920 --> 02:54:19,760
+entrar lá pra gente trocar ideia.
+
+2755
+02:54:16,960 --> 02:54:21,840
+Ã, quem precisar do antigravity, tem aí
+
+2756
+02:54:19,760 --> 02:54:24,000
+o link com desconto no perfil, na
+
+2757
+02:54:21,840 --> 02:54:25,720
+descrição da live também. Quer conhecer
+
+2758
+02:54:24,000 --> 02:54:27,920
+o Nexar Hunter, a ferramenta que eu uso
+
+2759
+02:54:25,720 --> 02:54:30,479
+para prospectar, é uma ferramenta da
+
+2760
+02:54:27,920 --> 02:54:32,319
+nossa agência. Então, se você for usar
+
+2761
+02:54:30,479 --> 02:54:35,000
+alguma ferramenta para prospectar
+
+2762
+02:54:32,319 --> 02:54:37,760
+cliente, usa a nossa ferramenta aí que
+
+2763
+02:54:35,000 --> 02:54:39,760
+automaticamente você tá me ajudando, tá?
+
+2764
+02:54:37,760 --> 02:54:42,279
+Então gente, hoje eu vou ficar por aqui.
+
+2765
+02:54:39,760 --> 02:54:46,600
+Ótima semana pra gente. Amanhã eu volto
+
+2766
+02:54:42,279 --> 02:54:46,600
+151 já. É.

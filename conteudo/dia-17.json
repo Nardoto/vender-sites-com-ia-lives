@@ -1,0 +1,283 @@
+{
+  "dia": 17,
+  "slug": "dia-17",
+  "srt": "srt/dia-17.srt",
+  "titulo": "Dia 17 | Vibe Coding: R$2.990 + MRR: R$199,60 Vendendo Sites com IA",
+  "nome": "Quarta venda fechada e início do SaaS de redes sociais",
+  "data": "2026-09-23",
+  "duracao": "3:01:45",
+  "youtube": "https://www.youtube.com/watch?v=DUiaeAWj4gE",
+  "faturamento": "R$ 2.990",
+  "mrr": "R$ 199,60",
+  "resumo": "No décimo sétimo dia, Júnior anuncia o fechamento da quarta venda do desafio com o cliente Storm Automotiva, elevando o faturamento total acumulado para R$ 2.990 e a receita recorrente para R$ 199,60 mensais (quatro clientes ativos pagando R$ 49,90 cada: Lavanderia Lord, Jui Clima, MS Engenharia e Storm). Com a constatação de que três desses quatro clientes solicitaram serviços adicionais de gerenciamento de redes sociais, ele decide criar um SaaS próprio de aprovação de postagens para oferecer como upsell de R$ 300 por mês. Durante a transmissão, estrutura e coda no VS Code com Antigravity os módulos do sistema: tela de login, calendário de publicações e botões de aprovação e ajuste de criativos. Na parte final da live, realiza uma sessão ao vivo de análise e feedback dos sites enviados pelos inscritos, orientando sobre legibilidade, menus e botão de WhatsApp.",
+  "destaques": [
+    "Quatro contratos fechados em 17 dias de desafio: faturamento consolidado em R$ 2.990 e MRR de R$ 199,60 com os clientes Lavanderia Lord, Jui Clima, MS Engenharia e Storm.",
+    "Estratégia de aumento de receita via upsell: desenvolvimento de um SaaS próprio de aprovação de postagens para cobrar R$ 300/mês da mesma base de clientes.",
+    "Sessão de mentoria ao vivo e análise crítica de páginas construídas pela comunidade, orientando sobre redução de textos longos e posicionamento do botão de WhatsApp."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:03:53",
+      "texto": "Abertura com anúncio da quarta venda fechada com a Storm Automotiva, totalizando R$ 2.990 acumulados."
+    },
+    {
+      "t": "00:15:12",
+      "texto": "Balanço dos quatro clientes ativos e demanda de três deles por gestão de redes sociais."
+    },
+    {
+      "t": "00:16:08",
+      "texto": "Resposta a Mateus esclarecendo que a formalização é feita diretamente por e-mail ou WhatsApp."
+    },
+    {
+      "t": "00:18:30",
+      "texto": "Apresentação da estratégia de agregar serviços de redes sociais por R$ 300 mensais para aumentar o MRR."
+    },
+    {
+      "t": "00:23:58",
+      "texto": "Esclarecimento a Mateus sobre os critérios de monetização e doações no YouTube."
+    },
+    {
+      "t": "00:30:16",
+      "texto": "Início da programação do SaaS de redes sociais no VS Code para agendamento e aprovação de criativos."
+    },
+    {
+      "t": "00:45:16",
+      "texto": "Orientação a Júlia indicando que todos os sites foram construídos ao vivo desde o primeiro dia de live."
+    },
+    {
+      "t": "01:00:31",
+      "texto": "Reflexão sobre a meta inicial de R$ 1.621 superada com folga trabalhando quatro horas por dia."
+    },
+    {
+      "t": "01:15:22",
+      "texto": "Avaliação do faturamento de quase R$ 3.000 em 17 dias de desafio com produção independente."
+    },
+    {
+      "t": "01:17:58",
+      "texto": "Orientação técnica a Vitor recomendando modelo Flash para tarefas leves e Pro para arquitetura complexa."
+    },
+    {
+      "t": "01:40:53",
+      "texto": "Compartilhamento da cadência matinal de prospecção com envio focado para 4 a 5 empresários."
+    },
+    {
+      "t": "02:14:41",
+      "texto": "Relato sobre formação autodidata na área de tecnologia e incentivo à prática contínua de programação."
+    },
+    {
+      "t": "02:45:17",
+      "texto": "Feedback sobre o posicionamento do ícone do WhatsApp no cabeçalho dos sites para facilitar contato."
+    },
+    {
+      "t": "02:51:44",
+      "texto": "Crítica construtiva aos projetos de Rafa e Mateus alertando contra sobrecarga de texto e poluição visual."
+    },
+    {
+      "t": "02:58:10",
+      "texto": "Encerramento com comemoração pelos avanços e incentivo para a comunidade colocar projetos em produção."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:15:21",
+      "titulo": "A esteira de LTV com a base existente",
+      "texto": "Vender o website é o primeiro passo para conquistar a confiança da empresa; oferecer serviços complementares como gestão de redes sociais para quem já comprou de você multiplica seu faturamento sem novo custo de aquisição."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:15:22",
+      "titulo": "Poder do foco em 4 horas diárias",
+      "texto": "Trabalhar com método e consistência durante quatro horas por dia gera tração suficiente para faturar praticamente R$ 3.000 em 17 dias."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:40:53",
+      "titulo": "Cadência matinal controlada",
+      "texto": "Dedique as primeiras horas da manhã para enviar de 4 a 5 mensagens sob medida para estabelecimentos pré-qualificados; essa consistência garante retorno previsível."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:15:21",
+      "titulo": "Momento ideal para o upsell",
+      "texto": "Após fechar o site com o cliente, verifique se ele possui demanda por gerenciamento de conteúdo nas redes sociais para agregar um plano mensal."
+    },
+    {
+      "momento": "analise",
+      "t": "02:51:44",
+      "titulo": "Evite páginas que parecem livros",
+      "texto": "O visitante mobile gasta poucos segundos na página; se o site tiver parágrafos gigantescos, o leitor desiste. Use títulos curtos, tópicos e visual limpo."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:45:17",
+      "titulo": "Acessibilidade do botão de WhatsApp",
+      "texto": "Mantenha o botão de contato do WhatsApp sempre visível, seja no topo do cabeçalho ou flutuando no canto da tela, com mensagem inicial pronta para envio."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:30:16",
+      "titulo": "Desenvolva ferramentas internas úteis",
+      "texto": "Criar um painel simples de aprovação de criativos economiza horas de troca de mensagens com clientes e transforma a entrega da sua agência em algo profissional e escalável."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:21:32",
+      "titulo": "Agilidade combinando texto e áudio",
+      "texto": "Toda a prospecção do desafio é feita pelo WhatsApp, mesclando mensagens de texto com áudios curtos para estabelecer proximidade."
+    },
+    {
+      "momento": "preco",
+      "t": "00:30:16",
+      "titulo": "Mensalidade acessível de redes sociais",
+      "texto": "Cobrar R$ 300 por mês para criar e gerenciar postagens é um valor de baixo atrito para o pequeno empresário e constrói renda previsível."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:15:12",
+      "titulo": "Composição sólida da carteira",
+      "texto": "Com os quatro clientes ativos (Lavanderia Lord, Jui Clima, MS Engenharia e Storm), a agência passa a ter estabilidade de caixa e histórico comprovado para atrair novos contratos."
+    },
+    {
+      "momento": "erros",
+      "t": "02:51:44",
+      "titulo": "Excesso de elementos na primeira dobra",
+      "texto": "Sobrecarga de textos, efeitos pesados e menus com colunas excessivas atrapalham a conversão no celular; seja direto e funcional."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "00:18:30",
+      "titulo": "Abordagem de upsell de redes sociais (exemplo adaptado a partir da aula)",
+      "texto": "[Exemplo adaptado a partir da aula com a oferta de R$ 300/mês]: 'Olá! Agora que o seu site está no ar, notei que o perfil da sua empresa nas redes sociais tem poucas postagens. Como os clientes que chegam pelo Google também buscam o Instagram, podemos cuidar das suas publicações semanais por uma mensalidade de R$ 300. Se fizer sentido para você, já incluímos na sua esteira!'"
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:30:16",
+      "titulo": "Estrutura de painel para aprovação de criativos (exemplo adaptado a partir da aula)",
+      "texto": "[Exemplo adaptado a partir da aula]: 'Crie a estrutura de um painel web minimalista para aprovação de postagens de redes sociais. O painel deve conter uma visualização em calendário mensal, cards para cada post com a imagem do criativo, legenda, data prevista, e dois botões de ação para o cliente: Aprovar (verde) e Solicitar Alteração (com campo de observações).'"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Mateus",
+      "pergunta": "Envia contrato pros clientes?",
+      "resposta": "Não, Mateus, a gente formaliza ou por e-mail ou pelo WhatsApp, tá?",
+      "t": "00:16:08"
+    },
+    {
+      "autor": "Mateus",
+      "pergunta": "Tem que ter alguma quantidade de inscritos para o YouTube aceitar donate nas lives?",
+      "resposta": "Tem. A gente já bateu os requisitos lá do YouTube, só eles ainda não liberaram, tá?",
+      "t": "00:23:58"
+    },
+    {
+      "autor": "Júlia",
+      "pergunta": "Onde posso ver a construção dos sites anteriores?",
+      "resposta": "Todas as lives, Júlia. Pega as lives lá do dia um que a gente construiu todos esses sites aqui em live, tá? Todos, inclusive o meu próprio site a gente construiu aqui em live.",
+      "t": "00:45:16"
+    },
+    {
+      "autor": "Alan",
+      "pergunta": "Chegando agora no canal. Qual o foco?",
+      "resposta": "O foco era fazer um salário mínimo vendendo site em até 30 dias, mas a gente já bateu isso na live 14.",
+      "t": "01:00:31"
+    },
+    {
+      "autor": "Vitor",
+      "pergunta": "Qual modelo do Antigravity você recomenda?",
+      "resposta": "Depende da tarefa: eu uso a 3.8 Flash no médio e uso a 3.1 Pro no low. Em alguns casos fiz site usando os dois e para mim a diferença é pequena.",
+      "t": "01:17:58"
+    },
+    {
+      "autor": "Johnny",
+      "pergunta": "Sua cadência de prospecção sempre é pela manhã? Quantas pessoas você aborda?",
+      "resposta": "Poucas, Johnny: quatro a cinco pessoas por dia.",
+      "t": "01:40:53"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor principal utilizado para o desenvolvimento do SaaS de gestão e aprovação de postagens."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão assistente de programação com IA para geração ágil de componentes de interface."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Planejamento dos fluxos de aprovação de conteúdo e elaboração de roteiros comerciais de upsell."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Repositório privado com controle de versão do sistema web e sincronização contínua."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem em nuvem de alta performance para os sites e aplicações dos clientes."
+    },
+    {
+      "nome": "Monitor Super Frame 34 polegadas",
+      "uso": "Equipamento ultrawide utilizado no setup para visualização simultânea de código e visualizadores."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:03:53",
+      "texto": "Saiu mais alguma venda? Saiu, o cliente da Storm entrou em contato com a gente. Chegamos aos R$ 2.990."
+    },
+    {
+      "t": "00:15:21",
+      "texto": "Três desses clientes pediram se a gente faz redes sociais. Então é muito mais fácil a gente agregar serviço para esse cliente do que tentar vender para outro."
+    },
+    {
+      "t": "00:30:16",
+      "texto": "Isso vai aumentar o quê? O nosso MRR, né, gente? Hoje gestão de redes sociais aí dá para cobrar uns R$ 300 por mês."
+    },
+    {
+      "t": "01:15:22",
+      "texto": "Chegamos a R$ 2.990, praticamente R$ 3.000, trabalhando 17 dias, 4 horas por dia."
+    },
+    {
+      "t": "02:51:44",
+      "texto": "O cara entra no teu site e não pode sair com a sensação de ter lido um livro: precisa ser direto e visual."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Desenho de proposta de upsell para clientes de website",
+      "passos": [
+        "Defina um pacote simples de redes sociais para empresas locais (ex: 2 a 3 criativos semanais com artes e legendas)",
+        "Calcule um valor mensal atrativo (entre R$ 200 e R$ 350) que caiba no orçamento de um comércio de bairro",
+        "Escreva uma mensagem de pós-entrega apresentando como a presença no Instagram complementa as visitas do site",
+        "Envie a proposta ao cliente logo após a publicação bem-sucedida da landing page dele"
+      ],
+      "resultado": "Proposta estruturada de gestão mensal de postagens pronta para ser apresentada a clientes de website.",
+      "fonte_t": "00:18:30"
+    },
+    {
+      "titulo": "Criação de interface simplificada de aprovação de posts",
+      "passos": [
+        "Crie um arquivo HTML/CSS básico no VS Code estruturando um card de publicação",
+        "Inclua campos para imagem de prévia, título do post, texto da legenda e data planejada",
+        "Adicione dois botões: 'Aprovar Criativo' em verde e 'Pedir Ajuste' em tom neutro",
+        "Adicione um script simples em JavaScript para alternar o status do card para 'Aprovado' ao clicar no botão verde"
+      ],
+      "resultado": "Componente visual de card de publicação com botões de aprovação e solicitação de ajuste funcional.",
+      "fonte_t": "00:30:16"
+    },
+    {
+      "titulo": "Auditoria de legibilidade e botão de conversão no smartphone",
+      "passos": [
+        "Abra o seu site de portfólio no navegador e ative a ferramenta de inspeção móvel (largura de 375px a 412px)",
+        "Verifique se o botão flutuante de WhatsApp permanece visível e acessível durante toda a rolagem",
+        "Revise todos os textos da página garantindo que nenhum bloco tenha mais de 3 linhas contínuas sem espaçamento",
+        "Assegure que os títulos das seções comuniquem os benefícios do serviço de forma imediata"
+      ],
+      "resultado": "Layout mobile revisado com textos enxutos e botão de WhatsApp posicionado de forma visível na tela.",
+      "fonte_t": "02:51:44"
+    }
+  ]
+}

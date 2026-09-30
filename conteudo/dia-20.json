@@ -1,0 +1,674 @@
+{
+  "dia": 20,
+  "slug": "dia-20",
+  "srt": "srt/dia-20.srt",
+  "titulo": "Dia 20 | Vibe Coding: R$2.990 + MRR: R$199,60 Vendendo Sites com IA",
+  "nome": "Balanço do primeiro mês e o Microsoft Clarity",
+  "data": "2026-09-28",
+  "duracao": "2:54:45",
+  "youtube": "https://www.youtube.com/watch?v=mQ2PIeroutw",
+  "faturamento": "R$ 2.990",
+  "mrr": "R$ 199,60",
+  "resumo": "No vigésimo dia, segunda-feira e véspera do fim do mês, Junior faz o balanço do primeiro mês do desafio com o CRM que construiu: 25 empresas abordadas, 11 a 12 propostas, quatro sites vendidos, R$ 2.991,60 em vendas registradas e R$ 199,60 de MRR, com lucro de cerca de R$ 2.500 e trabalho de 4 horas por dia. Ele conta como os preços subiram de R$ 497 para R$ 799 conforme o portfólio crescia, libera os prompts do CRM no Drive e responde a muitas dúvidas sobre cobrança recorrente, domínio, WhatsApp e nichos. Depois pesquisa dentistas no Nexar Hunter, faz uma prospecção ao vivo por áudio e, no fim, instala o Microsoft Clarity (gravação de sessões e mapas de calor) em seu site com o Antigravity.",
+  "destaques": [
+    "Balanço do mês: 25 empresas abordadas, 11 propostas (12 com a loja de baterias) e 4 vendas; três vendas vieram da metodologia de fazer o site antes e uma da abordagem sem mostrar nada visual, o que mostrou que a taxa é bem melhor com prévia.",
+    "O CRM registra R$ 2.991,60 em vendas e R$ 199,60 de MRR; a mensalidade é cobrada já no primeiro mês junto com o site, então o MRR não deve ser somado de novo ao acumulado. Com despesas baixas, o lucro apontado é de cerca de R$ 2.500.",
+    "O Microsoft Clarity, gratuito, grava a navegação dos visitantes (cursor, cliques, mapas de calor) e Junior o instala em todos os sites, inclusive dos clientes, como material de pós-venda junto com o Analytics."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:05:22",
+      "texto": "Abre a live dizendo que o dia foi de refinar o CRM porque o mês está acabando; promete liberar os prompts do CRM."
+    },
+    {
+      "t": "00:06:34",
+      "texto": "Responde sobre pegar projetos de graça para portfólio: escolher empresas com potencial de compra; se não comprarem, viram portfólio."
+    },
+    {
+      "t": "00:09:39",
+      "texto": "Diz que sites 3D interativos dão muito trabalho e convertem pouco, servindo mais como portfólio próprio."
+    },
+    {
+      "t": "00:12:19",
+      "texto": "Mostra o Search Console já rastreando o site e o Analytics com os primeiros números."
+    },
+    {
+      "t": "00:15:50",
+      "texto": "Conta que testou o Codex no fim de semana: fez um mockup de loja de baterias em meia hora, mas gastou muitos tokens."
+    },
+    {
+      "t": "00:19:56",
+      "texto": "Explica a diferença entre Antigravity (IDE) e Gemini (modelo) para quem estava confuso com a instalação."
+    },
+    {
+      "t": "00:23:37",
+      "texto": "Apresenta a conta do mês: 25 empresas abordadas, 11 com proposta enviada e 4 vendas."
+    },
+    {
+      "t": "00:24:17",
+      "texto": "Orienta cadastrar o domínio no nome do cliente e entregar o site pronto, sem pedir que ele contrate hospedagem."
+    },
+    {
+      "t": "00:25:21",
+      "texto": "Compara as duas metodologias: fazer o site antes (três vendas) e abordar sem mostrar nada (uma venda)."
+    },
+    {
+      "t": "00:27:15",
+      "texto": "Mostra o Nexar Hunter, pesquisa por segmento e cidade com filtro de IA e opção de disparo em massa que ainda não usa."
+    },
+    {
+      "t": "00:29:40",
+      "texto": "Faz o resumo das vendas do mês no CRM, começando pela lavanderia (R$ 497 mais mensalidade) e pela Juí Clima."
+    },
+    {
+      "t": "00:32:49",
+      "texto": "Explica por que começou cobrando R$ 497 e como criou o próprio site para gerar credibilidade."
+    },
+    {
+      "t": "00:35:14",
+      "texto": "Conta o caminho: sem portfólio, dois sites a R$ 497, depois o ticket a R$ 799 e mais dois sites; a meta agora é chegar a R$ 3.500."
+    },
+    {
+      "t": "00:38:56",
+      "texto": "Diz o que analisa antes de abordar: estrutura física, Instagram atualizado e ficha no Google Meu Negócio."
+    },
+    {
+      "t": "00:39:44",
+      "texto": "Explica a cobrança recorrente no cartão pelo Mercado Pago e cita Asaas, InfinitePay e PagBank como alternativas."
+    },
+    {
+      "t": "00:40:43",
+      "texto": "Lança no CRM MS Engenharia e Storm Automotivo a R$ 799 e mensalidade; o total fica em R$ 2.991,60 em vendas e R$ 199,60 de MRR."
+    },
+    {
+      "t": "00:42:37",
+      "texto": "Gera o documento com a sequência de prompts do CRM e mostra a estrutura (GitHub, Supabase, Vercel, financeiro, MRR e relatórios)."
+    },
+    {
+      "t": "00:49:16",
+      "texto": "Lança as despesas no CRM: Nexar Hunter (plano Starter de R$ 79) e a assinatura do Gemini."
+    },
+    {
+      "t": "00:51:06",
+      "texto": "Diz que cobra a mensalidade já no primeiro mês e que é preciso perder o medo de cobrar."
+    },
+    {
+      "t": "00:55:25",
+      "texto": "Mostra o fluxo de caixa: R$ 2.991 em vendas, despesas baixas e lucro de cerca de R$ 2.500 em 20 dias de trabalho de 4 horas."
+    },
+    {
+      "t": "01:02:26",
+      "texto": "Projeta as despesas do mês seguinte: só o Nexar Hunter, pois o Gemini já está pago por 18 meses."
+    },
+    {
+      "t": "01:03:24",
+      "texto": "Apresenta o Live Pix para perguntas, com valor mínimo de R$ 2."
+    },
+    {
+      "t": "01:07:42",
+      "texto": "Responde sobre comprar um MacBook: não é obrigatório, o importante é começar."
+    },
+    {
+      "t": "01:11:41",
+      "texto": "Responde que não pede autorização antes de fazer o mockup, comparando com um presente personalizado."
+    },
+    {
+      "t": "01:18:02",
+      "texto": "Explica o fluxo de mockup: ChatGPT com logo e print do Instagram, depois prompts rodados no VS Code."
+    },
+    {
+      "t": "01:22:19",
+      "texto": "Dá orientações para começar com chip novo no WhatsApp: cinco mensagens no primeiro dia, subir aos poucos, nunca mais de 20 por dia."
+    },
+    {
+      "t": "01:24:18",
+      "texto": "Fala da área de membros do canal e discute com a turma qual seria um valor acessível."
+    },
+    {
+      "t": "01:35:55",
+      "texto": "Recebe o contato técnico do Registro.br da mecânica e prepara a troca de DNS para colocar o site da Storm no ar."
+    },
+    {
+      "t": "01:43:27",
+      "texto": "Retoma contato com um advogado interessado, que pede para segurar a oferta até quarta-feira, dia 30."
+    },
+    {
+      "t": "01:51:51",
+      "texto": "Mostra a extensão de mobile no VS Code e no Chrome, lembrando que cerca de 70% das visitas vêm do celular."
+    },
+    {
+      "t": "01:53:45",
+      "texto": "Lista os clientes pendentes (Água Pura, advogado e loja de baterias) e decide buscar novos leads."
+    },
+    {
+      "t": "01:56:31",
+      "texto": "Pede ideias de nichos e pesquisa odontologia no Nexar Hunter, analisando Instagram e Google Meu Negócio de cada consultório."
+    },
+    {
+      "t": "02:13:15",
+      "texto": "Prospecta ao vivo um dentista conhecido cujo site está fora do ar, enviando print e áudio de oferta."
+    },
+    {
+      "t": "02:21:46",
+      "texto": "Responde ao dentista sobre preço e envia a oferta escrita, com exemplos de sites já feitos."
+    },
+    {
+      "t": "02:36:45",
+      "texto": "Apresenta o Microsoft Clarity e explica que grava o comportamento dos usuários no site."
+    },
+    {
+      "t": "02:37:14",
+      "texto": "Cria o projeto no Clarity e pede ao Antigravity para instalar o código no site."
+    },
+    {
+      "t": "02:39:25",
+      "texto": "Integra o Clarity ao Google Analytics."
+    },
+    {
+      "t": "02:48:08",
+      "texto": "Mostra o Clarity já registrando a sessão, com cursor, cliques e páginas visitadas."
+    },
+    {
+      "t": "02:52:54",
+      "texto": "Encerra com os planos: organizar Search Console e Analytics dos clientes, cadastrar taxas no CRM e focar nos quatro pendentes."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:06:34",
+      "titulo": "Projeto de graça só para quem pode comprar",
+      "texto": "Se for fazer um site sem cobrar antes, escolha empresas que você analisou e que têm potencial; se comprarem, você já tem o trabalho, se não, vira portfólio."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:59:12",
+      "titulo": "Calcule o que investiu",
+      "texto": "Ele calcula que investiu menos de R$ 500 para faturar cerca de R$ 3.000 trabalhando 4 horas por dia, e pergunta à turma se vale a pena."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:00:20",
+      "titulo": "Seu tempo é seu salário",
+      "texto": "O tempo gasto entra como custo de mão de obra; ele ainda não definiu quanto vai tirar para si e a ideia é reinvestir, talvez em tráfego."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:07:42",
+      "titulo": "Comece com o equipamento que tem",
+      "texto": "Um MacBook ajuda na apresentação, mas não é obrigatório; ele usa Mac e Windows e diz que o mais importante é começar."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:25:21",
+      "titulo": "Mostrar algo visual funciona melhor",
+      "texto": "Das quatro vendas, três vieram da metodologia de escolher a empresa, fazer o site e depois vender, e uma da abordagem sem mostrar nada; a taxa é pior sem prévia."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:38:56",
+      "titulo": "Analise antes de abordar",
+      "texto": "Olhe a estrutura da empresa, o Instagram (se posta stories, se importa com o digital) e o Google Meu Negócio; perfil parado há um ano é bem mais difícil de convencer."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:38:04",
+      "titulo": "Use o seu número e o seu Instagram",
+      "texto": "É mais fácil vender para quem já conhece você; use seu WhatsApp pessoal, seu Instagram e a sua presença, e apresente-se com o seu nome em vez do de uma agência."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:10:18",
+      "titulo": "Venda também para conhecidos",
+      "texto": "Fechar com conhecidos é mais fácil do que com estranhos; um dos sites vendidos, o da MS Engenharia, foi para um conhecido."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:44:01",
+      "titulo": "Melhor nicho é onde se chega ao dono",
+      "texto": "Prestadores de serviço e microempreendedores costumam atender no próprio WhatsApp; clínicas exigem passar pela secretária, então o script precisa considerar o atendimento."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:22:19",
+      "titulo": "Chip novo: comece devagar",
+      "texto": "No primeiro dia entre em grupos e interaja; comece com cinco mensagens, suba para sete no dia seguinte e nunca mande mais de 20 por dia."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:47:18",
+      "titulo": "Uma resposta a cada 50",
+      "texto": "Segundo ele, a média é uma resposta a cada 50 prospectados; ficar sem retorno é normal."
+    },
+    {
+      "momento": "analise",
+      "t": "01:57:57",
+      "titulo": "Filtre no Hunter e confira o perfil",
+      "texto": "No Nexar Hunter a IA já deixa de fora quem tem site; mesmo assim, olhe o Instagram, o Google Meu Negócio e teste se o número do WhatsApp é válido."
+    },
+    {
+      "momento": "analise",
+      "t": "02:01:36",
+      "titulo": "Foco na pessoa ou na clínica?",
+      "texto": "Depende do que o profissional promove no Instagram e no Google Meu Negócio: se ele promove o próprio nome, o site trabalha em cima do nome dele."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:09:39",
+      "titulo": "Site interativo 3D não converte",
+      "texto": "Sites com 3D e animação dão muito trabalho e convertem pouco; lavanderias, climatização e oficinas querem algo direto ao ponto e ele já removeu esses efeitos a pedido de clientes."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:18:02",
+      "titulo": "Fluxo do mockup ao site",
+      "texto": "No ChatGPT envie a logo e o print do Instagram, peça o mockup, as imagens e os prompts; depois rode os prompts no VS Code com o Antigravity."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:44:19",
+      "titulo": "Só a primeira dobra já basta",
+      "texto": "Em vez de construir o site inteiro para prospectar, envie as informações da empresa e o print das redes sociais e gere apenas o mockup para mostrar ao cliente."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:51:51",
+      "titulo": "Prévia no celular",
+      "texto": "Use a extensão de mobile no VS Code ou o Chrome; o preview no celular é o principal, porque o cliente abre o site primeiro no telefone."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:40:08",
+      "titulo": "Não use o modo alto em ajustes simples",
+      "texto": "Quando o Antigravity demora, evite o esforço alto para alterações simples; use médio ou baixo para economizar tokens e ir mais rápido."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:36:45",
+      "titulo": "Microsoft Clarity nos sites",
+      "texto": "Ferramenta gratuita que grava o cursor, os cliques e as sessões e gera mapas de calor; instale o código pedindo ao Antigravity e integre ao Google Analytics."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "01:19:35",
+      "titulo": "Bom dia primeiro",
+      "texto": "Junior abre com um bom dia para gerar curiosidade, depois se apresenta e segue a conversa; o script completo está no grupo."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:45:52",
+      "titulo": "Como não parecer golpe",
+      "texto": "Mostre trabalhos anteriores ou envie uma prévia do site em dois dias; se puder, coloque no ar para o cliente ver que é real."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:08:15",
+      "titulo": "Mostrar o site antes de vender",
+      "texto": "Foi o que mais funcionou para ele. Um espectador sugeriu, aos 01:51:37, não criar o site completo antes de confirmar o interesse do cliente, principalmente com IAs de custo alto."
+    },
+    {
+      "momento": "preco",
+      "t": "00:14:40",
+      "titulo": "Do R$ 497 ao R$ 799",
+      "texto": "Vendeu dois sites a R$ 497 para criar portfólio e depois subiu para R$ 799; a meta é subir mais, mas sem portfólio é difícil vender caro."
+    },
+    {
+      "momento": "preco",
+      "t": "00:19:56",
+      "titulo": "Hospedagem cara exige manutenção junto",
+      "texto": "Junior acha difícil alguém pagar R$ 129 só de hospedagem; para cobrar mais, é preciso oferecer manutenção e serviços agregados, como gestão do Google Meu Negócio ou do Instagram (00:41:51)."
+    },
+    {
+      "momento": "preco",
+      "t": "00:39:44",
+      "titulo": "Cobrança recorrente no cartão",
+      "texto": "No Mercado Pago o cliente cadastra o cartão e a mensalidade é cobrada automaticamente, sem boleto; Asaas, InfinitePay e PagBank fazem o mesmo."
+    },
+    {
+      "momento": "preco",
+      "t": "01:00:56",
+      "titulo": "Recebimento na hora",
+      "texto": "A vantagem do Mercado Pago para ele é receber o valor na hora, com o dinheiro disponível assim que o site é vendido."
+    },
+    {
+      "momento": "preco",
+      "t": "02:45:23",
+      "titulo": "Valor mínimo para micro-empresário",
+      "texto": "Ele cita R$ 799 e diz que depende do seu portfólio e de quanto é o mínimo viável para você atender."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:24:17",
+      "titulo": "Domínio no nome do cliente",
+      "texto": "Pegue nome completo, CPF e endereço do cliente, cadastre o domínio em sua conta no nome dele e passe a propriedade depois se ele pedir; não cadastre no seu nome."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:51:06",
+      "titulo": "Cobre a mensalidade desde o primeiro mês",
+      "texto": "A hospedagem precisa ser paga na hora para liberar acesso; cobre o primeiro mês junto com o site e não tenha medo de cobrar."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:53:13",
+      "titulo": "Link de pagamento após a aprovação",
+      "texto": "Quando o cliente aceita o projeto, ele envia o link de pagamento e só dá sequência depois que o cliente paga."
+    },
+    {
+      "momento": "fechamento",
+      "t": "01:14:27",
+      "titulo": "Se o cliente não comprar, vira portfólio",
+      "texto": "Retire a marca, a logo e as referências do cliente e use o site como portfólio ou como mockup para vender a empresas do mesmo segmento."
+    },
+    {
+      "momento": "erros",
+      "t": "00:53:30",
+      "titulo": "Medo de cobrar",
+      "texto": "Sentir-se mal em cobrar trava as vendas; Junior compara com o caixa do mercado, que não deixa ninguém sair sem pagar."
+    },
+    {
+      "momento": "erros",
+      "t": "01:42:42",
+      "titulo": "Plano gratuito da Vercel e uso comercial",
+      "texto": "Um espectador apontou que os planos grátis da Vercel não permitem uso comercial e Junior confirmou que não pode; revise os termos do plano antes de hospedar site de cliente."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "02:16:01",
+      "titulo": "Áudio de oferta para conhecido com site fora do ar",
+      "texto": "Eu tenho agência de marketing e estou olhando alguns sites de conhecidos mais próximos. Estamos com 50% de desconto na criação dos sites profissionais e sobraram algumas vagas; estou chamando os mais próximos para oferecer um site moderno, atualizado, que vai atrair mais clientes. (Áudio ao vivo, resumido a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:19:29",
+      "titulo": "Proposta em áudio ao dentista",
+      "texto": "Se você tiver interesse, eu apresento uma proposta para deixar o seu site bem profissional e atrativo. Tenho experiência desde 2012 nessa área e posso mandar o meu portfólio das empresas daqui. Com 50% de desconto o valor fica muito acessível, e o site pode trazer uma maneira de agendar mais consultas. (Áudio ao vivo, resumido a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:21:17",
+      "titulo": "Oferecer mockup sem compromisso",
+      "texto": "Posso fazer um mockup, o modelo, sem compromisso? (Mensagem enviada ao vivo.)"
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:23:49",
+      "titulo": "Oferta escrita com o que está incluso",
+      "texto": "Criação de website em 10 vezes no cartão. Inclui cadastro no Google, versão para celular e contato pelo WhatsApp. Hospedagem com mensalidade (valor lido pela legenda automática como R$ 9,90; o MRR do desafio corresponde a R$ 49,90 por cliente). Prazo de entrega de 7 dias logo após a aprovação do layout. (Oferta lida ao vivo, texto ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "02:38:09",
+      "titulo": "Instalar o código do Microsoft Clarity",
+      "texto": "Adicione no código do nosso site este código. (Em seguida, cole o código de instalação manual copiado do Clarity.) (Ditado ao vivo, ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:20:00",
+      "titulo": "Corrigir botão que sumiu no portfólio",
+      "texto": "Sumiu o botão \"mostrar mais\" que levaria ao carregamento dos demais sites do portfólio. Arrume. (Ditado ao vivo, ajustado a partir da transcrição automática.)"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Vittor",
+      "pergunta": "O que você acha de sites mais interativos com animação em 3D?",
+      "resposta": "Dá muito trabalho e converte pouco; serve como portfólio próprio, mas para cliente ele não acredita que traga tanto resultado, e clientes dele já pediram para remover esses efeitos.",
+      "t": "00:09:39"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você integrou a API oficial do WhatsApp no CRM?",
+      "resposta": "Ainda não; por enquanto o CRM é apenas organizacional.",
+      "t": "00:09:16"
+    },
+    {
+      "autor": null,
+      "pergunta": "Existe algum esquema para o cliente não copiar ou clonar o código do site?",
+      "resposta": "Não existe; por isso, cobre mais caro e entregue o código.",
+      "t": "00:10:49"
+    },
+    {
+      "autor": "Caco",
+      "pergunta": "Você cobra R$ 3.000 por site mais uma mensalidade?",
+      "resposta": "Não. Vendeu dois sites a R$ 497 e depois dois a R$ 799 e hoje vende a R$ 799, querendo subir mais; a mensalidade é a hospedagem, que compõe o MRR.",
+      "t": "00:14:40"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "Preciso baixar a extensão do Antigravity e do Gemini no VS Code?",
+      "resposta": "Só o Antigravity: ele é a IDE e já traz o modelo Gemini, como o 3.8 Flash e o 3.1 Pro.",
+      "t": "00:19:56"
+    },
+    {
+      "autor": "Artur",
+      "pergunta": "Como você faz a prospecção?",
+      "resposta": "Pelo Nexar Hunter, pesquisando por segmento e cidade, com uma IA que filtra as empresas.",
+      "t": "00:27:13"
+    },
+    {
+      "autor": "Eduardo",
+      "pergunta": "O que você analisa antes de abordar? A maioria pede o mockup e depois não responde.",
+      "resposta": "Olha a estrutura da empresa, o Instagram (atualizado ou parado), o Google Meu Negócio; quem posta stories se importa com o digital e é mais fácil de fechar.",
+      "t": "00:38:56"
+    },
+    {
+      "autor": null,
+      "pergunta": "Os clientes pediram nota fiscal?",
+      "resposta": "Não pediram; quando não tinha CNPJ e alguém precisava, ele emitia uma nota de serviço por meio da loja de um amigo, pagando o imposto.",
+      "t": "00:37:50"
+    },
+    {
+      "autor": "Rafa",
+      "pergunta": "Você entrega o repositório do CRM?",
+      "resposta": "Não, o repositório tem dados de clientes; ele entrega um site estático, e o banco de dados do CRM tem backup dentro do repositório.",
+      "t": "00:43:21"
+    },
+    {
+      "autor": "Mateus",
+      "pergunta": "Em qual live você usou bem o Nexar Hunter?",
+      "resposta": "A prospecção ao vivo mais forte foi na live 12 ou 13, mas o YouTube derrubou a live por conteúdo sensível ao mostrar o WhatsApp, então não mostra mais.",
+      "t": "00:51:39"
+    },
+    {
+      "autor": null,
+      "pergunta": "A mensalidade já é cobrada no primeiro mês?",
+      "resposta": "Sim, junto com o valor do site, porque a hospedagem precisa ser paga na hora; quem contrata Hostinger, por exemplo, paga antes de liberar o acesso.",
+      "t": "00:51:06"
+    },
+    {
+      "autor": "David",
+      "pergunta": "O tempo gasto no projeto entra como custo?",
+      "resposta": "Sim, é mão de obra e vira o seu salário; ele ainda não definiu quanto vai tirar dos cerca de R$ 2.500 e a ideia é reinvestir.",
+      "t": "01:00:20"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quantas pessoas por dia você aborda no WhatsApp para evitar banimento?",
+      "resposta": "Não mais de 15 por dia, e ele tem abordado menos.",
+      "t": "00:58:12"
+    },
+    {
+      "autor": "Xavier",
+      "pergunta": "Vale comprar um MacBook para começar e apresentar os projetos?",
+      "resposta": "Se tiver condições, vale, mas não é obrigatório; ele usa Mac e Windows, e um notebook ajuda a visitar clientes, com conversão presencial mais alta.",
+      "t": "01:07:42"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você precisa da autorização do cliente para fazer o mockup do site dele?",
+      "resposta": "Não; é um produto personalizado, como um presente com a logo da empresa, e ninguém liga para isso.",
+      "t": "01:12:15"
+    },
+    {
+      "autor": "Vittor",
+      "pergunta": "Devo começar com um chip novo?",
+      "resposta": "Ele começou com chip novo: no primeiro dia entre em grupos, envie cinco mensagens, depois sete e vá subindo, sem passar de 20 por dia.",
+      "t": "01:22:19"
+    },
+    {
+      "autor": "Lucas",
+      "pergunta": "Para SaaS, é melhor fundo claro ou escuro?",
+      "resposta": "Depende da identidade da empresa; ele prefere fundo claro, embora o site dele e um dos clientes usem fundo escuro.",
+      "t": "01:54:42"
+    },
+    {
+      "autor": "Kiron",
+      "pergunta": "Li na Vercel que sites grátis não podem ser comerciais; é assim?",
+      "resposta": "Ele respondeu que não pode e que há muita coisa assim; a live não trouxe uma solução para o caso.",
+      "t": "01:42:42"
+    },
+    {
+      "autor": "Ludo",
+      "pergunta": "O Clarity deixa o site mais lento?",
+      "resposta": "Não; ele instala em todos os projetos e nunca percebeu lentidão.",
+      "t": "02:43:46"
+    },
+    {
+      "autor": "Ítalo",
+      "pergunta": "Qual o valor mínimo para micro-empresário prestador de serviço?",
+      "resposta": "R$ 799, dependendo do seu portfólio e do mínimo viável para você.",
+      "t": "02:45:23"
+    },
+    {
+      "autor": "Kelbin",
+      "pergunta": "Os clientes acham que é golpe ou bloqueiam; como agir?",
+      "resposta": "É normal. Mostre trabalhos ou envie uma prévia em dois dias, coloque no ar para ver que é real; quando bloqueiam, é a rotina do vendedor.",
+      "t": "02:45:52"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você acha útil ter chatbot nos sites?",
+      "resposta": "Ele acha que a conexão com o WhatsApp gera mais credibilidade, pois hoje ninguém quer ser atendido por chatbot.",
+      "t": "02:30:08"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "CRM próprio (JRCRM)",
+      "uso": "Resumo das vendas do mês, MRR, contas a pagar e fluxo de caixa; roda em Supabase com GitHub e foi colocado no ar fora da live."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "IDE com o modelo Gemini; usada para instalar o Clarity e corrigir o portfólio no site."
+    },
+    {
+      "nome": "VS Code",
+      "uso": "Editor onde o Antigravity roda, com extensão de preview mobile e servidor local."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospecção por segmento e cidade, com IA que filtra empresas sem site; plano Starter de R$ 79 lançado como despesa."
+    },
+    {
+      "nome": "Microsoft Clarity",
+      "uso": "Grava sessões, cliques, cursor e mapas de calor do site, é gratuito e foi integrado ao Google Analytics."
+    },
+    {
+      "nome": "Google Search Console",
+      "uso": "Mostrado com o site já rastreado após a configuração de SEO da sexta-feira."
+    },
+    {
+      "nome": "Google Analytics",
+      "uso": "Já com números iniciais e integrado ao Clarity."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Gera os mockups dos sites (com a skill de mockup de Junior), as imagens e os prompts."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Cobrança única e recorrente no cartão, com recebimento na hora."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Domínio da mecânica e troca de DNS para colocar o site da Storm no ar."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem dos sites de clientes e do CRM."
+    },
+    {
+      "nome": "Live Pix",
+      "uso": "Ferramenta para receber perguntas pagas na tela da live, com valor mínimo de R$ 2."
+    },
+    {
+      "nome": "Google Drive",
+      "uso": "Guarda o documento com a sequência de prompts do CRM, o script de vendas e o guia do CRM, compartilhados no grupo."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:25:21",
+      "texto": "Das quatro vendas, três vieram de escolher a empresa, fazer o site e depois vender; a taxa é bem pior quando você tenta vender sem mostrar nada visual."
+    },
+    {
+      "t": "00:24:58",
+      "texto": "Não façam a bobagem de cadastrar o domínio no seu nome; façam pelo menos no nome do cliente."
+    },
+    {
+      "t": "00:33:51",
+      "texto": "Se você não vendeu nenhum site, venda mais barato e construa o portfólio; se a empresa não quiser pagar, tira a logo e a identidade e vira mockup."
+    },
+    {
+      "t": "00:51:28",
+      "texto": "Não pode ter medo de cobrar do cliente; ninguém trabalha de graça."
+    },
+    {
+      "t": "00:57:39",
+      "texto": "Trabalhamos 4 horas por dia e fizemos esse resultado; tudo isso foi com venda de site."
+    },
+    {
+      "t": "02:42:26",
+      "texto": "O Clarity eu instalo em todos os sites, inclusive dos clientes, porque gera todo um pós-venda para o cliente."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Fazer o balanço do seu mês",
+      "passos": [
+        "Anote quantas empresas você abordou, quantas receberam proposta com valor e quantas fecharam.",
+        "Registre cada venda com o valor do site e a mensalidade, em uma planilha ou em um CRM simples.",
+        "Lance as despesas do mês (ferramentas, domínio, taxas de pagamento).",
+        "Calcule vendas menos despesas para achar o lucro e compare com a sua meta."
+      ],
+      "resultado": "Um resumo mensal com funil, vendas, MRR e lucro.",
+      "fonte_t": "00:23:37"
+    },
+    {
+      "titulo": "Cadastrar o domínio no nome do cliente",
+      "passos": [
+        "Peça ao cliente nome completo, CPF e endereço.",
+        "Registre o domínio na sua conta do Registro.br em nome dele.",
+        "Combine que o site será entregue pronto e que você cuidará de DNS e hospedagem.",
+        "Se ele pedir, transfira a propriedade do domínio."
+      ],
+      "resultado": "Domínio no nome do cliente e menos chamados de manutenção para você.",
+      "fonte_t": "00:24:17"
+    },
+    {
+      "titulo": "Montar a oferta escrita para enviar ao cliente",
+      "passos": [
+        "Liste o que está incluso: cadastro no Google, versão para celular e contato pelo WhatsApp.",
+        "Informe o valor do site, as condições de parcelamento, a mensalidade de hospedagem e o prazo de entrega.",
+        "Anexe imagens de sites já feitos como exemplo.",
+        "Envie pelo WhatsApp e faça o follow-up conforme o cliente responder."
+      ],
+      "resultado": "Uma mensagem de oferta clara, pronta para copiar e adaptar.",
+      "fonte_t": "02:23:49"
+    },
+    {
+      "titulo": "Instalar o Microsoft Clarity no seu site",
+      "passos": [
+        "Crie uma conta e um projeto no Microsoft Clarity e escolha a instalação manual do código.",
+        "Copie o código e peça ao Antigravity para adicioná-lo ao site.",
+        "Publique as alterações e integre o Clarity ao Google Analytics.",
+        "Espere alguns minutos e abra o painel para assistir às gravações e aos mapas de calor."
+      ],
+      "resultado": "Gravações das visitas e mapas de calor do site para mostrar ao cliente.",
+      "fonte_t": "02:37:14"
+    }
+  ]
+}

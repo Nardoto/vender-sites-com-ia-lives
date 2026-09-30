@@ -1,0 +1,1280 @@
+{
+  "titulo": "Guia do iniciante: da primeira busca à primeira entrega, passo a passo",
+  "introducao": "Siga esta sequência sugerida para praticar: cada ação traz instruções, resultado esperado, checklist e o trecho da live correspondente. Os capítulos continuam organizados por dia de gravação, incluindo a transmissão conjunta dos dias 14 e 15.\n\nO método evolui ao longo das aulas; quando houver alternativas, escolha a que se aplica ao seu projeto. Os valores são os citados nas lives, não tarifas atuais nem promessa de resultado. Confira os links oficiais nos passos de ferramentas, preços e publicação.",
+  "passos": [
+    {
+      "id": "entender-modelo-e-meta",
+      "titulo": "Entender o modelo e definir a sua meta",
+      "objetivo": "Saber o que você vai vender, para quem e como vai medir o progresso antes de abrir qualquer ferramenta.",
+      "prerequisitos": [
+        "Nenhum conhecimento avançado de programação: nas lives, a IA gera o código e a pessoa orienta as correções e avalia o visual.",
+        "Disposição para abordar empresas reais, ouvir recusas e continuar."
+      ],
+      "comoFazer": [
+        "Entenda o modelo mostrado: em vez de apresentar portfólio, você monta um site de demonstração da própria empresa que quer atender, publica em um link e só depois aborda o dono. O cliente vê o negócio dele funcionando, o que reduz a desconfiança.",
+        "Escreva a sua meta e quebre em vendas. No desafio, a meta era um salário mínimo e a conta era quatro sites de R$ 497. Use os seus próprios números; o apresentador diz que cada pessoa define o preço que quer cobrar.",
+        "Reserve um ritmo de trabalho que você consiga repetir. Nas lives, duas a três horas por dia aparecem como mais previsíveis do que picos esporádicos de esforço. Nos balanços das lives finais, ele fala em cerca de quatro horas de trabalho por dia; ajuste ao tempo que você realmente tem.",
+        "Decida se apresentar com a sua identidade real. Operando sozinho, o conselho é usar a marca pessoal e não fingir ser uma agência grande, porque o comerciante local prefere falar direto com quem faz o trabalho.",
+        "Aceite de antemão que recusa faz parte da venda: agradeça, deixe a porta aberta e passe para o próximo contato da lista."
+      ],
+      "resultadoEsperado": "Uma meta escrita em número de vendas, o modelo de trabalho compreendido e a decisão de começar pelo mercado da sua região.",
+      "checklist": [
+        "Consigo explicar em uma frase por que mostro uma demonstração pronta em vez de um portfólio.",
+        "Escrevi a minha meta e a conta em número de sites.",
+        "Defini quantas horas por dia posso dedicar.",
+        "Sei como vou me apresentar (nome e marca pessoal).",
+        "Estou preparado para receber respostas negativas sem desistir."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:10:32",
+          "assunto": "Estratégia de agir como iniciante e usar a demonstração do site do cliente no lugar do portfólio"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:30:15",
+          "assunto": "Conta da meta: quatro sites de R$ 497 passam do salário mínimo"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:22:38",
+          "assunto": "O preço é decisão sua; ticket baixo escolhido por causa da meta"
+        },
+        {
+          "dia": 6,
+          "tempo": "00:00:05",
+          "assunto": "Consistência de duas a três horas por dia supera picos de esforço"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:03:23",
+          "assunto": "Não é preciso conhecimento avançado de programação para executar o fluxo"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:26:21",
+          "assunto": "Receber negativa é natural: agradecer e seguir para o próximo lead"
+        },
+        {
+          "dia": 12,
+          "tempo": "02:45:38",
+          "assunto": "Posicionar-se com a marca pessoal em vez de criar falsa fachada de agência"
+        },
+        {
+          "dia": 18,
+          "tempo": "03:25:59",
+          "assunto": "Balanço: cerca de quatro horas de trabalho por dia e nova meta de vendas e mensalidades"
+        }
+      ]
+    },
+    {
+      "id": "preparar-ferramentas",
+      "titulo": "Preparar o kit mínimo de ferramentas",
+      "objetivo": "Ter o ambiente pronto para prospectar, criar, publicar e conversar com clientes gastando pouco.",
+      "prerequisitos": [
+        "Passo 1 concluído.",
+        "Computador simples com navegador moderno e internet: nas lives, o processamento pesado da IA roda na nuvem."
+      ],
+      "comoFazer": [
+        "Instale o VS Code e um assistente de IA para programar dentro dele. Nas lives o apresentador usa o Antigravity com Gemini e explica que escolheu pelo custo; ele diz que o Claude é ótimo, mas caro para quem está começando. Você pode usar outra ferramenta, desde que consiga pedir e revisar o código.",
+        "Separe o papel de cada IA: o ChatGPT planeja a página, escreve os textos, gera o mockup, as imagens e os prompts; a IA do editor só programa.",
+        "Crie contas no GitHub (guarda o código) e na Vercel (publica o site). Nas lives o apresentador publicou as demonstrações no plano gratuito da Vercel; isso é relato da live. O plano Hobby da Vercel é para uso pessoal não comercial, então para demonstração a cliente ou site de cliente escolha um plano ou hospedagem compatível com uso comercial e confira as condições atuais na página oficial.",
+        "Tenha uma ferramenta de prospecção. O apresentador usa o Nexar Hunter, ferramenta da própria agência, que filtra por nicho e cidade e mostra quem tem e quem não tem site; ele cita, como valores da live, que a primeira busca é gratuita e que o plano inicial custava R$ 79 na época. Confira as condições atuais antes de contar com esses números.",
+        "Separe uma linha de WhatsApp só para o trabalho, com a sua foto pessoal no perfil. Nas lives ele usa um aparelho secundário com chip exclusivo para o WhatsApp Business.",
+        "Acompanhe a cota de uso da sua IA para não travar no meio de uma entrega. Quando o limite chegar, aguarde a renovação ou avalie um plano que atenda o seu volume de trabalho."
+      ],
+      "resultadoEsperado": "Editor com IA funcionando, contas no GitHub e na Vercel, ferramenta de prospecção definida e um WhatsApp comercial separado.",
+      "checklist": [
+        "Consigo abrir o VS Code e conversar com a IA de programação.",
+        "Tenho conta no ChatGPT (ou equivalente) para planejar e gerar imagens.",
+        "Tenho conta no GitHub e na Vercel e sei qual plano posso usar em trabalho comercial.",
+        "Defini como vou prospectar (ferramenta ou busca manual).",
+        "Tenho um WhatsApp separado para o trabalho, com foto pessoal."
+      ],
+      "fontes": [
+        {
+          "dia": 2,
+          "tempo": "00:13:48",
+          "assunto": "Setup completo: VS Code com Gemini, Nexar Hunter e ChatGPT para organizar prompts"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:06:33",
+          "assunto": "Por que usa o Gemini direto e considera o Claude caro para iniciantes"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:16:00",
+          "assunto": "Relato da live: publicar sincronizando com o GitHub e conectando na Vercel, no plano gratuito"
+        },
+        {
+          "dia": 3,
+          "tempo": "00:11:21",
+          "assunto": "Equipamento simples basta: o processamento pesado roda na nuvem"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:52:07",
+          "assunto": "Valores citados na live: plano inicial do Nexar Hunter mais assinatura do Gemini"
+        },
+        {
+          "dia": 6,
+          "tempo": "00:48:13",
+          "assunto": "Aparelho secundário com chip exclusivo para o WhatsApp Business"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:10:31",
+          "assunto": "Divisão de papéis: ChatGPT planeja e escreve, a IA do editor só programa"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:06:24",
+          "assunto": "Perfil comercial humanizado com foto pessoal profissional"
+        }
+      ],
+      "referenciasAtuais": [
+        {
+          "titulo": "Vercel: plano Hobby (uso pessoal, não comercial)",
+          "url": "https://vercel.com/docs/plans/hobby"
+        },
+        {
+          "titulo": "Vercel: planos e preços atuais",
+          "url": "https://vercel.com/pricing"
+        }
+      ]
+    },
+    {
+      "id": "encontrar-empresas-sem-site",
+      "titulo": "Encontrar empresas locais sem site",
+      "objetivo": "Montar uma lista curta de empresas da sua região que têm operação ativa e ainda não têm site.",
+      "prerequisitos": [
+        "Passo 2 concluído (ferramenta de prospecção ou busca manual pelo Google Maps)."
+      ],
+      "comoFazer": [
+        "Escolha a cidade. Começar pela sua própria cidade facilita a conversa, traz referências locais e permite até uma visita presencial se for preciso.",
+        "Escolha o nicho olhando para serviços de necessidade imediata, que dependem de busca no Google: oficina, instalador, clínica, chaveiro, entre outros. Pense também na época do ano (nas lives, climatização foi escolhida porque o verão se aproximava).",
+        "Se estiver sem ideia, pergunte ao ChatGPT qual setor é mais propício para vender um site pelo valor que você definiu, e use a resposta como ponto de partida, não como regra.",
+        "Rode a busca por nicho e cidade e separe quem tem site de quem não tem. Exemplos mostrados: 13 lavanderias com 7 sem site; 37 oficinas com 30 sem site.",
+        "Descarte quem já tem site e concentre o esforço nas empresas sem site ou com site fora do ar.",
+        "Prefira empresas com Instagram atualizado: mostram que o negócio está ativo e já fornecem fotos e conteúdo para a demonstração.",
+        "Salve a lista com nome, telefone, Instagram e link do Google Meu Negócio de cada empresa."
+      ],
+      "resultadoEsperado": "Uma lista de empresas candidatas, todas sem site, no nicho e na cidade que você escolheu.",
+      "checklist": [
+        "Escolhi cidade e nicho com uma razão clara.",
+        "Rodei a busca e separei quem tem site de quem não tem.",
+        "Descartei as empresas que já têm site.",
+        "Tenho pelo menos algumas empresas com Instagram ativo na lista.",
+        "Salvei os contatos e links de cada empresa."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:11:35",
+          "assunto": "Abordar empresas da própria cidade"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:12:35",
+          "assunto": "Filtrar por nicho e cidade no Nexar Hunter e separar quem tem e quem não tem site"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:35:49",
+          "assunto": "Busca por lavanderias: 13 resultados, 7 sem site"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:09:36",
+          "assunto": "Perguntar ao ChatGPT qual setor é mais propício para vender o site"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:13:52",
+          "assunto": "Priorizar quem tem Instagram"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:19:11",
+          "assunto": "Pensar na época do ano ao escolher o nicho"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:57:48",
+          "assunto": "Mineração de 37 oficinas com 30 sem site"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:26:00",
+          "assunto": "Priorizar serviços essenciais e de ticket mais alto em vez de comércio genérico"
+        }
+      ]
+    },
+    {
+      "id": "qualificar-lead",
+      "titulo": "Qualificar cada empresa antes de investir tempo",
+      "objetivo": "Decidir, com critérios simples, quais empresas da lista merecem uma demonstração.",
+      "prerequisitos": [
+        "Passo 3 concluído (lista de empresas sem site)."
+      ],
+      "comoFazer": [
+        "Abra a ficha do Google Meu Negócio: veja se existe, se há boas avaliações, fotos reais e telefone atualizado.",
+        "Abra o Instagram: veja se há conteúdo recente, logo, fotos de serviços e o número de WhatsApp correto. Nas lives, o telefone do Google não era WhatsApp e o número certo estava no Instagram.",
+        "Clique no link da bio do Instagram e do Google: um site fora do ar é um bom gancho, porque a empresa já reconhece o valor de ter site.",
+        "Aplique os três critérios citados: estrutura física consolidada, alto potencial de busca no Google e redes sociais ativas.",
+        "Descarte franquias, filiais e clínicas de rede: a decisão de marketing costuma ficar na matriz e o site é da marca.",
+        "Anote oportunidades extras que você observar, como logo em baixa resolução ou perfis desorganizados; podem virar serviço complementar depois.",
+        "Descubra quem decide: em negócio pequeno o WhatsApp costuma ser atendido pelo dono. Se cair em atendente, o passo 8 mostra como pedir o contato do responsável."
+      ],
+      "resultadoEsperado": "Uma ou duas empresas escolhidas, com material real (logo, fotos, serviços, contato) já reunido para a demonstração.",
+      "checklist": [
+        "Conferi avaliações, fotos e telefone no Google Meu Negócio.",
+        "Conferi Instagram e confirmei qual número é WhatsApp.",
+        "Testei os links da bio e do Google.",
+        "Descartei franquias e filiais.",
+        "Sei quem provavelmente decide na empresa."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:13:36",
+          "assunto": "Sinais de um bom lead: reputação no Google, Instagram com conteúdo e nenhum site"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:15:37",
+          "assunto": "Anotar oportunidades de venda extra, como organizar o Google Meu Negócio"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:34:49",
+          "assunto": "Confirmar qual número é WhatsApp"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:41:55",
+          "assunto": "Descartar clínica que faz parte de rede"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:14:55",
+          "assunto": "Site quebrado como oportunidade"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:24:24",
+          "assunto": "Perceber se quem responde é o dono"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:58:48",
+          "assunto": "Site fora do ar na bio do Instagram como gancho comercial"
+        },
+        {
+          "dia": 11,
+          "tempo": "00:30:26",
+          "assunto": "Verificar se a ficha do Google tem telefone e dados atualizados"
+        },
+        {
+          "dia": 12,
+          "tempo": "00:35:37",
+          "assunto": "Os três critérios de qualificação de um cliente em potencial"
+        }
+      ]
+    },
+    {
+      "id": "planejar-site-com-ia",
+      "titulo": "Planejar o site com a IA antes de gerar código",
+      "objetivo": "Sair com um plano, um mockup aprovado e prompts em etapas, para o site não nascer genérico.",
+      "prerequisitos": [
+        "Passo 4 concluído (empresa escolhida e material real reunido).",
+        "ChatGPT (ou IA equivalente) para planejar e gerar imagem."
+      ],
+      "comoFazer": [
+        "Reúna o material real da empresa: logo, fotos, serviços, região atendida, diferenciais e WhatsApp. Se faltar informação, a IA pode perguntar; o ChatGPT chegou a montar um questionário com esses itens.",
+        "Alimente a IA com as fontes reais: passe o link do Instagram e do perfil do Google para ela coletar dados verdadeiros da empresa.",
+        "Se a empresa não tem logo em boa qualidade, recorte a foto da fachada e peça ao ChatGPT uma versão em alta resolução com fundo transparente.",
+        "Busque referências no Pinterest com a busca 'landing page' mais o nicho e envie as imagens ao ChatGPT para ele montar a estrutura.",
+        "Peça primeiro o plano e a imagem da primeira página, e só depois de aprovar a imagem peça os prompts de construção. Se as cores saírem erradas, mande a logo real e peça que a identidade siga a logo.",
+        "Peça os prompts divididos em etapas por seção (topo, serviços, diferenciais, depoimentos, rodapé) em vez de um único comando com o site inteiro.",
+        "Crie na raiz do projeto um arquivo de instruções (nas lives, project-brief.md) com as regras visuais e da empresa, para a IA não alterar o que já foi aprovado.",
+        "Defina a tecnologia com cuidado. Nas lives o projeto usa Next.js com Tailwind; pedir PHP na primeira live deixou a IA lenta e complicou a publicação."
+      ],
+      "resultadoEsperado": "Mockup da primeira página aprovado por você, sequência de prompts por seção e arquivo de instruções do projeto salvo.",
+      "checklist": [
+        "Passei links reais da empresa para a IA em vez de deixar ela inventar.",
+        "Tenho a logo em boa qualidade e com fundo transparente.",
+        "Juntei referências visuais do nicho.",
+        "Aprovei a imagem da primeira página antes de gerar código.",
+        "Tenho os prompts divididos em etapas.",
+        "Criei o arquivo de instruções do projeto."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:16:40",
+          "assunto": "Estruturar o prompt no ChatGPT com Instagram e perfil do Google da empresa"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:21:57",
+          "assunto": "Plano e imagem antes do código"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:36:49",
+          "assunto": "Pedir a imagem da primeira página para aprovação antes de gerar os prompts"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:38:50",
+          "assunto": "Cores erradas corrigidas ao mandar a logo real"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:09:53",
+          "assunto": "Lentidão causada por ter pedido o site em PHP"
+        },
+        {
+          "dia": 2,
+          "tempo": "01:50:00",
+          "assunto": "Pedir os prompts em etapas com direção visual rígida"
+        },
+        {
+          "dia": 3,
+          "tempo": "00:07:09",
+          "assunto": "Recriar o logotipo a partir da foto da fachada, com fundo transparente"
+        },
+        {
+          "dia": 3,
+          "tempo": "00:12:22",
+          "assunto": "Criar o arquivo project-brief.md como manual do projeto"
+        },
+        {
+          "dia": 4,
+          "tempo": "01:05:48",
+          "assunto": "Questionário do ChatGPT: serviços, marcas, região, diferenciais, WhatsApp e fotos"
+        },
+        {
+          "dia": 5,
+          "tempo": "01:03:56",
+          "assunto": "Nunca escrever direto na IA de código; montar prompts com o ChatGPT"
+        },
+        {
+          "dia": 5,
+          "tempo": "01:06:00",
+          "assunto": "Buscar referências no Pinterest por landing page mais nicho"
+        },
+        {
+          "dia": 18,
+          "tempo": "00:32:56",
+          "assunto": "Resposta a um espectador: um prompt só para o site inteiro não segue o mockup; peça dobra por dobra"
+        }
+      ]
+    },
+    {
+      "id": "construir-demonstracao",
+      "titulo": "Construir a demonstração dobra por dobra",
+      "objetivo": "Ter uma página convincente, com a cara da empresa, sem perder horas em detalhes antes de saber se ela vai comprar.",
+      "prerequisitos": [
+        "Passo 5 concluído (mockup aprovado e prompts em etapas).",
+        "Projeto aberto no VS Code com a IA de programação."
+      ],
+      "comoFazer": [
+        "Rode o servidor local (peça à IA para iniciá-lo) e acompanhe o resultado no navegador ou no preview do editor enquanto ela constrói.",
+        "Execute um prompt por vez, na ordem: primeira dobra, serviços, diferenciais, depoimentos, perguntas frequentes e mapa, rodapé. Confira cada bloco antes de passar ao próximo.",
+        "Capriche na primeira dobra: é o que mais pesa. Ela precisa mostrar logo de cara o que a empresa faz. Inclua botão de WhatsApp e mantenha os outros canais de contato que a empresa já tem, como telefone fixo.",
+        "Para ajustar, mande à IA duas imagens: o resultado atual e a referência desejada. Diga que não é um redesign, que ela deve replicar a imagem de referência e mexer só no que você indicar. Use o mockup aprovado como referência visual absoluta.",
+        "Use fotos reais da empresa (fachada, equipe, frota, obras) coletadas do Instagram, do Facebook ou do Google, em vez de banco de imagens. Se precisar melhorar a foto, peça à IA sem alterar a identidade real do local.",
+        "Revise o que a IA inventou antes de mostrar: na live, o site dizia mais de 500 avaliações quando eram 15, e incluiu um serviço que a empresa não oferecia.",
+        "Fuja do visual com cara de IA: evite degradês roxos, preto absoluto no fundo e ícones 3D genéricos; prefira paleta sóbria e tipografia limpa. Use o ícone oficial do WhatsApp no botão de contato, porque um ícone genérico é um dos sinais de página feita por IA. Se a IA insistir, proíba isso explicitamente no prompt.",
+        "Enxugue o texto e o formulário. Na revisão de sites de espectadores, o apresentador criticou páginas carregadas de informação, em que o visitante \"sai com a leitura de um livro\", e recomendou não colocar campos opcionais no formulário de contato: quem não é obrigado a preencher não preenche, e o assunto acaba no WhatsApp de qualquer jeito.",
+        "Faça uma auditoria responsiva pedindo à IA e confira o mobile, incluindo botão de WhatsApp fixo na parte inferior da tela.",
+        "Deixe os detalhes finos para depois da venda. O objetivo da demonstração é validar o interesse; se travar muito, considere refazer o bloco em vez de consertar por horas."
+      ],
+      "resultadoEsperado": "Um site de demonstração funcional, com a identidade e as fotos reais da empresa, revisado no desktop e no celular.",
+      "checklist": [
+        "Construí uma seção por vez e conferi cada uma.",
+        "A primeira dobra mostra o serviço da empresa e o botão de WhatsApp.",
+        "Só usei fotos reais ou fotos melhoradas a partir das reais.",
+        "Revisei números, serviços e textos que a IA possa ter inventado.",
+        "Não deixei o visual com cara de IA (roxo, neon, ícones genéricos).",
+        "Enxuguei os textos e tirei os campos opcionais do formulário de contato.",
+        "Conferi o layout no celular."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:29:41",
+          "assunto": "A primeira dobra precisa vender a empresa"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:46:59",
+          "assunto": "Tirar serviços que a empresa não faz"
+        },
+        {
+          "dia": 1,
+          "tempo": "00:55:19",
+          "assunto": "Pedir para a IA rodar o servidor local e acompanhar o resultado"
+        },
+        {
+          "dia": 1,
+          "tempo": "01:13:24",
+          "assunto": "Auditoria visual responsiva e auditoria final de qualidade"
+        },
+        {
+          "dia": 1,
+          "tempo": "01:21:38",
+          "assunto": "Refinar uma dobra por vez enviando o resultado atual e a referência"
+        },
+        {
+          "dia": 1,
+          "tempo": "01:40:38",
+          "assunto": "Tirar a liberdade criativa da IA: replicar a imagem de referência"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:03:24",
+          "assunto": "Não refinar demais antes de saber se o cliente vai fechar"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:07:43",
+          "assunto": "Corrigir dado inventado pela IA: 500 avaliações quando eram 15"
+        },
+        {
+          "dia": 2,
+          "tempo": "02:13:31",
+          "assunto": "Às vezes refazer é mais rápido do que consertar"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:28:55",
+          "assunto": "Melhorar a foto da fachada com IA sem alterar a identidade real"
+        },
+        {
+          "dia": 6,
+          "tempo": "02:52:16",
+          "assunto": "Mockup como referência visual absoluta"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:13:32",
+          "assunto": "Usar apenas fotos reais da empresa"
+        },
+        {
+          "dia": 8,
+          "tempo": "01:01:55",
+          "assunto": "Botão de contato fixo no mobile"
+        },
+        {
+          "dia": 8,
+          "tempo": "01:14:41",
+          "assunto": "Evitar preto absoluto no tema escuro e usar tons ardósia"
+        },
+        {
+          "dia": 8,
+          "tempo": "04:01:56",
+          "assunto": "Dividir o projeto em prompts modulares"
+        },
+        {
+          "dia": 10,
+          "tempo": "04:01:40",
+          "assunto": "Eliminar a estética artificial de IA e proibir gradientes roxos e neon no comando"
+        },
+        {
+          "dia": 17,
+          "tempo": "02:51:44",
+          "assunto": "Página com informação demais: o visitante \"sai com a leitura de um livro\""
+        },
+        {
+          "dia": 18,
+          "tempo": "01:21:07",
+          "assunto": "Usar o ícone oficial do WhatsApp: o botão genérico entrega que o site foi feito com IA"
+        },
+        {
+          "dia": 18,
+          "tempo": "02:32:33",
+          "assunto": "Formulário de contato sem campos opcionais"
+        }
+      ]
+    },
+    {
+      "id": "publicar-e-conferir-no-celular",
+      "titulo": "Publicar a demonstração e conferir no celular",
+      "objetivo": "Ter um link público e estável para enviar ao dono da empresa, em uma hospedagem que permita o uso comercial.",
+      "prerequisitos": [
+        "Passo 6 concluído (site funcionando no computador).",
+        "Contas do GitHub e da Vercel."
+      ],
+      "comoFazer": [
+        "Crie um repositório privado no GitHub e envie os arquivos do site. Privado protege o código e as fotos da empresa contra cópia.",
+        "Antes de publicar, confirme que o plano da Vercel (ou a hospedagem escolhida) permite uso comercial: o plano Hobby é para uso pessoal não comercial. Nas lives o apresentador usou o plano gratuito, como relato. Com o plano certo, importe o repositório do GitHub na Vercel e faça o deploy; ela gera um link público em poucos instantes.",
+        "Ajuste o subdomínio padrão da Vercel para algo limpo, com o nome da empresa; se estiver ocupado, acrescente a sigla da cidade.",
+        "Peça à IA do editor para manter o projeto sincronizado com o GitHub (commit a cada alteração concluída). Assim, cada correção sobe para o site publicado sozinha.",
+        "Abra o link no seu celular antes de enviar: confira o telefone, os botões de toque, as quebras de texto e se algum bloco de ícones ficou empilhado demais na vertical.",
+        "Se o repositório ficar pesado por causa das fotos, peça à IA para remover as imagens que não estão em uso. Nas lives isso apareceu junto dos limites do plano gratuito; confira os limites atuais do plano que você usar."
+      ],
+      "resultadoEsperado": "Um link público da demonstração, atualizado automaticamente a cada alteração, hospedado em plano compatível com uso comercial e já conferido no celular.",
+      "checklist": [
+        "O repositório no GitHub está privado.",
+        "O site está publicado em plano ou hospedagem que permite uso comercial e abre pelo link.",
+        "O endereço do link está limpo e com o nome da empresa.",
+        "As alterações sobem sozinhas do editor para o site.",
+        "Testei o link no meu celular e os botões funcionam."
+      ],
+      "fontes": [
+        {
+          "dia": 2,
+          "tempo": "00:16:00",
+          "assunto": "Relato da live: publicar sincronizando o GitHub com a Vercel, no plano gratuito"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:04:42",
+          "assunto": "Criar o repositório no GitHub e subir os arquivos"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:13:56",
+          "assunto": "Importar o projeto na Vercel e fazer o deploy"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:18:26",
+          "assunto": "Conferir o site no celular antes de acionar o cliente"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:59:44",
+          "assunto": "Relato da live: limites do plano gratuito da Vercel e limpeza de fotos não usadas do repositório"
+        },
+        {
+          "dia": 6,
+          "tempo": "00:09:28",
+          "assunto": "Auditoria obrigatória no mobile antes do envio"
+        },
+        {
+          "dia": 10,
+          "tempo": "01:29:59",
+          "assunto": "Commit automático e sincronização com o GitHub para atualizar o deploy"
+        },
+        {
+          "dia": 10,
+          "tempo": "01:53:07",
+          "assunto": "Corrigir três ícones empilhados na vertical no mobile"
+        },
+        {
+          "dia": 11,
+          "tempo": "02:29:41",
+          "assunto": "Criar repositório privado no GitHub para proteger o código"
+        },
+        {
+          "dia": 11,
+          "tempo": "02:38:55",
+          "assunto": "Subdomínio limpo na Vercel, com sigla da cidade se estiver ocupado"
+        }
+      ],
+      "referenciasAtuais": [
+        {
+          "titulo": "Vercel: plano Hobby (uso pessoal, não comercial)",
+          "url": "https://vercel.com/docs/plans/hobby"
+        },
+        {
+          "titulo": "Vercel: planos e preços atuais",
+          "url": "https://vercel.com/pricing"
+        }
+      ]
+    },
+    {
+      "id": "abordar-pelo-whatsapp",
+      "titulo": "Fazer a primeira abordagem no WhatsApp",
+      "objetivo": "Iniciar a conversa com o responsável da empresa de forma curta, educada e sem pressão, até ele aceitar ver a demonstração.",
+      "prerequisitos": [
+        "Passo 7 concluído (link publicado e conferido no celular).",
+        "WhatsApp comercial com foto pessoal (passo 2)."
+      ],
+      "comoFazer": [
+        "Envie no horário comercial, de preferência no meio da manhã ou no começo da tarde. Evite fim de tarde e fim de expediente de sexta-feira, quando a leitura costuma ser adiada.",
+        "Abra com uma saudação curta, sem link e sem texto longo, só para confirmar que o número está ativo e quem atende. Exemplo: 'Olá, boa tarde, tudo bem? Falo com o responsável da empresa?'.",
+        "Se quem atende for um funcionário, agradeça e peça com educação o contato do responsável para encaminhar o material.",
+        "Quando falar com o responsável, apresente-se, diga que trabalha com criação de sites para empresas da região, elogie o negócio e explique que montou uma demonstração. Pergunte se pode enviar, sem compromisso. Adapte o roteiro à empresa: se ela não tem site, não fale em 'novo site'.",
+        "Mande o link só depois que a pessoa aceitar, na segunda mensagem, explicando o objetivo: deixar a empresa mais profissional no digital e facilitar o contato pelo WhatsApp.",
+        "Com o tempo, o apresentador passou a usar dois scripts em sequência: o primeiro se apresenta, cita a empresa e pergunta se há interesse em saber como funciona; o segundo, com os valores, só sai depois de a pessoa demonstrar interesse e pedir o valor. É uma evolução da saudação curta acima, não uma etapa nova; adapte o texto ao seu caso.",
+        "Envie manualmente, empresa por empresa. Disparo em massa gera bloqueio de chip e conversão muito baixa, segundo o apresentador.",
+        "Mantenha o volume baixo e analisado. Nas lives, oito empresas abordadas em 15 dias foram apresentadas como prova de que o segredo é analisar cada empresa, e não a quantidade (dia 14); o número da agência dispara de 15 a 20 mensagens por dia, no máximo (dia 18); e, para quem começa com chip novo, a orientação foi enviar cinco mensagens no primeiro dia, subir aos poucos e nunca passar de 20 por dia (dia 20). São práticas do apresentador, não garantia contra bloqueio.",
+        "Ao publicar ou compartilhar prints, não mostre a tela inteira do WhatsApp: proteja os números de outros contatos."
+      ],
+      "resultadoEsperado": "Uma conversa aberta com o responsável e o link da demonstração enviado com autorização.",
+      "checklist": [
+        "Enviei em horário comercial.",
+        "A primeira mensagem foi só uma saudação curta.",
+        "Falei com quem decide, ou pedi o contato dele.",
+        "Só enviei o link depois de a pessoa aceitar.",
+        "O roteiro está adaptado à situação real da empresa.",
+        "Mantive o volume diário baixo e analisei cada empresa antes de abordar.",
+        "Não expus dados de outros contatos em prints."
+      ],
+      "fontes": [
+        {
+          "dia": 2,
+          "tempo": "00:51:43",
+          "assunto": "Script de abordagem: apresentação e pedido de permissão para enviar a demonstração"
+        },
+        {
+          "dia": 2,
+          "tempo": "00:52:45",
+          "assunto": "Mandar o link só depois do sim do cliente"
+        },
+        {
+          "dia": 3,
+          "tempo": "01:36:13",
+          "assunto": "Como chegar ao dono quando o WhatsApp é atendido por recepcionista"
+        },
+        {
+          "dia": 3,
+          "tempo": "01:38:17",
+          "assunto": "Atenção ao horário de envio: meio da manhã ou início da tarde"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:19:28",
+          "assunto": "Não mostrar a tela inteira do WhatsApp para proteger dados de outros contatos"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:23:05",
+          "assunto": "Adaptar o script porque a empresa não tinha site"
+        },
+        {
+          "dia": 10,
+          "tempo": "01:56:48",
+          "assunto": "Cuidado com abordagens no fim da sexta-feira"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:03:10",
+          "assunto": "Mensagem curta de quebra de gelo e por que não disparar em massa"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:47:48",
+          "assunto": "Falar com atendente que encaminha à diretoria"
+        },
+        {
+          "dia": 11,
+          "tempo": "02:39:55",
+          "assunto": "Primeira mensagem curta só com saudação"
+        },
+        {
+          "dia": 14,
+          "tempo": "02:18:06",
+          "assunto": "Sem prospecção em massa: oito empresas em 15 dias, analisando cada uma"
+        },
+        {
+          "dia": 16,
+          "tempo": "00:36:24",
+          "assunto": "Script 1: apresentação curta e pergunta se há interesse"
+        },
+        {
+          "dia": 16,
+          "tempo": "01:10:14",
+          "assunto": "Script 2, com os valores, enviado depois que a pessoa pede o valor"
+        },
+        {
+          "dia": 18,
+          "tempo": "00:05:12",
+          "assunto": "Espectador relata 300 mensagens em massa em três dias sem resultado; o apresentador prefere analisar o perfil do cliente e não dispara em massa"
+        },
+        {
+          "dia": 18,
+          "tempo": "02:07:36",
+          "assunto": "Limite de 15 a 20 disparos por dia no número da agência"
+        },
+        {
+          "dia": 20,
+          "tempo": "01:22:19",
+          "assunto": "Chip novo: começar com cinco mensagens e nunca passar de 20 por dia"
+        }
+      ]
+    },
+    {
+      "id": "acompanhar-e-contornar-objecoes",
+      "titulo": "Acompanhar a conversa e lidar com dúvidas e recusas",
+      "objetivo": "Manter o contato sem insistência, esclarecer as dúvidas mais comuns e saber o que fazer se a resposta for não.",
+      "prerequisitos": [
+        "Passo 8 concluído (demonstração enviada)."
+      ],
+      "comoFazer": [
+        "Espere o dia útil seguinte e faça um acompanhamento leve, perguntando se a pessoa conseguiu abrir a demonstração. Se ela visualizou e não respondeu, uma mensagem leve depois de alguns dias, perguntando o que achou.",
+        "Se o cliente pedir para ligar, ou o texto estiver confuso, ligue. Nas lives, conversar por voz esclareceu a situação. Sem esse pedido, mantenha a abordagem inicial por mensagem e só ligue depois que houver abertura.",
+        "Se ouvir que já tem Instagram, explique a diferença: o Instagram entrega conteúdo principalmente para quem já segue a empresa, enquanto o Google coloca o negócio na frente de quem procura o serviço naquele momento.",
+        "Se o cliente disser que vai avaliar com sócios ou consultores, agradeça, combine um prazo de retorno e dê espaço para a análise interna.",
+        "Diga que o link da demonstração fica disponível por um período, para o cliente analisar com prioridade.",
+        "Se a resposta for não, agradeça com simpatia e siga para a próxima empresa. Não insista com ligações invasivas.",
+        "Não tire conclusões cedo demais. Quando um espectador relatou três dias sem cliente, a resposta foi que isso é normal e que o mínimo é abordar cerca de 100 empresas (dia 19); em outro momento, a média citada foi abordar cerca de 50 pessoas para um lead se interessar (dia 18). São estimativas do apresentador, não meta nem promessa de resultado.",
+        "Se você já abordou muita gente e não fechou nada (um espectador falou em mais de 200 contatos), a orientação foi fechar primeiro empresas que você já conhece, para ganhar portfólio e autoridade.",
+        "Retome contatos que esfriaram por imprevisto. No dia 20, o apresentador voltou a chamar um advogado que queria marcar conversa e depois não conseguiu atendê-lo por causa de uma audiência, e tratou isso como mais uma chance de fechar.",
+        "Reaproveite o trabalho: por ser modular, o site pode ser adaptado para outra empresa do mesmo nicho trocando logo, cores e contato. Se usar como modelo de portfólio, remova a marca e os dados de empresas que não fecharam.",
+        "Enquanto espera resposta, não pare: comece a próxima demonstração e mantenha a esteira andando."
+      ],
+      "resultadoEsperado": "Cada conversa encerrada com um sim, um não educado ou um retorno combinado, e a próxima empresa já em andamento.",
+      "checklist": [
+        "Fiz o acompanhamento no dia útil seguinte, sem pressão.",
+        "Sei explicar a diferença entre Google e Instagram.",
+        "Combinei um prazo com quem precisa consultar sócios.",
+        "Aceitei a recusa com educação e segui em frente.",
+        "Retomei os contatos que esfriaram, sem insistir.",
+        "Já comecei a próxima demonstração ou prospecção."
+      ],
+      "fontes": [
+        {
+          "dia": 2,
+          "tempo": "00:57:02",
+          "assunto": "Ter um follow-up pronto"
+        },
+        {
+          "dia": 3,
+          "tempo": "00:04:06",
+          "assunto": "Não ficar parado esperando resposta: abrir o próximo projeto e reaproveitar o modelo do nicho"
+        },
+        {
+          "dia": 3,
+          "tempo": "02:15:13",
+          "assunto": "Áudio explicando a diferença entre Google e Instagram"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:28:20",
+          "assunto": "Cliente pede ligação e a conversa por telefone esclarece a situação"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:51:58",
+          "assunto": "Dar prazo para o link ficar no ar"
+        },
+        {
+          "dia": 8,
+          "tempo": "00:26:21",
+          "assunto": "Receber negativa com naturalidade e ir para o próximo lead"
+        },
+        {
+          "dia": 8,
+          "tempo": "02:57:49",
+          "assunto": "Acompanhamento sem pressão quando o decisor informa prazos internos"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:21:45",
+          "assunto": "Mensagem de acompanhamento após o cliente visualizar o link"
+        },
+        {
+          "dia": 11,
+          "tempo": "00:05:35",
+          "assunto": "Follow-up sem afobação no dia útil seguinte"
+        },
+        {
+          "dia": 11,
+          "tempo": "04:01:54",
+          "assunto": "Remover a marca de demonstrações não fechadas antes de usar como modelo"
+        },
+        {
+          "dia": 12,
+          "tempo": "02:20:25",
+          "assunto": "Texto curto primeiro; ligação só depois de abertura do cliente"
+        },
+        {
+          "dia": 14,
+          "tempo": "02:42:17",
+          "assunto": "Muitos contatos sem fechar: começar por empresas que você já conhece"
+        },
+        {
+          "dia": 18,
+          "tempo": "02:44:26",
+          "assunto": "Estimativa citada: cerca de 50 abordagens para um lead se interessar"
+        },
+        {
+          "dia": 19,
+          "tempo": "00:09:11",
+          "assunto": "Três dias sem cliente é normal; o mínimo citado é abordar cerca de 100 empresas"
+        },
+        {
+          "dia": 20,
+          "tempo": "01:43:27",
+          "assunto": "Retomar o contato com um advogado que não conseguiu atender antes"
+        }
+      ]
+    },
+    {
+      "id": "proposta-preco-e-pagamento",
+      "titulo": "Montar a proposta, o preço e o recebimento",
+      "objetivo": "Apresentar valores de forma transparente, oferecer um jeito simples de pagar e entender quanto realmente cai na conta.",
+      "prerequisitos": [
+        "Cliente interessado após a demonstração.",
+        "Ferramenta de cobrança escolhida (link de pagamento ou Pix)."
+      ],
+      "comoFazer": [
+        "Defina os seus valores. Valores citados nas lives, sem valer como tarifa atual: site em pagamento único (R$ 497 no início, depois R$ 799 à vista ou em dez parcelas), mais o domínio pago pelo cliente uma vez por ano (cerca de R$ 40 no Registro.br na época), mais uma mensalidade de manutenção (R$ 49,90). O apresentador também diz que quem fecha por um valor mais baixo pode subir aos poucos, e que ele cobraria mais se não fosse a meta do desafio. Confira os valores atuais de domínio e taxas antes de montar a sua proposta. No balanço do dia 20, ele explica que os dois primeiros sites saíram a R$ 497 justamente para formar portfólio, e que sem portfólio é difícil abordar empresas cobrando caro.",
+        "Envie a proposta por escrito no WhatsApp com cada item separado: site, domínio e mensalidade. Explicar que o domínio é pago ao órgão de registro afasta a desconfiança de taxa escondida.",
+        "Gere um link de cobrança com parcelamento. Nas lives aparecem InfinitePay e Mercado Pago, com opiniões diferentes sobre facilidade de uso; prefira o link que abra direto no celular do cliente, sem exigir login, porque atrito no pagamento esfria a venda.",
+        "Entenda a taxa: quando o cliente parcela no cartão, o valor que cai na conta vem descontado. Nas lives, o saldo mostrado depois das duas vendas ficou em cerca de R$ 983, abaixo dos R$ 994 cobrados, por causa das taxas (valores citados na live). Confira as taxas atuais da plataforma que você escolher antes de definir o preço.",
+        "Prefira cobrança recorrente automática para a mensalidade. No relato do apresentador, ela é cobrada já no primeiro mês, junto com o valor do site, e lançada como cobrança recorrente no cartão (Mercado Pago na live; ele citou Asaas, InfinitePay e PagBank como alternativas, com a ressalva de que falava de memória). Assim você não precisa mandar boleto todo mês. Confira as condições atuais da plataforma.",
+        "Quando o cliente perguntar o preço, responda por escrito e ligue o valor ao ganho dele. Na abordagem ao vivo do dia 20, ele explicou que quem não conhece a empresa pesquisa pelo serviço, e não pelo nome, apresentou o valor com desconto e parcelamento em dez vezes e ofereceu aproveitar a hospedagem que o cliente já tinha, se fosse boa (valores citados na live).",
+        "Para pedido sob medida (por exemplo, um sistema com login, compra e agendamento), não reaproveite o preço do site. Na live do dia 19, ele estimou as horas de trabalho (100 a 160 horas para um sistema funcional e 20 a 40 para um protótipo, segundo a estimativa da IA), definiu quanto queria ganhar por hora e chegou a um valor bem acima do de uma landing page. Na agência, ele diz que landing page parte de cerca de R$ 800 e que sistemas SaaS vão de R$ 5.000 a R$ 20-30 mil (dia 18). São valores citados nas lives, não uma tabela.",
+        "Se o cliente achar caro, negocie o escopo antes do preço. No mesmo orçamento, o apresentador sugeriu uma landing page com vídeo e agendamento pelo WhatsApp, porque a parte cara do sistema é o agendamento e o pagamento, e perguntou quanto o cliente podia investir para achar uma solução dentro do orçamento. Ele considerou R$ 500 insuficiente para um sistema com pagamento. Nas parcelas, a taxa de cerca de 13% é normalmente absorvida por ele, então entra na conta do preço.",
+        "Feche o site e o domínio juntos, assim que o cliente aprovar, para já poder registrar o endereço.",
+        "Se o cliente pedir algo a mais, como organizar o Instagram, trate como serviço extra e valor separado.",
+        "Cuide da parte fiscal por sua conta: o apresentador relata que começou recebendo como pessoa física e formalizar a empresa depois, mas as lives não substituem orientação contábil."
+      ],
+      "resultadoEsperado": "Proposta clara com três itens (site, domínio, mensalidade), link de pagamento enviado e entendimento do valor líquido que você recebe.",
+      "checklist": [
+        "Defini o meu preço e sei o valor líquido depois das taxas.",
+        "A proposta separa site, domínio e mensalidade.",
+        "O link de pagamento abre direto no celular do cliente.",
+        "Fechei site e domínio juntos.",
+        "Em pedido sob medida, calculei as horas e o valor da minha hora antes de dar o preço.",
+        "Se o cliente achar caro, negocio o escopo antes de baixar o preço.",
+        "Verifiquei a minha situação fiscal com um profissional, se necessário."
+      ],
+      "fontes": [
+        {
+          "dia": 1,
+          "tempo": "00:32:43",
+          "assunto": "Preço de entrada de R$ 497 com opção de parcelar"
+        },
+        {
+          "dia": 3,
+          "tempo": "02:33:30",
+          "assunto": "Proposta comercial enviada no WhatsApp com site, domínio e mensalidade"
+        },
+        {
+          "dia": 3,
+          "tempo": "02:35:31",
+          "assunto": "Transparência no domínio: valor citado na live de R$ 40 ao ano pagos ao Registro.br"
+        },
+        {
+          "dia": 3,
+          "tempo": "02:36:38",
+          "assunto": "Link de pagamento parcelado na InfinitePay"
+        },
+        {
+          "dia": 4,
+          "tempo": "00:54:13",
+          "assunto": "Cliente pede ajuda com o Instagram: serviço extra que pode subir o fechamento"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:08:04",
+          "assunto": "Fechar site e domínio juntos"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:22:38",
+          "assunto": "Você define o seu preço"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:46:02",
+          "assunto": "Parcelamento tem taxa e o valor na conta vem descontado"
+        },
+        {
+          "dia": 6,
+          "tempo": "00:46:10",
+          "assunto": "Saldo atualizado de cerca de R$ 983 após as taxas do cartão"
+        },
+        {
+          "dia": 6,
+          "tempo": "01:30:46",
+          "assunto": "Transição para R$ 799 à vista ou dez vezes de R$ 79,90"
+        },
+        {
+          "dia": 6,
+          "tempo": "01:42:23",
+          "assunto": "Evitar atrito no pagamento: link que abre direto no celular"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:12:29",
+          "assunto": "Início como pessoa física e formalização depois"
+        },
+        {
+          "dia": 18,
+          "tempo": "03:08:26",
+          "assunto": "Faixas citadas: landing page a partir de cerca de R$ 800 e sistemas SaaS de R$ 5.000 a R$ 20-30 mil"
+        },
+        {
+          "dia": 19,
+          "tempo": "02:21:53",
+          "assunto": "Orçamento sob medida: estimar as horas de trabalho antes de dar o preço"
+        },
+        {
+          "dia": 19,
+          "tempo": "02:31:37",
+          "assunto": "Parcelamento em dez vezes e a taxa de cerca de 13% que ele costuma absorver"
+        },
+        {
+          "dia": 19,
+          "tempo": "02:55:12",
+          "assunto": "Alternativa mais barata: landing page com agendamento pelo WhatsApp"
+        },
+        {
+          "dia": 19,
+          "tempo": "03:04:00",
+          "assunto": "Perguntar quanto o cliente pode investir para encontrar uma solução dentro do orçamento"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:36:00",
+          "assunto": "Sem portfólio é difícil cobrar caro: dois sites a R$ 497 para formar portfólio"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:39:44",
+          "assunto": "Cobrança recorrente no cartão pelo Mercado Pago; Asaas, InfinitePay e PagBank como alternativas"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:51:06",
+          "assunto": "Cobrar a mensalidade já no primeiro mês, junto com o site"
+        },
+        {
+          "dia": 20,
+          "tempo": "02:21:46",
+          "assunto": "Responder o preço por escrito ligando o valor ao ganho de aparecer na busca"
+        }
+      ],
+      "referenciasAtuais": [
+        {
+          "titulo": "Registro.br: regras e valores atuais de domínio .br",
+          "url": "https://registro.br/"
+        },
+        {
+          "titulo": "InfinitePay: taxas e condições atuais",
+          "url": "https://www.infinitepay.io/"
+        },
+        {
+          "titulo": "Mercado Pago: taxas e condições atuais",
+          "url": "https://www.mercadopago.com.br/"
+        }
+      ]
+    },
+    {
+      "id": "entregar-site-final",
+      "titulo": "Entregar o site final com domínio próprio",
+      "objetivo": "Trocar a demonstração pela versão definitiva, com material oficial do cliente, endereço próprio e revisão completa.",
+      "prerequisitos": [
+        "Pagamento confirmado.",
+        "Domínio registrado ou a registrar na conta do cliente."
+      ],
+      "comoFazer": [
+        "Peça ao cliente, pelo WhatsApp, fotos atualizadas (fachada, equipe, frota) e os ajustes de conteúdo. Nas lives, os clientes pediram mudança de conteúdo, não de estrutura.",
+        "Melhore as fotos recebidas com a IA, corrigindo qualidade e luz sem alterar a identidade real do local.",
+        "Oriente o cliente a criar a conta dele no Registro.br (ou no provedor onde comprou) e pagar o domínio no nome dele. Você só precisa do acesso técnico para apontar o DNS.",
+        "Há uma segunda forma, mostrada nos dias 13 e 20: registrar o domínio pela sua própria conta no registrador, mas preenchendo o cadastro com o cliente como proprietário (o formulário do Registro.br tem campos de proprietário, responsável administrativo e responsável técnico). O apresentador orienta pegar nome completo, CPF e endereço do cliente, nunca registrar no seu nome e transferir a propriedade se o cliente precisar. A cobrança pode ir para o e-mail do cliente (dia 19). Nas duas formas o titular é o cliente; confira as regras atuais do registrador sobre titularidade e transferência.",
+        "Entregue o site pronto: a orientação do dia 20 é não pedir que o cliente contrate hospedagem nem domínio por conta própria. Se o domínio ficar na conta dele, você depende do convite de acesso técnico: nessa live, o apresentador conferiu o e-mail e o Registro.br à espera do convite que faltava o cliente mandar.",
+        "Na Vercel, adicione o domínio do cliente ao projeto e crie, no painel do registrador, os registros A/CNAME que a própria Vercel indicar para aquele domínio. É o caminho mais seguro porque não mexe no resto da configuração. Nas lives o apresentador trocou os servidores de DNS (nameservers) pelos da Vercel; se você optar por esse caminho, antes copie os registros MX, TXT e os demais que já existem e recrie todos na Vercel, para não derrubar o e-mail do cliente. Nas lives a propagação normalmente levou alguns minutos, mas pode demorar mais.",
+        "Aguarde o certificado de segurança (cadeado) ser gerado automaticamente. Defina o domínio principal do projeto e confira o redirecionamento (por exemplo, a versão com www levando para a versão sem www, ou o inverso). O endereço provisório da Vercel pode continuar funcionando; removê-lo não é obrigatório.",
+        "Antes de avisar o cliente, revise tudo: botões de ligar e de WhatsApp com DDD e número corretos, links de mapa e exibição no celular.",
+        "Deixe combinado o que a mensalidade inclui (passo 12) para evitar pedidos fora do escopo."
+      ],
+      "resultadoEsperado": "Site final no ar no domínio do cliente, com cadeado, fotos reais e revisão completa feita.",
+      "checklist": [
+        "Recebi fotos e ajustes de conteúdo do cliente.",
+        "O domínio está no nome do cliente.",
+        "Os registros A/CNAME (ou os nameservers, com MX e TXT preservados) apontam para a Vercel e o certificado foi emitido.",
+        "Defini o domínio principal e conferi o redirecionamento.",
+        "Testei botões, WhatsApp, mapa e celular antes de avisar o cliente."
+      ],
+      "fontes": [
+        {
+          "dia": 5,
+          "tempo": "00:28:55",
+          "assunto": "Melhorar com o Gemini a foto da fachada enviada pelo cliente"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:47:02",
+          "assunto": "Clientes pediram ajuste de conteúdo, não de estrutura"
+        },
+        {
+          "dia": 5,
+          "tempo": "02:08:09",
+          "assunto": "Relato da live: conectar o domínio na Vercel e trocar os servidores de DNS (hoje, siga os registros indicados no painel)"
+        },
+        {
+          "dia": 5,
+          "tempo": "02:09:09",
+          "assunto": "Relato da live: remover o endereço provisório depois que o domínio conecta (não é condição obrigatória)"
+        },
+        {
+          "dia": 5,
+          "tempo": "02:11:15",
+          "assunto": "Domínio no ar com certificado de segurança"
+        },
+        {
+          "dia": 6,
+          "tempo": "00:54:28",
+          "assunto": "Domínio próprio da Lavanderia Lords configurado na Vercel com apontamento dos servidores DNS"
+        },
+        {
+          "dia": 10,
+          "tempo": "02:07:24",
+          "assunto": "Titularidade do domínio: cliente cria a conta e o desenvolvedor pede só o acesso técnico"
+        },
+        {
+          "dia": 11,
+          "tempo": "03:59:42",
+          "assunto": "Orientar o cliente a registrar o domínio na conta dele"
+        },
+        {
+          "dia": 12,
+          "tempo": "03:37:07",
+          "assunto": "Revisão antes da entrega: botões e WhatsApp com DDD e número corretos"
+        },
+        {
+          "dia": 13,
+          "tempo": "02:30:03",
+          "assunto": "Registrar o domínio pela sua conta do Registro.br colocando o cliente como proprietário (há campos de proprietário, responsável administrativo e responsável técnico)"
+        },
+        {
+          "dia": 19,
+          "tempo": "01:16:48",
+          "assunto": "Domínio no nome do cliente, com o e-mail dele para receber a cobrança"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:24:17",
+          "assunto": "Entregar o site pronto e cadastrar o domínio no nome do cliente, nunca no seu"
+        },
+        {
+          "dia": 20,
+          "tempo": "01:35:55",
+          "assunto": "Aguardar o convite de acesso ao domínio que o cliente precisa enviar"
+        }
+      ],
+      "referenciasAtuais": [
+        {
+          "titulo": "Vercel: como adicionar um domínio ao projeto (registros A/CNAME do painel)",
+          "url": "https://vercel.com/docs/domains/working-with-domains/add-a-domain"
+        },
+        {
+          "titulo": "Registro.br: regras e valores atuais de domínio .br",
+          "url": "https://registro.br/"
+        }
+      ]
+    },
+    {
+      "id": "mensalidade-e-proxima-fase",
+      "titulo": "Definir a mensalidade e planejar a próxima fase",
+      "objetivo": "Combinar o que a manutenção mensal cobre, entender o efeito da receita recorrente e decidir como ganhar volume sem perder qualidade.",
+      "prerequisitos": [
+        "Pelo menos uma entrega concluída (passo 11).",
+        "Escopo da manutenção definido por você."
+      ],
+      "comoFazer": [
+        "Apresente a mensalidade como manutenção e suporte (pequenas alterações de texto e fotos, cuidado com o site no ar), e não apenas como hospedagem. O valor citado nas lives é R$ 49,90 por mês; defina o seu.",
+        "Deixe o escopo claro: alterações pontuais estão incluídas; seções novas, páginas extras ou painel para o cliente editar sozinho exigem orçamento à parte.",
+        "Avise o cliente sobre o que acontece se a mensalidade parar: no modelo mostrado, o site sai do ar.",
+        "Antes de inventar serviço novo, pergunte aos clientes que você já tem. No dia 17, três dos quatro clientes ativos perguntaram por redes sociais, e o apresentador concluiu que é mais fácil agregar serviço a quem já confia em você do que vender para um desconhecido. Trate como serviço extra, com valor separado.",
+        "Prove o resultado. Configure o Google Analytics (ferramenta gratuita que mostra quantas pessoas visitam o site) também para os clientes e envie um relatório mensal ou trimestral; na live, o relatório foi gerado com o Gemini a partir do Analytics. Isso mostra que o site dá resultado e sustenta a mensalidade.",
+        "Faça a conta dos seus custos fixos (assinaturas de IA, hospedagem e ferramentas) e compare com a soma das mensalidades. Nas lives, duas mensalidades somavam R$ 99,80 e o apresentador as usa para cobrir esses custos (valores citados na live).",
+        "Acompanhe o funil e o caixa. No balanço do dia 20, o apresentador contou 25 empresas abordadas, 11 propostas (proposta é quando o cliente pede ou recebe o valor) e 4 vendas; são valores da live, sem promessa de resultado. Ele construiu com a IA um CRM próprio (sistema para registrar contatos, vendas, despesas e MRR); para começar, uma planilha com as mesmas colunas já serve.",
+        "Registre o que já funcionou (prompts, estrutura por nicho, roteiros) para acelerar as próximas demonstrações.",
+        "Quando o processo estiver validado, considere a evolução mostrada a partir do dia 11: abordar com mockup em imagem em vez de site completo, para não limitar o volume de contatos por dia. Nos dias 19 e 20 ele reforça a ideia: quando o cliente pede uma amostra, mostra só o mockup, e sugere criar apenas a primeira dobra, gerada no ChatGPT com as informações da empresa e o print das redes sociais. Ele diz que testou as duas formas e que, das quatro vendas do mês, três vieram do site feito antes da abordagem e uma da abordagem sem site pronto (dia 20). Trate como uma escolha sua, não como regra.",
+        "Tenha o seu próprio site no ar, com domínio próprio, para mostrar aos clientes e centralizar seus trabalhos em um único link. Nas lives, o domínio da própria marca foi registrado em uma registradora comercial, em promoção de primeiro ano (R$ 9,90 na live, valor histórico e sujeito a mudança), e apontado para a hospedagem pelo painel de DNS (dia 13). Para o site de uma marca comercial, confira também o plano de hospedagem adequado ao uso comercial (passo 2).",
+        "Suba o preço de forma gradual conforme ganhar experiência e depoimentos, e reavalie serviços adicionais que os clientes já pediram."
+      ],
+      "resultadoEsperado": "Regra de manutenção combinada com cada cliente, custos e mensalidades acompanhados e um plano para a próxima etapa da prospecção.",
+      "checklist": [
+        "Defini o que a mensalidade inclui e o que é orçamento à parte.",
+        "O cliente sabe o que acontece se parar de pagar.",
+        "Sei os meus custos fixos e a receita recorrente.",
+        "Tenho o meu próprio site no ar para mostrar.",
+        "Acompanho abordagens, propostas e vendas em uma planilha ou sistema simples.",
+        "Sei como mostrar resultado (Analytics) para quem paga a mensalidade.",
+        "Decidi se e quando vou testar mockups em imagem."
+      ],
+      "fontes": [
+        {
+          "dia": 5,
+          "tempo": "00:20:28",
+          "assunto": "Mensalidade de R$ 49,90 por cliente; se parar de pagar, o site sai do ar"
+        },
+        {
+          "dia": 5,
+          "tempo": "00:57:38",
+          "assunto": "Chamar de manutenção, não de hospedagem"
+        },
+        {
+          "dia": 6,
+          "tempo": "01:30:46",
+          "assunto": "Elevar o preço depois de validar as primeiras entregas"
+        },
+        {
+          "dia": 10,
+          "tempo": "04:25:45",
+          "assunto": "Escopo fechado na manutenção: pequenas alterações incluídas, extras sob orçamento"
+        },
+        {
+          "dia": 11,
+          "tempo": "00:10:41",
+          "assunto": "O gargalo de construir o site completo antes de falar com o cliente"
+        },
+        {
+          "dia": 11,
+          "tempo": "02:44:02",
+          "assunto": "Receita recorrente cobre os custos das ferramentas"
+        },
+        {
+          "dia": 12,
+          "tempo": "00:11:01",
+          "assunto": "Nova esteira com mockups em imagem e portfólio"
+        },
+        {
+          "dia": 12,
+          "tempo": "00:14:03",
+          "assunto": "Vender presença digital sem ter o próprio site no ar"
+        },
+        {
+          "dia": 12,
+          "tempo": "00:15:05",
+          "assunto": "Conceito de congruência: quem vende site precisa do próprio site"
+        },
+        {
+          "dia": 13,
+          "tempo": "00:19:32",
+          "assunto": "Domínio da própria marca registrado em promoção de primeiro ano (valor citado na live) e apontado por DNS"
+        },
+        {
+          "dia": 17,
+          "tempo": "00:15:12",
+          "assunto": "Três dos quatro clientes pediram redes sociais: agregar serviço a quem já é cliente"
+        },
+        {
+          "dia": 18,
+          "tempo": "02:13:00",
+          "assunto": "Como o funil é contado: abordadas, propostas (quando o valor é enviado) e vendas"
+        },
+        {
+          "dia": 19,
+          "tempo": "00:09:11",
+          "assunto": "Quando o cliente pede uma amostra, mostrar só o mockup"
+        },
+        {
+          "dia": 19,
+          "tempo": "00:27:33",
+          "assunto": "Relatório financeiro e de MRR no CRM próprio e custos fixos atuais"
+        },
+        {
+          "dia": 19,
+          "tempo": "01:11:23",
+          "assunto": "Configurar o Analytics dos clientes e enviar relatório periódico para provar resultado"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:23:37",
+          "assunto": "Balanço do mês: 25 empresas abordadas, 11 propostas e 4 vendas"
+        },
+        {
+          "dia": 20,
+          "tempo": "00:25:21",
+          "assunto": "Duas metodologias: site antes da abordagem (três vendas) e abordagem sem site (uma venda)"
+        },
+        {
+          "dia": 20,
+          "tempo": "01:44:20",
+          "assunto": "Em vez do site todo, criar só a primeira dobra ou o mockup com print das redes e prompt"
+        }
+      ]
+    }
+  ],
+  "glossario": [
+    {
+      "termo": "Dobra",
+      "definicao": "Cada bloco vertical da página que você vê antes de rolar. A primeira dobra é o topo do site, a parte que aparece assim que a página abre."
+    },
+    {
+      "termo": "Mockup",
+      "definicao": "Imagem da aparência da página feita antes do código, usada para aprovar o visual e como referência para a IA."
+    },
+    {
+      "termo": "Landing page",
+      "definicao": "Página única que apresenta a empresa e leva o visitante a uma ação, como chamar no WhatsApp."
+    },
+    {
+      "termo": "Prompt",
+      "definicao": "Instrução escrita que você envia à IA para pedir um texto, uma imagem ou um trecho de código."
+    },
+    {
+      "termo": "Lead",
+      "definicao": "Empresa ou pessoa que pode virar cliente e que ainda está sendo avaliada ou abordada."
+    },
+    {
+      "termo": "Nexar Hunter",
+      "definicao": "Ferramenta de prospecção usada nas lives para achar empresas por nicho e cidade e ver quais não têm site."
+    },
+    {
+      "termo": "Google Meu Negócio",
+      "definicao": "Ficha gratuita da empresa no Google Maps e na busca, com avaliações, fotos, telefone e endereço."
+    },
+    {
+      "termo": "Servidor local",
+      "definicao": "Modo de rodar o site no seu próprio computador para ver o resultado enquanto a IA constrói, antes de publicar."
+    },
+    {
+      "termo": "Next.js e Tailwind CSS",
+      "definicao": "Tecnologias de criação de sites usadas nas lives: Next.js organiza a página e Tailwind CSS cuida do estilo visual."
+    },
+    {
+      "termo": "Repositório (GitHub)",
+      "definicao": "Pasta do projeto guardada no GitHub, com histórico de alterações. Pode ser privada, para que outras pessoas não vejam o código."
+    },
+    {
+      "termo": "Commit",
+      "definicao": "Registro de um conjunto de alterações no repositório. Com a sincronização ligada, cada commit atualiza o site publicado."
+    },
+    {
+      "termo": "Deploy",
+      "definicao": "Ato de publicar o site na internet. Na Vercel, ele é gerado a partir do repositório do GitHub."
+    },
+    {
+      "termo": "Vercel",
+      "definicao": "Serviço que publica sites a partir do GitHub. Nas lives foi usado no plano gratuito, como relato; o plano Hobby é para uso pessoal não comercial, então confira o plano adequado ao uso comercial e os limites atuais."
+    },
+    {
+      "termo": "Domínio",
+      "definicao": "Endereço próprio do site, como nomedaempresa.com.br. Nas lives foi registrado no Registro.br, com custo anual pago pelo cliente (valor citado nas lives)."
+    },
+    {
+      "termo": "DNS",
+      "definicao": "Configuração que diz para onde o domínio aponta. É nela que você liga o endereço da empresa ao site publicado, seguindo os registros indicados no painel da Vercel."
+    },
+    {
+      "termo": "Certificado de segurança (cadeado)",
+      "definicao": "Recurso que faz o site abrir com endereço seguro (https). Na Vercel é emitido automaticamente depois que o domínio conecta."
+    },
+    {
+      "termo": "Responsivo / mobile",
+      "definicao": "Página que se ajusta ao tamanho da tela. É essencial conferir no celular, onde muitos clientes vão abrir o link."
+    },
+    {
+      "termo": "Quebra de gelo",
+      "definicao": "Primeira mensagem curta, sem link e sem proposta, apenas para saber se o contato está ativo e quem atende."
+    },
+    {
+      "termo": "Follow-up",
+      "definicao": "Mensagem de acompanhamento depois do envio da demonstração, perguntando se a pessoa conseguiu ver, sem pressionar."
+    },
+    {
+      "termo": "Gateway de pagamento",
+      "definicao": "Serviço que gera link de cobrança e recebe do cliente, como InfinitePay e Mercado Pago nas lives. Cada um tem taxas e regras próprias."
+    },
+    {
+      "termo": "MRR",
+      "definicao": "Receita recorrente mensal: soma das mensalidades que entram todo mês. Nas lives, cada cliente pagava R$ 49,90 (valor citado nas lives)."
+    }
+  ]
+}

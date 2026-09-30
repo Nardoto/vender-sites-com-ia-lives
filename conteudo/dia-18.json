@@ -1,0 +1,637 @@
+{
+  "dia": 18,
+  "slug": "dia-18",
+  "srt": "srt/dia-18.srt",
+  "titulo": "Dia 18 | Vibe Coding: R$2.990 + MRR: R$199,60 Vendendo Sites com IA",
+  "nome": "CRM da agência e revisão dos sites da turma",
+  "data": "2026-09-24",
+  "duracao": "3:40:48",
+  "youtube": "https://www.youtube.com/watch?v=NJYO5yn4klk",
+  "faturamento": "R$ 2.990",
+  "mrr": "R$ 199,60",
+  "resumo": "No décimo oitavo dia, Junior diz que o desafio chegou a cerca de R$ 3.000 acumulados, quase o dobro do salário mínimo, e que ainda não tinha uma forma organizada de controlar esse dinheiro. Por isso começa a construir um CRM próprio, pedindo primeiro a identidade visual ao ChatGPT e depois o sistema, por etapas, ao Antigravity no VS Code. Enquanto o Antigravity trabalha, ele revisa ao vivo os sites que a turma enviou pelo grupo do WhatsApp, apontando o que denuncia que uma página foi feita por IA (ícone do WhatsApp, cards de avaliação iguais, mapa falso, falta de favicon) e o que quebra no celular. O CRM fica com cerca de metade pronta, na etapa 7 de 24, e a conclusão fica para o dia seguinte.",
+  "destaques": [
+    "O acumulado do desafio chegou a cerca de R$ 3.000 (R$ 2.990 no título) com 25 empresas abordadas, 11 propostas e 4 vendas; proposta, para ele, é quando a pessoa pede o valor e ele manda o preço.",
+    "Sites feitos por IA se denunciam por detalhes repetidos: ícone genérico no botão do WhatsApp, cards de depoimento todos iguais, efeito neon, sombras padrão, mapa e fotos de mentira e ausência de favicon. Cada um tem correção simples.",
+    "Para projetos maiores (site por dobra, CRM em módulos) a regra é pedir por etapas: um prompt gigante faz a IA alucinar, ignorar o mockup e gerar retrabalho."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:03:54",
+      "texto": "Abre a live pedindo retorno sobre o áudio do microfone e lendo o chat; um espectador conta que já prospectou duas mensagens e conseguiu apresentar a ideia a um cliente."
+    },
+    {
+      "t": "00:04:21",
+      "texto": "Pede ao ChatGPT a identidade visual completa da própria marca, que ainda não existia."
+    },
+    {
+      "t": "00:05:12",
+      "texto": "Um espectador conta que disparou 300 mensagens em massa em três dias sem resultado; Junior explica por que não dispara em massa e prefere analisar o perfil do cliente."
+    },
+    {
+      "t": "00:06:46",
+      "texto": "Lembra que o script de vendas está no Google Drive fixado no grupo do WhatsApp."
+    },
+    {
+      "t": "00:09:44",
+      "texto": "Informa que o saldo do desafio está perto de R$ 3.000 e que ainda não havia CRM para controlar isso."
+    },
+    {
+      "t": "00:10:03",
+      "texto": "Explica como precificar domínio e hospedagem: domínio tabelado no Registro.br (R$ 40 por 1 ano, R$ 76 por 2) e hospedagem gratuita no GitHub cobrando uma mensalidade do cliente (R$ 49,90; a legenda automática registra R$ 9,90)."
+    },
+    {
+      "t": "00:12:01",
+      "texto": "Anuncia o plano da live: desenvolver o CRM junto com a turma e revisar os sites que os alunos mandarem."
+    },
+    {
+      "t": "00:15:54",
+      "texto": "Abre um novo chat no ChatGPT com a identidade visual anexada e pede um CRM completo para a agência, listando os módulos desejados."
+    },
+    {
+      "t": "00:18:47",
+      "texto": "Diz que prospecta pelo Nexar Hunter, por nicho e por cidade, e mostra a tela da ferramenta com a lista filtrada por IA."
+    },
+    {
+      "t": "00:24:26",
+      "texto": "Pede o CRM no VS Code com Antigravity e Gemini em nível médio, rodando local primeiro e online depois."
+    },
+    {
+      "t": "00:26:14",
+      "texto": "Diz que só vai investir em ferramentas novas quando tiver R$ 5.000 líquidos na conta."
+    },
+    {
+      "t": "00:30:09",
+      "texto": "Lê a proposta de arquitetura do CRM: nove áreas, com dashboard, fluxo de caixa, MRR, clientes, serviços e financeiro."
+    },
+    {
+      "t": "00:32:56",
+      "texto": "Responde a um espectador cujo site não segue o mockup: pedir a implementação dobra por dobra, e não em um prompt só."
+    },
+    {
+      "t": "00:39:57",
+      "texto": "Como o YouTube restringe links no chat, pede que os sites sejam enviados no grupo do WhatsApp e começa a revisão."
+    },
+    {
+      "t": "00:44:23",
+      "texto": "Interrompe a live para atender uma ligação de cliente da agência (a transcrição fica sem falas até 00:55:01)."
+    },
+    {
+      "t": "00:59:35",
+      "texto": "Revisa o site Criativo Campos: identidade visual aprovada, mas o rodapé e o menu quebram no celular."
+    },
+    {
+      "t": "01:01:52",
+      "texto": "Revisa o site do Luiz, que tem cara de IA, e mostra como pedir ao ChatGPT um novo mockup sem vestígio de IA."
+    },
+    {
+      "t": "01:14:52",
+      "texto": "Responde que cobra R$ 799 mais hospedagem recorrente de R$ 49,90 e mostra a extensão simulador de celular do Chrome."
+    },
+    {
+      "t": "01:21:07",
+      "texto": "Pede o ajuste do botão do WhatsApp e explica por que usar o ícone oficial, e não um genérico."
+    },
+    {
+      "t": "01:33:44",
+      "texto": "Informa a conversão do desafio: 11 propostas enviadas e 4 vendas."
+    },
+    {
+      "t": "01:46:11",
+      "texto": "Confirma que vai hospedar o CRM na Vercel e que os dados exibidos ainda são fictícios."
+    },
+    {
+      "t": "02:00:19",
+      "texto": "O Antigravity termina de criar as tabelas do banco de dados; em seguida mostra o e-commerce America Imports feito com IA."
+    },
+    {
+      "t": "02:07:36",
+      "texto": "Fala sobre limites de disparo no WhatsApp: cerca de 15 a 20 por dia no número da agência."
+    },
+    {
+      "t": "02:13:00",
+      "texto": "Esclarece os números do funil: 25 empresas abordadas, 11 propostas (quando manda o valor) e 4 vendas."
+    },
+    {
+      "t": "02:22:17",
+      "texto": "Configura o primeiro acesso de administrador do CRM."
+    },
+    {
+      "t": "02:32:33",
+      "texto": "Orienta a não colocar campos opcionais em formulário de contato."
+    },
+    {
+      "t": "02:38:51",
+      "texto": "Revisa o site da Gisele (energia solar) e sugere autoplay e carrossel com dois itens por vez."
+    },
+    {
+      "t": "02:44:26",
+      "texto": "Responde a quem abordou três empresas sem fechar: a média é abordar cerca de 50 pessoas para um lead ter interesse."
+    },
+    {
+      "t": "03:03:10",
+      "texto": "Aconselha a divulgar-se como você realmente é (empresa ou desenvolvedor individual) e conta que fecha mais pelo perfil pessoal."
+    },
+    {
+      "t": "03:08:26",
+      "texto": "Responde sobre preços: landing page a partir de R$ 800 e, na agência, sistemas SaaS de R$ 5.000 a até R$ 20-30 mil."
+    },
+    {
+      "t": "03:12:37",
+      "texto": "Revisa o site Wolf (comida), recomenda buscar referências no Pinterest e usar favicon."
+    },
+    {
+      "t": "03:25:59",
+      "texto": "Diz que a meta é fechar mais um cliente até quarta-feira para chegar a R$ 250 de MRR e cerca de R$ 3.500 no mês."
+    },
+    {
+      "t": "03:29:00",
+      "texto": "Mostra o módulo de prospecção do CRM com pipeline arrastável; o CRM está na etapa 7 de 24."
+    },
+    {
+      "t": "03:36:37",
+      "texto": "Mostra as colunas de prospecção do CRM (novo, contato realizado, respondeu, interessado, proposta enviada)."
+    },
+    {
+      "t": "03:38:46",
+      "texto": "Encerra prometendo terminar o CRM no dia seguinte, liberar os prompts no fim de semana e voltar a prospectar na segunda."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:26:14",
+      "titulo": "Só invista em ferramenta com caixa",
+      "texto": "Junior só planeja assinar ferramentas novas quando houver R$ 5.000 líquidos, já sem taxas, na conta; até lá usa o que cabe no plano atual."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "00:27:44",
+      "titulo": "Foco custa horas, não talento",
+      "texto": "Ele diz que chegou aos R$ 3.000 em 18 dias trabalhando cerca de 4 horas por dia; quem tiver o dia inteiro pode prospectar e fechar bem mais rápido."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:51:46",
+      "titulo": "A maioria fala e não faz",
+      "texto": "Todo mundo diz que dá para fazer com IA, mas a maioria não executa; quem executa já está à frente."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:55:21",
+      "titulo": "Tenha o seu próprio site",
+      "texto": "Não dá para vender site sem ter o seu próprio no ar; o portfólio próprio é o primeiro argumento de venda."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:05:26",
+      "titulo": "Não dispare em massa",
+      "texto": "Um espectador mandou 300 mensagens em massa em três dias sem retorno; Junior prefere analisar o perfil de cada cliente e prospectar manualmente."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:18:47",
+      "titulo": "Nexar Hunter por nicho e cidade",
+      "texto": "Junior prospecta pelo Nexar Hunter, buscando por nicho e por cidade e usando a lista já filtrada por IA com as empresas de maior chance de fechar."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "00:34:13",
+      "titulo": "Com chatbot ou secretária, insista",
+      "texto": "Em clínicas, dentistas e médicos dificilmente se chega ao dono de primeira; é preciso insistir e buscar o contato de forma manual."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:44:26",
+      "titulo": "A média é 50 para 1",
+      "texto": "Abordar três empresas e não fechar nenhuma é normal; a média apontada é de cerca de 50 abordagens para um lead interessado."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:07:36",
+      "titulo": "Respeite o limite de disparos",
+      "texto": "No número da agência ele faz 15 a 20 disparos por dia; espectadores relatam bloqueio de 24 horas ao passar do limite, então teste com poucos envios."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "03:03:10",
+      "titulo": "Apresente-se como você é",
+      "texto": "Se você é empresa, apareça como empresa; se é desenvolvedor individual, como tal. Junior fecha mais negócios pelo perfil pessoal do que pelo da agência."
+    },
+    {
+      "momento": "analise",
+      "t": "00:59:35",
+      "titulo": "Revise sempre o celular",
+      "texto": "Cerca de 70% das visitas vêm do celular contra 30% do computador, segundo ele; o site precisa funcionar 100% no mobile."
+    },
+    {
+      "momento": "analise",
+      "t": "01:01:23",
+      "titulo": "Menu sobreposto é erro comum da IA",
+      "texto": "Menu que cobre o conteúdo ou não tem botão de fechar e rodapé quebrado no celular aparecem em muitos projetos; peça o ajuste específico."
+    },
+    {
+      "momento": "analise",
+      "t": "01:04:10",
+      "titulo": "O que entrega que foi feito por IA",
+      "texto": "Ícones genéricos, sombras padrão, efeito neon e cards de depoimento todos iguais são as marcas mais visíveis; clientes que usam IA vão perceber, clientes leigos em geral não."
+    },
+    {
+      "momento": "analise",
+      "t": "01:22:14",
+      "titulo": "Avaliações com ícone do Google",
+      "texto": "Nos depoimentos, use o ícone do Google e uma foto, mesmo que seja mockup, para não parecer testemunho falso."
+    },
+    {
+      "momento": "analise",
+      "t": "01:25:26",
+      "titulo": "Mapa real e ícones de redes",
+      "texto": "Se o site vai ser vendido, coloque o mapa real da empresa; no rodapé, use os ícones das redes sociais em vez de apenas o link."
+    },
+    {
+      "momento": "analise",
+      "t": "02:49:53",
+      "titulo": "Analise o contexto antes de criticar",
+      "texto": "Um detalhe que parece marca de IA pode ser intencional; ao revisar um site, considere o contexto do negócio, como fez ao rever os cards da Stec."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:33:08",
+      "titulo": "Peça o site dobra por dobra",
+      "texto": "Um prompt só para o site inteiro não chega perto do mockup; peça ao ChatGPT o prompt de cada dobra e ajuste enviando a imagem do que você quer e a imagem do que saiu."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:24:45",
+      "titulo": "Diga a ferramenta ao ChatGPT",
+      "texto": "Ao pedir um prompt fora do ChatGPT, informe qual ferramenta vai usar (por exemplo, Antigravity); assim o prompt sai mais assertivo."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:35:24",
+      "titulo": "Por etapas gasta menos",
+      "texto": "Pedir o sistema por etapas gera menos retrabalho e gasta menos cota; ele mostra 45% de uso diário mesmo construindo banco de dados, o que consome mais que um site."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:42:35",
+      "titulo": "Favicon não pode faltar",
+      "texto": "O ícone da aba do navegador dá acabamento profissional e foi apontado como ausência em vários sites revisados."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:21:07",
+      "titulo": "Use o ícone oficial do WhatsApp",
+      "texto": "Botão com ícone genérico entrega que o site foi feito com IA; troque pelo ícone real do WhatsApp e deixe o ícone do tamanho do texto ou maior."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:32:33",
+      "titulo": "Sem campos opcionais no formulário",
+      "texto": "Campos opcionais não são preenchidos; tire-os ou torne-os obrigatórios. Quanto menos barreira para o contato, melhor."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:13:03",
+      "titulo": "Pinterest para sair do padrão de IA",
+      "texto": "Busque no Pinterest referências do segmento (por exemplo, sites de comida), envie o print do seu site e as referências ao ChatGPT e peça um novo layout."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:43:07",
+      "titulo": "Segurança em painel admin",
+      "texto": "Se o site tem formulário e painel administrativo, é preciso tratar os dados contra SQL injection; hoje dá para pedir isso à própria IA, mas vale estudar o básico de segurança."
+    },
+    {
+      "momento": "criacao",
+      "t": "03:04:35",
+      "titulo": "Modo turbo no Antigravity",
+      "texto": "Nas configurações do Antigravity, colocar o preset de segurança em turbo mode e enviar mensagens imediatamente para o agente parar de pedir confirmação a toda hora."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:07:27",
+      "titulo": "Mockup antes de vender",
+      "texto": "O site do cliente antes da venda é um mockup gerado no ChatGPT, como mostrado nas lives anteriores."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "01:09:41",
+      "titulo": "Feche direto no WhatsApp",
+      "texto": "Junior não leva o lead para reunião: fecha a venda direto pela conversa no WhatsApp."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "03:32:05",
+      "titulo": "Como evitar que achem que é golpe",
+      "texto": "Faça o mockup do site do cliente e envie o link já pronto, como nas primeiras vendas, entre elas a do site da lavanderia."
+    },
+    {
+      "momento": "preco",
+      "t": "00:10:03",
+      "titulo": "Domínio tabelado, hospedagem grátis",
+      "texto": "O domínio é tabelado no Registro.br (R$ 40 por 1 ano, R$ 76 por 2) e não há o que negociar; para site simples, hospede grátis no GitHub e cobre uma mensalidade de hospedagem (R$ 49,90, valor que fecha com o MRR de R$ 199,60 de quatro clientes)."
+    },
+    {
+      "momento": "preco",
+      "t": "01:14:52",
+      "titulo": "R$ 799 mais hospedagem",
+      "texto": "Ele cobra R$ 799 pelo site, mais hospedagem recorrente de R$ 49,90; diz que cobra R$ 799 porque o portfólio ainda é pequeno."
+    },
+    {
+      "momento": "preco",
+      "t": "03:08:26",
+      "titulo": "Tabela de preços da agência",
+      "texto": "Landing page a partir de R$ 800; SaaS na agência de R$ 5.000 até R$ 20-30 mil; CRMs a partir de R$ 5.000."
+    },
+    {
+      "momento": "preco",
+      "t": "02:14:46",
+      "titulo": "Alteração depois da entrega é cobrada",
+      "texto": "O suporte não está incluso no valor do site: cada alteração pedida depois é cobrada à parte."
+    },
+    {
+      "momento": "preco",
+      "t": "02:17:49",
+      "titulo": "Suba o ticket com o portfólio",
+      "texto": "Quando o portfólio crescer, a ideia é subir o ticket de R$ 799 para R$ 997, depois R$ 1.299 e adiante."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:08:51",
+      "titulo": "Explique, mas o site é do cliente",
+      "texto": "Se o cliente pede algo que piora o site, explique o motivo; se ele insistir em manter, o site é dele e o importante é fechar e deixá-lo satisfeito."
+    },
+    {
+      "momento": "fechamento",
+      "t": "03:31:05",
+      "titulo": "Parcelar em 10 vezes antes de começar",
+      "texto": "Vendendo pelo Mercado Pago, o cliente paga em até 10 vezes na hora, antes de o trabalho começar; a taxa fica por conta de Junior."
+    },
+    {
+      "momento": "fechamento",
+      "t": "01:16:40",
+      "titulo": "Entregue os arquivos se pedirem",
+      "texto": "Mesmo hospedando no GitHub, se o cliente precisar dos arquivos do site, basta enviá-los."
+    },
+    {
+      "momento": "erros",
+      "t": "01:22:34",
+      "titulo": "Depoimento sem origem",
+      "texto": "Cards de comentários todos iguais e sem foto passam a impressão de testemunho falso e denunciam a IA."
+    },
+    {
+      "momento": "erros",
+      "t": "02:35:38",
+      "titulo": "Deixar tudo para um prompt só",
+      "texto": "A IA se perde no caminho e alucina quando recebe um prompt muito grande; divida o sistema em etapas."
+    },
+    {
+      "momento": "erros",
+      "t": "02:19:52",
+      "titulo": "Ícone do Telegram no lugar do WhatsApp",
+      "texto": "Muita gente não usa Telegram e não reconhece o ícone; o visitante pode achar que o botão leva a outro lugar. Use o ícone do WhatsApp."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "00:14:29",
+      "titulo": "Pedir a identidade visual completa ao ChatGPT",
+      "texto": "Preciso baixar minha identidade visual completa para salvar no meu computador e usar também para criar demais produtos com a minha marca. Então, gera identidade visual completa e formata para o profissional. (Ditado ao vivo, texto ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:15:39",
+      "titulo": "Pedir o CRM com a identidade visual como base",
+      "texto": "Esta é a identidade visual da minha empresa. Use-a como base para este trabalho. Vamos desenvolver um CRM completo para gerenciar a minha agência: cadastro de clientes, gestão de clientes, gestão de contas a pagar e receber, fluxo de caixa, despesas, controle de MRR, serviços e controle de prospecção de novos clientes. (Ditado ao vivo, texto ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "00:23:37",
+      "titulo": "Definir onde o CRM roda e com quais ferramentas",
+      "texto": "Esse CRM vou rodar inicialmente local, mas depois de pronto vamos colocar online; podemos usar Supabase ou uma hospedagem normal. Vamos produzir o CRM usando o VS Code mais Antigravity. (Ditado ao vivo, texto ajustado a partir da transcrição automática.)"
+    },
+    {
+      "tipo": "prompt",
+      "t": "01:02:36",
+      "titulo": "Pedir novo layout sem cara de IA",
+      "texto": "(Junto com o print do site.) Esse site está transparecendo uma identidade de IA, de que foi produzido por IA. Analise todo o site e me traga um mockup de um novo layout com uma identidade profissional, digna de uma agência de marketing de alto nível, detalhista e minimalista, que transmita autoridade, sem nenhum vestígio de que foi feito com IA. (Ditado ao vivo, texto ajustado a partir da transcrição automática.)"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Marcos",
+      "pergunta": "Como explicar e precificar para o cliente o domínio mais a hospedagem?",
+      "resposta": "O domínio é tabelado no Registro.br (cerca de R$ 40 por 1 ano e R$ 76 por 2). A hospedagem depende do plano: para site simples, dá para usar o GitHub gratuito e cobrar do cliente uma mensalidade de hospedagem (R$ 49,90, conforme o MRR do desafio).",
+      "t": "00:10:03"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como você apresenta o site ao cliente antes de vender?",
+      "resposta": "Cria um mockup no ChatGPT e envia o link; nas lives anteriores aparece a criação de mockups para vários sites.",
+      "t": "00:07:27"
+    },
+    {
+      "autor": "Thiago",
+      "pergunta": "Qual hospedagem você recomenda para os clientes?",
+      "resposta": "Na agência ele usa a Hostinger; para os sites do desafio a hospedagem é gratuita.",
+      "t": "01:09:15"
+    },
+    {
+      "autor": "Rafa",
+      "pergunta": "Se o site fica no GitHub e o cliente precisar dos arquivos, como fazer?",
+      "resposta": "Envia os arquivos ao cliente.",
+      "t": "01:16:40"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "Qual é a meta do projeto e o que você ensina nas lives?",
+      "resposta": "A meta era fazer um salário mínimo vendendo sites com vibe coding e prospecção; até aquele dia estavam com R$ 2.990, quase o dobro, e a ideia é aumentar.",
+      "t": "01:37:10"
+    },
+    {
+      "autor": "Josué",
+      "pergunta": "Quantas vendas de site já foram fechadas até agora?",
+      "resposta": "Cerca de R$ 3.000 no total do mês, com 11 propostas e 4 vendas; nesse dia ele não prospectou porque estava construindo o CRM.",
+      "t": "02:10:13"
+    },
+    {
+      "autor": null,
+      "pergunta": "As 11 propostas são 11 pessoas às quais você ofereceu?",
+      "resposta": "Ele ofereceu a 25 empresas; proposta é quando a pessoa pede o valor e ele envia o preço.",
+      "t": "02:13:00"
+    },
+    {
+      "autor": "Teteu",
+      "pergunta": "O suporte do site está incluso no valor?",
+      "resposta": "Não. Cada alteração que o cliente pedir depois da entrega é cobrada.",
+      "t": "02:14:46"
+    },
+    {
+      "autor": null,
+      "pergunta": "Qual extensão usar para tirar foto de uma página inteira?",
+      "resposta": "GoFullPage, do Chrome; o Fire Shot também funciona.",
+      "t": "02:16:10"
+    },
+    {
+      "autor": null,
+      "pergunta": "Você mostrou em algum vídeo como configurar Google Analytics e Google Business para um cliente?",
+      "resposta": "Não mostrou em live, mas é simples: pedir à IA o código do Google Analytics, implementar no site, e o mesmo vale para o Google Meu Negócio.",
+      "t": "02:26:01"
+    },
+    {
+      "autor": "Josué",
+      "pergunta": "Dá para fazer sistemas com IA sem risco de segurança?",
+      "resposta": "O mito vem de quem fazia com IA e ignorava a segurança; hoje as IAs evoluíram e, estudando um pouco, dá para fazer sites mais seguros que os feitos em CMS. Ainda assim é preciso ajustar e pedir isso à IA.",
+      "t": "02:44:37"
+    },
+    {
+      "autor": null,
+      "pergunta": "Criar o Instagram como empresa ou como desenvolvedor?",
+      "resposta": "Como você é: empresa aparece como empresa, autônomo como desenvolvedor individual. Ele fecha mais negócios no perfil pessoal do que no da agência.",
+      "t": "03:03:10"
+    },
+    {
+      "autor": null,
+      "pergunta": "Quanto cobrar em cada tipo de site?",
+      "resposta": "Landing page a partir de R$ 800; SaaS depende da complexidade e, na agência, vai de R$ 5.000 até R$ 20-30 mil. O valor do website simples foi dito de forma inaudível na transcrição.",
+      "t": "03:08:26"
+    },
+    {
+      "autor": "Adriano",
+      "pergunta": "Em CRMs e e-commerces, é melhor fazer do zero para cada lead ou usar template?",
+      "resposta": "Se o segmento for igual, dá para montar uma base e reestruturar; na agência, para revendas de carro, existe uma sequência de prompts pronta que roda para todos.",
+      "t": "03:21:26"
+    },
+    {
+      "autor": null,
+      "pergunta": "Como fazer o cliente não achar que é golpe?",
+      "resposta": "Fazer o mockup do site e enviar o link já pronto, como nas primeiras vendas mostradas nas lives iniciais.",
+      "t": "03:32:05"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "ChatGPT",
+      "uso": "Plano Plus para gerar a identidade visual, os mockups de sites, a logo e os prompts de cada etapa do CRM."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão no VS Code que codifica o CRM por etapas, com modelo Gemini em nível médio e o preset turbo mode."
+    },
+    {
+      "nome": "VS Code",
+      "uso": "Editor onde o CRM foi criado, começando pela pasta do projeto JRCRM."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Prospecção por nicho e cidade, com lista filtrada por IA das empresas com mais chance de fechar."
+    },
+    {
+      "nome": "Supabase",
+      "uso": "Banco de dados do CRM, rodando local no início e depois em nuvem, com login e proteção de acesso por linha (RLS)."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Hospedagem planejada para colocar o CRM no ar depois de pronto."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Hospedagem gratuita dos sites dos clientes."
+    },
+    {
+      "nome": "Mercado Pago",
+      "uso": "Venda dos sites com parcelamento no cartão em até 10 vezes; a taxa fica por conta de Junior."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Consulta e registro de domínio com preço tabelado."
+    },
+    {
+      "nome": "Pinterest",
+      "uso": "Referências visuais de layouts para tirar o site do padrão de IA."
+    },
+    {
+      "nome": "Simulador de celular (extensão do Chrome)",
+      "uso": "Abre a visualização mobile para revisar os sites; o modo dispositivo do F12 dá o mesmo resultado."
+    },
+    {
+      "nome": "GoFullPage",
+      "uso": "Extensão do Chrome para capturar a página inteira e enviar o print ao ChatGPT."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:05:26",
+      "texto": "Tem que analisar o perfil do cliente; por isso eu não disparo em massa."
+    },
+    {
+      "t": "01:06:25",
+      "texto": "O importante é ter resultado, não é ter o site."
+    },
+    {
+      "t": "01:00:56",
+      "texto": "Se preocupem sempre com o mobile: 70% das pessoas vão ver o site de vocês no celular contra 30% no computador."
+    },
+    {
+      "t": "02:44:26",
+      "texto": "É 50 para um: normalmente você vai abordar 50 pessoas para um lead ter interesse."
+    },
+    {
+      "t": "02:53:55",
+      "texto": "Se você jogar um prompt muito grande, ele vai alucinar; por isso eu faço por dobra e por etapas."
+    },
+    {
+      "t": "02:55:21",
+      "texto": "Você não pode vender site pras pessoas sem ter o teu site."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Criar a identidade visual da sua marca no ChatGPT",
+      "passos": [
+        "Abra a conversa do ChatGPT em que você já criou seu site ou marca.",
+        "Peça a identidade visual completa e formatada para uso profissional, com cores, tipografia e manual.",
+        "Baixe o arquivo gerado e guarde na pasta do projeto.",
+        "Abra um chat novo, anexe a identidade visual e diga que ela é a base para o próximo trabalho."
+      ],
+      "resultado": "Uma identidade visual em arquivo, reutilizável em sites, logo e sistemas da sua marca.",
+      "fonte_t": "00:14:29"
+    },
+    {
+      "titulo": "Revisar um site com a lista de sinais de IA",
+      "passos": [
+        "Abra o site pronto no navegador e no celular (F12, modo dispositivo, ou uma extensão de simulador).",
+        "Confira se o botão do WhatsApp usa o ícone oficial e se o ícone é do tamanho do texto ou maior.",
+        "Veja se os cards de depoimento têm ícone do Google e foto, e se o mapa é o real da empresa.",
+        "Verifique favicon, ícones das redes no rodapé, campos opcionais no formulário e o botão de fechar do menu no celular.",
+        "Envie o print ao ChatGPT pedindo um novo mockup sem cara de IA e aplique só os ajustes que forem pertinentes."
+      ],
+      "resultado": "Uma lista curta de correções específicas para tirar o site do padrão de IA.",
+      "fonte_t": "01:04:10"
+    },
+    {
+      "titulo": "Pedir um sistema por etapas em vez de um prompt gigante",
+      "passos": [
+        "Escolha um sistema pequeno, por exemplo um cadastro de clientes.",
+        "Peça ao ChatGPT a arquitetura em módulos e depois um prompt por módulo, informando que a execução será no Antigravity.",
+        "Rode um prompt por vez e teste o resultado antes de passar para o próximo.",
+        "Se algo quebrar, envie o print do erro e peça a correção só daquele ponto."
+      ],
+      "resultado": "Um módulo funcionando e testado, com menos retrabalho e menos consumo de cota.",
+      "fonte_t": "00:24:45"
+    },
+    {
+      "titulo": "Montar o funil de prospecção com números reais",
+      "passos": [
+        "Crie uma planilha ou lista com as colunas novo, contato realizado, respondeu, interessado e proposta enviada.",
+        "Registre cada empresa abordada e mova de coluna conforme a resposta.",
+        "Conte como proposta apenas quando o cliente pediu o valor e você enviou o preço.",
+        "Calcule quantas abordagens são necessárias para cada proposta e cada venda."
+      ],
+      "resultado": "Uma taxa própria de abordagem, proposta e venda para comparar com os números da live.",
+      "fonte_t": "03:36:37"
+    }
+  ]
+}

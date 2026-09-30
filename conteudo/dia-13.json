@@ -1,0 +1,305 @@
+{
+  "dia": 13,
+  "slug": "dia-13",
+  "srt": "srt/dia-13.srt",
+  "titulo": "Dia 13 | Vibe Coding: R$1.093 de R$1.621 + MRR: R$99,80 Vendendo Sites com IA",
+  "nome": "Publicação do portfólio oficial e nova esteira de prospecção",
+  "data": "2026-09-16",
+  "duracao": "2:39:30",
+  "youtube": "https://www.youtube.com/watch?v=ZGt5vAUR_3Y",
+  "faturamento": "R$ 1.093",
+  "mrr": "R$ 99,80",
+  "resumo": "No décimo terceiro dia, com o saldo acumulado de R$ 1.093 e MRR de R$ 99,80, Júnior profissionaliza a esteira comercial publicando o site oficial da sua marca JR Web Design. Ele adquire o domínio próprio, configura os apontamentos de DNS na Vercel integrados ao repositório privado no GitHub e ativa o certificado SSL. Em seguida, define a oferta de prospecção do desafio com landing pages a R$ 799 (ou 10x de R$ 79,90) com domínio incluso e taxa de manutenção mensal. Na segunda metade da transmissão, utiliza o Nexar Hunter para minerar estabelecimentos locais sem website no segmento de estética automotiva e lava-jatos, preparando abordagens tanto para contatos frios quanto para comerciantes de sua rede de conhecidos no WhatsApp.",
+  "destaques": [
+    "Conexão do domínio próprio com a Vercel e o GitHub, consolidando a presença digital da JR Web Design com SSL gratuito e deploy contínuo automatizado.",
+    "Nova precificação de tração para o desafio: landing page completa a R$ 799 em 10x de R$ 79,90 (50% off) com domínio incluso e manutenção mensal associada ao MRR.",
+    "Estratégia de compra de domínio no Registro.br cadastrando o CPF ou CNPJ do cliente como proprietário legal e o desenvolvedor apenas como contato técnico."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:01:10",
+      "texto": "Abertura da transmissão com áudio restabelecido e resposta a Calebe sobre ferramentas de disparo no WhatsApp."
+    },
+    {
+      "t": "00:06:24",
+      "texto": "Explicação da arquitetura de hospedagem gratuita na Vercel conectada ao repositório no GitHub."
+    },
+    {
+      "t": "00:15:28",
+      "texto": "Geração de sugestões de nomes de domínio curtos no ChatGPT para o posicionamento da marca pessoal."
+    },
+    {
+      "t": "00:19:32",
+      "texto": "Aquisição do domínio oficial JR Web Design por R$ 9,90 no plano promocional de primeiro ano."
+    },
+    {
+      "t": "00:24:59",
+      "texto": "Comparativo entre registro direto no Registro.br e registradoras como Hostinger e HostGator."
+    },
+    {
+      "t": "00:31:58",
+      "texto": "Configuração dos registros DNS na Vercel e confirmação da emissão do certificado de segurança SSL."
+    },
+    {
+      "t": "00:40:00",
+      "texto": "Estruturação dos tópicos da proposta comercial contendo escopo, prazo, formas de pagamento e infraestrutura."
+    },
+    {
+      "t": "00:55:27",
+      "texto": "Abertura do Nexar Hunter para busca segmentada de empresas locais sem website cadastrado."
+    },
+    {
+      "t": "01:03:37",
+      "texto": "Definição da oferta de R$ 799 em 10x de R$ 79,90 com 50% de desconto anunciado e taxa de manutenção mensal."
+    },
+    {
+      "t": "01:15:27",
+      "texto": "Mineração ao vivo da empresa Dom Vapor e análise da ausência de site frente à concorrência no Google."
+    },
+    {
+      "t": "01:27:05",
+      "texto": "Demonstração do filtro de inteligência comercial do Nexar Hunter para priorizar empresas com alta demanda."
+    },
+    {
+      "t": "01:44:33",
+      "texto": "Orientação sobre o repasse do custo de registro de domínio nacional (R$ 40/ano no Registro.br) ao cliente."
+    },
+    {
+      "t": "01:57:25",
+      "texto": "Elaboração do roteiro de abordagem comercial direta e objetiva para envio no WhatsApp."
+    },
+    {
+      "t": "02:30:03",
+      "texto": "Demonstração de como preencher o cadastro no Registro.br colocando o cliente como proprietário titular."
+    },
+    {
+      "t": "02:38:02",
+      "texto": "Planejamento da prospecção híbrida para a tarde: envio para leads frios e comerciantes conhecidos."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "00:31:58",
+      "titulo": "Velocidade na publicação",
+      "texto": "Não perca dias refinando pequenos detalhes em localhost; publique logo seu portfólio oficial na Vercel para apresentar um link profissional aos clientes."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "02:15:11",
+      "titulo": "Comunicação direta sem rodeios",
+      "texto": "Hoje ninguém gosta de perder tempo; mensagens longas com roteiros pesados são ignoradas, sendo melhor adotar uma abordagem clara e direta."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:15:27",
+      "titulo": "Nicho com demanda constante de busca",
+      "texto": "Lava-jatos e oficinas de estética automotiva são excelentes alvos porque novos clientes pesquisam diariamente no Google por localização e serviços."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:38:02",
+      "titulo": "Prospecção em canal duplo",
+      "texto": "Equilibre o envio de propostas para contatos minerados no Nexar Hunter com abordagens diretas e amigáveis para empresários da sua própria lista telefônica."
+    },
+    {
+      "momento": "analise",
+      "t": "01:27:05",
+      "titulo": "Filtro de incongruência digital",
+      "texto": "Se a empresa tem fotos bonitas no Instagram mas não possui site nem link no Google Meu Negócio, ela está perdendo todo o público que faz busca intencional."
+    },
+    {
+      "momento": "criacao",
+      "t": "00:50:27",
+      "titulo": "Escadinha GitHub e Vercel",
+      "texto": "Ao estruturar o site com repositório privado no GitHub e conectar na Vercel, você garante deploy automático a cada commit e hospedagem estática gratuita."
+    },
+    {
+      "momento": "criacao",
+      "t": "01:01:20",
+      "titulo": "Foco em páginas reais",
+      "texto": "Ter uma ou duas páginas no portfólio de empresas reais e funcionais transmite muito mais confiança do que uma dezena de modelos fictícios sem validação."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:08:10",
+      "titulo": "Primeiro contato curto antes do script",
+      "texto": "Nunca envie o script completo logo de cara na primeira mensagem; inicie com uma saudação curta e cordial para validar se a pessoa está aberta à conversa."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "02:29:21",
+      "titulo": "Uso de áudio após abertura",
+      "texto": "Assim que a empresa responder positivamente à primeira mensagem, enviar um áudio curto explicando a proposta ajuda a gerar confiança na negociação."
+    },
+    {
+      "momento": "preco",
+      "t": "01:09:20",
+      "titulo": "Preço de tração no desafio",
+      "texto": "No desafio o preço das landing pages está padronizado em R$ 799 (ou 10 parcelas de R$ 79,90) para acelerar fechamentos e construir tração comercial."
+    },
+    {
+      "momento": "fechamento",
+      "t": "02:30:03",
+      "titulo": "Propriedade ética do domínio",
+      "texto": "Sempre compre o domínio com os dados e CPF do cliente para que ele seja o titular de direito, vinculando a sua conta apenas como contato técnico."
+    },
+    {
+      "momento": "erros",
+      "t": "00:01:17",
+      "titulo": "Perigos de disparos em massa",
+      "texto": "Evite utilizar disparadores automáticos no WhatsApp; mensagens impessoais geram denúncias imediatas e resultam no banimento do seu número de trabalho."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "prompt",
+      "t": "00:15:28",
+      "titulo": "Sugestões de domínio no ChatGPT (trecho dito na aula)",
+      "texto": "Me dê sugestões de domínios que tenham relação com o meu trabalho/nome para usar. Vou usar domínio .com ou .com.br."
+    },
+    {
+      "tipo": "whatsapp",
+      "t": "02:08:54",
+      "titulo": "Abordagem no WhatsApp (trechos da live e exemplo adaptado)",
+      "texto": "[Dito na live em 02:08:10 - Envio inicial]: 'Olá, boa tarde. Tudo bem?'\n\n[Dito na live em 02:08:54 e 01:57:40 - Apresentação após resposta]: 'Olá, sou o Júnior web designer de Juína e gostaria de apresentar meu trabalho com criação de sites profissionais. A proposta é dar à empresa um espaço próprio para apresentar seus serviços, mostrar trabalhos realizados, esclarecer dúvidas e atrair mais clientes. Uma apresentação organizada disponível 24 horas. Posso te mostrar um exemplo?'\n\n[Exemplo adaptado a partir da aula para envio do link e fechamento]: 'Montei uma demonstração de como ficaria a presença da empresa no Google e no celular: [link do portfólio]. Se fizer sentido para vocês, o investimento é de 10x de R$ 79,90 com domínio incluso.'"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Calebe",
+      "pergunta": "Uma dúvida: você tem alguma ferramenta para fazer disparo no WhatsApp?",
+      "resposta": "Temos dentro do Nexar Hunter uma ferramenta de disparo integrada, mas eu não comprei ainda nesse desafio.",
+      "t": "00:01:17"
+    },
+    {
+      "autor": "Lázaro",
+      "pergunta": "Baixei o GPT Plus e foi só montar o mockup que já acabaram os tokens do workspace. É normal isso?",
+      "resposta": "É conta gratuita, Lázaro? É sim.",
+      "t": "00:07:12"
+    },
+    {
+      "autor": "Nicolas",
+      "pergunta": "Onde você prospecta clientes locais?",
+      "resposta": "No Nexar Hunter; você vai ver quando a gente prospectar aqui na live.",
+      "t": "00:16:51"
+    },
+    {
+      "autor": "Patrick",
+      "pergunta": "Qual o valor médio de venda de um site que você vende?",
+      "resposta": "Aqui no desafio a gente tá vendendo as landing pages a 799.",
+      "t": "01:09:20"
+    },
+    {
+      "autor": "Caio",
+      "pergunta": "Já vendeu sites para a gringa?",
+      "resposta": "Não, Caio. A gente só vende aqui no Brasil.",
+      "t": "01:26:55"
+    },
+    {
+      "autor": "Victor",
+      "pergunta": "Como está a taxa de conversão das abordagens?",
+      "resposta": "Foram cinco abordagens, três propostas e duas vendas. A taxa de conversão tá boa para caramba, Victor.",
+      "t": "02:19:24"
+    },
+    {
+      "autor": "Risen",
+      "pergunta": "Como você compra o domínio com o CPF do cliente?",
+      "resposta": "A hora que você faz o pedido tem a opção de colocar o nome do responsável administrativo, técnico e o proprietário; aí você usa a conta do Registro.br colocando o cliente como proprietário.",
+      "t": "02:30:03"
+    },
+    {
+      "autor": "Diego",
+      "pergunta": "Quais critérios você tem para os leads que aborda?",
+      "resposta": "O Hunter já faz isso pra gente: coloco o nicho, a cidade e com a IA ele já filtra os leads com maior probabilidade de fechamento.",
+      "t": "02:32:30"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código onde os arquivos da landing page do portfólio oficial foram organizados."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão no VS Code para desenvolvimento web assistido por inteligência artificial."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Plataforma de hospedagem em nuvem conectada ao repositório para deploy automático e gestão de DNS."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Hospedagem do repositório privado com controle de versão do portfólio JR Web Design."
+    },
+    {
+      "nome": "Registro.br",
+      "uso": "Registradora oficial brasileira para contratação de domínios nacionais com titularidade no CPF do cliente."
+    },
+    {
+      "nome": "ChatGPT",
+      "uso": "Geração de ideias de nomes de domínio, estrutura da proposta comercial e auxílio nos textos."
+    },
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Software de prospecção e mineração de dados para localizar empresas sem website no Google."
+    }
+  ],
+  "frases": [
+    {
+      "t": "00:31:58",
+      "texto": "Domínio registrado, galera. Olha só. Então agora vamos fazer o apontamento para colocar o site no ar."
+    },
+    {
+      "t": "01:01:20",
+      "texto": "Quantas LP geradas é necessário para um portfólio? Cara, duas LP, uma LP já tá valendo, mesmo que seja real... não adianta você gerar 10 LP, tudo fictícia."
+    },
+    {
+      "t": "01:09:20",
+      "texto": "Patrick, aqui no desafio a gente tá vendendo as Land Page a 799."
+    },
+    {
+      "t": "02:15:11",
+      "texto": "Hoje ninguém gosta de perder tempo, tá? Eu sei por mim, quando o pessoal vem com o script gigante, que aí que eu não respondo, então eu prefiro ser muito direto."
+    },
+    {
+      "t": "02:28:20",
+      "texto": "Os domínios sobre sua propriedade sempre do cliente. Não fica nada comigo."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Apontamento de domínio próprio na Vercel",
+      "passos": [
+        "Acesse sua conta na Vercel e selecione o projeto da sua landing page importado do GitHub",
+        "Clique em Settings e abra a seção Domains para adicionar o domínio personalizado contratado",
+        "Copie as entradas DNS fornecidas (tipo A ou CNAME) pela Vercel",
+        "Acesse o painel da sua registradora de domínio e configure os registros DNS apontando para os servidores da Vercel"
+      ],
+      "resultado": "Site do portfólio publicado e acessível pelo endereço com domínio customizado com certificado SSL ativo.",
+      "fonte_t": "00:31:58"
+    },
+    {
+      "titulo": "Mineração de empresas sem site no Google Meu Negócio",
+      "passos": [
+        "Abra o mapa da sua cidade ou região e busque por 'estética automotiva' ou 'lava jato'",
+        "Verifique individualmente as 10 primeiras empresas listadas com avaliações ativas",
+        "Identifique aquelas que possuem telefone comercial cadastrado mas deixam o campo de website em branco",
+        "Anote os dados e cheque se a empresa possui perfil ativo no Instagram com postagens recentes"
+      ],
+      "resultado": "Lista de empresas sem site para avaliar e abordar individualmente.",
+      "fonte_t": "01:15:27"
+    },
+    {
+      "titulo": "Configuração ética de propriedade no Registro.br",
+      "passos": [
+        "Acesse registro.br e busque o domínio .com.br desejado para o projeto",
+        "No formulário de contratação, informe o CPF ou CNPJ do proprietário do estabelecimento como titular",
+        "No campo 'ID Técnico', preencha o seu identificador de desenvolvedor para gerenciar os servidores DNS",
+        "Finalize o pedido e envie as orientações para o cliente confirmar o pagamento do registro anual"
+      ],
+      "resultado": "Domínio cadastrado em nome do cliente com seu usuário configurado como contato técnico para gestão de DNS.",
+      "fonte_t": "02:30:03"
+    }
+  ]
+}

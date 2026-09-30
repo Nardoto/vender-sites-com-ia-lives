@@ -1,0 +1,292 @@
+{
+  "dia": 16,
+  "slug": "dia-16",
+  "srt": "srt/dia-16.srt",
+  "titulo": "Dia 16 | Vibe Coding: R$2.142 + MRR: R$149,70 Vendendo Sites com IA",
+  "nome": "SEO local, nichos essenciais e prospecção protegida",
+  "data": "2026-09-22",
+  "duracao": "2:30:23",
+  "youtube": "https://www.youtube.com/watch?v=mS8zcVDf0qA",
+  "faturamento": "R$ 2.142",
+  "mrr": "R$ 149,70",
+  "resumo": "No décimo sexto dia, Júnior mantém o faturamento acumulado em R$ 2.142 e receita recorrente de R$ 149,70, com oito empresas abordadas até o momento e duas vendas pagas. Ele aprofunda a estratégia comercial explicando por que pequenos negócios locais não conseguem depender apenas do Instagram: quando um consumidor enfrenta uma emergência (como um vidro quebrado ou manutenção mecânica), a busca é feita no Google pelo nome do serviço, e a empresa com site estruturado conquista o cliente. Ele analisa oportunidades no Nexar Hunter em novos nichos, como vidraçarias (ex: Vidraçaria União), estúdios de personal trainer e marcenarias, refinando a abordagem sem compartilhar a tela do WhatsApp para manter a conformidade com as regras da plataforma. No VS Code, ajusta detalhes visuais e substitui imagens fictícias por fotos de serviços reais nos mockups de apresentação.",
+  "destaques": [
+    "Compreensão do mecanismo de busca com intenção local: o cliente pesquisa no Google pelo serviço quando precisa de solução imediata, enquanto o Instagram depende de navegação casual.",
+    "Prospecção focada em nichos de serviço essencial e ticket elevado, como vidraçarias, estúdios de treinamento e marcenarias planejadas.",
+    "Aprimoramento contínuo de mockups substituindo imagens de bancos genéricos por fotografias reais de instalações e serviços da empresa."
+  ],
+  "linha_do_tempo": [
+    {
+      "t": "00:01:52",
+      "texto": "Abertura da live com alinhamento das metas e resposta a Luiz sobre prospecção orgânica no Google."
+    },
+    {
+      "t": "00:15:20",
+      "texto": "Balanço da esteira comercial: oito empresas abordadas e consolidação do funil de vendas."
+    },
+    {
+      "t": "00:29:43",
+      "texto": "Mineração do nicho de vidraçarias no Nexar Hunter e análise da Vidraçaria União sem website."
+    },
+    {
+      "t": "00:36:24",
+      "texto": "Leitura ao vivo do Script 1 de abordagem inicial apresentando o serviço de criação de sites."
+    },
+    {
+      "t": "00:42:05",
+      "texto": "Resposta a Gabriel sobre o retorno das prospecções com duas vendas fechadas em 16 dias."
+    },
+    {
+      "t": "00:44:58",
+      "texto": "Reforço sobre a proibição de expor números e conversas de clientes em tela para manter o canal seguro."
+    },
+    {
+      "t": "00:59:56",
+      "texto": "Resposta a Dudu sobre a agenda de reuniões da semana, incluindo contato com escritório de advocacia."
+    },
+    {
+      "t": "01:00:34",
+      "texto": "Explicação a Gabriel de como o MRR viabiliza hospedagem gratuita no GitHub e suporte pago pelo cliente."
+    },
+    {
+      "t": "01:10:14",
+      "texto": "Apresentação da dinâmica do Script 2 com envio dos valores após a manifestação de interesse."
+    },
+    {
+      "t": "01:15:24",
+      "texto": "Aula prática sobre intenção de busca no Google em comparação com redes sociais em emergências cotidianas."
+    },
+    {
+      "t": "01:16:10",
+      "texto": "Orientação a Mateus sobre a regra de abordar empresários estritamente durante o horário comercial."
+    },
+    {
+      "t": "01:37:17",
+      "texto": "Orientação a Fabrício indicando onde baixar o script de abordagem no grupo do WhatsApp."
+    },
+    {
+      "t": "01:45:19",
+      "texto": "Resposta a Telis confirmando transmissão seguinte dedicada à avaliação dos sites dos inscritos."
+    },
+    {
+      "t": "02:03:48",
+      "texto": "Esclarecimento a Mateus sobre por que a prospecção inicial é direcionada apenas a empresas sem site."
+    },
+    {
+      "t": "02:20:52",
+      "texto": "Ajuste fino de imagens de serviços no VS Code com Antigravity para valorizar o trabalho artesanal do cliente."
+    },
+    {
+      "t": "02:29:30",
+      "texto": "Encerramento reforçando a disciplina diária de prospecção no comércio local de cada cidade."
+    }
+  ],
+  "dicas": [
+    {
+      "momento": "mentalidade",
+      "t": "01:15:24",
+      "titulo": "A psicologia da busca de emergência",
+      "texto": "Quando alguém quebra o celular ou precisa de um serviço imediato, a busca é no Google pelo segmento; ter presença no Google traz leads muito mais qualificados."
+    },
+    {
+      "momento": "mentalidade",
+      "t": "01:38:30",
+      "titulo": "Opere sozinho enquanto houver capacidade",
+      "texto": "Enquanto você der conta de atender todo mundo sozinho, pode trabalhar sozinho; equipe vem quando a demanda de entregas esgotar seu tempo."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "02:03:48",
+      "titulo": "Foque no vácuo de presença digital",
+      "texto": "Abordar empresas que não possuem nenhum site facilita o fechamento, pois a ausência de presença online é uma dor evidente e imediata."
+    },
+    {
+      "momento": "prospeccao",
+      "t": "01:16:10",
+      "titulo": "Respeito ao horário comercial",
+      "texto": "Envie suas mensagens de prospecção profissional de segunda a sexta-feira em horário de expediente; abordagens à noite soam amadoras."
+    },
+    {
+      "momento": "analise",
+      "t": "00:29:43",
+      "titulo": "Segmentos com ticket médio elevado",
+      "texto": "Vidraçarias e marcenarias realizam serviços com tickets de milhares de reais; um único cliente vindo pelo Google já justifica todo o investimento no site."
+    },
+    {
+      "momento": "criacao",
+      "t": "02:20:52",
+      "titulo": "Fotografias reais no mockup",
+      "texto": "Substituir imagens genéricas de banco de dados por fotos de trabalhos e serviços reais executados pela empresa aumenta a identificação do dono com a proposta."
+    },
+    {
+      "momento": "whatsapp",
+      "t": "00:36:24",
+      "titulo": "Divisão em Script 1 e Script 2",
+      "texto": "Use o Script 1 para quebrar o gelo e apresentar a oportunidade de estar no Google; reserve o Script 2 com os valores para depois que o cliente demonstrar interesse."
+    },
+    {
+      "momento": "preco",
+      "t": "01:00:34",
+      "titulo": "Apresentação da infraestrutura",
+      "texto": "Explique com clareza que o código fica hospedado de forma segura e que a taxa de manutenção garante suporte técnico e alterações sem complicações."
+    },
+    {
+      "momento": "fechamento",
+      "t": "00:59:56",
+      "titulo": "Proposta de reunião formal",
+      "texto": "Para negócios mais formais (como escritórios de advocacia), proponha uma reunião para demonstrar a página funcionando e alinhar a identidade visual."
+    },
+    {
+      "momento": "erros",
+      "t": "00:25:06",
+      "titulo": "Abordar sem checar a ficha do Google",
+      "texto": "Verifique sempre se a empresa já possui site mesmo que não esteja vinculado ao mapa, evitando abordar estabelecimentos que já investiram na presença digital."
+    }
+  ],
+  "scripts": [
+    {
+      "tipo": "whatsapp",
+      "t": "00:36:24",
+      "titulo": "Script 1 de abordagem inicial (trecho lido e exemplo adaptado)",
+      "texto": "[Dito na live em 00:36:27]: 'Olá, tudo bem? Me chamo Júnior Lima, trabalho com criação de sites profissionais...'\n\n[Dito na live em 02:07:19]: 'Encontrei vocês pelo Instagram. Percebi uma oportunidade de fortalecer ainda mais a marca...'\n\n[Exemplo adaptado a partir da aula com o fluxo completo do Script 1]: 'Olá, tudo bem? Me chamo Júnior Lima, trabalho com criação de sites profissionais. Encontrei vocês pelo Instagram e notei uma grande oportunidade de fortalecer a presença da empresa no Google. Quando alguém pesquisa pelo serviço na cidade, as empresas com site aparecem em destaque. Posso te mostrar um modelo de como sua empresa ficaria no ar?'"
+    },
+    {
+      "tipo": "prompt",
+      "t": "02:20:52",
+      "titulo": "Substituição de imagem fictícia por serviço real (exemplo adaptado a partir da aula)",
+      "texto": "[Exemplo adaptado a partir da aula]: 'Substitua a imagem de destaque do cabeçalho, removendo a foto fictícia e inserindo a imagem do portfólio real com a instalação do serviço da empresa, preservando o alinhamento e a legibilidade da primeira dobra.'"
+    }
+  ],
+  "duvidas": [
+    {
+      "autor": "Luiz",
+      "pergunta": "Qual sua estratégia? Está prospectando no orgânico no Google?",
+      "resposta": "Luiz, vamos fazer isso já: analisar as empresas sem site no Google e abordar diretamente.",
+      "t": "00:01:58"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "Qual prospecção que deu mais retorno?",
+      "resposta": "A gente vai analisar lá no final do mês, porque a gente começou a testar com mockup agora e conseguiu fechar dois clientes em 16 dias.",
+      "t": "00:42:05"
+    },
+    {
+      "autor": "Dudu",
+      "pergunta": "Você tinha algumas reuniões essa semana?",
+      "resposta": "Tenho na quinta-feira, Dudu, com o advogado.",
+      "t": "00:59:56"
+    },
+    {
+      "autor": "Gabriel",
+      "pergunta": "Como você ganha no MRR?",
+      "resposta": "Eu hospedo no GitHub gratuito e cobro a hospedagem e suporte do cliente.",
+      "t": "01:00:34"
+    },
+    {
+      "autor": "Mateus",
+      "pergunta": "Será que é bom prospectar à noite?",
+      "resposta": "Eu não prospecto à noite, Mateus. Eu uso só horário comercial.",
+      "t": "01:16:10"
+    },
+    {
+      "autor": "Fabrício",
+      "pergunta": "Tem fácil aí um script para mandar?",
+      "resposta": "Tem o script aqui de abordagem, tá lá no nosso grupo do WhatsApp, aí você já vai ter acesso ao script que eu rodo.",
+      "t": "01:37:17"
+    },
+    {
+      "autor": "Telis",
+      "pergunta": "Você vai fazer live amanhã vendo o site dos inscritos?",
+      "resposta": "Sim, Telis, quem tiver lá no grupo do WhatsApp eu vou solicitar o site de vocês e vamos analisar amanhã.",
+      "t": "01:45:19"
+    },
+    {
+      "autor": "Mateus",
+      "pergunta": "Você só aborda clientes que não possuem site?",
+      "resposta": "Sim, Mateus. Inicialmente a gente tá abordando só quem não tem site.",
+      "t": "02:03:48"
+    }
+  ],
+  "ferramentas": [
+    {
+      "nome": "Nexar Hunter",
+      "uso": "Mineração avançada de dados de estabelecimentos locais sem website no Google."
+    },
+    {
+      "nome": "VS Code",
+      "uso": "Editor de código onde as adaptações visuais e inserções de fotos reais foram desenvolvidas."
+    },
+    {
+      "nome": "Antigravity",
+      "uso": "Extensão assistente de programação com IA para ajustes em tempo real de CSS e layout."
+    },
+    {
+      "nome": "Google Meu Negócio",
+      "uso": "Pesquisa de fichas de estabelecimentos comerciais, avaliações e dados de contato."
+    },
+    {
+      "nome": "GitHub",
+      "uso": "Controle de versão e armazenamento seguro dos repositórios de código."
+    },
+    {
+      "nome": "Vercel",
+      "uso": "Infraestrutura em nuvem para deploy imediato e hospedagem com certificado SSL."
+    }
+  ],
+  "frases": [
+    {
+      "t": "01:15:24",
+      "texto": "Tô aqui na live, quebrou meu celular, preciso de assistência técnica... onde vou pesquisar? No Instagram? Não, vou pesquisar no Google."
+    },
+    {
+      "t": "01:15:53",
+      "texto": "Quando eu preciso de alguma coisa, eu vou no Google e as pessoas que vêm do Google são leads muito mais qualificados."
+    },
+    {
+      "t": "01:16:10",
+      "texto": "Gente, será que é bom prospectar à noite? Eu não prospecto à noite, Mateus. Eu uso só horário comercial."
+    },
+    {
+      "t": "02:03:48",
+      "texto": "Você só aborda clientes que não possuem site? Sim, Mateus. Inicialmente a gente tá abordando só empresas sem site."
+    },
+    {
+      "t": "02:29:30",
+      "texto": "A gente começou com R$ 0, estamos com R$ 2.142 em 16 dias e a esteira não pode parar."
+    }
+  ],
+  "como_praticar": [
+    {
+      "titulo": "Mapeamento de estabelecimentos em nichos de serviço emergencial",
+      "passos": [
+        "Abra o navegador em modo anônimo e pesquise no Google Maps por 'vidraçaria em [sua cidade]' ou 'chaveiro 24 horas'",
+        "Abra os 5 primeiros estabelecimentos que tiverem mais de 10 avaliações de clientes",
+        "Confira quais não possuem website cadastrado na ficha e anote o número de WhatsApp informado",
+        "Elabore uma lista com o nome do estabelecimento e os principais serviços oferecidos que aparecem nas avaliações"
+      ],
+      "resultado": "Planilha com contatos de estabelecimentos locais do nicho selecionado que não possuem website cadastrado no Google.",
+      "fonte_t": "01:15:24"
+    },
+    {
+      "titulo": "Customização de mockup com serviços reais da empresa",
+      "passos": [
+        "Acesse as redes sociais públicas da empresa que você selecionou no mapa",
+        "Faça o download de 3 fotos de trabalhos bem acabados executados por ela (ex: instalação de box de vidro ou fachada)",
+        "No seu projeto web, substitua as imagens genéricas de banco pelas fotos reais do estabelecimento",
+        "Ajuste os títulos das seções para citar exatamente os materiais que a empresa anuncia"
+      ],
+      "resultado": "Mockup de página web atualizado com fotos reais e serviços específicos do comércio escolhido.",
+      "fonte_t": "02:20:52"
+    },
+    {
+      "titulo": "Simulação de roteiro de abordagem em horário comercial",
+      "passos": [
+        "Prepare o texto da mensagem adaptando para o nome do comércio mapeado",
+        "Programe o envio para um dia útil entre as 10h e 16h pelo WhatsApp",
+        "Ao receber o retorno, encaminhe o link da demonstração personalizado e envie um áudio cordial de 30 segundos"
+      ],
+      "resultado": "Roteiro de abordagem adaptado e preparado para envio pelo WhatsApp em horário de expediente.",
+      "fonte_t": "01:16:10"
+    }
+  ]
+}

@@ -417,6 +417,30 @@ html { scrollbar-color: var(--borda-forte) var(--bg); }
 }
 
 /* impressão */
+/* Guia didático e exercícios reutilizam os cartões e a navegação das lives. */
+.menu-dia { display: block; color: var(--destaque-2); font-size: .75rem; font-weight: 600; }
+.etapa-marcador.combinada span { font-size: .8rem; }
+.roteiro-guia { border-left: 2px solid var(--destaque); margin: 20px 0; padding-left: 8px; }
+.roteiro-guia li { padding: 4px 0; }
+.guia-passos > .passo { scroll-margin-top: calc(var(--topo-h) + 16px); }
+.guia-passos h4 { margin-top: 18px; }
+.guia-passos ol, .guia-passos ul, .pratica-live ol { padding-left: 22px; color: var(--texto-2); }
+.guia-passos li li, .pratica-live li li { margin-bottom: 8px; }
+.passo .resultado { margin: 16px 0 8px; padding: 10px 12px; border-left: 3px solid var(--destaque); background: var(--destaque-suave); }
+.passo .fonte-pratica { margin-top: 12px; }
+.checklist { min-width: 0; margin: 18px 0 0; padding: 8px 12px; border: 1px solid var(--borda); border-radius: 6px; }
+.checklist legend { font-size: .9rem; font-weight: 600; padding: 0 4px; }
+.checklist label { display: flex; align-items: flex-start; gap: 10px; padding: 10px 0; cursor: pointer; }
+.checklist input { width: 20px; height: 20px; flex: none; margin: 2px 0 0; accent-color: var(--destaque); }
+.checklist input:checked + span { text-decoration: line-through; color: var(--texto-2); }
+.guia-fontes span { display: block; margin-top: 4px; }
+.glossario { margin-top: 28px; }
+.glossario dt { font-weight: 700; color: var(--destaque-2); margin-top: 14px; }
+.glossario dd { margin: 4px 0 0; color: var(--texto-2); }
+#resultados-lives { list-style: none; padding: 0; max-height: 300px; overflow: auto; }
+#resultados-lives a { display: block; padding: 8px 10px; border-bottom: 1px solid var(--borda); }
+.meta-desafio > .nota { margin: 12px 0 0; }
+
 @media print {
   .capitulo[hidden], .com-capitulos .capitulo, .oculto { display: block !important; }
   .capitulo { break-before: page; }
@@ -431,4 +455,7 @@ html { scrollbar-color: var(--borda-forte) var(--bg); }
   .card p, .resposta, .par, .lead { color: #222; }
   .duvida .resposta { display: block; }
   a { color: #000; }
+  .guia-passos .passo { background: #fff; border-color: #ccc; }
+  .guia-passos p, .guia-passos ol, .guia-passos ul, .pratica-live ol, .glossario dd { color: #222; }
+  .checklist { break-inside: avoid; }
 }
