@@ -72,6 +72,13 @@
   aoRolar();
   if (topoBtn) topoBtn.addEventListener('click', function () { window.scrollTo({ top: 0, behavior: 'smooth' }); });
 
+  // Lista de lives do topo: fecha ao clicar fora ou apertar Esc.
+  var listaLives = document.querySelector('.topo-lives');
+  if (listaLives) {
+    document.addEventListener('click', function (e) { if (!listaLives.contains(e.target)) listaLives.open = false; });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') listaLives.open = false; });
+  }
+
   // Capítulos: os links continuam sendo âncoras legíveis sem JavaScript.
   var capitulos = $$('[data-capitulo]');
   var seletor = $('#selecionar-capitulo');

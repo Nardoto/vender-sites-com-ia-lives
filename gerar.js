@@ -12,6 +12,7 @@ const PASTA_CONTEUDO = path.join(RAIZ, 'conteudo');
 const SERIE = 'Vibe Coding: Do R$0 ao R$1.621 Vendendo Sites com IA';
 const CANAL = 'Junior Lima | MK Digital';
 const REPOSITORIO = 'https://github.com/Nardoto/vender-sites-com-ia-lives';
+const SITE = 'https://vender-sites-com-ia-lives.vercel.app';
 
 const MOMENTOS = [
   { id: 'mentalidade', nome: 'Mentalidade e rotina' },
@@ -133,9 +134,12 @@ function barraTopo(voltar, lives, atual) {
 <header class="topo">
   <button class="btn-icone so-mobile" id="abrir-menu" aria-label="Abrir índice de capítulos" aria-expanded="false" aria-controls="menu-lateral">Menu</button>
   <a class="marca" href="${voltar}">Lives <strong>Vender Sites com IA</strong></a>
-  <nav class="topo-lives" aria-label="Lista de lives">
-    ${lives.map((c) => `<a href="${c.slug}.html"${c === atual ? ' aria-current="page"' : ''} title="${esc(`${rotuloLive(c)}: ${nomeCurto(c)}`)}">${esc(rotuloLive(c))}</a>`).join('')}
-  </nav>
+  <details class="topo-lives">
+    <summary>${atual ? esc(rotuloLive(atual)) : 'Escolher live'}<span aria-hidden="true"></span></summary>
+    <nav aria-label="Lista de lives">
+      ${lives.map((c) => `<a href="${c.slug}.html"${c === atual ? ' aria-current="page"' : ''}><strong>${esc(rotuloLive(c))}</strong> ${esc(nomeCurto(c))}</a>`).join('\n      ')}
+    </nav>
+  </details>
   <button class="btn-icone" id="alternar-tema" aria-label="Alternar tema claro e escuro">Tema</button>
   <a class="btn-icone contribuir-github" href="${REPOSITORIO}" target="_blank" rel="noopener noreferrer" aria-label="Contribuir no GitHub (abre em nova aba)"><span class="github-longo">Contribuir no </span>GitHub</a>
 </header>`;
@@ -688,10 +692,51 @@ function main() {
   const jornada = lerJsonOpcional('jornada.json');
   fs.writeFileSync(path.join(RAIZ, 'index.html'), paginaIndex(lives, jornada, duvidas, guia), 'utf8');
   console.log(`index.html com ${lives.length} lives.`);
+  fs.writeFileSync(path.join(RAIZ, 'llms.txt'), gerarLlmsTxt(lives, duvidas, guia), 'utf8');
+  console.log('llms.txt gerado.');
   if (falhou) {
     console.error('ATENÇÃO: alguma checagem falhou.');
     process.exit(2);
   }
+}
+
+// llms.txt (llmstxt.org): mapa em Markdown do site para modelos de IA.
+function gerarLlmsTxt(lives, duvidas, guia) {
+  const url = (p) => `${SITE}/${p}`;
+  const umaLinha = (s) => String(s || '').replace(/\s+/g, ' ').trim();
+  const linhas = [
+    `# ${SERIE}`,
+    '',
+    `> Resumo comunitário das lives de ${CANAL} no YouTube: um desafio ao vivo de sair do zero e chegar a um salário mínimo (meta de R$ 1.621) vendendo sites criados com IA para empresas locais. Cada live tem resumo, dicas, scripts de WhatsApp, prompts, dúvidas respondidas e transcrição completa com horários.`,
+    '',
+    'Conteúdo em português do Brasil. Só entra o que foi dito nas lives; valores e preços são os citados nelas, não tarifas atuais. Os dias 7 e 9 não têm gravação. Os dias 14 e 15 são uma gravação só. Cada página de live tem a transcrição em texto puro, no arquivo `-transcricao.txt` indicado abaixo.',
+    '',
+    '## Comece por aqui',
+    '',
+    `- [Página inicial](${url('')}): o desafio, o placar dia a dia e um capítulo por live.`,
+  ];
+  if (guia) {
+    linhas.push(`- [${umaLinha(guia.titulo)}](${url('#guia-iniciante')}): roteiro prático para iniciantes, com passos, checklist e o trecho da live que explica cada ação.`);
+    for (const p of guia.passos || []) linhas.push(`  - [${umaLinha(p.titulo)}](${url(`#guia-${p.id}`)})`);
+  }
+  if (duvidas && (duvidas.temas || []).length) {
+    linhas.push(`- [Principais dúvidas](${url('#duvidas')}): perguntas frequentes sobre ${duvidas.temas.map((t) => t.nome.toLowerCase()).join(', ')}.`);
+  }
+  linhas.push('', '## Lives', '');
+  for (const c of lives) {
+    const limitada = c.fonte_limitada === true;
+    const resumo = limitada ? 'Resumo e transcrição ainda não disponíveis; só o vídeo.' : umaLinha(c.resumo);
+    linhas.push(`- [${rotuloLive(c)}: ${nomeCurto(c)}](${url(`${c.slug}.html`)}): ${dataBR(c.data)}. ${resumo}${limitada ? '' : ` Transcrição: ${url(`${c.slug}-transcricao.txt`)}`}`);
+  }
+  linhas.push(
+    '',
+    '## Optional',
+    '',
+    `- [Repositório no GitHub](${REPOSITORIO}): código do site e conteúdo em JSON, aberto a contribuições.`,
+    `- [Canal ${CANAL}](https://www.youtube.com/@ojrmk): as lives originais.`,
+    ''
+  );
+  return linhas.join('\n');
 }
 
 main();

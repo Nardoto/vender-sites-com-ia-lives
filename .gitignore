@@ -12,3 +12,6 @@ dia-*-transcricao.txt
 # Arquivos locais de teste e do Studio
 validacao/
 .nardoto/
+
+# Mapa para IAs, gerado pelo gerar.js
+llms.txt
